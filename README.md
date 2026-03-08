@@ -165,8 +165,8 @@ Environment variables (set in `.github/workflows/update.yml`):
 |----------|---------|-------------|
 | `RAPIDAPI_KEY` | (secret) | Your RapidAPI key for the Streaming Availability API |
 | `COUNTRY` | `us` | Two-letter country code for availability data |
-| `STALE_DAYS` | `3` | Days before re-checking a title |
-| `MAX_REQUESTS` | `95` | Max API calls per run (free tier allows 100/day) |
+| `STALE_DAYS` | `7` | Days before re-checking a title |
+| `MAX_REQUESTS` | `30` | Max API calls per run (free tier allows ~33/day avg) |
 
 ## Customization
 
@@ -199,12 +199,12 @@ Edit `SERVICES_OF_INTEREST` in `update_availability.py` to add or remove service
 
 ## How the API Budget Works
 
-The free tier gives you **100 requests/day**. The script is smart about this:
+The free tier gives you **1,000 requests per month** (~33/day). The script is smart about this:
 
-- Items checked within the last 3 days are skipped (configurable via `STALE_DAYS`)
-- Items are processed oldest-first, so everything gets refreshed within a few days
-- The script stops at 95 requests to leave headroom
-- For 100 titles checked every 3 days, you'll use ~33 requests/day on average
+- Items checked within the last 7 days are skipped (configurable via `STALE_DAYS`)
+- Items are processed oldest-first, so everything gets refreshed within a week
+- The script stops at 30 requests per run to stay well under the daily average
+- For 100 titles checked every 7 days, you'll use ~430 requests/month — comfortably under 1,000
 
 ## Credits
 

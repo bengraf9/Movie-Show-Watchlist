@@ -47,7 +47,7 @@ cd stream-finder
 
 1. Go to [RapidAPI — Streaming Availability](https://rapidapi.com/movie-of-the-night-movie-of-the-night-default/api/streaming-availability)
 2. Sign up for a free account
-3. Subscribe to the **Basic (Free)** plan — 1000 requests/month
+3. Subscribe to the **Basic (Free)** plan — 100 requests/day
 4. Copy your **RapidAPI Key** from the API dashboard
 
 ### 3. Add the API key as a GitHub Secret
@@ -118,6 +118,29 @@ Each entry needs:
 
 Optional:
 - `tmdb_id` — TMDB numeric ID (auto-resolved on first run if omitted)
+- `priority` — Object mapping `"person-type"` keys to rank numbers (see below)
+
+### Priorities
+
+You can assign a priority rank to any title for a specific person + type combination. The key format is `"person-type"` where person is `dad`, `mom`, `kids`, or `family`, and type is `movie` or `series`. Lower numbers = higher priority.
+
+```json
+{
+  "title": "Inception",
+  "year": 2010,
+  "type": "movie",
+  "lists": ["dad", "mom"],
+  "priority": {
+    "dad-movie": 3,
+    "mom-movie": 1
+  }
+}
+```
+
+Priorities are optional on every item. When viewing the page:
+- A gold numbered badge appears next to titles that have a priority for the current filter context
+- Select "Priority" from the Sort dropdown to sort by rank (prioritized items first)
+- Use **Export titles** to copy a filtered list to your prioritization tool, then paste the results back into `watchlist.json`
 
 ### 7. Run the first update
 

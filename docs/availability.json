@@ -34,7 +34,10 @@
       "last_checked": "2026-03-07T06:00:00+00:00",
       "lists": [
         "dad"
-      ]
+      ],
+      "priority": {
+        "dad-movie": 3
+      }
     },
     {
       "title": "The Shawshank Redemption",
@@ -65,7 +68,10 @@
       "last_checked": "2026-03-07T06:00:00+00:00",
       "lists": [
         "dad"
-      ]
+      ],
+      "priority": {
+        "dad-movie": 4
+      }
     },
     {
       "title": "Everything Everywhere All at Once",
@@ -92,7 +98,11 @@
       "lists": [
         "dad",
         "mom"
-      ]
+      ],
+      "priority": {
+        "dad-movie": 2,
+        "mom-movie": 1
+      }
     },
     {
       "title": "Severance",
@@ -118,7 +128,10 @@
       "last_checked": "2026-03-07T06:00:00+00:00",
       "lists": [
         "dad"
-      ]
+      ],
+      "priority": {
+        "dad-series": 1
+      }
     },
     {
       "title": "The Bear",
@@ -150,7 +163,11 @@
       "lists": [
         "dad",
         "mom"
-      ]
+      ],
+      "priority": {
+        "dad-series": 2,
+        "mom-series": 1
+      }
     },
     {
       "title": "Spirited Away",
@@ -185,7 +202,11 @@
       "lists": [
         "kids",
         "family"
-      ]
+      ],
+      "priority": {
+        "kids-movie": 2,
+        "family-movie": 1
+      }
     },
     {
       "title": "Bluey",
@@ -238,7 +259,11 @@
       "lists": [
         "kids",
         "family"
-      ]
+      ],
+      "priority": {
+        "kids-movie": 3,
+        "family-movie": 3
+      }
     },
     {
       "title": "Interstellar",
@@ -273,7 +298,10 @@
       "lists": [
         "dad",
         "family"
-      ]
+      ],
+      "priority": {
+        "dad-movie": 5
+      }
     },
     {
       "title": "Paddington 2",
@@ -306,7 +334,11 @@
       "lists": [
         "kids",
         "family"
-      ]
+      ],
+      "priority": {
+        "kids-movie": 4,
+        "family-movie": 4
+      }
     },
     {
       "title": "Dune: Part Two",
@@ -340,7 +372,10 @@
       "last_checked": "2026-03-07T06:00:00+00:00",
       "lists": [
         "dad"
-      ]
+      ],
+      "priority": {
+        "dad-movie": 1
+      }
     },
     {
       "title": "Coco",
@@ -368,7 +403,11 @@
       "lists": [
         "kids",
         "family"
-      ]
+      ],
+      "priority": {
+        "kids-movie": 1,
+        "family-movie": 2
+      }
     }
   ]
 }

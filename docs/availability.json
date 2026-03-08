@@ -1,0 +1,374 @@
+{
+  "last_updated": "2026-03-07T06:00:00+00:00",
+  "country": "us",
+  "items": [
+    {
+      "title": "Inception",
+      "year": 2010,
+      "type": "movie",
+      "tmdb_id": 27205,
+      "poster": "https://image.tmdb.org/t/p/w300/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "overview": "A thief who steals corporate secrets through dream-sharing technology is given the task of planting an idea into the mind of a C.E.O.",
+      "streaming": {
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/70131314"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Amazon Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/dp/B004LWZW2A",
+          "price": "$3.99",
+          "quality": "HD"
+        }
+      },
+      "last_checked": "2026-03-07T06:00:00+00:00",
+      "lists": [
+        "dad"
+      ]
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "type": "movie",
+      "tmdb_id": 278,
+      "poster": "https://image.tmdb.org/t/p/w300/9cjIGRiQEbMxVpSMxbulYsJUhGT.jpg",
+      "rating": "R",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstate banker Andy Dufresne begins a new life at Shawshank prison.",
+      "streaming": {
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "Max",
+          "type": "subscription",
+          "link": "https://www.max.com/movies/shawshank-redemption"
+        },
+        "paramount": {
+          "service": "paramount",
+          "serviceName": "Paramount+",
+          "type": "subscription",
+          "link": "https://www.paramountplus.com/"
+        }
+      },
+      "last_checked": "2026-03-07T06:00:00+00:00",
+      "lists": [
+        "dad"
+      ]
+    },
+    {
+      "title": "Everything Everywhere All at Once",
+      "year": 2022,
+      "type": "movie",
+      "tmdb_id": 545611,
+      "poster": "https://image.tmdb.org/t/p/w300/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
+      "rating": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "overview": "An aging Chinese immigrant is swept up in an insane adventure where she must connect with parallel universe versions of herself.",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Amazon Prime Video",
+          "type": "subscription",
+          "link": "https://www.amazon.com/dp/B0B3QSFNB1"
+        }
+      },
+      "last_checked": "2026-03-07T06:00:00+00:00",
+      "lists": [
+        "dad",
+        "mom"
+      ]
+    },
+    {
+      "title": "Severance",
+      "year": 2022,
+      "type": "series",
+      "tmdb_id": 95396,
+      "poster": "https://image.tmdb.org/t/p/w300/lFGy0FHMiMeMXcNsEFrKnVEBejo.jpg",
+      "rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi & Fantasy"
+      ],
+      "overview": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives.",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "subscription",
+          "link": "https://tv.apple.com/us/show/severance/umc.cmc.1srk2goyh2q2zdxcx605w8vtx"
+        }
+      },
+      "last_checked": "2026-03-07T06:00:00+00:00",
+      "lists": [
+        "dad"
+      ]
+    },
+    {
+      "title": "The Bear",
+      "year": 2022,
+      "type": "series",
+      "tmdb_id": 136315,
+      "poster": "https://image.tmdb.org/t/p/w300/sHFlEIJFhMjE1GAg3zhCH1ODvJt.jpg",
+      "rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "overview": "A young chef from the fine dining world returns to Chicago to run his family's sandwich shop.",
+      "streaming": {
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/series/the-bear"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/"
+        }
+      },
+      "last_checked": "2026-03-07T06:00:00+00:00",
+      "lists": [
+        "dad",
+        "mom"
+      ]
+    },
+    {
+      "title": "Spirited Away",
+      "year": 2001,
+      "type": "movie",
+      "tmdb_id": 129,
+      "poster": "https://image.tmdb.org/t/p/w300/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "rating": "PG",
+      "genres": [
+        "Animation",
+        "Family",
+        "Fantasy"
+      ],
+      "overview": "A young girl wanders into a world ruled by gods, witches, and spirits, where humans are changed into beasts.",
+      "streaming": {
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "Max",
+          "type": "subscription",
+          "link": "https://www.max.com/movies/spirited-away"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/",
+          "price": "$3.99",
+          "quality": "HD"
+        }
+      },
+      "last_checked": "2026-03-07T06:00:00+00:00",
+      "lists": [
+        "kids",
+        "family"
+      ]
+    },
+    {
+      "title": "Bluey",
+      "year": 2018,
+      "type": "series",
+      "tmdb_id": 82728,
+      "poster": "https://image.tmdb.org/t/p/w300/jLnixCFVkPNOx07XYQKLR8gLmGn.jpg",
+      "rating": "TV-Y",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "overview": "Bluey is an inexhaustible Blue Heeler puppy who lives with her family and loves to play.",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/series/bluey"
+        }
+      },
+      "last_checked": "2026-03-07T06:00:00+00:00",
+      "lists": [
+        "kids"
+      ]
+    },
+    {
+      "title": "The Incredibles",
+      "year": 2004,
+      "type": "movie",
+      "tmdb_id": 9806,
+      "poster": "https://image.tmdb.org/t/p/w300/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+      "rating": "PG",
+      "genres": [
+        "Animation",
+        "Action",
+        "Family"
+      ],
+      "overview": "A family of undercover superheroes are forced into action to save the world.",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/movies/the-incredibles"
+        }
+      },
+      "last_checked": "2026-03-07T06:00:00+00:00",
+      "lists": [
+        "kids",
+        "family"
+      ]
+    },
+    {
+      "title": "Interstellar",
+      "year": 2014,
+      "type": "movie",
+      "tmdb_id": 157336,
+      "poster": "https://image.tmdb.org/t/p/w300/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+      "rating": "PG-13",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Science Fiction"
+      ],
+      "overview": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "streaming": {
+        "paramount": {
+          "service": "paramount",
+          "serviceName": "Paramount+",
+          "type": "subscription",
+          "link": "https://www.paramountplus.com/"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Amazon Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/dp/B00TU9UFTS",
+          "price": "$3.99",
+          "quality": "HD"
+        }
+      },
+      "last_checked": "2026-03-07T06:00:00+00:00",
+      "lists": [
+        "dad",
+        "family"
+      ]
+    },
+    {
+      "title": "Paddington 2",
+      "year": 2017,
+      "type": "movie",
+      "tmdb_id": 346648,
+      "poster": "https://image.tmdb.org/t/p/w300/aAmfIX3TT40zUHGcCKrlOZRKC7u.jpg",
+      "rating": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "overview": "Paddington is happily settled with the Brown family in London. He tries to find a birthday gift for Aunt Lucy.",
+      "streaming": {
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/"
+        },
+        "peacock": {
+          "service": "peacock",
+          "serviceName": "Peacock",
+          "type": "subscription",
+          "link": "https://www.peacocktv.com/"
+        }
+      },
+      "last_checked": "2026-03-07T06:00:00+00:00",
+      "lists": [
+        "kids",
+        "family"
+      ]
+    },
+    {
+      "title": "Dune: Part Two",
+      "year": 2024,
+      "type": "movie",
+      "tmdb_id": 693134,
+      "poster": "https://image.tmdb.org/t/p/w300/8b8R8l88Qje9dn9OE8PY05Nez7S.jpg",
+      "rating": "PG-13",
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Action"
+      ],
+      "overview": "Paul Atreides unites with the Fremen to seek revenge against the conspirators who destroyed his family.",
+      "streaming": {
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "Max",
+          "type": "subscription",
+          "link": "https://www.max.com/"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Amazon Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/",
+          "price": "$5.99",
+          "quality": "UHD"
+        }
+      },
+      "last_checked": "2026-03-07T06:00:00+00:00",
+      "lists": [
+        "dad"
+      ]
+    },
+    {
+      "title": "Coco",
+      "year": 2017,
+      "type": "movie",
+      "tmdb_id": 354912,
+      "poster": "https://image.tmdb.org/t/p/w300/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg",
+      "rating": "PG",
+      "genres": [
+        "Animation",
+        "Family",
+        "Fantasy",
+        "Music"
+      ],
+      "overview": "Despite his family's generations-old ban on music, Miguel dreams of becoming a musician like his idol, Ernesto de la Cruz.",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/"
+        }
+      },
+      "last_checked": "2026-03-07T06:00:00+00:00",
+      "lists": [
+        "kids",
+        "family"
+      ]
+    }
+  ]
+}

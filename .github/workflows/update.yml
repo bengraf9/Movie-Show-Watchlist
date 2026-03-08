@@ -28,8 +28,8 @@ jobs:
         env:
           RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
           COUNTRY: us
-          STALE_DAYS: '3'
-          MAX_REQUESTS: '95'
+          STALE_DAYS: '7'
+          MAX_REQUESTS: '30'
         run: python update_availability.py
 
       - name: Commit updated data

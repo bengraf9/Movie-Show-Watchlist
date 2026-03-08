@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Movie & Show Watchlist</title>
+<title>Stream Finder</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Libre+Baskerville:wght@700&display=swap" rel="stylesheet">
 <style>
@@ -167,8 +167,7 @@
     transform: translateY(-2px);
   }
   .card-poster {
-    width: 100px;
-    min-height: 150px;
+    width: 120px;
     flex-shrink: 0;
     background: var(--bg-surface);
     position: relative;
@@ -178,13 +177,14 @@
     width: 100%;
     height: 100%;
     object-fit: cover;
+    aspect-ratio: 2 / 3;
     display: block;
   }
   .card-poster .no-poster {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100%;
+    aspect-ratio: 2 / 3;
     color: var(--text-muted);
     font-size: 2rem;
   }
@@ -249,7 +249,7 @@
     margin-bottom: 0.6rem;
     flex: 1;
     display: -webkit-box;
-    -webkit-line-clamp: 3;
+    -webkit-line-clamp: 5;
     -webkit-box-orient: vertical;
     overflow: hidden;
   }
@@ -404,6 +404,23 @@
     margin-bottom: 0.25rem;
     font-weight: 600;
   }
+  .cb-label {
+    display: inline-flex !important;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: 0.9rem !important;
+    text-transform: none !important;
+    letter-spacing: 0 !important;
+    color: var(--text-primary) !important;
+    font-weight: 400 !important;
+    cursor: pointer;
+    margin-bottom: 0 !important;
+  }
+  .cb-label input[type="checkbox"] {
+    width: auto;
+    accent-color: var(--accent);
+    cursor: pointer;
+  }
   .form-field input, .form-field select {
     width: 100%;
     padding: 0.45rem 0.6rem;
@@ -526,7 +543,7 @@
       padding: 0.75rem 1rem 2rem;
       gap: 0.75rem;
     }
-    .card-poster { width: 80px; min-height: 120px; }
+    .card-poster { width: 90px; }
     .add-section { padding: 0 1rem 2rem; }
     .footer { padding: 1rem; }
   }
@@ -554,7 +571,7 @@
 <body>
 
 <div class="header">
-  <h1>Movie & Show Watchlist</h1>
+  <h1>Stream Finder</h1>
   <div class="subtitle">Where to watch everything on your list</div>
   <div class="last-updated" id="lastUpdated"></div>
 </div>
@@ -621,8 +638,8 @@
         <input type="text" id="addTitle" placeholder="e.g. The Matrix">
       </div>
       <div class="form-field" style="flex: 1;">
-        <label>Year</label>
-        <input type="number" id="addYear" placeholder="1999">
+        <label>Year <span style="font-weight:400; text-transform:none; letter-spacing:0;">(optional)</span></label>
+        <input type="number" id="addYear" placeholder="e.g. 1999">
       </div>
     </div>
     <div class="form-row">
@@ -636,18 +653,10 @@
       <div class="form-field">
         <label>Lists</label>
         <div style="display:flex; gap:0.75rem; flex-wrap:wrap; padding:0.4rem 0;">
-          <label style="font-size:0.85rem; color:var(--text-secondary); text-transform:none; letter-spacing:0; font-weight:400; display:flex; align-items:center; gap:0.3rem; cursor:pointer;">
-            <input type="checkbox" class="add-list-cb" value="dad" checked> Dad
-          </label>
-          <label style="font-size:0.85rem; color:var(--text-secondary); text-transform:none; letter-spacing:0; font-weight:400; display:flex; align-items:center; gap:0.3rem; cursor:pointer;">
-            <input type="checkbox" class="add-list-cb" value="mom"> Mom
-          </label>
-          <label style="font-size:0.85rem; color:var(--text-secondary); text-transform:none; letter-spacing:0; font-weight:400; display:flex; align-items:center; gap:0.3rem; cursor:pointer;">
-            <input type="checkbox" class="add-list-cb" value="kids"> Kids
-          </label>
-          <label style="font-size:0.85rem; color:var(--text-secondary); text-transform:none; letter-spacing:0; font-weight:400; display:flex; align-items:center; gap:0.3rem; cursor:pointer;">
-            <input type="checkbox" class="add-list-cb" value="family"> Family
-          </label>
+          <label class="cb-label"><input type="checkbox" class="add-list-cb" value="dad" checked> Dad</label>
+          <label class="cb-label"><input type="checkbox" class="add-list-cb" value="mom"> Mom</label>
+          <label class="cb-label"><input type="checkbox" class="add-list-cb" value="kids"> Kids</label>
+          <label class="cb-label"><input type="checkbox" class="add-list-cb" value="family"> Family</label>
         </div>
       </div>
     </div>

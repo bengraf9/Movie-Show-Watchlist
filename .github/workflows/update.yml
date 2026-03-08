@@ -1,0 +1,42 @@
+name: Update Streaming Availability
+
+on:
+  schedule:
+    # Run daily at 6:00 AM UTC (1:00 AM Central)
+    - cron: '0 6 * * *'
+  workflow_dispatch:  # Allow manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run availability update
+        env:
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+          COUNTRY: us
+          STALE_DAYS: '3'
+          MAX_REQUESTS: '95'
+        run: python update_availability.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "Stream Finder Bot"
+          git config user.email "bot@stream-finder"
+          git add docs/availability.json watchlist.json
+          # Only commit if there are changes
+          git diff --staged --quiet || git commit -m "Update streaming availability [$(date -u +%Y-%m-%d)]"
+          git push

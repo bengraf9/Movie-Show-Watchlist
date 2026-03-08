@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Stream Finder - Update Availability Data
+Movie & Show Watchlist - Update Availability Data
 Reads watchlist.json, queries the Streaming Availability API,
 and writes availability.json for the static frontend.
 """
@@ -19,7 +19,7 @@ RAPIDAPI_KEY = os.environ.get("RAPIDAPI_KEY", "")
 RAPIDAPI_HOST = "streaming-availability.p.rapidapi.com"
 COUNTRY = os.environ.get("COUNTRY", "us")
 STALE_DAYS = int(os.environ.get("STALE_DAYS", "7"))
-MAX_REQUESTS = int(os.environ.get("MAX_REQUESTS", "30"))  # Stay under 100/day limit
+MAX_REQUESTS = int(os.environ.get("MAX_REQUESTS", "30"))  # Free tier: 1000/month ≈ 33/day
 
 SCRIPT_DIR = Path(__file__).parent
 WATCHLIST_PATH = SCRIPT_DIR / "watchlist.json"
@@ -197,6 +197,7 @@ def extract_item_data(show, watchlist_entry):
         "type": watchlist_entry.get("type", "movie"),
         "tmdb_id": tmdb_id,
         "lists": watchlist_entry.get("lists", ["dad"]),
+        "priority": watchlist_entry.get("priority", {}),
         "poster": poster,
         "rating": rating,
         "genres": genres,
@@ -258,6 +259,7 @@ def main():
         if existing and not is_stale(existing, STALE_DAYS):
             # Preserve existing lists assignment (may have changed in watchlist)
             existing["lists"] = entry.get("lists", existing.get("lists", ["dad"]))
+            existing["priority"] = entry.get("priority", existing.get("priority", {}))
             updated_items.append(existing)
             print(f"  [FRESH] {title} ({year}) - skipping")
             continue
@@ -267,6 +269,7 @@ def main():
             print(f"  [LIMIT] Reached {MAX_REQUESTS} requests, deferring remaining items")
             if existing:
                 existing["lists"] = entry.get("lists", existing.get("lists", ["dad"]))
+                existing["priority"] = entry.get("priority", existing.get("priority", {}))
                 updated_items.append(existing)
             continue
 
@@ -302,6 +305,7 @@ def main():
             # Keep existing data if we had it, or create a minimal entry
             if existing:
                 existing["lists"] = entry.get("lists", existing.get("lists", ["dad"]))
+                existing["priority"] = entry.get("priority", existing.get("priority", {}))
                 updated_items.append(existing)
             else:
                 updated_items.append({
@@ -309,6 +313,7 @@ def main():
                     "year": year,
                     "type": show_type,
                     "lists": entry.get("lists", ["dad"]),
+                    "priority": entry.get("priority", {}),
                     "poster": "",
                     "rating": "",
                     "genres": [],

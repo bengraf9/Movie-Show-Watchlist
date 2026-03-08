@@ -18,8 +18,8 @@ import requests
 RAPIDAPI_KEY = os.environ.get("RAPIDAPI_KEY", "")
 RAPIDAPI_HOST = "streaming-availability.p.rapidapi.com"
 COUNTRY = os.environ.get("COUNTRY", "us")
-STALE_DAYS = int(os.environ.get("STALE_DAYS", "3"))
-MAX_REQUESTS = int(os.environ.get("MAX_REQUESTS", "95"))  # Stay under 100/day limit
+STALE_DAYS = int(os.environ.get("STALE_DAYS", "7"))
+MAX_REQUESTS = int(os.environ.get("MAX_REQUESTS", "30"))  # Stay under 100/day limit
 
 SCRIPT_DIR = Path(__file__).parent
 WATCHLIST_PATH = SCRIPT_DIR / "watchlist.json"

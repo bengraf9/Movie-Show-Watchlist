@@ -47,7 +47,7 @@ cd stream-finder
 
 1. Go to [RapidAPI — Streaming Availability](https://rapidapi.com/movie-of-the-night-movie-of-the-night-default/api/streaming-availability)
 2. Sign up for a free account
-3. Subscribe to the **Basic (Free)** plan — 100 requests/day
+3. Subscribe to the **Basic (Free)** plan — 1000 requests/month
 4. Copy your **RapidAPI Key** from the API dashboard
 
 ### 3. Add the API key as a GitHub Secret

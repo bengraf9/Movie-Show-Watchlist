@@ -561,9 +561,13 @@
     .filters {
       padding: 0.6rem 1rem;
       gap: 0.4rem;
+      overflow-x: hidden;
     }
     .filter-divider { display: none; }
-    .filter-group { width: 100%; }
+    .filter-group {
+      width: 100%;
+      flex-wrap: wrap;
+    }
     .filter-group label { min-width: 55px; }
     .result-count { width: 100%; margin-left: 0; text-align: right; }
     .grid {
@@ -574,6 +578,171 @@
     .card-poster { width: 90px; }
     .add-section { padding: 0 1rem 2rem; }
     .footer { padding: 1rem; }
+  }
+
+  /* --- Toolbar --- */
+  .toolbar {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    padding: 0.5rem 1.5rem;
+    max-width: 1280px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+  }
+  .toolbar-btn {
+    padding: 0.35rem 0.7rem;
+    border-radius: var(--radius);
+    font-size: 0.78rem;
+    font-weight: 500;
+    border: 1px solid var(--border);
+    background: transparent;
+    color: var(--text-secondary);
+    cursor: pointer;
+    transition: all 0.15s;
+    font-family: var(--font-body);
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+  }
+  .toolbar-btn:hover { border-color: var(--text-muted); color: var(--text-primary); }
+  .toolbar-btn.active {
+    background: var(--bg-surface);
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+  .toolbar-spacer { flex: 1; }
+  .sort-select {
+    padding: 0.35rem 0.55rem;
+    border-radius: var(--radius);
+    font-size: 0.78rem;
+    border: 1px solid var(--border);
+    background: var(--bg-surface);
+    color: var(--text-primary);
+    font-family: var(--font-body);
+    cursor: pointer;
+  }
+  @media (max-width: 640px) {
+    .toolbar { padding: 0.5rem 1rem; }
+  }
+
+  /* --- Priority Badge --- */
+  .priority-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.4rem;
+    height: 1.4rem;
+    border-radius: 50%;
+    background: var(--accent);
+    color: var(--bg-deep);
+    font-size: 0.7rem;
+    font-weight: 700;
+    flex-shrink: 0;
+    line-height: 1;
+  }
+  .priority-badge.no-priority {
+    background: transparent;
+    border: 1px dashed var(--border);
+    color: var(--text-muted);
+    font-size: 0.6rem;
+  }
+
+  /* --- Table View --- */
+  .table-container {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 1.5rem 3rem;
+    overflow-x: auto;
+  }
+  .table-view {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.82rem;
+  }
+  .table-view th {
+    text-align: left;
+    padding: 0.5rem 0.6rem;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-muted);
+    border-bottom: 1px solid var(--border);
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  .table-view td {
+    padding: 0.5rem 0.6rem;
+    border-bottom: 1px solid var(--border);
+    color: var(--text-primary);
+    vertical-align: middle;
+  }
+  .table-view tr:hover td {
+    background: var(--bg-card);
+  }
+  .table-view .title-cell {
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  .table-view .services-cell {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.2rem;
+  }
+  .table-view .services-cell .stream-badge {
+    font-size: 0.65rem;
+    padding: 0.1rem 0.4rem;
+  }
+  .table-view .list-tag {
+    font-size: 0.55rem;
+    padding: 0.05rem 0.3rem;
+  }
+  @media (max-width: 640px) {
+    .table-container { padding: 0 0.5rem 2rem; }
+    .table-view { font-size: 0.75rem; }
+    .table-view th, .table-view td { padding: 0.4rem; }
+  }
+
+  /* --- Export Modal --- */
+  .export-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.7);
+    z-index: 200;
+    align-items: center;
+    justify-content: center;
+  }
+  .export-overlay.visible { display: flex; }
+  .export-box {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 1.5rem;
+    max-width: 500px;
+    width: 90%;
+    max-height: 80vh;
+    display: flex;
+    flex-direction: column;
+  }
+  .export-box h3 { font-size: 1rem; margin-bottom: 0.75rem; }
+  .export-box textarea {
+    flex: 1;
+    min-height: 200px;
+    background: var(--bg-deep);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    color: var(--text-primary);
+    font-family: var(--font-body);
+    font-size: 0.85rem;
+    padding: 0.75rem;
+    resize: vertical;
+  }
+  .export-box .export-actions {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 0.75rem;
+    justify-content: flex-end;
   }
 
   /* --- Loading --- */
@@ -650,10 +819,40 @@
   <span class="result-count" id="resultCount"></span>
 </div>
 
+<div class="toolbar">
+  <button class="toolbar-btn active" id="viewCards" title="Card view">&#9638; Cards</button>
+  <button class="toolbar-btn" id="viewTable" title="Table view">&#9776; Table</button>
+  <div class="toolbar-spacer"></div>
+  <label style="font-size:0.72rem; color:var(--text-muted); display:flex; align-items:center; gap:0.3rem;">
+    Sort:
+    <select class="sort-select" id="sortSelect">
+      <option value="streaming">Most services</option>
+      <option value="priority">Priority</option>
+      <option value="alpha">A–Z</option>
+      <option value="year-desc">Newest first</option>
+      <option value="year-asc">Oldest first</option>
+    </select>
+  </label>
+  <button class="toolbar-btn" id="exportBtn">&#8599; Export titles</button>
+</div>
+
 <div class="grid" id="grid">
   <div class="loading">
     <div class="spinner"></div>
     <div>Loading your watchlist…</div>
+  </div>
+</div>
+
+<div class="table-container" id="tableContainer" style="display:none;"></div>
+
+<div class="export-overlay" id="exportOverlay">
+  <div class="export-box">
+    <h3>Export filtered titles</h3>
+    <textarea id="exportText" readonly></textarea>
+    <div class="export-actions">
+      <button class="btn btn-secondary" id="exportClose">Close</button>
+      <button class="btn btn-primary" id="exportCopy">Copy to clipboard</button>
+    </div>
   </div>
 </div>
 
@@ -721,6 +920,8 @@
   let activeService = 'all';
   let activeRating = 'all';
   let activeType = 'all';
+  let viewMode = 'cards';  // 'cards' or 'table'
+  let activeSort = 'streaming';
 
   // === SERVICE DISPLAY INFO ===
   const serviceLabels = {
@@ -819,33 +1020,109 @@
     });
   }
 
+  // === PRIORITY HELPERS ===
+  // Determine the relevant priority key based on current filters
+  // Priority keys in JSON are like: "dad-movie", "mom-series", etc.
+  function getPriorityKey(item) {
+    // If filtering by a specific single list and type, use that combo
+    let person = activeList;
+    if (person === 'all' || person.includes('+')) {
+      // Use first list tag on the item as fallback
+      person = (item.lists || [])[0] || '';
+    }
+    const type = (activeType !== 'all') ? activeType : item.type;
+    return `${person}-${type}`;
+  }
+
+  function getItemPriority(item) {
+    const prio = item.priority || {};
+    const key = getPriorityKey(item);
+    if (prio[key] !== undefined) return prio[key];
+    // If no exact match, check for any priority for the active list
+    if (activeList !== 'all' && !activeList.includes('+')) {
+      const prefix = activeList + '-';
+      for (const [k, v] of Object.entries(prio)) {
+        if (k.startsWith(prefix)) return v;
+      }
+    }
+    return null;
+  }
+
+  function renderPriorityBadge(item) {
+    const p = getItemPriority(item);
+    if (p !== null) return `<span class="priority-badge">${p}</span>`;
+    return '';
+  }
+
+  // === SORTING ===
+  function sortItems(items) {
+    items.sort((a, b) => {
+      switch (activeSort) {
+        case 'priority': {
+          const ap = getItemPriority(a);
+          const bp = getItemPriority(b);
+          // Items with priority come first, then by number, then alphabetical
+          if (ap !== null && bp !== null) return ap - bp;
+          if (ap !== null) return -1;
+          if (bp !== null) return 1;
+          return a.title.localeCompare(b.title);
+        }
+        case 'alpha':
+          return a.title.localeCompare(b.title);
+        case 'year-desc':
+          return (b.year || 0) - (a.year || 0);
+        case 'year-asc':
+          return (a.year || 0) - (b.year || 0);
+        case 'streaming':
+        default: {
+          const aCount = Object.keys(a.streaming || {}).length;
+          const bCount = Object.keys(b.streaming || {}).length;
+          if (bCount !== aCount) return bCount - aCount;
+          return a.title.localeCompare(b.title);
+        }
+      }
+    });
+    return items;
+  }
+
   // === RENDER ===
   function render() {
-    const items = getFilteredItems();
+    const items = sortItems(getFilteredItems());
     const grid = document.getElementById('grid');
+    const tableContainer = document.getElementById('tableContainer');
 
     document.getElementById('resultCount').textContent =
       `${items.length} title${items.length !== 1 ? 's' : ''}`;
 
-    if (items.length === 0) {
-      grid.innerHTML =
-        `<div class="empty-state">
-          <div class="icon">🍿</div>
-          <h3>No matches</h3>
-          <p>Try adjusting your filters. ${allItems.length > 0 ? `You have ${allItems.length} titles total.` : ''}</p>
-        </div>`;
-      return;
+    if (viewMode === 'cards') {
+      grid.style.display = '';
+      tableContainer.style.display = 'none';
+
+      if (items.length === 0) {
+        grid.innerHTML =
+          `<div class="empty-state">
+            <div class="icon">🍿</div>
+            <h3>No matches</h3>
+            <p>Try adjusting your filters. ${allItems.length > 0 ? `You have ${allItems.length} titles total.` : ''}</p>
+          </div>`;
+        return;
+      }
+      grid.innerHTML = items.map(item => renderCard(item)).join('');
+    } else {
+      grid.style.display = 'none';
+      tableContainer.style.display = '';
+
+      if (items.length === 0) {
+        tableContainer.innerHTML =
+          `<div class="empty-state">
+            <div class="icon">🍿</div>
+            <h3>No matches</h3>
+            <p>Try adjusting your filters.</p>
+          </div>`;
+        return;
+      }
+      tableContainer.innerHTML = renderTable(items);
     }
-
-    // Sort: titles with more streaming options first, then alphabetical
-    items.sort((a, b) => {
-      const aCount = Object.keys(a.streaming || {}).length;
-      const bCount = Object.keys(b.streaming || {}).length;
-      if (bCount !== aCount) return bCount - aCount;
-      return a.title.localeCompare(b.title);
-    });
-
-    grid.innerHTML = items.map(item => renderCard(item)).join('');
   }
 
   function renderCard(item) {
@@ -865,12 +1142,17 @@
 
     const streaming = renderStreaming(item.streaming || {});
 
+    const prioBadge = renderPriorityBadge(item);
+
     return `
       <div class="card">
         <div class="card-poster">${poster}</div>
         <div class="card-body">
           <button class="card-remove" title="Remove from watchlist" data-title="${escHtml(item.title)}" data-year="${item.year || ''}">&times;</button>
-          <div class="card-title">${escHtml(item.title)}</div>
+          <div class="card-title" style="display:flex; align-items:center; gap:0.35rem;">
+            ${prioBadge}
+            <span>${escHtml(item.title)}</span>
+          </div>
           <div class="card-meta">
             <span class="year">${item.year || ''}</span>
             <span class="type-badge">${item.type === 'series' ? 'TV' : 'Film'}</span>
@@ -898,6 +1180,36 @@
 
       return `<a class="stream-badge ${badgeClass}"${href}>${typeIcon}${escHtml(label)} ${price}</a>`;
     }).join('');
+  }
+
+  function renderTable(items) {
+    const showPriority = activeSort === 'priority' || items.some(i => getItemPriority(i) !== null);
+    const rows = items.map(item => {
+      const p = getItemPriority(item);
+      const prioCell = showPriority
+        ? `<td style="text-align:center;">${p !== null ? `<span class="priority-badge">${p}</span>` : '<span style="color:var(--text-muted);">–</span>'}</td>` : '';
+      const listTags = (item.lists || [])
+        .map(l => `<span class="list-tag list-tag-${escHtml(l)}">${escHtml(l)}</span>`).join(' ');
+      const services = renderStreaming(item.streaming || {});
+      const ratingClass = getRatingClass(item.rating);
+      const ratingBadge = item.rating
+        ? `<span class="rating-badge ${ratingClass}">${escHtml(item.rating)}</span>` : '';
+      return `<tr>
+        ${prioCell}
+        <td class="title-cell">${escHtml(item.title)}</td>
+        <td>${item.year || ''}</td>
+        <td>${item.type === 'series' ? 'TV' : 'Film'}</td>
+        <td>${ratingBadge}</td>
+        <td>${listTags}</td>
+        <td><div class="services-cell">${services}</div></td>
+      </tr>`;
+    }).join('');
+
+    const prioHeader = showPriority ? '<th style="text-align:center;">#</th>' : '';
+    return `<table class="table-view">
+      <thead><tr>${prioHeader}<th>Title</th><th>Year</th><th>Type</th><th>Rating</th><th>Lists</th><th>Where to Watch</th></tr></thead>
+      <tbody>${rows}</tbody>
+    </table>`;
   }
 
   function getRatingClass(rating) {
@@ -991,6 +1303,48 @@
   });
 
   // === INIT ===
+  // View toggle
+  document.getElementById('viewCards').addEventListener('click', () => {
+    viewMode = 'cards';
+    document.getElementById('viewCards').classList.add('active');
+    document.getElementById('viewTable').classList.remove('active');
+    render();
+  });
+  document.getElementById('viewTable').addEventListener('click', () => {
+    viewMode = 'table';
+    document.getElementById('viewTable').classList.add('active');
+    document.getElementById('viewCards').classList.remove('active');
+    render();
+  });
+
+  // Sort
+  document.getElementById('sortSelect').addEventListener('change', e => {
+    activeSort = e.target.value;
+    render();
+  });
+
+  // Export
+  document.getElementById('exportBtn').addEventListener('click', () => {
+    const items = sortItems(getFilteredItems());
+    const text = items.map(i => i.title).join('\n');
+    document.getElementById('exportText').value = text;
+    document.getElementById('exportOverlay').classList.add('visible');
+  });
+  document.getElementById('exportClose').addEventListener('click', () => {
+    document.getElementById('exportOverlay').classList.remove('visible');
+  });
+  document.getElementById('exportOverlay').addEventListener('click', e => {
+    if (e.target === e.currentTarget) document.getElementById('exportOverlay').classList.remove('visible');
+  });
+  document.getElementById('exportCopy').addEventListener('click', () => {
+    const text = document.getElementById('exportText').value;
+    navigator.clipboard.writeText(text).then(() => {
+      const toast = document.getElementById('toast');
+      toast.classList.add('show');
+      setTimeout(() => toast.classList.remove('show'), 2000);
+    });
+  });
+
   // Remove button (event delegation on grid)
   document.getElementById('grid').addEventListener('click', e => {
     const btn = e.target.closest('.card-remove');

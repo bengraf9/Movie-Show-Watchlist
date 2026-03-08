@@ -175,15 +175,16 @@
   }
   .card-poster img {
     width: 100%;
+    height: 100%;
     display: block;
-    aspect-ratio: 2 / 3;
     object-fit: cover;
+    object-position: top center;
   }
   .card-poster .no-poster {
     display: flex;
     align-items: center;
     justify-content: center;
-    aspect-ratio: 2 / 3;
+    height: 100%;
     color: var(--text-muted);
     font-size: 2rem;
   }
@@ -609,6 +610,7 @@
     <button class="pill active" data-filter="list" data-value="all">All</button>
     <button class="pill" data-filter="list" data-value="dad">Dad</button>
     <button class="pill" data-filter="list" data-value="mom">Mom</button>
+    <button class="pill" data-filter="list" data-value="dad+mom">Dad &amp; Mom</button>
     <button class="pill" data-filter="list" data-value="kids">Kids</button>
     <button class="pill" data-filter="list" data-value="family">Family</button>
   </div>
@@ -788,7 +790,13 @@
       // List filter
       if (activeList !== 'all') {
         const lists = item.lists || [];
-        if (!lists.includes(activeList)) return false;
+        if (activeList.includes('+')) {
+          // Compound filter: item must have ALL specified tags
+          const required = activeList.split('+');
+          if (!required.every(tag => lists.includes(tag))) return false;
+        } else {
+          if (!lists.includes(activeList)) return false;
+        }
       }
 
       // Service filter

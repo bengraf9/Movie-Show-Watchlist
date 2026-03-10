@@ -1036,16 +1036,27 @@
 
   function getItemPriority(item) {
     const prio = item.priority || {};
-    const key = getPriorityKey(item);
-    if (prio[key] !== undefined) return prio[key];
-    // If no exact match, check for any priority for the active list
+    const entries = Object.entries(prio);
+    if (entries.length === 0) return null;
+
+    // Specific single-list filter: show that person's priority
     if (activeList !== 'all' && !activeList.includes('+')) {
+      const key = getPriorityKey(item);
+      if (prio[key] !== undefined) return prio[key];
+      // Fallback: any priority for this person regardless of type
       const prefix = activeList + '-';
-      for (const [k, v] of Object.entries(prio)) {
+      for (const [k, v] of entries) {
         if (k.startsWith(prefix)) return v;
       }
+      return null;
     }
-    return null;
+
+    // "All" or compound filter: show the best (lowest) priority across all entries
+    let best = null;
+    for (const [, v] of entries) {
+      if (best === null || v < best) best = v;
+    }
+    return best;
   }
 
   function renderPriorityBadge(item) {

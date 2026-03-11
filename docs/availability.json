@@ -1,111 +1,1056 @@
 {
-  "last_updated": "2026-03-07T06:00:00+00:00",
+  "last_updated": "2026-03-11T19:53:53.561900+00:00",
   "country": "us",
   "items": [
     {
-      "title": "Inception",
-      "year": 2010,
+      "title": "Project Hail Mary",
+      "year": 2026,
       "type": "movie",
-      "tmdb_id": 27205,
-      "poster": "https://image.tmdb.org/t/p/w300/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg",
-      "rating": "PG-13",
+      "tmdb_id": "movie/687163",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 1
+      },
+      "poster": "https://www.movieofthenight.com/media/image.svg?title=Project+Hail+Mary&width=240&direction=vertical",
+      "rating": 40,
+      "genres": [
+        "Science Fiction",
+        "Thriller"
+      ],
+      "overview": "",
+      "streaming": {},
+      "last_checked": "2026-03-11T19:53:33.128535+00:00",
+      "release_date": "2026-03-20"
+    },
+    {
+      "title": "Avengers: Doomsday",
+      "year": 2026,
+      "type": "movie",
+      "tmdb_id": "movie/1003596",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 2
+      },
+      "poster": "https://www.movieofthenight.com/media/image.svg?title=Avengers%3A+Doomsday&width=240&direction=vertical",
+      "rating": 40,
       "genres": [
         "Action",
-        "Science Fiction",
-        "Adventure"
+        "Adventure",
+        "Science Fiction"
       ],
-      "overview": "A thief who steals corporate secrets through dream-sharing technology is given the task of planting an idea into the mind of a C.E.O.",
-      "streaming": {
-        "netflix": {
-          "service": "netflix",
-          "serviceName": "Netflix",
-          "type": "subscription",
-          "link": "https://www.netflix.com/title/70131314"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Amazon Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/dp/B004LWZW2A",
-          "price": "$3.99",
-          "quality": "HD"
-        }
-      },
-      "last_checked": "2026-03-07T06:00:00+00:00",
+      "overview": "",
+      "streaming": {},
+      "last_checked": "2026-03-11T19:53:33.728802+00:00",
+      "release_date": "2026-12-18"
+    },
+    {
+      "title": "Emil and the Detectives",
+      "year": 2001,
+      "type": "movie",
+      "tmdb_id": "movie/10556",
       "lists": [
         "dad"
       ],
       "priority": {
         "dad-movie": 3
       },
-      "runtime": 148
+      "poster": "https://cdn.movieofthenight.com/show/82366/poster/vertical/en/240.jpg?Expires=1803844025&Signature=WgJhIvQdV-SbM6AA6JaS9XDVtqEVK6232lNz3fbLTqhhbUtHNQMaA-iF3Nf7Lyhw2Gw7J~Z0r9HKKxiNWsaowCQgnPxMVNRUuEzRYHucZCo1oy8qfQ1M3ejIxYesM2B6psmRyxzAIbSkC~ElY9zZP88GC9J3Hs4ZWAoYM1E32lTpu25OIYEoOTeO~HywqT-0Z7MOMbmi~vBXhcCS4tWK~4FkQnWVF8QhgjQRDdvWawHBkn8TLgkvAB4TcEKNrGH2djaIHiQihZItF4rXG8j5zQUdwyG5DKMDVNjCq2HugizU6AJ~KhZyEeQTYJES5guTZOxv3K~hvMrwHtAIrCAgGA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 56,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "overview": "",
+      "streaming": {},
+      "last_checked": "2026-03-11T19:53:34.412486+00:00",
+      "runtime": 106,
+      "release_date": "2026-05-08"
     },
     {
-      "title": "The Shawshank Redemption",
-      "year": 1994,
+      "title": "Ong Bak 2",
+      "year": 2008,
       "type": "movie",
-      "tmdb_id": 278,
-      "poster": "https://image.tmdb.org/t/p/w300/9cjIGRiQEbMxVpSMxbulYsJUhGT.jpg",
-      "rating": "R",
-      "genres": [
-        "Drama",
-        "Crime"
-      ],
-      "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstate banker Andy Dufresne begins a new life at Shawshank prison.",
-      "streaming": {
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "Max",
-          "type": "subscription",
-          "link": "https://www.max.com/movies/shawshank-redemption"
-        },
-        "paramount": {
-          "service": "paramount",
-          "serviceName": "Paramount+",
-          "type": "subscription",
-          "link": "https://www.paramountplus.com/"
-        }
-      },
-      "last_checked": "2026-03-07T06:00:00+00:00",
+      "tmdb_id": "movie/16353",
       "lists": [
         "dad"
       ],
       "priority": {
         "dad-movie": 4
       },
-      "runtime": 142
-    },
-    {
-      "title": "Everything Everywhere All at Once",
-      "year": 2022,
-      "type": "movie",
-      "tmdb_id": 545611,
-      "poster": "https://image.tmdb.org/t/p/w300/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
-      "rating": "R",
+      "poster": "https://cdn.movieofthenight.com/show/11009/poster/vertical/en/240.jpg?Expires=1800387064&Signature=W0sOKU7Ye9gTvOvHBElzO2JK1-aDWVz~0OMuNS-Vk0AAmSwZ5VidBZ0Qu1nXLqG~fTmGpyVkcTQ0EMesbsCSjpA57FKll~ReZd~i~jE3n45qpq8sugHOBwLJtWzqHU0NbtLqjjfn3qI-7vWRrETVKQwYqT3uV0wDyRNsCV1AGAz05MruTRhgsLzzzfpu9pLWrHB7PRlRlXThcP9~UIrJwR0QENLDZIyAktnrWbryccFZa4oKFxBUUDbdgg0fb5VU~Zv8cD8kBWrp5jOOf1nOFPDswhw--LrVkrkBY-0XWPHfkxh1fqEhN2slEXbormAwej10BQNGOWfCE4VJesU0xQ__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 62,
       "genres": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
+        "Action"
       ],
-      "overview": "An aging Chinese immigrant is swept up in an insane adventure where she must connect with parallel universe versions of herself.",
+      "overview": "This prequel to the revenge saga, set hundreds of years ago, showcases a Thai warrior’s skills, as the young boxer finds meaning in the martial arts.",
       "streaming": {
         "prime": {
           "service": "prime",
-          "serviceName": "Amazon Prime Video",
+          "serviceName": "Prime Video",
           "type": "subscription",
-          "link": "https://www.amazon.com/dp/B0B3QSFNB1"
+          "link": "https://www.amazon.com/gp/video/detail/B002QEA7BA/ref=atv_dp",
+          "quality": "sd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/ong-bak-2-the-beginning/umc.cmc.wpfptrnxwv8qiuy14ldwuv9z?playableId=tvs.sbd.9001%3A353966911",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "tubi": {
+          "service": "tubi",
+          "serviceName": "Tubi",
+          "type": "free",
+          "link": "https://tubitv.com/movies/499295/ong-bak-2-the-beginning"
         }
       },
-      "last_checked": "2026-03-07T06:00:00+00:00",
+      "last_checked": "2026-03-11T19:53:34.993815+00:00",
+      "runtime": 84
+    },
+    {
+      "title": "Raising Arizona",
+      "year": 1987,
+      "type": "movie",
+      "tmdb_id": "movie/378",
       "lists": [
-        "dad",
-        "mom"
+        "dad"
       ],
       "priority": {
-        "dad-movie": 2,
-        "mom-movie": 1
+        "dad-movie": 5
       },
-      "runtime": 139
+      "poster": "https://cdn.movieofthenight.com/show/3270/poster/vertical/en/240.jpg?Expires=1800300935&Signature=Bj~0KFZ1SKGx362SLepXhYAW9BED17M-2fGAY~jxHQuognehj5TX81h3mp2b8x2zxyKZxMUgn48fEfIsplxFASH6CLFY9Q8yWZZFzGs0vEhNpOEUwrPZ3HcDamIFHhdaJsianxGW9Mukbc4mVBnkWX42a5Y3Kh9j0PuHU11k5Awe6oZbMS5qAxwKGW-sZ4PIdRjNJqgeTFsP-dLVjioRflA2Coi77AJ6zG3adkX4YagbPFkeNGzxQnX9aTfpeV5v0U5M5X5jObZ--oX3QFDu-qxZ17mYqMYEexzjTa08F7qqLtQVELP57DLvyQ3kyQTKB9DjLxkUsd2peFvccur9Xg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 72,
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "overview": "A childless couple decide to help themselves to one of another family's quintuplets.",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "addon",
+          "link": "https://www.disneyplus.com/browse/entity-6b8ced8e-bf98-4e46-b66c-9ab59abb53d5",
+          "quality": "hd"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/movie/raising-arizona-6b8ced8e-bf98-4e46-b66c-9ab59abb53d5",
+          "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0LTUA14SORGQY8WUPE7DY4BHGN/ref=atv_dp",
+          "quality": "hd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-03-11T19:53:35.527561+00:00",
+      "runtime": 94
+    },
+    {
+      "title": "Playing by Heart",
+      "year": 1998,
+      "type": "movie",
+      "tmdb_id": "movie/825",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 6
+      },
+      "poster": "https://cdn.movieofthenight.com/show/14578/poster/vertical/en/240.jpg?Expires=1801803247&Signature=eMqplLEnLC71luRb3BJRKp~fM3w~oZVMzP1ogm54PR0AHEZLgJJ8MvkEZXFv3rEzVW958YcIW5Y0MifNpAYwdMPLmuTj6sFr6e4qUrwhLbogROlCuijGx-q-QEZn2-u7XKTC6qjMt9BT0atqIh0NnqVdmjLn4vENjbVk~ZeOimeuZgamFc~Y9WhIfd2gVHl4j1Y3ydRqRPGNLVU--dX59dQM86OuxUCOJxHCEH33R9hCeUkVVojjfUR-41XK2t9QwjkKgtPLzDX~5AUIA~FFdIyfOYQjvgqoLDcc6HUljtgIgDzyTWIvQMabg1Fkcz8Ejit01R1STd76OUoHX-xIJA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 68,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "overview": "From a married couple about to renew their vows, to a career-focused woman pursued by a charming stranger, to a young couple who meet in the L.A. club scene, it’s a sexy romantic comedy about moder...",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/playing-by-heart/umc.cmc.5knvc784y9owo8c4rctm11hp7",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0JC7Q5VUHGF7JEYJNDZI2LZMAY/ref=atv_dp",
+          "quality": "hd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-03-11T19:53:36.026818+00:00",
+      "runtime": 120
+    },
+    {
+      "title": "Roxanne",
+      "year": 1987,
+      "type": "movie",
+      "tmdb_id": "movie/11584",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 7
+      },
+      "poster": "https://cdn.movieofthenight.com/show/8467/poster/vertical/en/240.jpg?Expires=1801784997&Signature=JBaYFvbDPKVgR6p8HLhV70Ic2pqB-yyHibkPU4zUV6XR3QHhQz0WOE64vS-L~fb76XWpbM0dG~4GYrugJZv5~H9n1uTHPH4yANnqp2y8kBEyyh~0-PGiyeEGGMbJIpCSZPs3U70lKUGLQQEufgl0hk92KMx5NZ4rmar3VPq3-NwTwSLYWDlG9-9TkXinAeU4EbQElFLUdiblcWlIh5-Q1PfMERd-gBehoPfn4j8NLRG5UbNayf-H~H00W51liI4UnIEY38gVUU5Bz7FtIW7dNfb5D0-pbL-Wp2DNwtAgSL90o4WMrLu8y69hbaTvT~Is3-1BT8Nei3TxHO61LoH8Qg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 65,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "overview": "The large-nosed C.D. Bales is in love with the beautiful Roxanne; she falls for his personality but another man's looks.",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "addon",
+          "link": "https://www.amazon.com/gp/video/detail/0LXZOOZRI8NWJ31FG6XD85PTJD/ref=atv_dp"
+        }
+      },
+      "last_checked": "2026-03-11T19:53:36.532971+00:00",
+      "runtime": 106
+    },
+    {
+      "title": "Spider-Man: Brand New Day",
+      "year": 2026,
+      "type": "movie",
+      "tmdb_id": "movie/969681",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 8
+      },
+      "poster": "https://www.movieofthenight.com/media/image.svg?title=Spider-Man%3A+Brand+New+Day&width=240&direction=vertical",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "overview": "",
+      "streaming": {},
+      "last_checked": "2026-03-11T19:53:37.116550+00:00",
+      "release_date": "2026-07-31"
+    },
+    {
+      "title": "The Life of Chuck",
+      "year": 2025,
+      "type": "movie",
+      "tmdb_id": "movie/842924",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 9
+      },
+      "poster": "https://cdn.movieofthenight.com/show/9894297/poster/vertical/en/240.jpg?Expires=1801611999&Signature=UP17LhTTfxtJ7n081ELbm4e6K0Ud6kchn9tF6lZEkwwqlzGxG5UVoEnefMzDK6q8v1zPIro9RmfNnKMNdMQMQQ6id1eDcw9q6HVF5pF00nK9V4Enz53vXZzX2HnCzg91wScLg~-qeRWKfkqZS3CSau9Qk4HgHalLKCKd5dG7yjp36-am4uugDvk7I9A7vL3rxr92CHdCLMeWO~CYMKhsGwezeLNuB4cOJAeFHYDIGfWHIAlJQdxvBp-mWnDhMizVXgEUaIhXWRJ4cZQLRZ4bOvyhfaWRWCnZLg~Rb-yUeSvuth342qodO3JsrP3lIeYFUhNyfpNmt1SVXupLE1jKww__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 72,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "overview": "Based on Stephen King's novella and brought to the screen by acclaimed director Mike Flanagan (Doctor Sleep), THE LIFE OF CHUCK is the tale of a seemingly unremarkable man called Charles Kranz (Tom...",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "addon",
+          "link": "https://www.disneyplus.com/browse/entity-aa6086a7-681c-47c3-8f3f-1461e60afffc",
+          "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0RHJNKCIHVBMCKBLWYROYYYIO1/ref=atv_dp",
+          "quality": "uhd",
+          "price": "5.99 USD"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/movie/the-life-of-chuck-aa6086a7-681c-47c3-8f3f-1461e60afffc",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-11T19:53:38.013283+00:00",
+      "runtime": 110
+    },
+    {
+      "title": "The Fabelmans",
+      "year": 2022,
+      "type": "movie",
+      "tmdb_id": "movie/804095",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 10
+      },
+      "poster": "https://cdn.movieofthenight.com/show/10397/poster/vertical/en/240.jpg?Expires=1800304889&Signature=ivfk3A24YUZQ6FABXzljfwqWkGppGnOK8xEjRD0I3CRTnh~BRFuUsshrlZJ-O8Y-MzW1-HT~VhEaP9h19qnlc9pcjDaCQ1zSHNgFsu4VQLImrBLcBxF2l4s8o8wFUnhYWvH0tIS85GT6teH3tfAESy~0q2UX53pR5HAbUfnTLHs2yFEcUAQwpnDXa3ZlDenOZz-sdYz49hJCjQBbpMAN8g9aTBRsI91iaiDGSOx-EpybDekg~eyd4WSP3iiVsvmTU~KHzRait9TtB4acnGrWbPiv7y7-Iv-yhH58LTfoeuqJda~ZxXxsMjLNrlZVeXZH8dErJWFaegRUOMsLCu7mBA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 75,
+      "genres": [
+        "Drama"
+      ],
+      "overview": "A young aspiring filmmaker in the 1950s immerses himself in the magic of movies to cope with a family secret that could change his world forever.",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "addon",
+          "link": "https://www.amazon.com/gp/video/detail/0R5M89EX4U1ZPCJKFMDYU4SFEF/ref=atv_dp",
+          "quality": "uhd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/the-fabelmans/umc.cmc.4lgvd75jcuqp79fuar3e9p9zh?playableId=tvs.sbd.9001%3A1655490626",
+          "quality": "hd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-03-11T19:53:38.524242+00:00",
+      "runtime": 150
+    },
+    {
+      "title": "The Last of the Mohicans",
+      "year": 1992,
+      "type": "movie",
+      "tmdb_id": "movie/9361",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 11
+      },
+      "poster": "https://cdn.movieofthenight.com/show/2655/poster/vertical/en/240.jpg?Expires=1800320090&Signature=iLpPf2xqrRLLlt8LDkco7vtCILKLAGl74DuUmNR~FxLz1Hdc5sc6mGDoWFLWYGyJOqAvONKXF3jUpClxcYKzWAlU01TDqHQ52QkvE-lgp5HmAYtMxjtYUBr0B~46mCWdyPjb0GfjkOXUTtfT0ED3W9q0E24Dc4zf7JcbsD7i-GAXgsmuUaWniqAfiIZgg0wMGPtFNnfUKbJibDANHCB8~Vi4qJfanz5a6QcYPLRrKFceM~ExTpCxf1MHwIms~V~hw~P~Gwt6vj1UBrIxJWIQXPhpwN9ZovmJ6E7KHTGBQOL4msryOAagGWKVbyZMwFtnSDMBPcDpZmVNiUPouUFkbg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 75,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "overview": "An Englishman raised by a Native tribe in Colonial America is drawn into a bloody imperial conflict when he falls for the daughter of a British colonel.",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/the-last-of-the-mohicans/umc.cmc.6mq477wgqfw9hac6ay3nn8rra?playableId=tvs.sbd.9001%3A553357676",
+          "quality": "hd",
+          "price": "4.99 USD"
+        }
+      },
+      "last_checked": "2026-03-11T19:53:39.138483+00:00",
+      "runtime": 111
+    },
+    {
+      "title": "Toy Story",
+      "year": 1995,
+      "type": "movie",
+      "tmdb_id": "movie/862",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 12
+      },
+      "poster": "https://cdn.movieofthenight.com/show/190/poster/vertical/en/240.jpg?Expires=1800316407&Signature=Z-y6NUdYGo0upAi~HfV~6nScORQ6VgtVtijcIk8ecPybl6JeTMqs2UAcSkWq05yMoYKv86nRQgy3J1texJl14VSwGvEZ8dw0mzHW2Y-Z~N4aw2TenRcdFex6WdqFiPYEuwQTl15zuMyQhsGscyIwsPIxhhUCF~I-Ww-Bka6mqcWJppAq-IGxxpE60w2LwRJo7ZhxeVm46Zrrv5BQIoKioMunIXJRIUgHV74oDpEwnkNhpaln1lnMj~60Ag2ySNex93xbOgunmx3SbUGsJyNFFzLNHyQbErn5BJh0z6o4aWyPGWuunE3gm-rbt59facDStwHphWIaNfbo3pc8MRoxnA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 82,
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy"
+      ],
+      "overview": "Meet Woody, Buzz and the gang in an adventure full of humor and heart.",
+      "streaming": {
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/movie/toy-story-bdb6a704-5867-48ae-8080-b5dee0bd8c07",
+          "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0N4M7MPARPRVDWEMDJILO2I4TG/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/toy-story/umc.cmc.qrdx9s4xrk47f4taowt4tx82?playableId=tvs.sbd.9001%3A188703840",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-f6174ebf-cb92-453c-a52b-62bb3576e402",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-11T19:53:40.657447+00:00",
+      "runtime": 80
+    },
+    {
+      "title": "Celtic Thunder: Voyage",
+      "year": 2012,
+      "type": "movie",
+      "tmdb_id": "movie/95739",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 13
+      },
+      "poster": "https://www.movieofthenight.com/media/image.svg?title=Celtic+Thunder%3A+Voyage&width=240&direction=vertical",
+      "rating": 51,
+      "genres": [
+        "Music"
+      ],
+      "overview": "",
+      "streaming": {},
+      "last_checked": "2026-03-11T19:53:41.165525+00:00"
+    },
+    {
+      "title": "Being There",
+      "year": 1979,
+      "type": "movie",
+      "tmdb_id": "movie/10322",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 14
+      },
+      "poster": "https://cdn.movieofthenight.com/show/5998/poster/vertical/en/240.jpg?Expires=1800323048&Signature=PjHGJwBJJrYuksyj1BnGKd2l-dAv7TV0G3EfHZBc7Jy-vNLVP6w8GHqX6tvARzBCyzGYabpORl2akjuTowuW7fXyDXuXCOKLyV9zhWlhJo2ZrqQ28i5HY80FVuhkr2V30sFnhU-p2MQoVcllXpZCFI5zLJj7~0uOTTE1rfTVtUYvP-Zl2ZuOhVnM27HvqD0XKSXqkuD9hxSoBYBpQ5skhiwQbYoacOLBxgic0WkS2h1zs88oFFCH1x2b6r2u7F7GhUAMXJNYTRKL0uq9TGn86oHnmKSedaOztfW~lJh~I-t0l0MX9AzBlWYb28wCAjO3DB4ZuwC42AYY7U-TwqRfAA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 73,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "overview": "Chance, a simple gardener, has never left the estate until his employer dies. His simple TV-informed utterances are mistaken for profundity.",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0N0CRCT95JOS7MUTAFSH7ZJ9YI/ref=atv_dp",
+          "quality": "hd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-03-11T19:53:41.766626+00:00",
+      "runtime": 124
+    },
+    {
+      "title": "Good Boys",
+      "year": 2019,
+      "type": "movie",
+      "tmdb_id": "movie/521777",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 15
+      },
+      "poster": "https://cdn.movieofthenight.com/show/5859/poster/vertical/en/240.jpg?Expires=1789984352&Signature=BYqEcsynijGpoNKLvJRp410RwupKGAKpkkraTXAK9KClNwIHREGAoH1MGtPJhaIkrA6u034PPTsKKW4pvGUwEk9YMr0AHWOJfXhootQZodCaedUBzbEKfunmyKH4ijUaSLs3ZZnjlaFcL4me8-VTA~0-DLKxxaJU96ThL0OGVMdFyu4R3OmGqqzaDERL6PGg1RTkZDprWmIZrD7ds3R-pM0ncnVBIpfrhV9H~2nQlDQoGaoBGW2~OcrMAWcgKT7PoaOFnjatzKIVCIRmlJI5WKyNjeEajKjpQew4srejoHBcwUUEZoXqZSsQzNw-TU88VLQugcVtjeqE4-DcBQkh2w__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 67,
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "overview": "The creative minds behind Superbad and Sausage Party take on sixth grade hard in this innocent yet raunchy comedy. 12-year-olds Max, Thor, and Lucas decide to skip school in an attempt to learn how...",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "addon",
+          "link": "https://tv.apple.com/us/movie/good-boys/umc.cmc.7i840jax7v6bpw8dnp2pynnru"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0RIFMMTWPLA5S4H1H4PRVZ70NY/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-03-11T19:53:42.285372+00:00",
+      "runtime": 89
+    },
+    {
+      "title": "Napoleon",
+      "year": 2023,
+      "type": "movie",
+      "tmdb_id": "movie/753342",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 16
+      },
+      "poster": "https://cdn.movieofthenight.com/show/5460020/poster/vertical/en/240.jpg?Expires=1800823556&Signature=C1xpYHB~sGfoXz06k7FO71CmReAuo6yIHREtetyEpb8qlDjwGBvw8MCNMI6WolILapk4S8vSYq~gWl4pKf3cjy7FaPZO~qcqVjhYnTehZciU21DLKcA3haBlEbGawzsG7Nv2zJ46pJ6jdoFJV39SNeMIWpa5HhK~b7D1UvYpNBHWy9TNTrEXZRmKdFp8CxZ1AmvQeXbIIa2DpuQvjC7MmwigqCcpczbGucF5r4Z~8MquSzAw6aKEo93DXKgQOwzclClyefKbCHeDOAmArJ-gmj8if5WGToP2uO4mJQgPQg7HfT51shIKZb55T0WIgK-TugclNz7YmJDXSAwpjqNxOQ__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 63,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "overview": "A personal look at the French military leader’s origins and swift, ruthless climb to emperor. The story is viewed through the prism of Napoleon’s addictive, volatile relationship with his wife and ...",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "addon",
+          "link": "https://www.amazon.com/gp/video/detail/0GKJ06SJM9QAGM8UCSBTK6N4BH/ref=atv_dp",
+          "quality": "uhd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "subscription",
+          "link": "https://tv.apple.com/us/movie/napoleon/umc.cmc.25k80oxl3vo69c8rimk8v81s1?playableId=tvs.sbd.4000%3AA0064201001",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-11T19:53:42.829826+00:00",
+      "runtime": 157
+    },
+    {
+      "title": "Sing Sing",
+      "year": 2024,
+      "type": "movie",
+      "tmdb_id": "movie/1155828",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 17
+      },
+      "poster": "https://cdn.movieofthenight.com/show/4794607/poster/vertical/en/240.jpg?Expires=1789898244&Signature=M3V2Ger~Eo4XyHo~Bj9x9Aa1E7LCihL2Nm-7GML46uTZ5iuI37MB10KbOMKsjxt~EkMGQdxSYCcvAL-re6PTa4MkdV2QN03vc0hTxvCx7AZtaJEZZJvhdaQWcSsF8FRyCZAgqWCGmmc~9tktN~g3nqJOsP-aBvr5c2OxQwDdfwxp6Ctjf7ThPunPaojbieHQxxxa3-r-N34NsREfPxJC5kbrfnoyPdWTVPqdUXZ5tRMMwNZ2k1x1H3G4mC8Oo~ylXh8a4DYuj8gwlZuffjkErtvdmCdJ8Cwc5DOqX2Jo6NWLpw~XlgCIcg~5vA4IhBb4aTWXSBguXs0MeQeGikEEMg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 73,
+      "genres": [
+        "Drama"
+      ],
+      "overview": "Divine G (Colman Domingo), imprisoned at Sing Sing for a crime he didn't commit, finds purpose by acting in a theatre group alongside other incarcerated men, including wary newcomer (Clarence Macli...",
+      "streaming": {
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/movie/5e4fb59a-fbe8-4be8-ba4f-eccc4005f169",
+          "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "addon",
+          "link": "https://www.amazon.com/gp/video/detail/0H5E4XHCIMNB81SGDZ09LNQ6K6/ref=atv_dp",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-11T19:53:45.050012+00:00",
+      "runtime": 106
+    },
+    {
+      "title": "This Is Spinal Tap",
+      "year": 1984,
+      "type": "movie",
+      "tmdb_id": "movie/11031",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 18
+      },
+      "poster": "https://cdn.movieofthenight.com/show/3277/poster/vertical/en/240.jpg?Expires=1792016613&Signature=CsKbtQ7nsHXQ7UVQhBFPluUydfmpLkc2NeEZD~hYzWeUWAs~auk8DmJ~e-mNFik8ujbYvkz4zp5XV8m9ZbZVspd-wS9-jh6-L7hjZRJ9NHzNalgXHTj7k2Mco82HyygO-CrKyIUzOB6V4IB-bsTicvXP8cOAyXXSZjUWYcXflCLOVXcjk~KYUFxhoj7WDL5zZ2NbVppllqVxkFlhJSTYMSPIpCbvQmBkRknu-SFJCejmJZcB3T9KUw08YjxjMMPHrbKEx2EiymRJDZH52JG6VUGBgA~kVaesgI8C8BLfzI5k8xeKIvnAqYlUXf50gCVxFApjCp2YBuZrZT3V5-BkDg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 76,
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
+      "overview": "This is the inspired \"mockumentary\" that rolls along with the heaviest metal rock band that never was. Spinal Tap's sagging career is being chronicled by filmmaker Rob Reiner. Along the way, scores...",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "addon",
+          "link": "https://www.amazon.com/gp/video/detail/0FFAPQ1AYQHSIBZJNTU41ENA9R/ref=atv_dp",
+          "quality": "uhd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/this-is-spinal-tap/umc.cmc.48f0ti32crzxgqdieo7yb38jd?playableId=tvs.sbd.9001%3A1818901559",
+          "quality": "hd",
+          "price": "5.99 USD"
+        },
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/movie/e3ffa530-2f6c-4ee6-a64d-65a5b242793e"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "addon",
+          "link": "https://www.hulu.com/movie/this-is-spinal-tap-2545ad97-7705-4de6-b8bb-08f65559180d",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-03-11T19:53:45.538695+00:00",
+      "runtime": 82
+    },
+    {
+      "title": "The Shape of Things",
+      "year": 2003,
+      "type": "movie",
+      "tmdb_id": "movie/22958",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 19
+      },
+      "poster": "https://cdn.movieofthenight.com/show/20054/poster/vertical/en/240.jpg?Expires=1800266319&Signature=hSU6S4vppRu5jaC75pRwBaCznO~r3Rx07974yEMnqgbW8AufHOYhrbdKePiJBPKo44x3OB33hANsygTt6eyaRRT-67HKP01Hu9GzBfsPIg1WvRdNp8VeU2oQY21iM291krzDTVXRwKe0FYt9eezj5LeRW6~8-Ogh5AIUy7Rmd-5jx0xYCW7B7E7RwoPI2Tg6ykxxJ0zKWRh6cru7Kt3rNeRZYy-NpUTtQOMvetQ~P8zg1YX2fsX3uU5MeaqZ0yDQ4~ASAU1KSPqmqbhMxwezB4ks78kL4y4n65dTXMo1Ojnua6I-9Dt6Me0KKI20LvkipAugxY0tDb9OlYCfWw28sg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 64,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "overview": "When nerdy Adam meets Evelyn, an attractive and confrontational art student, his predictable life seems to change overnight. As Evelyn strengthens her hold on Adam, his emotional and physical trans...",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0OWF23L4GUXZ26OR42ZKCL80SU/ref=atv_dp",
+          "quality": "hd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-03-11T19:53:46.079562+00:00",
+      "runtime": 96
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "year": 1962,
+      "type": "movie",
+      "tmdb_id": "movie/595",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 20
+      },
+      "poster": "https://cdn.movieofthenight.com/show/1208/poster/vertical/en/240.jpg?Expires=1800292554&Signature=ZP6yW~42YVd0bxbl8V0mijsJ78nY1QrgoUudARGL4ACqURzqQ3FNotCQEZwpVN4hd2wG32QXoW-jM3qU53j-ja5oAKpQPlC8PBtOS~deb04t~ISZCh3aAb07ax5JYO6jAUTZUxYjVA-7PiqWceKBEoJI1PlRdaINRHUcgRO5QblG8QmbUMmPhievTkQdbN1~Vg0~ZU6rbpF2vKRPlBUGnwFq13-29Jumrhv-8fOYrm2J5-QmNmPVfE-v4-LjmMBiDCtW7CpvHCkDFBY2I2mXl8E1KcqRBOXJ3up4VjsWTaKB4uMAJHtKUtG3WCxe-mAcFhaOeNSckmq-5D2JFHiLpA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 79,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "overview": "In a dusty Southern town during the Great Depression, a white woman accuses a black man of rape. Though he is obviously innocent, the outcome of his trial is such a foregone conclusion that no lawy...",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0Q7FZC1JL1C5VNIW2WV2Q82TQ4/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-03-11T19:53:46.595783+00:00",
+      "runtime": 129
+    },
+    {
+      "title": "Far from Heaven",
+      "year": 2002,
+      "type": "movie",
+      "tmdb_id": "movie/10712",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 21
+      },
+      "poster": "https://cdn.movieofthenight.com/show/8298/poster/vertical/en/240.jpg?Expires=1801800759&Signature=ZhOua2U4UxnY7GVE-61-mKZa2PU5mD087RATVpNqkV8uKHyKk6uhKaJafjaecnV8k9wBIg~1zmC5aMVYJlcR2ybGSar8~YhHUwD3aRjh41hmT23fN9P4C~JEhlfLDjICJ9wlQRR9xUnLXYCyUIWNDDsYN0NT2j6FwfDeUM-uwYFU0ABFy9zHIm7qXWKXalL9XBXf8U8bzrKv2SbFcdStSnJQuZi4e0LdiJPGhCHMN3vbDR0WsN~lS-qpQYd-9fTzRbeztI8CLagJEoitGCNyqx5d-vBH7EPkOH9DY6gXWwRhYNkk~Aai5kwD8fSxB1ZF-jIvrWlaglH7NvGDhOQOrA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 72,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "overview": "Oscar®-nominee Julianne Moore stars with Dennis Quaid in this seductive story of a seemingly perfect family and the forbidden desires that threaten to tear them apart.",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/B0044WSMKU/ref=atv_dp",
+          "quality": "hd",
+          "price": "3.79 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/far-from-heaven/umc.cmc.6vob4ir2crg7rppp12ifik4ty",
+          "quality": "hd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-03-11T19:53:47.299837+00:00",
+      "runtime": 107
+    },
+    {
+      "title": "Thelma",
+      "year": 2024,
+      "type": "movie",
+      "tmdb_id": "movie/1051891",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 22
+      },
+      "poster": "https://cdn.movieofthenight.com/show/6756359/poster/vertical/en/240.jpg?Expires=1792753550&Signature=NDH2GrGgwTe8M1ggYrQPoEqZCxA3pd6eUEkNImN6nzun~oB243eUbmjTa4VRUdXYb~tqBG4DmySdYgc0nzZt2kHKQbYlI6abNl6il~kmfGQIfiZsdH8nVnSEDaBGFYeDbDHS6JiPbwfmniToEM79wxXHwUcIEmksMDCNhgKzn6Kaugt~1dVdVNnbUCk5BMj7t6RKkOYoAJ2tkRtvOkmycypYinB7W3i2sZs9GajQQjTaIDVJt~AJFjGL8qm-hXPTD1Ks74oiq0cRjifhmHjb5nSBRknTSWlatVs02y9e5IzMXkBffUq1NGQuuF9kiqVE4Ppg-Ql8vMjQPdMEZ~Ng~g__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 69,
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "overview": "Now In Theaters. Thelma isn’t your average 93-year-old grandmother - she’s tenacious, determined, and on a mission. After getting conned by a scammer, she teams up with a friend and his motorized s...",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/B0D1JCTR86/ref=atv_dp",
+          "quality": "sd",
+          "price": "3.99 USD"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/movie/thelma-661af2e5-a722-4a5d-a06f-9797f3aa398a",
+          "quality": "hd"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "addon",
+          "link": "https://www.disneyplus.com/browse/entity-661af2e5-a722-4a5d-a06f-9797f3aa398a",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-03-11T19:53:47.796835+00:00",
+      "runtime": 98
+    },
+    {
+      "title": "Atlas of the Universe",
+      "year": 2026,
+      "type": "movie",
+      "tmdb_id": "movie/1472684",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 23
+      },
+      "poster": "https://www.movieofthenight.com/media/image.svg?title=Atlas+of+the+Universe&width=240&direction=vertical",
+      "rating": 59,
+      "genres": [
+        "Adventure"
+      ],
+      "overview": "",
+      "streaming": {},
+      "last_checked": "2026-03-11T19:53:48.446434+00:00",
+      "release_date": "2026-06-05"
+    },
+    {
+      "title": "The Secret Life of Walter Mitty",
+      "year": 2013,
+      "type": "movie",
+      "tmdb_id": "movie/116745",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 24
+      },
+      "poster": "https://cdn.movieofthenight.com/show/1198/poster/vertical/en/240.jpg?Expires=1800307177&Signature=dfX149a9BBdf08Gpf-RbB9czFodpI~oweeeG5rMShhdV3vqYXyXdiWvKKVtzi3Mav9iw7iBc8R1EoyOtuUB9MEYPJvx0~rd1w-iVOrN5ZGbq8ZYod0m7tQ7U~f9Ld~ni3Fxfo0Le8cBzEv4wEnXWq6pEhX6j8Iazg07PC1ZNcs4OuBy-7BETv4hFrpoiAjY2TJpm6vNgHP-ur7cbkSMlmSCgW6LZbDZLgdgrlLNAztaHXSZHMuhWk3WIVhsGzAozU8UHyN0BEY4d8TChX8O5vjW9frQlH2IvnRXzqSuGu3IBXWnKyzYlmHouOngm5emTdbamgokTontW5xqiPxNZ2Q__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 72,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "overview": "Ben Stiller directs and stars in this inspiring story about an ordinary man who finds the courage to discover his destiny and leap into the extraordinary adventure that is life.",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-bbb4074c-5d7e-4528-aa21-7fd6fca7f41b",
+          "quality": "hd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/the-secret-life-of-walter-mitty/umc.cmc.pw6qkwfo6ppbm0q2zkp07a3f?playableId=tvs.sbd.9001%3A772093232",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0HOJDZS6BE7QKBMLF6VHTJUBEO/ref=atv_dp",
+          "quality": "hd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-03-11T19:53:49.148739+00:00",
+      "runtime": 114
+    },
+    {
+      "title": "All the Bright Places",
+      "year": 2020,
+      "type": "movie",
+      "tmdb_id": "movie/342470",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 25
+      },
+      "poster": "https://cdn.movieofthenight.com/show/10619/poster/vertical/en/240.jpg?Expires=1800454309&Signature=O-pChzPcJMWvYCoEkMaeLenS0iWgBP229r5ROMm2bCecDMkhpgzn9QjLfi9rate7tStvK-ZOL8DbI7vFhvWztueTv9VWBxgGBOlSy3uKSqcy6GAl55-sxQqNtu0Sjo-zpZQWGAUdN3vQCONdRfefbwdenNhrj4tuki0QvBy23JAk2~Uxp-fFq~3FEac5zihODvd7VCsrr1BRgTvTSPaaC9NuvcSV2I~e9Oi4RI~LuWEignTeAQ5ispKCOZSA7uXgVTZxSevsbyFd321AgHoSyFWJR3Ro7iZwjDpI-NPjX0OHQ~BKCP2oGNSPfN1c7MRzI2mGslH3X7Tg~XKBVgL8~A__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 68,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "overview": "Two teens facing personal struggles form a powerful bond as they embark on a cathartic journey chronicling the wonders of Indiana.",
+      "streaming": {
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/80208802/",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-11T19:53:49.657637+00:00",
+      "runtime": 108
+    },
+    {
+      "title": "Hero",
+      "year": 2002,
+      "type": "movie",
+      "tmdb_id": "movie/79",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 26
+      },
+      "poster": "https://cdn.movieofthenight.com/show/2511/poster/vertical/en/240.jpg?Expires=1800451498&Signature=U0mLWdrpDuseArbjfjLi23hNVlQxFC34gIu-~AzywOqjCb173q9oZojcdz7YVIC-IhFYjGGCinZRbIAgo5KnNud6zE5acysHta4TLvodNvra-T4-wT~oy5kjFeymQk8DwTMyFoc-Wk1AB-phm5cnEFEYzQi6FidtF41iijVE1BhMYjkJDFhJY6p4ZmQ7HKkXpXbYphbbYMqN5AaPFLqyuOaegmgE-~l3QAKkNLlDKBq4RU2qwpUkkxund9cuJMPrzITGwwWieIqlbP7nedKfO6OmbNcUbOgt~23Aq11vYph6R7nwlm3ogkQpwKBkr0IBLFEOqA9w-5Gqkl9TFI3Wzg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 78,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "overview": "An orphan fighter presents himself to an avaricious king bearing the weapons of three assassins in exchange for a generous bounty.",
+      "streaming": {},
+      "last_checked": "2026-03-11T19:53:50.992159+00:00",
+      "runtime": 95
+    },
+    {
+      "title": "Blazing Saddles",
+      "year": 1974,
+      "type": "movie",
+      "tmdb_id": "movie/11072",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 27
+      },
+      "poster": "https://cdn.movieofthenight.com/show/3261/poster/vertical/en/240.jpg?Expires=1800480175&Signature=aOFiL3Stma4Xq8Ht~FmamxK6DP8FizJylf9s5Yw5WAXFJTh3DZnddcjbrOAeHaJgPXgRDus~IXJWngRaL1XNWQT27sA8bhF1OXb12XsFrrTvmHA4EkWM9GxuHYtWzTXnh2czojrUIvokiAMcI9RuJF13V57yNHa84YIQZPbCIjOAxIxG7uBKvCrWJIa~4BB6l1A4cb7oca80s5sPWSkYoKdBU8QcVVxQbTXa8UhxuPvuFIqDKDqqqcQJrxGrQSOKhxDG7b413TbiVTAGJENkwRCFrzLdQoR5Fn60faukC05CB0GhGON9y-WgLrn9al8IE-kZALlOsXWs3zPkMtJ4~Q__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 75,
+      "genres": [
+        "Comedy",
+        "Western"
+      ],
+      "overview": "Once Mel Brooks' lunatic film, many call his best, gets started, logic is lost in a blizzard of gags, jokes, quips, puns, howlers, growlers and outrageous.",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0QFYVWE4RH7AZKY35TOYXNQ12L/ref=atv_dp",
+          "quality": "hd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-03-11T19:53:51.728681+00:00",
+      "runtime": 92
+    },
+    {
+      "title": "Jules",
+      "year": 2023,
+      "type": "movie",
+      "tmdb_id": "movie/1072371",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 28
+      },
+      "poster": "https://cdn.movieofthenight.com/show/1689619/poster/vertical/en/240.jpg?Expires=1803183787&Signature=PrhhgWKeScHrgovuDl9ulvTgqPVWObj5Kj7Lw2KN~2sUvnUjGfKqFQZDdPxy7sbw6d3zwidWaY8KAM5EEu32V1cUTragP4OBp4pZbvjwEpnPQ277fj3g7Ok3Vra~2lhV9ExYszvMtx-boajJxwolYz1rgkjkecOGZROsRRExZ2VprgdmRRVbrgUYLoK~sPaJbO-5iCdgu5magU72v-07BFzfiwCyFDE8ucnw35R-hVUXyEqadEedh1hbqsBboF8E-H38jUhjL8TKmiyOBmxErSR~Mf7fpc~-9uTvKT3-coZxnScdZXPEN0D2zUbYPAtnfQwmAWremKatxyPk0gpd8Q__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 68,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Science Fiction"
+      ],
+      "overview": "An unusual and unexpected visitor from out of this world brings together several people living in a small city in rural Western Pennsylvania.",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/B0CC5LK2BQ/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        },
+        "tubi": {
+          "service": "tubi",
+          "serviceName": "Tubi",
+          "type": "free",
+          "link": "https://tubitv.com/movies/100046059/jules",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-03-11T19:53:52.292788+00:00",
+      "runtime": 87
+    },
+    {
+      "title": "Dear Evan Hansen",
+      "year": 2021,
+      "type": "movie",
+      "tmdb_id": "movie/567690",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 29
+      },
+      "poster": "https://cdn.movieofthenight.com/show/16889/poster/vertical/en/240.jpg?Expires=1800472668&Signature=ISJfKweCztEcvmvqzkB-~VYYbYCyUlPUPgUYPZRugDtlrFeUZ-XQLq9uPggbKxeEvlKjKsA6dS-Ucu1e7rpvbRd3y69u7ud8-PW4a65qW1VGERcjX~b6hWiCQvLAadp3nAoKSCgise-GK8SEvW9iElCQmtJopdXaJwNW0Ej5D-egG2ZLJN0Ijzs916X54G3ACV-n4F30S~YoiJGP2DKDnydwgZSTsle0azfYiTGIQJhUrqgJK3Woprk2YyJFwwFciFkMaa3BVb3S0gYD0R9oP8W6rxlXsoerJGw0bLTun-K4~e8Ow3LYlQSb4Vc72cBptalAbTF5fCZgf6UvfyGQew__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 61,
+      "genres": [
+        "Drama"
+      ],
+      "overview": "Evan Hansen, an anxious and isolated teen aching for understanding and belonging, embarks on a journey of self-discovery when a letter he wrote for a writing exercise falls into the hands of a coup...",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/dear-evan-hansen/umc.cmc.2cx48pp35txxoecn7bkyvcme6?playableId=tvs.sbd.9001%3A1588512819",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0PLUV8TKWGX0RV6OUCWWDZ9OHH/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-03-11T19:53:52.773547+00:00",
+      "runtime": 137
+    },
+    {
+      "title": "Lewis Hamilton: The Winning Formula",
+      "year": 2021,
+      "type": "movie",
+      "tmdb_id": "movie/918176",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 30
+      },
+      "poster": "https://cdn.movieofthenight.com/show/152191/poster/vertical/en/240.jpg?Expires=1801868333&Signature=YzQRXP0Zgahh0jBUzRWEss7hKQL4ltgEMyuI8WwzM-FaajL-VvsNjeuLx9lCTi1uxVvNGJ9dsyifHdkc~4dDyeCaIxsD2lUQfgvKe3JxV~oBnp28TW4D~~EKYiwoBEw74iwV2-5MClgf~pUkw5mr7ogHhLUApSzlx-nt~-dtcM04cm6lkigZpzOLAhulKE6gthhP92qOAkhtLSuGhG3fKxs9fTvjQQLI6UlnuvDCi~2FWi41MiOFnvvdZA0h6XpS5GiA91tyvbKoeJl~daR7FBTyC-qiAvlCVpDp4l68vZohEsJ4Bd4qWZaUMPyI5Dwm2P5o8ZYOSc3AckeaIQoNRQ__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 50,
+      "genres": [
+        "Documentary"
+      ],
+      "overview": "As the first ever black Formula One racer, Lewis' journey to becoming the most decorated driver in F1 history has been one of determination.",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/lewis-hamilton-the-winning-formula/umc.cmc.6ey8z9ihvr5bhtotc31xxbvz9",
+          "quality": "hd",
+          "price": "4.99 USD"
+        },
+        "tubi": {
+          "service": "tubi",
+          "serviceName": "Tubi",
+          "type": "free",
+          "link": "https://tubitv.com/movies/100032034/lewis-hamilton-the-winning-formula",
+          "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0JJMIZN3VNI5LKJXKSKYACITAK/ref=atv_dp",
+          "quality": "sd",
+          "price": "2.99 USD"
+        }
+      },
+      "last_checked": "2026-03-11T19:53:53.561854+00:00",
+      "runtime": 64
     },
     {
       "title": "Severance",
@@ -130,7 +1075,8 @@
       },
       "last_checked": "2026-03-07T06:00:00+00:00",
       "lists": [
-        "dad"
+        "dad",
+        "mom"
       ],
       "priority": {
         "dad-series": 1
@@ -138,85 +1084,6 @@
       "season_count": 2,
       "episode_count": 19,
       "watched_seasons": 1
-    },
-    {
-      "title": "The Bear",
-      "year": 2022,
-      "type": "series",
-      "tmdb_id": 136315,
-      "poster": "https://image.tmdb.org/t/p/w300/sHFlEIJFhMjE1GAg3zhCH1ODvJt.jpg",
-      "rating": "TV-MA",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "overview": "A young chef from the fine dining world returns to Chicago to run his family's sandwich shop.",
-      "streaming": {
-        "hulu": {
-          "service": "hulu",
-          "serviceName": "Hulu",
-          "type": "subscription",
-          "link": "https://www.hulu.com/series/the-bear"
-        },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/"
-        }
-      },
-      "last_checked": "2026-03-07T06:00:00+00:00",
-      "lists": [
-        "dad",
-        "mom"
-      ],
-      "priority": {
-        "dad-series": 2,
-        "mom-series": 1
-      },
-      "season_count": 3,
-      "episode_count": 28,
-      "watched_seasons": 3
-    },
-    {
-      "title": "Spirited Away",
-      "year": 2001,
-      "type": "movie",
-      "tmdb_id": 129,
-      "poster": "https://image.tmdb.org/t/p/w300/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
-      "rating": "PG",
-      "genres": [
-        "Animation",
-        "Family",
-        "Fantasy"
-      ],
-      "overview": "A young girl wanders into a world ruled by gods, witches, and spirits, where humans are changed into beasts.",
-      "streaming": {
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "Max",
-          "type": "subscription",
-          "link": "https://www.max.com/movies/spirited-away"
-        },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "rent",
-          "link": "https://tv.apple.com/",
-          "price": "$3.99",
-          "quality": "HD"
-        }
-      },
-      "last_checked": "2026-03-07T06:00:00+00:00",
-      "lists": [
-        "kids",
-        "family"
-      ],
-      "priority": {
-        "kids-movie": 2,
-        "family-movie": 1
-      },
-      "runtime": 125
     },
     {
       "title": "Bluey",
@@ -244,210 +1111,8 @@
         "kids"
       ],
       "season_count": 4,
-      "episode_count": 196
-    },
-    {
-      "title": "The Incredibles",
-      "year": 2004,
-      "type": "movie",
-      "tmdb_id": 9806,
-      "poster": "https://image.tmdb.org/t/p/w300/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
-      "rating": "PG",
-      "genres": [
-        "Animation",
-        "Action",
-        "Family"
-      ],
-      "overview": "A family of undercover superheroes are forced into action to save the world.",
-      "streaming": {
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/movies/the-incredibles"
-        }
-      },
-      "last_checked": "2026-03-07T06:00:00+00:00",
-      "lists": [
-        "kids",
-        "family"
-      ],
-      "priority": {
-        "kids-movie": 3,
-        "family-movie": 3
-      },
-      "runtime": 115
-    },
-    {
-      "title": "Interstellar",
-      "year": 2014,
-      "type": "movie",
-      "tmdb_id": 157336,
-      "poster": "https://image.tmdb.org/t/p/w300/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
-      "rating": "PG-13",
-      "genres": [
-        "Adventure",
-        "Drama",
-        "Science Fiction"
-      ],
-      "overview": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
-      "streaming": {
-        "paramount": {
-          "service": "paramount",
-          "serviceName": "Paramount+",
-          "type": "subscription",
-          "link": "https://www.paramountplus.com/"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Amazon Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/dp/B00TU9UFTS",
-          "price": "$3.99",
-          "quality": "HD"
-        }
-      },
-      "last_checked": "2026-03-07T06:00:00+00:00",
-      "lists": [
-        "dad",
-        "family"
-      ],
-      "priority": {
-        "dad-movie": 5
-      },
-      "runtime": 169
-    },
-    {
-      "title": "Paddington 2",
-      "year": 2017,
-      "type": "movie",
-      "tmdb_id": 346648,
-      "poster": "https://image.tmdb.org/t/p/w300/aAmfIX3TT40zUHGcCKrlOZRKC7u.jpg",
-      "rating": "PG",
-      "genres": [
-        "Adventure",
-        "Comedy",
-        "Family"
-      ],
-      "overview": "Paddington is happily settled with the Brown family in London. He tries to find a birthday gift for Aunt Lucy.",
-      "streaming": {
-        "netflix": {
-          "service": "netflix",
-          "serviceName": "Netflix",
-          "type": "subscription",
-          "link": "https://www.netflix.com/"
-        },
-        "peacock": {
-          "service": "peacock",
-          "serviceName": "Peacock",
-          "type": "subscription",
-          "link": "https://www.peacocktv.com/"
-        }
-      },
-      "last_checked": "2026-03-07T06:00:00+00:00",
-      "lists": [
-        "kids",
-        "family"
-      ],
-      "priority": {
-        "kids-movie": 4,
-        "family-movie": 4
-      },
-      "runtime": 103
-    },
-    {
-      "title": "Dune: Part Two",
-      "year": 2024,
-      "type": "movie",
-      "tmdb_id": 693134,
-      "poster": "https://image.tmdb.org/t/p/w300/8b8R8l88Qje9dn9OE8PY05Nez7S.jpg",
-      "rating": "PG-13",
-      "genres": [
-        "Science Fiction",
-        "Adventure",
-        "Action"
-      ],
-      "overview": "Paul Atreides unites with the Fremen to seek revenge against the conspirators who destroyed his family.",
-      "streaming": {
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "Max",
-          "type": "subscription",
-          "link": "https://www.max.com/"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Amazon Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/",
-          "price": "$5.99",
-          "quality": "UHD"
-        }
-      },
-      "last_checked": "2026-03-07T06:00:00+00:00",
-      "lists": [
-        "dad"
-      ],
-      "priority": {
-        "dad-movie": 1
-      },
-      "runtime": 166
-    },
-    {
-      "title": "Coco",
-      "year": 2017,
-      "type": "movie",
-      "tmdb_id": 354912,
-      "poster": "https://image.tmdb.org/t/p/w300/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg",
-      "rating": "PG",
-      "genres": [
-        "Animation",
-        "Family",
-        "Fantasy",
-        "Music"
-      ],
-      "overview": "Despite his family's generations-old ban on music, Miguel dreams of becoming a musician like his idol, Ernesto de la Cruz.",
-      "streaming": {
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/"
-        }
-      },
-      "last_checked": "2026-03-07T06:00:00+00:00",
-      "lists": [
-        "kids",
-        "family"
-      ],
-      "priority": {
-        "kids-movie": 1,
-        "family-movie": 2
-      },
-      "runtime": 105
-    },
-    {
-      "title": "Mission: Impossible – The Final Reckoning",
-      "year": 2025,
-      "type": "movie",
-      "tmdb_id": 575264,
-      "lists": [
-        "dad"
-      ],
-      "priority": {
-        "dad-movie": 2
-      },
-      "poster": "https://image.tmdb.org/t/p/w300/z1FEezTe8kFm0JHoKyKVPCmYNDa.jpg",
-      "rating": "PG-13",
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "overview": "Ethan Hunt faces his most dangerous mission yet.",
-      "runtime": 170,
-      "release_date": "2025-05-23",
-      "streaming": {},
-      "last_checked": "2026-03-07T06:00:00+00:00"
+      "episode_count": 196,
+      "priority": {}
     }
   ]
 }

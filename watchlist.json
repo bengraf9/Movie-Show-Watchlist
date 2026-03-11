@@ -1,17 +1,203 @@
 [
   {
-    "title": "Inception",
-    "year": 2010,
+    "title": "Project Hail Mary",
+    "year": 2026,
     "type": "movie",
     "lists": ["dad"],
-    "priority": {"dad-movie": 3}
+    "priority": {"dad-movie": 1},
+    "release_date": "2026-03-20"
   },
   {
-    "title": "Spirited Away",
-    "year": 2001,
+    "title": "Avengers: Doomsday",
+    "year": 2026,
     "type": "movie",
-    "lists": ["kids", "family"],
-    "priority": {"kids-movie": 2, "family-movie": 1}
+    "lists": ["dad"],
+    "priority": {"dad-movie": 2},
+    "release_date": "2026-12-18"
+  },
+  {
+    "title": "The Sheep Detectives",
+    "year": 2026,
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 3},
+    "release_date": "2026-05-08"
+  },
+  {
+    "title": "Swiss Army Man",
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 4}
+  },
+  {
+    "title": "Raising Arizona",
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 5}
+  },
+  {
+    "title": "Playing By Heart",
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 6}
+  },
+  {
+    "title": "Roxanne",
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 7}
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "year": 2026,
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 8},
+    "release_date": "2026-07-31"
+  },
+  {
+    "title": "The Life of Chuck",
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 9}
+  },
+  {
+    "title": "The Fabelmans",
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 10}
+  },
+  {
+    "title": "Last of the Mohicans",
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 11}
+  },
+  {
+    "title": "L.A. Story",
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 12}
+  },
+  {
+    "title": "Tropic Thunder",
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 13}
+  },
+  {
+    "title": "Being There",
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 14}
+  },
+  {
+    "title": "Boyhood",
+    "year": 1979,
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 15}
+  },
+  {
+    "title": "Napoleon",
+    "year": 2023,
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 16}
+  },
+  {
+    "title": "Sing Sing",
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 17}
+  },
+  {
+    "title": "Spinal Tap 2",
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 18}
+  },
+  {
+    "title": "The Shape of Things",
+    "year": 2003,
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 19}
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "year": 1962,
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 20}
+  },
+  {
+    "title": "Pennies from Heaven",
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 21}
+  },
+  {
+    "title": "Thelma",
+    "year": 2024,
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 22}
+  },
+  {
+    "title": "Masters of the Universe",
+    "year": 2026,
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 23},
+    "release_date": "2026-06-05"
+  },
+  {
+    "title": "The Secret Life of Walter Mitty",
+    "year": 2013,
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 24}
+  },
+  {
+    "title": "Finch",
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 25}
+  },
+  {
+    "title": "Her",
+    "year": 2013,
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 26}
+  },
+  {
+    "title": "Black Bag",
+    "year": 2025,
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 27}
+  },
+  {
+    "title": "Jules",
+    "year": 2023,
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 28}
+  },
+  {
+    "title": "Dear Evan Hansen",
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 29}
+  },
+  {
+    "title": "Hamilton",
+    "year": 2020,
+    "type": "movie",
+    "lists": ["dad"],
+    "priority": {"dad-movie": 30}
   },
   {
     "title": "Severance",
@@ -26,11 +212,5 @@
     "year": 2018,
     "type": "series",
     "lists": ["kids"]
-  },
-  {
-    "title": "Mission: Impossible – The Final Reckoning",
-    "type": "movie",
-    "lists": ["dad"],
-    "release_date": "2025-05-23"
   }
 ]

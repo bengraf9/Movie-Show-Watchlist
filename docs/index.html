@@ -934,7 +934,10 @@
     <div class="form-row">
       <div class="form-field" style="flex: 1;">
         <label>Release date <span style="font-weight:400; text-transform:none; letter-spacing:0;">(opt.)</span></label>
-        <input type="date" id="addReleaseDate">
+        <input type="text" id="addReleaseDate" placeholder="YYYY-MM-DD"
+          onfocus="this.type='date'" onblur="if(!this.value)this.type='text'"
+          style="color:var(--text-muted);"
+          oninput="this.style.color=this.value?'var(--text-primary)':'var(--text-muted)'">
       </div>
       <div class="form-field" style="flex: 0 0 110px;">
         <label>Watched seasons <span style="font-weight:400; text-transform:none; letter-spacing:0;">(opt.)</span></label>
@@ -965,7 +968,7 @@
 (function () {
   // === CONFIG ===
   // Set this to your GitHub repo for the "edit watchlist.json" link
-  const GITHUB_REPO = 'bengraf9/movie-show-watchlist';
+  const GITHUB_REPO = 'bengraf9/movei-show-watchlist';
 
   // === STATE ===
   let allItems = [];
@@ -1019,12 +1022,20 @@
   // === POPULATE SERVICE DROPDOWN ===
   function populateServiceFilter() {
     const services = new Map();
+    let hasTheaters = false;
+    const currentYear = new Date().getFullYear();
     allItems.forEach(item => {
       Object.values(item.streaming || {}).forEach(s => {
         if (!services.has(s.service)) {
           services.set(s.service, s.serviceName || serviceLabels[s.service] || s.service);
         }
       });
+      // Check if any item qualifies for Theaters
+      if (Object.keys(item.streaming || {}).length === 0) {
+        if (item.release_date || (item.type === 'movie' && (item.year || 0) >= currentYear - 1)) {
+          hasTheaters = true;
+        }
+      }
     });
     const select = document.getElementById('serviceFilter');
     // Sort by name
@@ -1036,6 +1047,13 @@
         opt.textContent = name;
         select.appendChild(opt);
       });
+    // Add Theaters option if applicable
+    if (hasTheaters) {
+      const opt = document.createElement('option');
+      opt.value = '_theaters';
+      opt.textContent = 'Theaters / Upcoming';
+      select.appendChild(opt);
+    }
   }
 
   // === FILTERING ===
@@ -1056,7 +1074,12 @@
       // Service filter
       if (activeService !== 'all') {
         const streaming = item.streaming || {};
-        if (!streaming[activeService]) return false;
+        if (activeService === '_theaters') {
+          // Show items with no streaming (theaters/upcoming)
+          if (Object.keys(streaming).length > 0) return false;
+        } else {
+          if (!streaming[activeService]) return false;
+        }
       }
 
       // Type filter

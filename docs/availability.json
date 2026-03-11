@@ -37,7 +37,8 @@
       ],
       "priority": {
         "dad-movie": 3
-      }
+      },
+      "runtime": 148
     },
     {
       "title": "The Shawshank Redemption",
@@ -71,7 +72,8 @@
       ],
       "priority": {
         "dad-movie": 4
-      }
+      },
+      "runtime": 142
     },
     {
       "title": "Everything Everywhere All at Once",
@@ -102,7 +104,8 @@
       "priority": {
         "dad-movie": 2,
         "mom-movie": 1
-      }
+      },
+      "runtime": 139
     },
     {
       "title": "Severance",
@@ -131,7 +134,10 @@
       ],
       "priority": {
         "dad-series": 1
-      }
+      },
+      "season_count": 2,
+      "episode_count": 19,
+      "watched_seasons": 1
     },
     {
       "title": "The Bear",
@@ -167,7 +173,10 @@
       "priority": {
         "dad-series": 2,
         "mom-series": 1
-      }
+      },
+      "season_count": 3,
+      "episode_count": 28,
+      "watched_seasons": 2
     },
     {
       "title": "Spirited Away",
@@ -206,7 +215,8 @@
       "priority": {
         "kids-movie": 2,
         "family-movie": 1
-      }
+      },
+      "runtime": 125
     },
     {
       "title": "Bluey",
@@ -232,7 +242,9 @@
       "last_checked": "2026-03-07T06:00:00+00:00",
       "lists": [
         "kids"
-      ]
+      ],
+      "season_count": 4,
+      "episode_count": 196
     },
     {
       "title": "The Incredibles",
@@ -263,7 +275,8 @@
       "priority": {
         "kids-movie": 3,
         "family-movie": 3
-      }
+      },
+      "runtime": 115
     },
     {
       "title": "Interstellar",
@@ -301,7 +314,8 @@
       ],
       "priority": {
         "dad-movie": 5
-      }
+      },
+      "runtime": 169
     },
     {
       "title": "Paddington 2",
@@ -338,7 +352,8 @@
       "priority": {
         "kids-movie": 4,
         "family-movie": 4
-      }
+      },
+      "runtime": 103
     },
     {
       "title": "Dune: Part Two",
@@ -375,7 +390,8 @@
       ],
       "priority": {
         "dad-movie": 1
-      }
+      },
+      "runtime": 166
     },
     {
       "title": "Coco",
@@ -407,7 +423,31 @@
       "priority": {
         "kids-movie": 1,
         "family-movie": 2
-      }
+      },
+      "runtime": 105
+    },
+    {
+      "title": "Mission: Impossible – The Final Reckoning",
+      "year": 2025,
+      "type": "movie",
+      "tmdb_id": 575264,
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-movie": 2
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/z1FEezTe8kFm0JHoKyKVPCmYNDa.jpg",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "overview": "Ethan Hunt faces his most dangerous mission yet.",
+      "runtime": 170,
+      "release_date": "2025-05-23",
+      "streaming": {},
+      "last_checked": "2026-03-07T06:00:00+00:00"
     }
   ]
 }

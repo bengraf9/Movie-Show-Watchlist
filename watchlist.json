@@ -18,12 +18,19 @@
     "year": 2022,
     "type": "series",
     "lists": ["dad", "mom"],
-    "priority": {"dad-series": 1}
+    "priority": {"dad-series": 1},
+    "watched_seasons": 1
   },
   {
     "title": "Bluey",
     "year": 2018,
     "type": "series",
     "lists": ["kids"]
+  },
+  {
+    "title": "Mission: Impossible – The Final Reckoning",
+    "type": "movie",
+    "lists": ["dad"],
+    "release_date": "2025-05-23"
   }
 ]

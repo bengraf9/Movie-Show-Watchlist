@@ -191,10 +191,33 @@ def extract_item_data(show, watchlist_entry):
     # Get TMDB ID from the show
     tmdb_id = show.get("tmdbId") or watchlist_entry.get("tmdb_id")
 
-    return {
+    # Get runtime (movies) or season/episode counts (series)
+    show_type = watchlist_entry.get("type", "movie")
+    runtime = None
+    season_count = None
+    episode_count = None
+
+    if show_type == "movie":
+        runtime = show.get("runtime")  # in minutes
+    else:
+        # Count seasons and episodes
+        seasons = show.get("seasons", [])
+        if seasons:
+            season_count = len(seasons)
+            episode_count = sum(
+                s.get("episodeCount", 0) or len(s.get("episodes", []))
+                for s in seasons
+            )
+        # Fallback fields some API versions use
+        if not season_count:
+            season_count = show.get("seasonCount")
+        if not episode_count:
+            episode_count = show.get("episodeCount")
+
+    result = {
         "title": show.get("title") or watchlist_entry["title"],
         "year": show.get("releaseYear") or show.get("firstAirYear") or watchlist_entry.get("year"),
-        "type": watchlist_entry.get("type", "movie"),
+        "type": show_type,
         "tmdb_id": tmdb_id,
         "lists": watchlist_entry.get("lists", ["dad"]),
         "priority": watchlist_entry.get("priority", {}),
@@ -205,6 +228,22 @@ def extract_item_data(show, watchlist_entry):
         "streaming": streaming,
         "last_checked": datetime.now(timezone.utc).isoformat(),
     }
+
+    # Add runtime or season/episode counts
+    if runtime:
+        result["runtime"] = runtime
+    if season_count:
+        result["season_count"] = season_count
+    if episode_count:
+        result["episode_count"] = episode_count
+
+    # Pass through user-managed fields from watchlist
+    if watchlist_entry.get("release_date"):
+        result["release_date"] = watchlist_entry["release_date"]
+    if watchlist_entry.get("watched_seasons") is not None:
+        result["watched_seasons"] = watchlist_entry["watched_seasons"]
+
+    return result
 
 
 def is_stale(item, stale_days):
@@ -257,9 +296,13 @@ def main():
         # Check if we have fresh data already
         existing = existing_items.get(key)
         if existing and not is_stale(existing, STALE_DAYS):
-            # Preserve existing lists assignment (may have changed in watchlist)
+            # Preserve user-managed fields (may have changed in watchlist)
             existing["lists"] = entry.get("lists", existing.get("lists", ["dad"]))
             existing["priority"] = entry.get("priority", existing.get("priority", {}))
+            if entry.get("release_date"):
+                existing["release_date"] = entry["release_date"]
+            if entry.get("watched_seasons") is not None:
+                existing["watched_seasons"] = entry["watched_seasons"]
             updated_items.append(existing)
             print(f"  [FRESH] {title} ({year}) - skipping")
             continue
@@ -270,6 +313,10 @@ def main():
             if existing:
                 existing["lists"] = entry.get("lists", existing.get("lists", ["dad"]))
                 existing["priority"] = entry.get("priority", existing.get("priority", {}))
+                if entry.get("release_date"):
+                    existing["release_date"] = entry["release_date"]
+                if entry.get("watched_seasons") is not None:
+                    existing["watched_seasons"] = entry["watched_seasons"]
                 updated_items.append(existing)
             continue
 
@@ -298,6 +345,13 @@ def main():
                 watchlist_modified = True
                 print(f"    -> Resolved TMDB ID: {resolved_id}")
 
+            # Backfill year if not in watchlist
+            resolved_year = show.get("releaseYear") or show.get("firstAirYear")
+            if resolved_year and not entry.get("year"):
+                entry["year"] = resolved_year
+                watchlist_modified = True
+                print(f"    -> Resolved year: {resolved_year}")
+
             stream_count = len(item_data["streaming"])
             print(f"    -> Found on {stream_count} service(s)")
         else:
@@ -306,9 +360,13 @@ def main():
             if existing:
                 existing["lists"] = entry.get("lists", existing.get("lists", ["dad"]))
                 existing["priority"] = entry.get("priority", existing.get("priority", {}))
+                if entry.get("release_date"):
+                    existing["release_date"] = entry["release_date"]
+                if entry.get("watched_seasons") is not None:
+                    existing["watched_seasons"] = entry["watched_seasons"]
                 updated_items.append(existing)
             else:
-                updated_items.append({
+                miss_entry = {
                     "title": title,
                     "year": year,
                     "type": show_type,
@@ -321,7 +379,12 @@ def main():
                     "streaming": {},
                     "last_checked": datetime.now(timezone.utc).isoformat(),
                     "error": "not_found",
-                })
+                }
+                if entry.get("release_date"):
+                    miss_entry["release_date"] = entry["release_date"]
+                if entry.get("watched_seasons") is not None:
+                    miss_entry["watched_seasons"] = entry["watched_seasons"]
+                updated_items.append(miss_entry)
 
     # Write results
     output = {

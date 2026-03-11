@@ -119,6 +119,8 @@ Each entry needs:
 Optional:
 - `tmdb_id` — TMDB numeric ID (auto-resolved on first run if omitted)
 - `priority` — Object mapping `"person-type"` keys to rank numbers (see below)
+- `release_date` — ISO date string like `"2025-05-23"` for upcoming titles
+- `watched_seasons` — Number of seasons completed (series only)
 
 ### Priorities
 
@@ -141,6 +143,40 @@ Priorities are optional on every item. When viewing the page:
 - A gold numbered badge appears next to titles that have a priority for the current filter context
 - Select "Priority" from the Sort dropdown to sort by rank (prioritized items first)
 - Use **Export titles** to copy a filtered list to your prioritization tool, then paste the results back into `watchlist.json`
+
+### Upcoming Titles & Theaters
+
+For movies or shows not yet released, add a `release_date` field:
+
+```json
+{
+  "title": "Mission: Impossible – The Final Reckoning",
+  "type": "movie",
+  "lists": ["dad"],
+  "release_date": "2025-05-23"
+}
+```
+
+The page shows "Coming May 23, 2025" instead of streaming badges. For recent movies with no streaming availability and no release date, a "Theaters" badge appears automatically.
+
+### Watched Seasons
+
+For series you're partway through, track your progress:
+
+```json
+{
+  "title": "Severance",
+  "type": "series",
+  "lists": ["dad", "mom"],
+  "watched_seasons": 1
+}
+```
+
+The card shows a progress bar ("Watched 1 of 2 seasons") and the table view displays a compact "1/2" with a progress indicator.
+
+### Runtime & Length
+
+Movies show runtime (e.g., "2h 28m") and series show season/episode counts (e.g., "2s, 19e") in the meta line. These are fetched automatically from the API. In table view, a "Length" column shows this data compactly.
 
 ### 7. Run the first update
 

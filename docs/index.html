@@ -166,6 +166,12 @@
     border-color: var(--text-muted);
     transform: translateY(-2px);
   }
+  .card.caught-up {
+    opacity: 0.45;
+  }
+  .card.caught-up:hover {
+    opacity: 0.8;
+  }
   .card-poster {
     width: 120px;
     flex-shrink: 0;
@@ -719,6 +725,12 @@
   .table-view tr:hover td {
     background: var(--bg-card);
   }
+  .table-view tr.caught-up td {
+    opacity: 0.45;
+  }
+  .table-view tr.caught-up:hover td {
+    opacity: 0.8;
+  }
   .table-view .title-cell {
     font-weight: 600;
     white-space: nowrap;
@@ -968,7 +980,7 @@
 (function () {
   // === CONFIG ===
   // Set this to your GitHub repo for the "edit watchlist.json" link
-  const GITHUB_REPO = 'bengraf9/movei-show-watchlist';
+  const GITHUB_REPO = 'bengraf9/movie-show-watchlist';
 
   // === STATE ===
   let allItems = [];
@@ -1235,8 +1247,10 @@
 
     const prioBadge = renderPriorityBadge(item);
 
+    const caughtUpClass = isCaughtUp(item) ? ' caught-up' : '';
+
     return `
-      <div class="card">
+      <div class="card${caughtUpClass}">
         <div class="card-poster">${poster}</div>
         <div class="card-body">
           <button class="card-remove" title="Remove from watchlist" data-title="${escHtml(item.title)}" data-year="${item.year || ''}">&times;</button>
@@ -1305,15 +1319,25 @@
     return '<span class="no-streaming">Not currently streaming</span>';
   }
 
+  // Helper: is the user caught up on this series?
+  function isCaughtUp(item) {
+    if (item.type !== 'series') return false;
+    if (item.watched_seasons === undefined || item.watched_seasons === null) return false;
+    if (!item.season_count || item.season_count <= 0) return false;
+    return item.watched_seasons >= item.season_count;
+  }
+
   // Helper: watched progress for series
   function renderWatchProgress(item) {
     if (item.type !== 'series' || item.watched_seasons === undefined || item.watched_seasons === null) return '';
     const total = item.season_count || '?';
     const watched = item.watched_seasons;
     const pct = (typeof total === 'number' && total > 0) ? Math.round((watched / total) * 100) : 0;
+    const caughtUp = isCaughtUp(item);
+    const label = caughtUp ? 'Caught up' : `Watched ${watched} of ${total} season${total !== 1 ? 's' : ''}`;
     return `<div class="watch-progress">
       <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
-      <span>Watched ${watched} of ${total} season${total !== 1 ? 's' : ''}</span>
+      <span>${label}</span>
     </div>`;
   }
 
@@ -1361,7 +1385,9 @@
         }
       }
 
-      return `<tr>
+      const rowClass = isCaughtUp(item) ? ' class="caught-up"' : '';
+
+      return `<tr${rowClass}>
         ${prioCell}
         <td class="title-cell">${escHtml(item.title)}</td>
         <td>${item.year || ''}</td>

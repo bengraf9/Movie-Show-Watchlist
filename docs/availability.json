@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T01:19:07.519092+00:00",
+  "last_updated": "2026-03-12T01:29:13.718437+00:00",
   "country": "us",
   "items": [
     {
@@ -48,27 +48,22 @@
       "release_date": "2026-12-18"
     },
     {
-      "title": "Emil and the Detectives",
-      "year": 2001,
+      "title": "The Sheep Detectives",
+      "year": 2026,
       "type": "movie",
-      "tmdb_id": "movie/10556",
       "lists": [
         "dad"
       ],
       "priority": {
         "dad-movie": 3
       },
-      "poster": "https://cdn.movieofthenight.com/show/82366/poster/vertical/en/240.jpg?Expires=1803844025&Signature=WgJhIvQdV-SbM6AA6JaS9XDVtqEVK6232lNz3fbLTqhhbUtHNQMaA-iF3Nf7Lyhw2Gw7J~Z0r9HKKxiNWsaowCQgnPxMVNRUuEzRYHucZCo1oy8qfQ1M3ejIxYesM2B6psmRyxzAIbSkC~ElY9zZP88GC9J3Hs4ZWAoYM1E32lTpu25OIYEoOTeO~HywqT-0Z7MOMbmi~vBXhcCS4tWK~4FkQnWVF8QhgjQRDdvWawHBkn8TLgkvAB4TcEKNrGH2djaIHiQihZItF4rXG8j5zQUdwyG5DKMDVNjCq2HugizU6AJ~KhZyEeQTYJES5guTZOxv3K~hvMrwHtAIrCAgGA__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": 56,
-      "genres": [
-        "Adventure",
-        "Comedy",
-        "Family"
-      ],
+      "poster": "",
+      "rating": "",
+      "genres": [],
       "overview": "",
       "streaming": {},
-      "last_checked": "2026-03-12T01:18:44.754371+00:00",
-      "runtime": 106,
+      "last_checked": "2026-03-12T01:29:10.716768+00:00",
+      "error": "not_found",
       "release_date": "2026-05-08"
     },
     {
@@ -343,89 +338,40 @@
       "runtime": 150
     },
     {
-      "title": "The Last of the Mohicans",
+      "title": "Last of the Mohicans",
       "year": 1992,
       "type": "movie",
-      "tmdb_id": "movie/9361",
       "lists": [
         "dad"
       ],
       "priority": {
         "dad-movie": 11
       },
-      "poster": "https://cdn.movieofthenight.com/show/2655/poster/vertical/en/240.jpg?Expires=1800320090&Signature=iLpPf2xqrRLLlt8LDkco7vtCILKLAGl74DuUmNR~FxLz1Hdc5sc6mGDoWFLWYGyJOqAvONKXF3jUpClxcYKzWAlU01TDqHQ52QkvE-lgp5HmAYtMxjtYUBr0B~46mCWdyPjb0GfjkOXUTtfT0ED3W9q0E24Dc4zf7JcbsD7i-GAXgsmuUaWniqAfiIZgg0wMGPtFNnfUKbJibDANHCB8~Vi4qJfanz5a6QcYPLRrKFceM~ExTpCxf1MHwIms~V~hw~P~Gwt6vj1UBrIxJWIQXPhpwN9ZovmJ6E7KHTGBQOL4msryOAagGWKVbyZMwFtnSDMBPcDpZmVNiUPouUFkbg__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": 75,
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "overview": "An Englishman raised by a Native tribe in Colonial America is drawn into a bloody imperial conflict when he falls for the daughter of a British colonel.",
-      "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/the-last-of-the-mohicans/umc.cmc.6mq477wgqfw9hac6ay3nn8rra?playableId=tvs.sbd.9001%3A553357676",
-          "quality": "hd",
-          "price": "4.99 USD"
-        }
-      },
-      "last_checked": "2026-03-12T01:18:48.322005+00:00",
-      "runtime": 111
+      "poster": "",
+      "rating": "",
+      "genres": [],
+      "overview": "",
+      "streaming": {},
+      "last_checked": "2026-03-12T01:29:11.138528+00:00",
+      "error": "not_found"
     },
     {
-      "title": "Toy Story",
-      "year": 1995,
+      "title": "L.A. Story",
+      "year": 1991,
       "type": "movie",
-      "tmdb_id": "movie/862",
       "lists": [
         "dad"
       ],
       "priority": {
         "dad-movie": 12
       },
-      "poster": "https://cdn.movieofthenight.com/show/190/poster/vertical/en/240.jpg?Expires=1800316407&Signature=Z-y6NUdYGo0upAi~HfV~6nScORQ6VgtVtijcIk8ecPybl6JeTMqs2UAcSkWq05yMoYKv86nRQgy3J1texJl14VSwGvEZ8dw0mzHW2Y-Z~N4aw2TenRcdFex6WdqFiPYEuwQTl15zuMyQhsGscyIwsPIxhhUCF~I-Ww-Bka6mqcWJppAq-IGxxpE60w2LwRJo7ZhxeVm46Zrrv5BQIoKioMunIXJRIUgHV74oDpEwnkNhpaln1lnMj~60Ag2ySNex93xbOgunmx3SbUGsJyNFFzLNHyQbErn5BJh0z6o4aWyPGWuunE3gm-rbt59facDStwHphWIaNfbo3pc8MRoxnA__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": 82,
-      "genres": [
-        "Adventure",
-        "Animation",
-        "Comedy"
-      ],
-      "overview": "Meet Woody, Buzz and the gang in an adventure full of humor and heart.",
-      "streaming": {
-        "hulu": {
-          "service": "hulu",
-          "serviceName": "Hulu",
-          "type": "subscription",
-          "link": "https://www.hulu.com/movie/toy-story-bdb6a704-5867-48ae-8080-b5dee0bd8c07",
-          "quality": "hd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0N4M7MPARPRVDWEMDJILO2I4TG/ref=atv_dp",
-          "quality": "uhd",
-          "price": "3.99 USD"
-        },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/toy-story/umc.cmc.qrdx9s4xrk47f4taowt4tx82?playableId=tvs.sbd.9001%3A188703840",
-          "quality": "hd",
-          "price": "3.99 USD"
-        },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-f6174ebf-cb92-453c-a52b-62bb3576e402",
-          "quality": "uhd"
-        }
-      },
-      "last_checked": "2026-03-12T01:18:50.818731+00:00",
-      "runtime": 80
+      "poster": "",
+      "rating": "",
+      "genres": [],
+      "overview": "",
+      "streaming": {},
+      "last_checked": "2026-03-12T01:29:11.581252+00:00",
+      "error": "not_found"
     },
     {
       "title": "Tropic Thunder",
@@ -830,24 +776,22 @@
       "runtime": 98
     },
     {
-      "title": "Atlas of the Universe",
+      "title": "Masters of the Universe",
       "year": 2026,
       "type": "movie",
-      "tmdb_id": "movie/1472684",
       "lists": [
         "dad"
       ],
       "priority": {
         "dad-movie": 23
       },
-      "poster": "https://www.movieofthenight.com/media/image.svg?title=Atlas+of+the+Universe&width=240&direction=vertical",
-      "rating": 59,
-      "genres": [
-        "Adventure"
-      ],
+      "poster": "",
+      "rating": "",
+      "genres": [],
       "overview": "",
       "streaming": {},
-      "last_checked": "2026-03-12T01:18:59.012219+00:00",
+      "last_checked": "2026-03-12T01:29:12.029574+00:00",
+      "error": "not_found",
       "release_date": "2026-06-05"
     },
     {
@@ -898,88 +842,58 @@
       "runtime": 114
     },
     {
-      "title": "All the Bright Places",
-      "year": 2020,
+      "title": "Finch",
+      "year": 2021,
       "type": "movie",
-      "tmdb_id": "movie/342470",
       "lists": [
         "dad"
       ],
       "priority": {
         "dad-movie": 25
       },
-      "poster": "https://cdn.movieofthenight.com/show/10619/poster/vertical/en/240.jpg?Expires=1800454309&Signature=O-pChzPcJMWvYCoEkMaeLenS0iWgBP229r5ROMm2bCecDMkhpgzn9QjLfi9rate7tStvK-ZOL8DbI7vFhvWztueTv9VWBxgGBOlSy3uKSqcy6GAl55-sxQqNtu0Sjo-zpZQWGAUdN3vQCONdRfefbwdenNhrj4tuki0QvBy23JAk2~Uxp-fFq~3FEac5zihODvd7VCsrr1BRgTvTSPaaC9NuvcSV2I~e9Oi4RI~LuWEignTeAQ5ispKCOZSA7uXgVTZxSevsbyFd321AgHoSyFWJR3Ro7iZwjDpI-NPjX0OHQ~BKCP2oGNSPfN1c7MRzI2mGslH3X7Tg~XKBVgL8~A__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": 68,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "overview": "Two teens facing personal struggles form a powerful bond as they embark on a cathartic journey chronicling the wonders of Indiana.",
-      "streaming": {
-        "netflix": {
-          "service": "netflix",
-          "serviceName": "Netflix",
-          "type": "subscription",
-          "link": "https://www.netflix.com/title/80208802/",
-          "quality": "uhd"
-        }
-      },
-      "last_checked": "2026-03-12T01:19:00.810401+00:00",
-      "runtime": 108
+      "poster": "",
+      "rating": "",
+      "genres": [],
+      "overview": "",
+      "streaming": {},
+      "last_checked": "2026-03-12T01:29:12.444539+00:00",
+      "error": "not_found"
     },
     {
-      "title": "Hero",
-      "year": 2002,
+      "title": "Her",
+      "year": 2013,
       "type": "movie",
-      "tmdb_id": "movie/79",
       "lists": [
         "dad"
       ],
       "priority": {
         "dad-movie": 26
       },
-      "poster": "https://cdn.movieofthenight.com/show/2511/poster/vertical/en/240.jpg?Expires=1800451498&Signature=U0mLWdrpDuseArbjfjLi23hNVlQxFC34gIu-~AzywOqjCb173q9oZojcdz7YVIC-IhFYjGGCinZRbIAgo5KnNud6zE5acysHta4TLvodNvra-T4-wT~oy5kjFeymQk8DwTMyFoc-Wk1AB-phm5cnEFEYzQi6FidtF41iijVE1BhMYjkJDFhJY6p4ZmQ7HKkXpXbYphbbYMqN5AaPFLqyuOaegmgE-~l3QAKkNLlDKBq4RU2qwpUkkxund9cuJMPrzITGwwWieIqlbP7nedKfO6OmbNcUbOgt~23Aq11vYph6R7nwlm3ogkQpwKBkr0IBLFEOqA9w-5Gqkl9TFI3Wzg__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": 78,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama"
-      ],
-      "overview": "An orphan fighter presents himself to an avaricious king bearing the weapons of three assassins in exchange for a generous bounty.",
+      "poster": "",
+      "rating": "",
+      "genres": [],
+      "overview": "",
       "streaming": {},
-      "last_checked": "2026-03-12T01:19:03.846354+00:00",
-      "runtime": 95
+      "last_checked": "2026-03-12T01:29:12.861170+00:00",
+      "error": "not_found"
     },
     {
-      "title": "Blazing Saddles",
-      "year": 1974,
+      "title": "Black Bag",
+      "year": 2025,
       "type": "movie",
-      "tmdb_id": "movie/11072",
       "lists": [
         "dad"
       ],
       "priority": {
         "dad-movie": 27
       },
-      "poster": "https://cdn.movieofthenight.com/show/3261/poster/vertical/en/240.jpg?Expires=1800480175&Signature=aOFiL3Stma4Xq8Ht~FmamxK6DP8FizJylf9s5Yw5WAXFJTh3DZnddcjbrOAeHaJgPXgRDus~IXJWngRaL1XNWQT27sA8bhF1OXb12XsFrrTvmHA4EkWM9GxuHYtWzTXnh2czojrUIvokiAMcI9RuJF13V57yNHa84YIQZPbCIjOAxIxG7uBKvCrWJIa~4BB6l1A4cb7oca80s5sPWSkYoKdBU8QcVVxQbTXa8UhxuPvuFIqDKDqqqcQJrxGrQSOKhxDG7b413TbiVTAGJENkwRCFrzLdQoR5Fn60faukC05CB0GhGON9y-WgLrn9al8IE-kZALlOsXWs3zPkMtJ4~Q__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": 75,
-      "genres": [
-        "Comedy",
-        "Western"
-      ],
-      "overview": "Once Mel Brooks' lunatic film, many call his best, gets started, logic is lost in a blizzard of gags, jokes, quips, puns, howlers, growlers and outrageous.",
-      "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0QFYVWE4RH7AZKY35TOYXNQ12L/ref=atv_dp",
-          "quality": "hd",
-          "price": "3.99 USD"
-        }
-      },
-      "last_checked": "2026-03-12T01:19:05.875395+00:00",
-      "runtime": 92
+      "poster": "",
+      "rating": "",
+      "genres": [],
+      "overview": "",
+      "streaming": {},
+      "last_checked": "2026-03-12T01:29:13.300857+00:00",
+      "error": "not_found"
     },
     {
       "title": "Jules",
@@ -1059,49 +973,22 @@
       "runtime": 137
     },
     {
-      "title": "Lewis Hamilton: The Winning Formula",
-      "year": 2021,
+      "title": "Hamilton",
+      "year": 2020,
       "type": "movie",
-      "tmdb_id": "movie/918176",
       "lists": [
         "dad"
       ],
       "priority": {
         "dad-movie": 30
       },
-      "poster": "https://cdn.movieofthenight.com/show/152191/poster/vertical/en/240.jpg?Expires=1801868333&Signature=YzQRXP0Zgahh0jBUzRWEss7hKQL4ltgEMyuI8WwzM-FaajL-VvsNjeuLx9lCTi1uxVvNGJ9dsyifHdkc~4dDyeCaIxsD2lUQfgvKe3JxV~oBnp28TW4D~~EKYiwoBEw74iwV2-5MClgf~pUkw5mr7ogHhLUApSzlx-nt~-dtcM04cm6lkigZpzOLAhulKE6gthhP92qOAkhtLSuGhG3fKxs9fTvjQQLI6UlnuvDCi~2FWi41MiOFnvvdZA0h6XpS5GiA91tyvbKoeJl~daR7FBTyC-qiAvlCVpDp4l68vZohEsJ4Bd4qWZaUMPyI5Dwm2P5o8ZYOSc3AckeaIQoNRQ__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": 50,
-      "genres": [
-        "Documentary"
-      ],
-      "overview": "As the first ever black Formula One racer, Lewis' journey to becoming the most decorated driver in F1 history has been one of determination.",
-      "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/lewis-hamilton-the-winning-formula/umc.cmc.6ey8z9ihvr5bhtotc31xxbvz9",
-          "quality": "hd",
-          "price": "4.99 USD"
-        },
-        "tubi": {
-          "service": "tubi",
-          "serviceName": "Tubi",
-          "type": "free",
-          "link": "https://tubitv.com/movies/100032034/lewis-hamilton-the-winning-formula",
-          "quality": "hd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0JJMIZN3VNI5LKJXKSKYACITAK/ref=atv_dp",
-          "quality": "sd",
-          "price": "2.99 USD"
-        }
-      },
-      "last_checked": "2026-03-12T01:19:07.519031+00:00",
-      "runtime": 64
+      "poster": "",
+      "rating": "",
+      "genres": [],
+      "overview": "",
+      "streaming": {},
+      "last_checked": "2026-03-12T01:29:13.718391+00:00",
+      "error": "not_found"
     },
     {
       "title": "Severance",

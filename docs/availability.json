@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T19:53:53.561900+00:00",
+  "last_updated": "2026-03-12T01:19:07.519092+00:00",
   "country": "us",
   "items": [
     {
@@ -67,52 +67,60 @@
       ],
       "overview": "",
       "streaming": {},
-      "last_checked": "2026-03-11T19:53:34.412486+00:00",
+      "last_checked": "2026-03-12T01:18:44.754371+00:00",
       "runtime": 106,
       "release_date": "2026-05-08"
     },
     {
-      "title": "Ong Bak 2",
-      "year": 2008,
+      "title": "Swiss Army Man",
+      "year": 2016,
       "type": "movie",
-      "tmdb_id": "movie/16353",
+      "tmdb_id": "movie/347031",
       "lists": [
         "dad"
       ],
       "priority": {
         "dad-movie": 4
       },
-      "poster": "https://cdn.movieofthenight.com/show/11009/poster/vertical/en/240.jpg?Expires=1800387064&Signature=W0sOKU7Ye9gTvOvHBElzO2JK1-aDWVz~0OMuNS-Vk0AAmSwZ5VidBZ0Qu1nXLqG~fTmGpyVkcTQ0EMesbsCSjpA57FKll~ReZd~i~jE3n45qpq8sugHOBwLJtWzqHU0NbtLqjjfn3qI-7vWRrETVKQwYqT3uV0wDyRNsCV1AGAz05MruTRhgsLzzzfpu9pLWrHB7PRlRlXThcP9~UIrJwR0QENLDZIyAktnrWbryccFZa4oKFxBUUDbdgg0fb5VU~Zv8cD8kBWrp5jOOf1nOFPDswhw--LrVkrkBY-0XWPHfkxh1fqEhN2slEXbormAwej10BQNGOWfCE4VJesU0xQ__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": 62,
+      "poster": "https://cdn.movieofthenight.com/show/3748/poster/vertical/en/240.jpg?Expires=1800371597&Signature=CGMpdETArmw7DjndCExpyJsJ7ZUD3YNnDy5S3EqS3RKQdOtRVGExaRDa0dEIbmUKYZeM4RehRKYBwbQPyCNLFpkNEDlV723TvFohw3twBbhxEnuKMMkImyqX4C2l3bnd-VgDiPinlHdjf3F1U1ux5Q8AUiC~14EbB~MZvevQKKlS0OlXz-QWn0h2VSxi4sED2t5VlAqVeGutaMUHidpMALRq1Y~60ycJcnS1h-TIs52zWfMlXqan7dXYMK5XY-BSJPu~h67McOjx1MNkqLQuitNeOzy~pz1YCdwYiVLIpOwUeo-rdOo-VK0nPtnawnIVSyyuB6VffG6MOPlttb6lWg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 69,
       "genres": [
-        "Action"
+        "Comedy",
+        "Drama",
+        "Fantasy"
       ],
-      "overview": "This prequel to the revenge saga, set hundreds of years ago, showcases a Thai warrior’s skills, as the young boxer finds meaning in the martial arts.",
+      "overview": "Hank is stranded on a deserted island when a corpse washes ashore and the two go on an epic adventure to bring Hank back to the woman of his dreams.",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/B002QEA7BA/ref=atv_dp",
-          "quality": "sd"
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "addon",
+          "link": "https://www.hulu.com/movie/swiss-army-man-452cdfef-e577-4557-a9f7-286ba077dd34",
+          "quality": "hd"
         },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/ong-bak-2-the-beginning/umc.cmc.wpfptrnxwv8qiuy14ldwuv9z?playableId=tvs.sbd.9001%3A353966911",
-          "quality": "hd",
-          "price": "3.99 USD"
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/movie/f2127e58-1c4e-4855-a310-538a8acc91e1"
         },
         "tubi": {
           "service": "tubi",
           "serviceName": "Tubi",
           "type": "free",
-          "link": "https://tubitv.com/movies/499295/ong-bak-2-the-beginning"
+          "link": "https://tubitv.com/movies/100046625/swiss-army-man",
+          "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "addon",
+          "link": "https://www.amazon.com/gp/video/detail/0HSTAZCXT1LESCOWRV9WPJKFCS/ref=atv_dp",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-11T19:53:34.993815+00:00",
-      "runtime": 84
+      "last_checked": "2026-03-12T01:18:46.577054+00:00",
+      "runtime": 93
     },
     {
       "title": "Raising Arizona",
@@ -362,7 +370,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-03-11T19:53:39.138483+00:00",
+      "last_checked": "2026-03-12T01:18:48.322005+00:00",
       "runtime": 111
     },
     {
@@ -416,28 +424,52 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-11T19:53:40.657447+00:00",
+      "last_checked": "2026-03-12T01:18:50.818731+00:00",
       "runtime": 80
     },
     {
-      "title": "Celtic Thunder: Voyage",
-      "year": 2012,
+      "title": "Tropic Thunder",
+      "year": 2008,
       "type": "movie",
-      "tmdb_id": "movie/95739",
+      "tmdb_id": "movie/7446",
       "lists": [
         "dad"
       ],
       "priority": {
         "dad-movie": 13
       },
-      "poster": "https://www.movieofthenight.com/media/image.svg?title=Celtic+Thunder%3A+Voyage&width=240&direction=vertical",
-      "rating": 51,
+      "poster": "https://cdn.movieofthenight.com/show/825/poster/vertical/en/240.jpg?Expires=1798247227&Signature=KkyrE2XqOPtwfPKGWcMcLmeJK37UHc5Kxl~bVGUscGQoAyizkVgnYOxM08o4u62gAVFXc-I5bT8jLVp8dmOpe42-GGN2Li~n8v4c9AFtxmbBfmVzfN9T5luqXRxBZt3CjnT8bc-1~cpCW8WD-sR7JOdRRDFO-n6EAYArwO6o~pfwFQhC64aL0Hm-2ctZiJG0v2YNpr~E9C3i6CS8bbgoXvaJcR10wsVlmy32AoC9X-z4Zdu5BHhhowPBddpZON1duVfhjAM-dr919WmhSvUKF9n0NdNpk3p9woCtqyGWz57kbVFVA-v4nw1D~k-ULcZZ2ibXix79-ppZiDj9hPW4aQ__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 70,
       "genres": [
-        "Music"
+        "Action",
+        "Comedy",
+        "War"
       ],
-      "overview": "",
-      "streaming": {},
-      "last_checked": "2026-03-11T19:53:41.165525+00:00"
+      "overview": "A group of actors set out to make the most expensive war film. After huge costs force the studio to cancel the movie, the director refuses to stop shooting, leading his cast into the jungles of Sou...",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "addon",
+          "link": "https://tv.apple.com/us/movie/tropic-thunder/umc.cmc.5iudnxk9tyxo63gewawi330mw?playableId=tvs.sbd.1000185%3AMV002174160000",
+          "quality": "uhd"
+        },
+        "paramount": {
+          "service": "paramount",
+          "serviceName": "Paramount+",
+          "type": "subscription",
+          "link": "https://www.paramountplus.com/movies/video/26DFYvRxPukwiQsNS596_MwDDvPnYWyw/"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "addon",
+          "link": "https://www.amazon.com/gp/video/detail/0TQ1NHZTDAPGSZ2PITECHNP47B/ref=atv_dp",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-12T01:18:52.336861+00:00",
+      "runtime": 106
     },
     {
       "title": "Being There",
@@ -471,41 +503,67 @@
       "runtime": 124
     },
     {
-      "title": "Good Boys",
-      "year": 2019,
+      "title": "Boyhood",
+      "year": 2014,
       "type": "movie",
-      "tmdb_id": "movie/521777",
+      "tmdb_id": "movie/85350",
       "lists": [
         "dad"
       ],
       "priority": {
         "dad-movie": 15
       },
-      "poster": "https://cdn.movieofthenight.com/show/5859/poster/vertical/en/240.jpg?Expires=1789984352&Signature=BYqEcsynijGpoNKLvJRp410RwupKGAKpkkraTXAK9KClNwIHREGAoH1MGtPJhaIkrA6u034PPTsKKW4pvGUwEk9YMr0AHWOJfXhootQZodCaedUBzbEKfunmyKH4ijUaSLs3ZZnjlaFcL4me8-VTA~0-DLKxxaJU96ThL0OGVMdFyu4R3OmGqqzaDERL6PGg1RTkZDprWmIZrD7ds3R-pM0ncnVBIpfrhV9H~2nQlDQoGaoBGW2~OcrMAWcgKT7PoaOFnjatzKIVCIRmlJI5WKyNjeEajKjpQew4srejoHBcwUUEZoXqZSsQzNw-TU88VLQugcVtjeqE4-DcBQkh2w__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": 67,
+      "poster": "https://cdn.movieofthenight.com/show/1041/poster/vertical/en/240.jpg?Expires=1800311153&Signature=idxDTkX6Ix-fFkYOJbZNzaaEFkC~YrtuCxiAI3Tp8ghKJNmYvfsaT2VOJLeAsTZW1WVJQWG~Ydle7M1p39tIbnrxWIuH8wuOC6FL756dH15wior3RnWdJdp-2hADfLjhfFYwT4ENa5J-n3vOdmZ47GH-NB3kughqTU0kHk0XlBup06tpJG5tBh2rVnllsLwNXjCY-Fs7Of~7FkgaIcK-e4yeQAprDQHOWjEMx2cKtYIgBjAYnmFbbfiNDOtZZAsPUm70~LMS3qC7aLGDQC1HRpZvblX53JQFBVglhzfDTXppWg~UWRUAF4c4PBw2lhoQqdk6LLArY32yRGm4YLm3xg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 77,
       "genres": [
-        "Adventure",
-        "Comedy"
+        "Drama"
       ],
-      "overview": "The creative minds behind Superbad and Sausage Party take on sixth grade hard in this innocent yet raunchy comedy. 12-year-olds Max, Thor, and Lucas decide to skip school in an attempt to learn how...",
+      "overview": "Unprecedented in its long-haul production methods, this expansive drama from writer-director Richard Linklater is a coming-of-age tale like no other. Nominated for six Oscars®—including a Supportin...",
       "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "addon",
+          "link": "https://www.disneyplus.com/browse/entity-ecae6ffb-db5d-4035-9bc2-d2992dc33c3a",
+          "quality": "hd"
+        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV",
           "type": "addon",
-          "link": "https://tv.apple.com/us/movie/good-boys/umc.cmc.7i840jax7v6bpw8dnp2pynnru"
+          "link": "https://tv.apple.com/us/movie/boyhood/umc.cmc.4axgvzn6bs6yn40r5z8sn6t2e?playableId=tvs.sbd.1000383%3AIFCENT_SF00059",
+          "quality": "hd"
         },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0RIFMMTWPLA5S4H1H4PRVZ70NY/ref=atv_dp",
-          "quality": "uhd",
-          "price": "3.99 USD"
+          "type": "addon",
+          "link": "https://www.amazon.com/gp/video/detail/0NG2F0WQM134I39DG803OQSXZ5/ref=atv_dp"
+        },
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/70301281/",
+          "quality": "hd"
+        },
+        "mubi": {
+          "service": "mubi",
+          "serviceName": "Mubi",
+          "type": "subscription",
+          "link": "https://mubi.com/films/boyhood-2014",
+          "quality": "hd"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/movie/boyhood-ecae6ffb-db5d-4035-9bc2-d2992dc33c3a",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-03-11T19:53:42.285372+00:00",
-      "runtime": 89
+      "last_checked": "2026-03-12T01:18:54.005642+00:00",
+      "runtime": 165
     },
     {
       "title": "Napoleon",
@@ -581,55 +639,41 @@
       "runtime": 106
     },
     {
-      "title": "This Is Spinal Tap",
-      "year": 1984,
+      "title": "Spinal Tap II: The End Continues",
+      "year": 2025,
       "type": "movie",
-      "tmdb_id": "movie/11031",
+      "tmdb_id": "movie/975225",
       "lists": [
         "dad"
       ],
       "priority": {
         "dad-movie": 18
       },
-      "poster": "https://cdn.movieofthenight.com/show/3277/poster/vertical/en/240.jpg?Expires=1792016613&Signature=CsKbtQ7nsHXQ7UVQhBFPluUydfmpLkc2NeEZD~hYzWeUWAs~auk8DmJ~e-mNFik8ujbYvkz4zp5XV8m9ZbZVspd-wS9-jh6-L7hjZRJ9NHzNalgXHTj7k2Mco82HyygO-CrKyIUzOB6V4IB-bsTicvXP8cOAyXXSZjUWYcXflCLOVXcjk~KYUFxhoj7WDL5zZ2NbVppllqVxkFlhJSTYMSPIpCbvQmBkRknu-SFJCejmJZcB3T9KUw08YjxjMMPHrbKEx2EiymRJDZH52JG6VUGBgA~kVaesgI8C8BLfzI5k8xeKIvnAqYlUXf50gCVxFApjCp2YBuZrZT3V5-BkDg__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": 76,
+      "poster": "https://cdn.movieofthenight.com/show/17337939/poster/vertical/en/240.jpg?Expires=1795808849&Signature=gsNmyYw9RHH71dr2Fda1tg0QN93Ng948rNfoXI32adbLY4ZnKrsUmMK4p7j7cmjjmHygT817XroVdlTPOgkTRFaUKmAOQYfJdzOA1wOHhtB0ambMf96TqXV~Wqydesn3dct2LPG-t17PborkcGBJXga2NAw7Gzl6~ClHIS8M0Vipcayhmxis-KCIqPQpNME~zqBa2wiXXtzKqG3B7hGmNirI2enxXqPteAiEwZd3JJQkdn~2O0H-KyUv-S6~ZmPePrnSLQjpFeBv4EiIPQVBEn4r0~GcGtBjHww2rTDZ0etyCO5NCmHH6FCGdaKwIddXh1Ua39kr2bosfgmLEiXn3Q__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 63,
       "genres": [
         "Comedy",
         "Music"
       ],
-      "overview": "This is the inspired \"mockumentary\" that rolls along with the heaviest metal rock band that never was. Spinal Tap's sagging career is being chronicled by filmmaker Rob Reiner. Along the way, scores...",
+      "overview": "Forty-one years after the release of the groundbreaking mockumentary This Is Spinal Tap, the now estranged bandmates David St. Hubbins, Nigel Tufnel, and Derek Smalls (Michael McKean, Christopher G...",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "addon",
-          "link": "https://www.amazon.com/gp/video/detail/0FFAPQ1AYQHSIBZJNTU41ENA9R/ref=atv_dp",
-          "quality": "uhd"
-        },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/this-is-spinal-tap/umc.cmc.48f0ti32crzxgqdieo7yb38jd?playableId=tvs.sbd.9001%3A1818901559",
-          "quality": "hd",
-          "price": "5.99 USD"
-        },
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://play.hbomax.com/movie/e3ffa530-2f6c-4ee6-a64d-65a5b242793e"
-        },
         "hulu": {
           "service": "hulu",
           "serviceName": "Hulu",
           "type": "addon",
-          "link": "https://www.hulu.com/movie/this-is-spinal-tap-2545ad97-7705-4de6-b8bb-08f65559180d",
+          "link": "https://www.hulu.com/movie/spinal-tap-ii:-the-end-continues-ea3f8760-9688-4843-9e26-71536d547f6c",
           "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "addon",
+          "link": "https://www.amazon.com/gp/video/detail/0QX9MSTQ5UTFHCQBXO7E8AX24M/ref=atv_dp",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-11T19:53:45.538695+00:00",
-      "runtime": 82
+      "last_checked": "2026-03-12T01:18:55.479416+00:00",
+      "runtime": 83
     },
     {
       "title": "The Shape of Things",
@@ -695,42 +739,49 @@
       "runtime": 129
     },
     {
-      "title": "Far from Heaven",
-      "year": 2002,
+      "title": "Pennies from Heaven",
+      "year": 1981,
       "type": "movie",
-      "tmdb_id": "movie/10712",
+      "tmdb_id": "movie/17450",
       "lists": [
         "dad"
       ],
       "priority": {
         "dad-movie": 21
       },
-      "poster": "https://cdn.movieofthenight.com/show/8298/poster/vertical/en/240.jpg?Expires=1801800759&Signature=ZhOua2U4UxnY7GVE-61-mKZa2PU5mD087RATVpNqkV8uKHyKk6uhKaJafjaecnV8k9wBIg~1zmC5aMVYJlcR2ybGSar8~YhHUwD3aRjh41hmT23fN9P4C~JEhlfLDjICJ9wlQRR9xUnLXYCyUIWNDDsYN0NT2j6FwfDeUM-uwYFU0ABFy9zHIm7qXWKXalL9XBXf8U8bzrKv2SbFcdStSnJQuZi4e0LdiJPGhCHMN3vbDR0WsN~lS-qpQYd-9fTzRbeztI8CLagJEoitGCNyqx5d-vBH7EPkOH9DY6gXWwRhYNkk~Aai5kwD8fSxB1ZF-jIvrWlaglH7NvGDhOQOrA__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": 72,
+      "poster": "https://cdn.movieofthenight.com/show/30352/poster/vertical/en/240.jpg?Expires=1803885530&Signature=SNRHelEXcS5RJA4fDFKER~Ta6GqrEldV7dAA1K5CHg4eAq~b3efzVkNPocQEl4JT~iUOgRM~zYNzBNIubQ49X2bpAycyXkW9Ui~PnCEkgg5FVzxhFkCA7MUmcxVlddcUzGzxTRL2jqUNxmhPbqbnmZKqrv4vWr7DNCs8T00m01CITYdSgnnNu1W7hTDr8u-dkyV1Y41hymyUh56ynqm3iebz37HV88rQTbIHuw7yhmgNIJbeZYWEE79n3~7Yu0cdttupS3L4ATijKRhp2zZ3rB62kN~keX4xi9rayrM2MhvUdBl7qwoJOA~yQidbl~dDL2qxPOL8R3w-9tCjz2xyRA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 63,
       "genres": [
         "Drama",
         "Romance"
       ],
-      "overview": "Oscar®-nominee Julianne Moore stars with Dennis Quaid in this seductive story of a seemingly perfect family and the forbidden desires that threaten to tear them apart.",
+      "overview": "A struggling salesman and lonely teacher escape into a fantasy world of Depression-era music, only to be confronted by the crushing weight of reality.",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/B0044WSMKU/ref=atv_dp",
-          "quality": "hd",
-          "price": "3.79 USD"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV",
           "type": "rent",
-          "link": "https://tv.apple.com/us/movie/far-from-heaven/umc.cmc.6vob4ir2crg7rppp12ifik4ty",
+          "link": "https://tv.apple.com/us/movie/pennies-from-heaven/umc.cmc.1kbmm9ry9lh89xb7k4rglas5o",
+          "quality": "hd",
+          "price": "2.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/B004J1A6WS/ref=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "tubi": {
+          "service": "tubi",
+          "serviceName": "Tubi",
+          "type": "free",
+          "link": "https://tubitv.com/movies/100046335/pennies-from-heaven",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-03-11T19:53:47.299837+00:00",
+      "last_checked": "2026-03-12T01:18:57.128227+00:00",
       "runtime": 107
     },
     {
@@ -796,7 +847,7 @@
       ],
       "overview": "",
       "streaming": {},
-      "last_checked": "2026-03-11T19:53:48.446434+00:00",
+      "last_checked": "2026-03-12T01:18:59.012219+00:00",
       "release_date": "2026-06-05"
     },
     {
@@ -873,7 +924,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-11T19:53:49.657637+00:00",
+      "last_checked": "2026-03-12T01:19:00.810401+00:00",
       "runtime": 108
     },
     {
@@ -896,7 +947,7 @@
       ],
       "overview": "An orphan fighter presents himself to an avaricious king bearing the weapons of three assassins in exchange for a generous bounty.",
       "streaming": {},
-      "last_checked": "2026-03-11T19:53:50.992159+00:00",
+      "last_checked": "2026-03-12T01:19:03.846354+00:00",
       "runtime": 95
     },
     {
@@ -927,7 +978,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-11T19:53:51.728681+00:00",
+      "last_checked": "2026-03-12T01:19:05.875395+00:00",
       "runtime": 92
     },
     {
@@ -1049,7 +1100,7 @@
           "price": "2.99 USD"
         }
       },
-      "last_checked": "2026-03-11T19:53:53.561854+00:00",
+      "last_checked": "2026-03-12T01:19:07.519031+00:00",
       "runtime": 64
     },
     {
@@ -1084,35 +1135,6 @@
       "season_count": 2,
       "episode_count": 19,
       "watched_seasons": 1
-    },
-    {
-      "title": "Bluey",
-      "year": 2018,
-      "type": "series",
-      "tmdb_id": 82728,
-      "poster": "https://image.tmdb.org/t/p/w300/jLnixCFVkPNOx07XYQKLR8gLmGn.jpg",
-      "rating": "TV-Y",
-      "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
-      ],
-      "overview": "Bluey is an inexhaustible Blue Heeler puppy who lives with her family and loves to play.",
-      "streaming": {
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/series/bluey"
-        }
-      },
-      "last_checked": "2026-03-07T06:00:00+00:00",
-      "lists": [
-        "kids"
-      ],
-      "season_count": 4,
-      "episode_count": 196,
-      "priority": {}
     }
   ]
 }

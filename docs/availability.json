@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T01:43:03.793004+00:00",
+  "last_updated": "2026-03-12T01:58:44.340731+00:00",
   "country": "us",
   "items": [
     {
@@ -21,7 +21,7 @@
       ],
       "overview": "",
       "streaming": {},
-      "last_checked": "2026-03-11T19:53:33.128535+00:00",
+      "last_checked": "2026-03-12T01:58:20.470552+00:00",
       "release_date": "2026-03-20"
     },
     {
@@ -44,26 +44,31 @@
       ],
       "overview": "",
       "streaming": {},
-      "last_checked": "2026-03-11T19:53:33.728802+00:00",
+      "last_checked": "2026-03-12T01:58:21.818915+00:00",
       "release_date": "2026-12-18"
     },
     {
-      "title": "The Sheep Detectives",
-      "year": 2026,
+      "title": "Emil and the Detectives",
+      "year": 2001,
       "type": "movie",
+      "tmdb_id": "movie/10556",
       "lists": [
         "dad"
       ],
       "priority": {
         "dad-movie": 3
       },
-      "poster": "",
-      "rating": "",
-      "genres": [],
+      "poster": "https://cdn.movieofthenight.com/show/82366/poster/vertical/en/240.jpg?Expires=1803844025&Signature=WgJhIvQdV-SbM6AA6JaS9XDVtqEVK6232lNz3fbLTqhhbUtHNQMaA-iF3Nf7Lyhw2Gw7J~Z0r9HKKxiNWsaowCQgnPxMVNRUuEzRYHucZCo1oy8qfQ1M3ejIxYesM2B6psmRyxzAIbSkC~ElY9zZP88GC9J3Hs4ZWAoYM1E32lTpu25OIYEoOTeO~HywqT-0Z7MOMbmi~vBXhcCS4tWK~4FkQnWVF8QhgjQRDdvWawHBkn8TLgkvAB4TcEKNrGH2djaIHiQihZItF4rXG8j5zQUdwyG5DKMDVNjCq2HugizU6AJ~KhZyEeQTYJES5guTZOxv3K~hvMrwHtAIrCAgGA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 56,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
       "overview": "",
       "streaming": {},
-      "last_checked": "2026-03-12T01:29:10.716768+00:00",
-      "error": "not_found",
+      "last_checked": "2026-03-12T01:58:23.803345+00:00",
+      "runtime": 106,
       "release_date": "2026-05-08"
     },
     {
@@ -86,13 +91,6 @@
       ],
       "overview": "Hank is stranded on a deserted island when a corpse washes ashore and the two go on an epic adventure to bring Hank back to the woman of his dreams.",
       "streaming": {
-        "hulu": {
-          "service": "hulu",
-          "serviceName": "Hulu",
-          "type": "addon",
-          "link": "https://www.hulu.com/movie/swiss-army-man-452cdfef-e577-4557-a9f7-286ba077dd34",
-          "quality": "hd"
-        },
         "hbo": {
           "service": "hbo",
           "serviceName": "HBO Max",
@@ -109,12 +107,13 @@
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
-          "type": "addon",
+          "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0HSTAZCXT1LESCOWRV9WPJKFCS/ref=atv_dp",
-          "quality": "uhd"
+          "quality": "sd",
+          "price": "2.99 USD"
         }
       },
-      "last_checked": "2026-03-12T01:18:46.577054+00:00",
+      "last_checked": "2026-03-12T01:58:25.444345+00:00",
       "runtime": 93
     },
     {
@@ -136,13 +135,6 @@
       ],
       "overview": "A childless couple decide to help themselves to one of another family's quintuplets.",
       "streaming": {
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "addon",
-          "link": "https://www.disneyplus.com/browse/entity-6b8ced8e-bf98-4e46-b66c-9ab59abb53d5",
-          "quality": "hd"
-        },
         "hulu": {
           "service": "hulu",
           "serviceName": "Hulu",
@@ -159,7 +151,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-11T19:53:35.527561+00:00",
+      "last_checked": "2026-03-12T01:58:26.963088+00:00",
       "runtime": 94
     },
     {
@@ -199,7 +191,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-11T19:53:36.026818+00:00",
+      "last_checked": "2026-03-12T01:58:28.450081+00:00",
       "runtime": 120
     },
     {
@@ -224,11 +216,13 @@
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
-          "type": "addon",
-          "link": "https://www.amazon.com/gp/video/detail/0LXZOOZRI8NWJ31FG6XD85PTJD/ref=atv_dp"
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0LXZOOZRI8NWJ31FG6XD85PTJD/ref=atv_dp",
+          "quality": "hd",
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-11T19:53:36.532971+00:00",
+      "last_checked": "2026-03-12T01:58:30.038479+00:00",
       "runtime": 106
     },
     {
@@ -251,7 +245,7 @@
       ],
       "overview": "",
       "streaming": {},
-      "last_checked": "2026-03-11T19:53:37.116550+00:00",
+      "last_checked": "2026-03-12T01:58:31.583137+00:00",
       "release_date": "2026-07-31"
     },
     {
@@ -274,13 +268,6 @@
       ],
       "overview": "Based on Stephen King's novella and brought to the screen by acclaimed director Mike Flanagan (Doctor Sleep), THE LIFE OF CHUCK is the tale of a seemingly unremarkable man called Charles Kranz (Tom...",
       "streaming": {
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "addon",
-          "link": "https://www.disneyplus.com/browse/entity-aa6086a7-681c-47c3-8f3f-1461e60afffc",
-          "quality": "uhd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -297,7 +284,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-11T19:53:38.013283+00:00",
+      "last_checked": "2026-03-12T01:58:33.556003+00:00",
       "runtime": 110
     },
     {
@@ -321,9 +308,10 @@
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
-          "type": "addon",
+          "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0R5M89EX4U1ZPCJKFMDYU4SFEF/ref=atv_dp",
-          "quality": "uhd"
+          "quality": "uhd",
+          "price": "3.99 USD"
         },
         "apple": {
           "service": "apple",
@@ -334,44 +322,93 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-11T19:53:38.524242+00:00",
+      "last_checked": "2026-03-12T01:58:34.970127+00:00",
       "runtime": 150
     },
     {
-      "title": "Last of the Mohicans",
+      "title": "The Last of the Mohicans",
       "year": 1992,
       "type": "movie",
+      "tmdb_id": "movie/9361",
       "lists": [
         "dad"
       ],
       "priority": {
         "dad-movie": 11
       },
-      "poster": "",
-      "rating": "",
-      "genres": [],
-      "overview": "",
-      "streaming": {},
-      "last_checked": "2026-03-12T01:29:11.138528+00:00",
-      "error": "not_found"
+      "poster": "https://cdn.movieofthenight.com/show/2655/poster/vertical/en/240.jpg?Expires=1800320090&Signature=iLpPf2xqrRLLlt8LDkco7vtCILKLAGl74DuUmNR~FxLz1Hdc5sc6mGDoWFLWYGyJOqAvONKXF3jUpClxcYKzWAlU01TDqHQ52QkvE-lgp5HmAYtMxjtYUBr0B~46mCWdyPjb0GfjkOXUTtfT0ED3W9q0E24Dc4zf7JcbsD7i-GAXgsmuUaWniqAfiIZgg0wMGPtFNnfUKbJibDANHCB8~Vi4qJfanz5a6QcYPLRrKFceM~ExTpCxf1MHwIms~V~hw~P~Gwt6vj1UBrIxJWIQXPhpwN9ZovmJ6E7KHTGBQOL4msryOAagGWKVbyZMwFtnSDMBPcDpZmVNiUPouUFkbg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 75,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "overview": "An Englishman raised by a Native tribe in Colonial America is drawn into a bloody imperial conflict when he falls for the daughter of a British colonel.",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/the-last-of-the-mohicans/umc.cmc.6mq477wgqfw9hac6ay3nn8rra?playableId=tvs.sbd.9001%3A553357676",
+          "quality": "hd",
+          "price": "4.99 USD"
+        }
+      },
+      "last_checked": "2026-03-12T01:58:36.758238+00:00",
+      "runtime": 111
     },
     {
-      "title": "L.A. Story",
-      "year": 1991,
+      "title": "Toy Story",
+      "year": 1995,
       "type": "movie",
+      "tmdb_id": "movie/862",
       "lists": [
         "dad"
       ],
       "priority": {
         "dad-movie": 12
       },
-      "poster": "",
-      "rating": "",
-      "genres": [],
-      "overview": "",
-      "streaming": {},
-      "last_checked": "2026-03-12T01:29:11.581252+00:00",
-      "error": "not_found"
+      "poster": "https://cdn.movieofthenight.com/show/190/poster/vertical/en/240.jpg?Expires=1800316407&Signature=Z-y6NUdYGo0upAi~HfV~6nScORQ6VgtVtijcIk8ecPybl6JeTMqs2UAcSkWq05yMoYKv86nRQgy3J1texJl14VSwGvEZ8dw0mzHW2Y-Z~N4aw2TenRcdFex6WdqFiPYEuwQTl15zuMyQhsGscyIwsPIxhhUCF~I-Ww-Bka6mqcWJppAq-IGxxpE60w2LwRJo7ZhxeVm46Zrrv5BQIoKioMunIXJRIUgHV74oDpEwnkNhpaln1lnMj~60Ag2ySNex93xbOgunmx3SbUGsJyNFFzLNHyQbErn5BJh0z6o4aWyPGWuunE3gm-rbt59facDStwHphWIaNfbo3pc8MRoxnA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": 82,
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy"
+      ],
+      "overview": "Meet Woody, Buzz and the gang in an adventure full of humor and heart.",
+      "streaming": {
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/movie/toy-story-bdb6a704-5867-48ae-8080-b5dee0bd8c07",
+          "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0N4M7MPARPRVDWEMDJILO2I4TG/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/toy-story/umc.cmc.qrdx9s4xrk47f4taowt4tx82?playableId=tvs.sbd.9001%3A188703840",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-f6174ebf-cb92-453c-a52b-62bb3576e402",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-12T01:58:39.411318+00:00",
+      "runtime": 80
     },
     {
       "title": "Tropic Thunder",
@@ -396,9 +433,10 @@
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV",
-          "type": "addon",
-          "link": "https://tv.apple.com/us/movie/tropic-thunder/umc.cmc.5iudnxk9tyxo63gewawi330mw?playableId=tvs.sbd.1000185%3AMV002174160000",
-          "quality": "uhd"
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/tropic-thunder/umc.cmc.5iudnxk9tyxo63gewawi330mw?playableId=tvs.sbd.9001%3A291563909",
+          "quality": "hd",
+          "price": "3.99 USD"
         },
         "paramount": {
           "service": "paramount",
@@ -409,12 +447,13 @@
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
-          "type": "addon",
+          "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0TQ1NHZTDAPGSZ2PITECHNP47B/ref=atv_dp",
-          "quality": "uhd"
+          "quality": "uhd",
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-12T01:18:52.336861+00:00",
+      "last_checked": "2026-03-12T01:58:40.984822+00:00",
       "runtime": 106
     },
     {
@@ -445,7 +484,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-11T19:53:41.766626+00:00",
+      "last_checked": "2026-03-12T01:58:42.714242+00:00",
       "runtime": 124
     },
     {
@@ -466,25 +505,21 @@
       ],
       "overview": "Unprecedented in its long-haul production methods, this expansive drama from writer-director Richard Linklater is a coming-of-age tale like no other. Nominated for six Oscars®—including a Supportin...",
       "streaming": {
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "addon",
-          "link": "https://www.disneyplus.com/browse/entity-ecae6ffb-db5d-4035-9bc2-d2992dc33c3a",
-          "quality": "hd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV",
-          "type": "addon",
-          "link": "https://tv.apple.com/us/movie/boyhood/umc.cmc.4axgvzn6bs6yn40r5z8sn6t2e?playableId=tvs.sbd.1000383%3AIFCENT_SF00059",
-          "quality": "hd"
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/boyhood/umc.cmc.4axgvzn6bs6yn40r5z8sn6t2e?playableId=tvs.sbd.9001%3A1820241182",
+          "quality": "hd",
+          "price": "3.99 USD"
         },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
-          "type": "addon",
-          "link": "https://www.amazon.com/gp/video/detail/0NG2F0WQM134I39DG803OQSXZ5/ref=atv_dp"
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0NG2F0WQM134I39DG803OQSXZ5/ref=atv_dp",
+          "quality": "hd",
+          "price": "5.99 USD"
         },
         "netflix": {
           "service": "netflix",
@@ -508,7 +543,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-12T01:18:54.005642+00:00",
+      "last_checked": "2026-03-12T01:58:44.340607+00:00",
       "runtime": 165
     },
     {

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T02:51:29.518013+00:00",
+  "last_updated": "2026-03-12T15:30:45.302405+00:00",
   "country": "us",
   "items": [
     {
@@ -14,14 +14,15 @@
         "dad-movie": 1
       },
       "poster": "https://www.movieofthenight.com/media/image.svg?title=Project+Hail+Mary&width=240&direction=vertical",
-      "rating": "",
+      "rating": "PG-13",
       "genres": [
         "Science Fiction",
         "Thriller"
       ],
       "overview": "",
       "streaming": {},
-      "last_checked": "2026-03-12T02:51:17.039126+00:00"
+      "last_checked": "2026-03-12T15:30:26.704169+00:00",
+      "release_date": "2026-03-20"
     },
     {
       "title": "Avengers: Doomsday",
@@ -43,7 +44,8 @@
       ],
       "overview": "",
       "streaming": {},
-      "last_checked": "2026-03-12T02:51:17.535440+00:00"
+      "last_checked": "2026-03-12T15:30:27.544316+00:00",
+      "release_date": "2026-12-18"
     },
     {
       "title": "The Sheep Detectives",
@@ -57,7 +59,7 @@
         "dad-movie": 3
       },
       "poster": "https://www.movieofthenight.com/media/image.svg?title=The+Sheep+Detectives&width=240&direction=vertical",
-      "rating": "",
+      "rating": "PG",
       "genres": [
         "Action",
         "Comedy",
@@ -65,7 +67,8 @@
       ],
       "overview": "",
       "streaming": {},
-      "last_checked": "2026-03-12T02:51:18.056789+00:00"
+      "last_checked": "2026-03-12T15:30:28.158704+00:00",
+      "release_date": "2026-05-08"
     },
     {
       "title": "Swiss Army Man",
@@ -79,7 +82,7 @@
         "dad-movie": 4
       },
       "poster": "https://cdn.movieofthenight.com/show/3748/poster/vertical/en/240.jpg?Expires=1800371597&Signature=CGMpdETArmw7DjndCExpyJsJ7ZUD3YNnDy5S3EqS3RKQdOtRVGExaRDa0dEIbmUKYZeM4RehRKYBwbQPyCNLFpkNEDlV723TvFohw3twBbhxEnuKMMkImyqX4C2l3bnd-VgDiPinlHdjf3F1U1ux5Q8AUiC~14EbB~MZvevQKKlS0OlXz-QWn0h2VSxi4sED2t5VlAqVeGutaMUHidpMALRq1Y~60ycJcnS1h-TIs52zWfMlXqan7dXYMK5XY-BSJPu~h67McOjx1MNkqLQuitNeOzy~pz1YCdwYiVLIpOwUeo-rdOo-VK0nPtnawnIVSyyuB6VffG6MOPlttb6lWg__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "",
+      "rating": "R",
       "genres": [
         "Comedy",
         "Drama",
@@ -109,8 +112,9 @@
           "price": "2.99 USD"
         }
       },
-      "last_checked": "2026-03-12T02:51:18.567647+00:00",
-      "runtime": 93
+      "last_checked": "2026-03-12T15:30:28.747925+00:00",
+      "runtime": 93,
+      "release_date": "2016-07-01"
     },
     {
       "title": "Raising Arizona",
@@ -124,7 +128,7 @@
         "dad-movie": 5
       },
       "poster": "https://cdn.movieofthenight.com/show/3270/poster/vertical/en/240.jpg?Expires=1800300935&Signature=Bj~0KFZ1SKGx362SLepXhYAW9BED17M-2fGAY~jxHQuognehj5TX81h3mp2b8x2zxyKZxMUgn48fEfIsplxFASH6CLFY9Q8yWZZFzGs0vEhNpOEUwrPZ3HcDamIFHhdaJsianxGW9Mukbc4mVBnkWX42a5Y3Kh9j0PuHU11k5Awe6oZbMS5qAxwKGW-sZ4PIdRjNJqgeTFsP-dLVjioRflA2Coi77AJ6zG3adkX4YagbPFkeNGzxQnX9aTfpeV5v0U5M5X5jObZ--oX3QFDu-qxZ17mYqMYEexzjTa08F7qqLtQVELP57DLvyQ3kyQTKB9DjLxkUsd2peFvccur9Xg__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "",
+      "rating": "PG-13",
       "genres": [
         "Comedy",
         "Crime"
@@ -147,8 +151,9 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-12T02:51:19.009694+00:00",
-      "runtime": 94
+      "last_checked": "2026-03-12T15:30:29.362266+00:00",
+      "runtime": 94,
+      "release_date": "1987-04-17"
     },
     {
       "title": "Playing by Heart",
@@ -162,7 +167,7 @@
         "dad-movie": 6
       },
       "poster": "https://cdn.movieofthenight.com/show/14578/poster/vertical/en/240.jpg?Expires=1801803247&Signature=eMqplLEnLC71luRb3BJRKp~fM3w~oZVMzP1ogm54PR0AHEZLgJJ8MvkEZXFv3rEzVW958YcIW5Y0MifNpAYwdMPLmuTj6sFr6e4qUrwhLbogROlCuijGx-q-QEZn2-u7XKTC6qjMt9BT0atqIh0NnqVdmjLn4vENjbVk~ZeOimeuZgamFc~Y9WhIfd2gVHl4j1Y3ydRqRPGNLVU--dX59dQM86OuxUCOJxHCEH33R9hCeUkVVojjfUR-41XK2t9QwjkKgtPLzDX~5AUIA~FFdIyfOYQjvgqoLDcc6HUljtgIgDzyTWIvQMabg1Fkcz8Ejit01R1STd76OUoHX-xIJA__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "",
+      "rating": "R",
       "genres": [
         "Comedy",
         "Drama",
@@ -187,8 +192,9 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-12T02:51:19.461615+00:00",
-      "runtime": 120
+      "last_checked": "2026-03-12T15:30:30.105042+00:00",
+      "runtime": 120,
+      "release_date": "1999-01-22"
     },
     {
       "title": "Roxanne",
@@ -202,7 +208,7 @@
         "dad-movie": 7
       },
       "poster": "https://cdn.movieofthenight.com/show/8467/poster/vertical/en/240.jpg?Expires=1801784997&Signature=JBaYFvbDPKVgR6p8HLhV70Ic2pqB-yyHibkPU4zUV6XR3QHhQz0WOE64vS-L~fb76XWpbM0dG~4GYrugJZv5~H9n1uTHPH4yANnqp2y8kBEyyh~0-PGiyeEGGMbJIpCSZPs3U70lKUGLQQEufgl0hk92KMx5NZ4rmar3VPq3-NwTwSLYWDlG9-9TkXinAeU4EbQElFLUdiblcWlIh5-Q1PfMERd-gBehoPfn4j8NLRG5UbNayf-H~H00W51liI4UnIEY38gVUU5Bz7FtIW7dNfb5D0-pbL-Wp2DNwtAgSL90o4WMrLu8y69hbaTvT~Is3-1BT8Nei3TxHO61LoH8Qg__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "",
+      "rating": "PG",
       "genres": [
         "Comedy",
         "Romance"
@@ -218,8 +224,9 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-12T02:51:19.906704+00:00",
-      "runtime": 106
+      "last_checked": "2026-03-12T15:30:30.774628+00:00",
+      "runtime": 106,
+      "release_date": "1987-06-19"
     },
     {
       "title": "Spider-Man: Brand New Day",
@@ -241,7 +248,8 @@
       ],
       "overview": "",
       "streaming": {},
-      "last_checked": "2026-03-12T02:51:20.339161+00:00"
+      "last_checked": "2026-03-12T15:30:31.401178+00:00",
+      "release_date": "2026-07-31"
     },
     {
       "title": "The Life of Chuck",
@@ -255,7 +263,7 @@
         "dad-movie": 9
       },
       "poster": "https://cdn.movieofthenight.com/show/9894297/poster/vertical/en/240.jpg?Expires=1801611999&Signature=UP17LhTTfxtJ7n081ELbm4e6K0Ud6kchn9tF6lZEkwwqlzGxG5UVoEnefMzDK6q8v1zPIro9RmfNnKMNdMQMQQ6id1eDcw9q6HVF5pF00nK9V4Enz53vXZzX2HnCzg91wScLg~-qeRWKfkqZS3CSau9Qk4HgHalLKCKd5dG7yjp36-am4uugDvk7I9A7vL3rxr92CHdCLMeWO~CYMKhsGwezeLNuB4cOJAeFHYDIGfWHIAlJQdxvBp-mWnDhMizVXgEUaIhXWRJ4cZQLRZ4bOvyhfaWRWCnZLg~Rb-yUeSvuth342qodO3JsrP3lIeYFUhNyfpNmt1SVXupLE1jKww__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "",
+      "rating": "R",
       "genres": [
         "Drama",
         "Fantasy",
@@ -279,8 +287,9 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-12T02:51:20.721869+00:00",
-      "runtime": 110
+      "last_checked": "2026-03-12T15:30:32.038812+00:00",
+      "runtime": 110,
+      "release_date": "2025-06-13"
     },
     {
       "title": "The Fabelmans",
@@ -294,7 +303,7 @@
         "dad-movie": 10
       },
       "poster": "https://cdn.movieofthenight.com/show/10397/poster/vertical/en/240.jpg?Expires=1800304889&Signature=ivfk3A24YUZQ6FABXzljfwqWkGppGnOK8xEjRD0I3CRTnh~BRFuUsshrlZJ-O8Y-MzW1-HT~VhEaP9h19qnlc9pcjDaCQ1zSHNgFsu4VQLImrBLcBxF2l4s8o8wFUnhYWvH0tIS85GT6teH3tfAESy~0q2UX53pR5HAbUfnTLHs2yFEcUAQwpnDXa3ZlDenOZz-sdYz49hJCjQBbpMAN8g9aTBRsI91iaiDGSOx-EpybDekg~eyd4WSP3iiVsvmTU~KHzRait9TtB4acnGrWbPiv7y7-Iv-yhH58LTfoeuqJda~ZxXxsMjLNrlZVeXZH8dErJWFaegRUOMsLCu7mBA__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "",
+      "rating": "PG-13",
       "genres": [
         "Drama"
       ],
@@ -317,8 +326,9 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-12T02:51:21.167443+00:00",
-      "runtime": 150
+      "last_checked": "2026-03-12T15:30:32.640929+00:00",
+      "runtime": 150,
+      "release_date": "2022-11-23"
     },
     {
       "title": "The Last of the Mohicans",
@@ -332,7 +342,7 @@
         "dad-movie": 11
       },
       "poster": "https://cdn.movieofthenight.com/show/2655/poster/vertical/en/240.jpg?Expires=1800320090&Signature=iLpPf2xqrRLLlt8LDkco7vtCILKLAGl74DuUmNR~FxLz1Hdc5sc6mGDoWFLWYGyJOqAvONKXF3jUpClxcYKzWAlU01TDqHQ52QkvE-lgp5HmAYtMxjtYUBr0B~46mCWdyPjb0GfjkOXUTtfT0ED3W9q0E24Dc4zf7JcbsD7i-GAXgsmuUaWniqAfiIZgg0wMGPtFNnfUKbJibDANHCB8~Vi4qJfanz5a6QcYPLRrKFceM~ExTpCxf1MHwIms~V~hw~P~Gwt6vj1UBrIxJWIQXPhpwN9ZovmJ6E7KHTGBQOL4msryOAagGWKVbyZMwFtnSDMBPcDpZmVNiUPouUFkbg__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "",
+      "rating": "R",
       "genres": [
         "Action",
         "Adventure"
@@ -348,8 +358,9 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-03-12T02:51:21.603670+00:00",
-      "runtime": 111
+      "last_checked": "2026-03-12T15:30:33.252455+00:00",
+      "runtime": 111,
+      "release_date": "1992-09-25"
     },
     {
       "title": "L.A. Story",
@@ -363,7 +374,7 @@
         "dad-movie": 12
       },
       "poster": "https://cdn.movieofthenight.com/show/10520/poster/vertical/en/240.jpg?Expires=1801796735&Signature=a5GJCF9mNcPejAqxsjamqoppBFiiPtCqIxoWxNVxTp6heY~abHq6zkis88N4AxxnF6-MtHGbEnHbVdKW8x5hh2~O8otE~JwPiH7hXxB8tIP7CibTmKqahTvmGm2lBkRm3fwwmZiXVvjB-KcpLjzFhkR8F6M6XiXJEdY-W2s9z1n64NBnKxXNxg6qVAkwxwHqdnbZwDfbhAHdAo1NzB4Hdpk843mSxgL8pLiArTu3JEYGKVitv-zf4PIDprLh4Ipx7LYGoNl6HvlLzuzKNeFRLGCgTYjXgRYJU1aM1Pt9Owayzd7Wn3NIWC0XEFF-ylmsSUMR4Q4wzmympiRoJ7e1LQ__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "",
+      "rating": "PG-13",
       "genres": [
         "Comedy",
         "Fantasy"
@@ -379,8 +390,9 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-12T02:51:22.014561+00:00",
-      "runtime": 91
+      "last_checked": "2026-03-12T15:30:33.853626+00:00",
+      "runtime": 91,
+      "release_date": "1991-02-08"
     },
     {
       "title": "Tropic Thunder",
@@ -394,7 +406,7 @@
         "dad-movie": 13
       },
       "poster": "https://cdn.movieofthenight.com/show/825/poster/vertical/en/240.jpg?Expires=1798247227&Signature=KkyrE2XqOPtwfPKGWcMcLmeJK37UHc5Kxl~bVGUscGQoAyizkVgnYOxM08o4u62gAVFXc-I5bT8jLVp8dmOpe42-GGN2Li~n8v4c9AFtxmbBfmVzfN9T5luqXRxBZt3CjnT8bc-1~cpCW8WD-sR7JOdRRDFO-n6EAYArwO6o~pfwFQhC64aL0Hm-2ctZiJG0v2YNpr~E9C3i6CS8bbgoXvaJcR10wsVlmy32AoC9X-z4Zdu5BHhhowPBddpZON1duVfhjAM-dr919WmhSvUKF9n0NdNpk3p9woCtqyGWz57kbVFVA-v4nw1D~k-ULcZZ2ibXix79-ppZiDj9hPW4aQ__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "",
+      "rating": "R",
       "genres": [
         "Action",
         "Comedy",
@@ -425,8 +437,9 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-12T02:51:22.425537+00:00",
-      "runtime": 106
+      "last_checked": "2026-03-12T15:30:34.504673+00:00",
+      "runtime": 106,
+      "release_date": "2008-08-13"
     },
     {
       "title": "Being There",
@@ -440,7 +453,7 @@
         "dad-movie": 14
       },
       "poster": "https://cdn.movieofthenight.com/show/5998/poster/vertical/en/240.jpg?Expires=1800323048&Signature=PjHGJwBJJrYuksyj1BnGKd2l-dAv7TV0G3EfHZBc7Jy-vNLVP6w8GHqX6tvARzBCyzGYabpORl2akjuTowuW7fXyDXuXCOKLyV9zhWlhJo2ZrqQ28i5HY80FVuhkr2V30sFnhU-p2MQoVcllXpZCFI5zLJj7~0uOTTE1rfTVtUYvP-Zl2ZuOhVnM27HvqD0XKSXqkuD9hxSoBYBpQ5skhiwQbYoacOLBxgic0WkS2h1zs88oFFCH1x2b6r2u7F7GhUAMXJNYTRKL0uq9TGn86oHnmKSedaOztfW~lJh~I-t0l0MX9AzBlWYb28wCAjO3DB4ZuwC42AYY7U-TwqRfAA__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "",
+      "rating": "PG",
       "genres": [
         "Comedy",
         "Drama"
@@ -456,8 +469,9 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-12T02:51:22.810293+00:00",
-      "runtime": 124
+      "last_checked": "2026-03-12T15:30:35.105963+00:00",
+      "runtime": 124,
+      "release_date": "1979-12-19"
     },
     {
       "title": "Boyhood",
@@ -471,7 +485,7 @@
         "dad-movie": 15
       },
       "poster": "https://cdn.movieofthenight.com/show/1041/poster/vertical/en/240.jpg?Expires=1800311153&Signature=idxDTkX6Ix-fFkYOJbZNzaaEFkC~YrtuCxiAI3Tp8ghKJNmYvfsaT2VOJLeAsTZW1WVJQWG~Ydle7M1p39tIbnrxWIuH8wuOC6FL756dH15wior3RnWdJdp-2hADfLjhfFYwT4ENa5J-n3vOdmZ47GH-NB3kughqTU0kHk0XlBup06tpJG5tBh2rVnllsLwNXjCY-Fs7Of~7FkgaIcK-e4yeQAprDQHOWjEMx2cKtYIgBjAYnmFbbfiNDOtZZAsPUm70~LMS3qC7aLGDQC1HRpZvblX53JQFBVglhzfDTXppWg~UWRUAF4c4PBw2lhoQqdk6LLArY32yRGm4YLm3xg__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "",
+      "rating": "R",
       "genres": [
         "Drama"
       ],
@@ -515,8 +529,9 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-12T02:51:23.258971+00:00",
-      "runtime": 165
+      "last_checked": "2026-03-12T15:30:35.701477+00:00",
+      "runtime": 165,
+      "release_date": "2014-08-15"
     },
     {
       "title": "Napoleon",
@@ -530,7 +545,7 @@
         "dad-movie": 16
       },
       "poster": "https://cdn.movieofthenight.com/show/5460020/poster/vertical/en/240.jpg?Expires=1800823556&Signature=C1xpYHB~sGfoXz06k7FO71CmReAuo6yIHREtetyEpb8qlDjwGBvw8MCNMI6WolILapk4S8vSYq~gWl4pKf3cjy7FaPZO~qcqVjhYnTehZciU21DLKcA3haBlEbGawzsG7Nv2zJ46pJ6jdoFJV39SNeMIWpa5HhK~b7D1UvYpNBHWy9TNTrEXZRmKdFp8CxZ1AmvQeXbIIa2DpuQvjC7MmwigqCcpczbGucF5r4Z~8MquSzAw6aKEo93DXKgQOwzclClyefKbCHeDOAmArJ-gmj8if5WGToP2uO4mJQgPQg7HfT51shIKZb55T0WIgK-TugclNz7YmJDXSAwpjqNxOQ__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "",
+      "rating": "R",
       "genres": [
         "Action",
         "Adventure"
@@ -553,8 +568,9 @@
           "price": "14.99 USD"
         }
       },
-      "last_checked": "2026-03-12T02:51:23.684129+00:00",
-      "runtime": 157
+      "last_checked": "2026-03-12T15:30:36.328066+00:00",
+      "runtime": 157,
+      "release_date": "2023-11-22"
     },
     {
       "title": "Sing Sing",
@@ -568,7 +584,7 @@
         "dad-movie": 17
       },
       "poster": "https://cdn.movieofthenight.com/show/4794607/poster/vertical/en/240.jpg?Expires=1789898244&Signature=M3V2Ger~Eo4XyHo~Bj9x9Aa1E7LCihL2Nm-7GML46uTZ5iuI37MB10KbOMKsjxt~EkMGQdxSYCcvAL-re6PTa4MkdV2QN03vc0hTxvCx7AZtaJEZZJvhdaQWcSsF8FRyCZAgqWCGmmc~9tktN~g3nqJOsP-aBvr5c2OxQwDdfwxp6Ctjf7ThPunPaojbieHQxxxa3-r-N34NsREfPxJC5kbrfnoyPdWTVPqdUXZ5tRMMwNZ2k1x1H3G4mC8Oo~ylXh8a4DYuj8gwlZuffjkErtvdmCdJ8Cwc5DOqX2Jo6NWLpw~XlgCIcg~5vA4IhBb4aTWXSBguXs0MeQeGikEEMg__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "",
+      "rating": "R",
       "genres": [
         "Drama"
       ],
@@ -590,8 +606,9 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-03-12T02:51:24.083973+00:00",
-      "runtime": 106
+      "last_checked": "2026-03-12T15:30:36.930760+00:00",
+      "runtime": 106,
+      "release_date": "2024-03-08"
     },
     {
       "title": "Spinal Tap II: The End Continues",
@@ -605,7 +622,7 @@
         "dad-movie": 18
       },
       "poster": "https://cdn.movieofthenight.com/show/17337939/poster/vertical/en/240.jpg?Expires=1795808849&Signature=gsNmyYw9RHH71dr2Fda1tg0QN93Ng948rNfoXI32adbLY4ZnKrsUmMK4p7j7cmjjmHygT817XroVdlTPOgkTRFaUKmAOQYfJdzOA1wOHhtB0ambMf96TqXV~Wqydesn3dct2LPG-t17PborkcGBJXga2NAw7Gzl6~ClHIS8M0Vipcayhmxis-KCIqPQpNME~zqBa2wiXXtzKqG3B7hGmNirI2enxXqPteAiEwZd3JJQkdn~2O0H-KyUv-S6~ZmPePrnSLQjpFeBv4EiIPQVBEn4r0~GcGtBjHww2rTDZ0etyCO5NCmHH6FCGdaKwIddXh1Ua39kr2bosfgmLEiXn3Q__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "",
+      "rating": "R",
       "genres": [
         "Comedy",
         "Music"
@@ -621,8 +638,9 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-03-12T02:51:24.491916+00:00",
-      "runtime": 83
+      "last_checked": "2026-03-12T15:30:37.572838+00:00",
+      "runtime": 83,
+      "release_date": "2025-09-12"
     },
     {
       "title": "The Shape of Things",
@@ -636,7 +654,7 @@
         "dad-movie": 19
       },
       "poster": "https://cdn.movieofthenight.com/show/20054/poster/vertical/en/240.jpg?Expires=1800266319&Signature=hSU6S4vppRu5jaC75pRwBaCznO~r3Rx07974yEMnqgbW8AufHOYhrbdKePiJBPKo44x3OB33hANsygTt6eyaRRT-67HKP01Hu9GzBfsPIg1WvRdNp8VeU2oQY21iM291krzDTVXRwKe0FYt9eezj5LeRW6~8-Ogh5AIUy7Rmd-5jx0xYCW7B7E7RwoPI2Tg6ykxxJ0zKWRh6cru7Kt3rNeRZYy-NpUTtQOMvetQ~P8zg1YX2fsX3uU5MeaqZ0yDQ4~ASAU1KSPqmqbhMxwezB4ks78kL4y4n65dTXMo1Ojnua6I-9Dt6Me0KKI20LvkipAugxY0tDb9OlYCfWw28sg__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "",
+      "rating": "R",
       "genres": [
         "Comedy",
         "Drama",
@@ -653,8 +671,9 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-12T02:51:24.948647+00:00",
-      "runtime": 96
+      "last_checked": "2026-03-12T15:30:38.274452+00:00",
+      "runtime": 96,
+      "release_date": "2003-01-18"
     },
     {
       "title": "To Kill a Mockingbird",
@@ -668,7 +687,7 @@
         "dad-movie": 20
       },
       "poster": "https://cdn.movieofthenight.com/show/1208/poster/vertical/en/240.jpg?Expires=1800292554&Signature=ZP6yW~42YVd0bxbl8V0mijsJ78nY1QrgoUudARGL4ACqURzqQ3FNotCQEZwpVN4hd2wG32QXoW-jM3qU53j-ja5oAKpQPlC8PBtOS~deb04t~ISZCh3aAb07ax5JYO6jAUTZUxYjVA-7PiqWceKBEoJI1PlRdaINRHUcgRO5QblG8QmbUMmPhievTkQdbN1~Vg0~ZU6rbpF2vKRPlBUGnwFq13-29Jumrhv-8fOYrm2J5-QmNmPVfE-v4-LjmMBiDCtW7CpvHCkDFBY2I2mXl8E1KcqRBOXJ3up4VjsWTaKB4uMAJHtKUtG3WCxe-mAcFhaOeNSckmq-5D2JFHiLpA__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "",
+      "rating": "NR",
       "genres": [
         "Crime",
         "Drama"
@@ -684,8 +703,9 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-12T02:51:25.358927+00:00",
-      "runtime": 129
+      "last_checked": "2026-03-12T15:30:38.897740+00:00",
+      "runtime": 129,
+      "release_date": "1963-03-16"
     },
     {
       "title": "Pennies from Heaven",
@@ -699,7 +719,7 @@
         "dad-movie": 21
       },
       "poster": "https://cdn.movieofthenight.com/show/30352/poster/vertical/en/240.jpg?Expires=1803885530&Signature=SNRHelEXcS5RJA4fDFKER~Ta6GqrEldV7dAA1K5CHg4eAq~b3efzVkNPocQEl4JT~iUOgRM~zYNzBNIubQ49X2bpAycyXkW9Ui~PnCEkgg5FVzxhFkCA7MUmcxVlddcUzGzxTRL2jqUNxmhPbqbnmZKqrv4vWr7DNCs8T00m01CITYdSgnnNu1W7hTDr8u-dkyV1Y41hymyUh56ynqm3iebz37HV88rQTbIHuw7yhmgNIJbeZYWEE79n3~7Yu0cdttupS3L4ATijKRhp2zZ3rB62kN~keX4xi9rayrM2MhvUdBl7qwoJOA~yQidbl~dDL2qxPOL8R3w-9tCjz2xyRA__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "",
+      "rating": "R",
       "genres": [
         "Drama",
         "Romance"
@@ -730,8 +750,9 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-12T02:51:25.862324+00:00",
-      "runtime": 107
+      "last_checked": "2026-03-12T15:30:39.496612+00:00",
+      "runtime": 107,
+      "release_date": "1982-01-01"
     },
     {
       "title": "Thelma",
@@ -745,7 +766,7 @@
         "dad-movie": 22
       },
       "poster": "https://cdn.movieofthenight.com/show/6756359/poster/vertical/en/240.jpg?Expires=1792753550&Signature=NDH2GrGgwTe8M1ggYrQPoEqZCxA3pd6eUEkNImN6nzun~oB243eUbmjTa4VRUdXYb~tqBG4DmySdYgc0nzZt2kHKQbYlI6abNl6il~kmfGQIfiZsdH8nVnSEDaBGFYeDbDHS6JiPbwfmniToEM79wxXHwUcIEmksMDCNhgKzn6Kaugt~1dVdVNnbUCk5BMj7t6RKkOYoAJ2tkRtvOkmycypYinB7W3i2sZs9GajQQjTaIDVJt~AJFjGL8qm-hXPTD1Ks74oiq0cRjifhmHjb5nSBRknTSWlatVs02y9e5IzMXkBffUq1NGQuuF9kiqVE4Ppg-Ql8vMjQPdMEZ~Ng~g__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "",
+      "rating": "PG-13",
       "genres": [
         "Action",
         "Comedy"
@@ -768,8 +789,9 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-12T02:51:26.247549+00:00",
-      "runtime": 98
+      "last_checked": "2026-03-12T15:30:40.196818+00:00",
+      "runtime": 98,
+      "release_date": "2024-06-21"
     },
     {
       "title": "Masters of the Universe",
@@ -791,7 +813,8 @@
       ],
       "overview": "",
       "streaming": {},
-      "last_checked": "2026-03-12T02:51:26.639647+00:00"
+      "last_checked": "2026-03-12T15:30:40.801204+00:00",
+      "release_date": "2026-06-05"
     },
     {
       "title": "The Secret Life of Walter Mitty",
@@ -805,7 +828,7 @@
         "dad-movie": 24
       },
       "poster": "https://cdn.movieofthenight.com/show/1198/poster/vertical/en/240.jpg?Expires=1800307177&Signature=dfX149a9BBdf08Gpf-RbB9czFodpI~oweeeG5rMShhdV3vqYXyXdiWvKKVtzi3Mav9iw7iBc8R1EoyOtuUB9MEYPJvx0~rd1w-iVOrN5ZGbq8ZYod0m7tQ7U~f9Ld~ni3Fxfo0Le8cBzEv4wEnXWq6pEhX6j8Iazg07PC1ZNcs4OuBy-7BETv4hFrpoiAjY2TJpm6vNgHP-ur7cbkSMlmSCgW6LZbDZLgdgrlLNAztaHXSZHMuhWk3WIVhsGzAozU8UHyN0BEY4d8TChX8O5vjW9frQlH2IvnRXzqSuGu3IBXWnKyzYlmHouOngm5emTdbamgokTontW5xqiPxNZ2Q__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "",
+      "rating": "PG",
       "genres": [
         "Adventure",
         "Comedy",
@@ -837,8 +860,9 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-12T02:51:27.027321+00:00",
-      "runtime": 114
+      "last_checked": "2026-03-12T15:30:41.453570+00:00",
+      "runtime": 114,
+      "release_date": "2013-12-25"
     },
     {
       "title": "Finch",
@@ -852,7 +876,7 @@
         "dad-movie": 25
       },
       "poster": "https://cdn.movieofthenight.com/show/5332/poster/vertical/en/240.jpg?Expires=1798310524&Signature=IXDjwOjIcsELaKZYvZfwlPNFQi48JTII5CQWIn1rKinGVuhooS2-oEtPtVb6TMdAF5QfbQxL4zMX7iS0asud9ZyDxo75TbxPZmf83Iz-BuLfz5C5i5RmmfZPAt2etzEqqV~A8qo46v-bPz0cDG-PpGLh8cn0qlNYkedAPyv6NAm3QI4ztQIBcBNkZXGaPTQk0C1OrO9ZTJM4KsRqbVMMUAyns5FK3hJg3HHF07Usi3hMkLi5brB641TIMpdTJBBuaVJuMipVucaj0O2W9uXR~-zxp1DVljw0Y5cT2Ued824L9wqt3OYdoK2b4m8HQnhC58UvT2XVBzsmEj80Ex1waw__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "",
+      "rating": "PG-13",
       "genres": [
         "Adventure",
         "Drama",
@@ -876,8 +900,9 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-12T02:51:27.426360+00:00",
-      "runtime": 115
+      "last_checked": "2026-03-12T15:30:42.077601+00:00",
+      "runtime": 115,
+      "release_date": "2021-11-04"
     },
     {
       "title": "Her",
@@ -891,7 +916,7 @@
         "dad-movie": 26
       },
       "poster": "https://cdn.movieofthenight.com/show/460/poster/vertical/en/240.jpg?Expires=1800280066&Signature=XtmpYs-o~wtjfCLBWBRPESyIp9avc3G~jrd-VEsaEFd4gnFX7aJhz36bnFee4X7Y-MnRz2a~QqQo7XWjnltlSk8CmaXMmNU5RAUCTzwau1-GRBvBc~6NHB3Q84XY8TLZS2ty61EQY8645Oh2EX7n89znfLSKbIPR1rMc~Jj0pS64RJ3GJwj9GBOpPmrjZ8pM2qDU~j~sj3w6tPveCMEt~GFeNRH9i~3j58iFrItaDIrffDKlbD6h4ENR~JfOrvYBj6W5~ijssYrdmOdkn-Jj73TTlUEhS~6sm-RMfji2-DCF--FTZwrb4Dy1j0THDCxT4TzQT0DbH~d~0jPhT4tT1Q__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "",
+      "rating": "R",
       "genres": [
         "Drama",
         "Romance",
@@ -916,8 +941,9 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-03-12T02:51:27.850458+00:00",
-      "runtime": 125
+      "last_checked": "2026-03-12T15:30:42.688239+00:00",
+      "runtime": 125,
+      "release_date": "2014-01-10"
     },
     {
       "title": "Black Bag",
@@ -931,7 +957,7 @@
         "dad-movie": 27
       },
       "poster": "https://cdn.movieofthenight.com/show/14625489/poster/vertical/en/240.jpg?Expires=1794932419&Signature=KCp1vlTs3qAB2gM-CtgcSDEpdHCFcFqWd-eduwdAj79RNp7-SOhQ3Vw5YwagVC9hym5FLhEM~q4Orm0RO1t0CkuOQUjOYfNqaWgvvGmpeCl07l02Qv5II7nc3hM2oN6xV3hCLGDeRvBcBr7XdNuZi6rv28fc1vAGOfG-vNYaDmrov9HxDLi~aS8-SdvKigAViDwrn~c54TrfkPDXP0-w82Cgp8kohbfScAJxU--dn~ioKjnnRZWhlSLinvLapOB0vAY-HjfO-zciG3SrjstnATSqa7Cm7CuNpt~LomXeN23GV8YdWnB2MEUHD-4X2Irc06orxVyTu0OI-eL7i2p7pA__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "",
+      "rating": "R",
       "genres": [
         "Drama",
         "Mystery"
@@ -946,8 +972,9 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-12T02:51:28.279007+00:00",
-      "runtime": 90
+      "last_checked": "2026-03-12T15:30:43.275434+00:00",
+      "runtime": 90,
+      "release_date": "2025-03-14"
     },
     {
       "title": "Jules",
@@ -961,7 +988,7 @@
         "dad-movie": 28
       },
       "poster": "https://cdn.movieofthenight.com/show/1689619/poster/vertical/en/240.jpg?Expires=1803183787&Signature=PrhhgWKeScHrgovuDl9ulvTgqPVWObj5Kj7Lw2KN~2sUvnUjGfKqFQZDdPxy7sbw6d3zwidWaY8KAM5EEu32V1cUTragP4OBp4pZbvjwEpnPQ277fj3g7Ok3Vra~2lhV9ExYszvMtx-boajJxwolYz1rgkjkecOGZROsRRExZ2VprgdmRRVbrgUYLoK~sPaJbO-5iCdgu5magU72v-07BFzfiwCyFDE8ucnw35R-hVUXyEqadEedh1hbqsBboF8E-H38jUhjL8TKmiyOBmxErSR~Mf7fpc~-9uTvKT3-coZxnScdZXPEN0D2zUbYPAtnfQwmAWremKatxyPk0gpd8Q__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "",
+      "rating": "PG-13",
       "genres": [
         "Comedy",
         "Drama",
@@ -985,8 +1012,9 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-12T02:51:28.684379+00:00",
-      "runtime": 87
+      "last_checked": "2026-03-12T15:30:43.887077+00:00",
+      "runtime": 87,
+      "release_date": "2023-08-11"
     },
     {
       "title": "Dear Evan Hansen",
@@ -1000,7 +1028,7 @@
         "dad-movie": 29
       },
       "poster": "https://cdn.movieofthenight.com/show/16889/poster/vertical/en/240.jpg?Expires=1800472668&Signature=ISJfKweCztEcvmvqzkB-~VYYbYCyUlPUPgUYPZRugDtlrFeUZ-XQLq9uPggbKxeEvlKjKsA6dS-Ucu1e7rpvbRd3y69u7ud8-PW4a65qW1VGERcjX~b6hWiCQvLAadp3nAoKSCgise-GK8SEvW9iElCQmtJopdXaJwNW0Ej5D-egG2ZLJN0Ijzs916X54G3ACV-n4F30S~YoiJGP2DKDnydwgZSTsle0azfYiTGIQJhUrqgJK3Woprk2YyJFwwFciFkMaa3BVb3S0gYD0R9oP8W6rxlXsoerJGw0bLTun-K4~e8Ow3LYlQSb4Vc72cBptalAbTF5fCZgf6UvfyGQew__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "",
+      "rating": "PG-13",
       "genres": [
         "Drama"
       ],
@@ -1023,8 +1051,9 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-12T02:51:29.124224+00:00",
-      "runtime": 137
+      "last_checked": "2026-03-12T15:30:44.502872+00:00",
+      "runtime": 137,
+      "release_date": "2021-09-24"
     },
     {
       "title": "Hamilton",
@@ -1038,15 +1067,16 @@
         "dad-movie": 30
       },
       "poster": "https://cdn.movieofthenight.com/show/4744/poster/vertical/en/240.jpg?Expires=1800357889&Signature=hl7xdVopcYG8qoYOj7wqJbl1USRo-o2iBfWwuVn0oAKagJUl6U0SfmOw3wWn-WfljwGYJ2ZDNOnt3X0BwUL-OOe0Qzdv9nUrArw2szc3NYH~LmzLRcClPOdh~McFWEQf2TZqspusv0aXNeuy~OshA-4uWDHhANCaf0woM2MRbbKJ0Jpr4EhiP5bN3R4xS4dyHoqUeXz2qKGaW2aCxHnhcU5Q7r3fxP3OqLUYSnwHqES~HS1LmaQCQZ8HrCNVgV2u-qexm7JhpmAranMrMvc9~xV-eGOICo9YzHed2XsAyc3z9UBVwv07GcBqNdJmpMO5jLBhZByfvcxDkXurW1x5QA__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "",
+      "rating": "PG-13",
       "genres": [
         "Drama",
         "History"
       ],
       "overview": "The filmed version of Broadway original “Hamilton” that soars in music and tale.",
       "streaming": {},
-      "last_checked": "2026-03-12T02:51:29.517969+00:00",
-      "runtime": 160
+      "last_checked": "2026-03-12T15:30:45.094230+00:00",
+      "runtime": 160,
+      "release_date": "2025-09-05"
     }
   ]
 }

@@ -389,6 +389,12 @@ def main():
 
     print(f"Loaded {len(watchlist)} items from watchlist.json")
 
+    if not TMDB_API_KEY:
+        print("WARNING: TMDB_API_KEY not set — content ratings, release dates, and poster backfill from TMDB will be skipped.")
+        print("  Add a TMDB_API_KEY secret to enable these features.")
+    else:
+        print("TMDB integration enabled")
+
     # Load existing availability data
     existing_data = load_json(AVAILABILITY_PATH)
     existing_items = {}

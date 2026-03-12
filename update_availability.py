@@ -17,6 +17,7 @@ import requests
 # --- Configuration ---
 RAPIDAPI_KEY = os.environ.get("RAPIDAPI_KEY", "")
 RAPIDAPI_HOST = "streaming-availability.p.rapidapi.com"
+TMDB_API_KEY = os.environ.get("TMDB_API_KEY", "")
 COUNTRY = os.environ.get("COUNTRY", "us")
 STALE_DAYS = int(os.environ.get("STALE_DAYS", "7"))
 MAX_REQUESTS = int(os.environ.get("MAX_REQUESTS", "30"))  # Free tier: 1000/month ≈ 33/day
@@ -116,6 +117,116 @@ def get_show_by_id(show_type, tmdb_id):
         return None
 
 
+def fetch_tmdb_details(tmdb_id, show_type, title=""):
+    """
+    Fetch details from TMDB in a single API call using append_to_response.
+    Returns a dict with any/all of: rating, release_date, poster, overview.
+    For movies: /movie/{id}?append_to_response=release_dates
+    For series: /tv/{id}?append_to_response=content_ratings
+    """
+    if not TMDB_API_KEY:
+        return {}
+
+    clean_id = str(tmdb_id).split("/")[-1].strip()
+    if not clean_id.isdigit():
+        return {}
+
+    result = {}
+
+    try:
+        if show_type == "movie":
+            url = f"https://api.themoviedb.org/3/movie/{clean_id}"
+            params = {"api_key": TMDB_API_KEY, "append_to_response": "release_dates"}
+            resp = requests.get(url, params=params, timeout=10)
+            resp.raise_for_status()
+            data = resp.json()
+
+            # Poster
+            poster_path = data.get("poster_path", "")
+            if poster_path:
+                result["poster"] = f"https://image.tmdb.org/t/p/w300{poster_path}"
+
+            # Overview
+            overview = data.get("overview", "")
+            if overview:
+                if len(overview) > 200:
+                    overview = overview[:197] + "..."
+                result["overview"] = overview
+
+            # Runtime
+            runtime = data.get("runtime")
+            if runtime:
+                result["runtime"] = runtime
+
+            # Parse US release dates for both certification and release date
+            for country in data.get("release_dates", {}).get("results", []):
+                if country.get("iso_3166_1") == "US":
+                    # Find the theatrical release (type 3) or earliest with a date
+                    best_date = None
+                    best_cert = ""
+                    for rd in country.get("release_dates", []):
+                        cert = rd.get("certification", "").strip()
+                        date_str = rd.get("release_date", "")[:10]  # "YYYY-MM-DD"
+                        rd_type = rd.get("type", 0)
+
+                        if cert and not best_cert:
+                            best_cert = cert
+
+                        # Prefer theatrical (3), then premiere (1), then any
+                        if date_str:
+                            if rd_type == 3:  # Theatrical
+                                best_date = date_str
+                            elif not best_date:
+                                best_date = date_str
+
+                    if best_cert:
+                        result["rating"] = best_cert
+                    if best_date:
+                        result["release_date"] = best_date
+                    break
+
+        else:
+            # TV shows
+            url = f"https://api.themoviedb.org/3/tv/{clean_id}"
+            params = {"api_key": TMDB_API_KEY, "append_to_response": "content_ratings"}
+            resp = requests.get(url, params=params, timeout=10)
+            resp.raise_for_status()
+            data = resp.json()
+
+            # Poster
+            poster_path = data.get("poster_path", "")
+            if poster_path:
+                result["poster"] = f"https://image.tmdb.org/t/p/w300{poster_path}"
+
+            # Overview
+            overview = data.get("overview", "")
+            if overview:
+                if len(overview) > 200:
+                    overview = overview[:197] + "..."
+                result["overview"] = overview
+
+            # Season/episode counts
+            num_seasons = data.get("number_of_seasons")
+            num_episodes = data.get("number_of_episodes")
+            if num_seasons:
+                result["season_count"] = num_seasons
+            if num_episodes:
+                result["episode_count"] = num_episodes
+
+            # Content rating
+            for entry in data.get("content_ratings", {}).get("results", []):
+                if entry.get("iso_3166_1") == "US":
+                    rating = entry.get("rating", "")
+                    if rating:
+                        result["rating"] = rating
+                    break
+
+    except requests.RequestException as e:
+        print(f"    [TMDB WARN] Could not fetch details for '{title}': {e}")
+
+    return result
+
+
 def extract_streaming_options(show):
     """Extract streaming availability from a show object."""
     streaming = {}
@@ -179,35 +290,9 @@ def extract_item_data(show, watchlist_entry):
             or ""
         )
 
-    # Get content rating — try multiple possible field locations
-    rating = ""
-
-    # Try 1: contentRatings array with country match
-    for cert in show.get("contentRatings", []):
-        if cert.get("country", "").lower() == COUNTRY:
-            rating = cert.get("rating", "")
-            break
-
-    # Try 2: Nested under certification or similar
-    if not rating:
-        rating = show.get("certification", "")
-
-    # Try 3: Top-level rating field, but ONLY if it looks like a content rating (not a numeric score)
-    if not rating:
-        top_rating = show.get("rating", "")
-        if isinstance(top_rating, str) and not top_rating.replace(".", "").isdigit():
-            rating = top_rating
-
-    # Debug: log what rating fields exist for the first few items
-    if not rating:
-        rating_fields = {}
-        for key in show:
-            val = show[key]
-            if "rat" in key.lower() or "cert" in key.lower() or "age" in key.lower() or "mpaa" in key.lower():
-                rating_fields[key] = val
-        if rating_fields:
-            title_str = show.get("title", "?")
-            print(f"    [RATING DEBUG] {title_str}: {rating_fields}")
+    # Content rating is managed via TMDB lookups in the main loop
+    # and stored in watchlist.json. Just pass through what we have.
+    rating = watchlist_entry.get("rating", "")
 
     # Get genres
     genres = [g.get("name", g.get("id", "")) for g in show.get("genres", [])]
@@ -331,6 +416,8 @@ def main():
             # Preserve user-managed fields (may have changed in watchlist)
             existing["lists"] = entry.get("lists", existing.get("lists", ["dad"]))
             existing["priority"] = entry.get("priority", existing.get("priority", {}))
+            if entry.get("rating"):
+                existing["rating"] = entry["rating"]
             if entry.get("release_date"):
                 existing["release_date"] = entry["release_date"]
             if entry.get("watched_seasons") is not None:
@@ -345,6 +432,8 @@ def main():
             if existing:
                 existing["lists"] = entry.get("lists", existing.get("lists", ["dad"]))
                 existing["priority"] = entry.get("priority", existing.get("priority", {}))
+                if entry.get("rating"):
+                    existing["rating"] = entry["rating"]
                 if entry.get("release_date"):
                     existing["release_date"] = entry["release_date"]
                 if entry.get("watched_seasons") is not None:
@@ -421,18 +510,78 @@ def main():
                 watchlist_modified = True
                 print(f"    -> Resolved year: {resolved_year}")
 
+            # Fetch details from TMDB if needed (rating, release_date)
+            needs_rating = not entry.get("rating", "")
+            needs_release = not entry.get("release_date", "")
+            lookup_id = entry.get("tmdb_id") or show.get("tmdbId")
+
+            if (needs_rating or needs_release) and lookup_id and TMDB_API_KEY:
+                tmdb_data = fetch_tmdb_details(lookup_id, show_type, title)
+
+                if tmdb_data.get("rating") and needs_rating:
+                    entry["rating"] = tmdb_data["rating"]
+                    item_data["rating"] = tmdb_data["rating"]
+                    watchlist_modified = True
+                    print(f"    -> Fetched rating: {tmdb_data['rating']}")
+                elif needs_rating:
+                    print(f"    -> No rating available from TMDB (will retry next run)")
+
+                if tmdb_data.get("release_date") and needs_release:
+                    entry["release_date"] = tmdb_data["release_date"]
+                    item_data["release_date"] = tmdb_data["release_date"]
+                    watchlist_modified = True
+                    print(f"    -> Fetched release date: {tmdb_data['release_date']}")
+
+                time.sleep(0.15)  # Be polite to TMDB
+
             stream_count = len(item_data["streaming"])
             print(f"    -> Found on {stream_count} service(s)")
         else:
             print(f"  [MISS] No results for '{title}' ({year})")
+
+            # Try TMDB for poster, overview, rating, release_date
+            tmdb_data = {}
+            lookup_id = entry.get("tmdb_id") or tmdb_id
+            if lookup_id and TMDB_API_KEY:
+                print(f"    -> Checking TMDB for details...")
+                tmdb_data = fetch_tmdb_details(lookup_id, show_type, title)
+                time.sleep(0.15)
+
+                # Write rating and release_date back to watchlist
+                if tmdb_data.get("rating") and not entry.get("rating"):
+                    entry["rating"] = tmdb_data["rating"]
+                    watchlist_modified = True
+                    print(f"    -> Fetched rating: {tmdb_data['rating']}")
+                if tmdb_data.get("release_date") and not entry.get("release_date"):
+                    entry["release_date"] = tmdb_data["release_date"]
+                    watchlist_modified = True
+                    print(f"    -> Fetched release date: {tmdb_data['release_date']}")
+                if tmdb_data:
+                    fields = [k for k in tmdb_data if k not in ("rating", "release_date")]
+                    if fields:
+                        print(f"    -> Also got from TMDB: {', '.join(fields)}")
+
             # Keep existing data if we had it, or create a minimal entry
             if existing:
                 existing["lists"] = entry.get("lists", existing.get("lists", ["dad"]))
                 existing["priority"] = entry.get("priority", existing.get("priority", {}))
+                if entry.get("rating"):
+                    existing["rating"] = entry["rating"]
                 if entry.get("release_date"):
                     existing["release_date"] = entry["release_date"]
                 if entry.get("watched_seasons") is not None:
                     existing["watched_seasons"] = entry["watched_seasons"]
+                # Backfill poster/overview from TMDB if missing
+                if tmdb_data.get("poster") and not existing.get("poster"):
+                    existing["poster"] = tmdb_data["poster"]
+                if tmdb_data.get("overview") and not existing.get("overview"):
+                    existing["overview"] = tmdb_data["overview"]
+                if tmdb_data.get("runtime") and not existing.get("runtime"):
+                    existing["runtime"] = tmdb_data["runtime"]
+                if tmdb_data.get("season_count") and not existing.get("season_count"):
+                    existing["season_count"] = tmdb_data["season_count"]
+                if tmdb_data.get("episode_count") and not existing.get("episode_count"):
+                    existing["episode_count"] = tmdb_data["episode_count"]
                 updated_items.append(existing)
             else:
                 miss_entry = {
@@ -441,16 +590,23 @@ def main():
                     "type": show_type,
                     "lists": entry.get("lists", ["dad"]),
                     "priority": entry.get("priority", {}),
-                    "poster": "",
-                    "rating": "",
+                    "poster": tmdb_data.get("poster", ""),
+                    "rating": entry.get("rating", ""),
                     "genres": [],
-                    "overview": "",
+                    "overview": tmdb_data.get("overview", ""),
                     "streaming": {},
                     "last_checked": datetime.now(timezone.utc).isoformat(),
-                    "error": "not_found",
                 }
+                if tmdb_data.get("runtime"):
+                    miss_entry["runtime"] = tmdb_data["runtime"]
+                if tmdb_data.get("season_count"):
+                    miss_entry["season_count"] = tmdb_data["season_count"]
+                if tmdb_data.get("episode_count"):
+                    miss_entry["episode_count"] = tmdb_data["episode_count"]
                 if entry.get("release_date"):
                     miss_entry["release_date"] = entry["release_date"]
+                elif tmdb_data.get("release_date"):
+                    miss_entry["release_date"] = tmdb_data["release_date"]
                 if entry.get("watched_seasons") is not None:
                     miss_entry["watched_seasons"] = entry["watched_seasons"]
                 updated_items.append(miss_entry)

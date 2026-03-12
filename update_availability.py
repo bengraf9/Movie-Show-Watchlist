@@ -122,6 +122,12 @@ def extract_streaming_options(show):
 
         service_name = opt.get("service", {}).get("name", service_id)
         stream_type = opt.get("type", "")  # subscription, rent, buy, free, addon
+
+        # Skip addon entries (e.g., HBO as a "channel" on Hulu/Prime).
+        # The actual service (HBO Max) will have its own direct entry.
+        if stream_type == "addon":
+            continue
+
         price_info = opt.get("price", {})
         link = opt.get("link", "")
         quality = opt.get("quality", "")
@@ -142,7 +148,7 @@ def extract_streaming_options(show):
                 entry["price"] = str(amount)
 
         # Keep the best option per service (prefer subscription > free > rent > buy)
-        priority = {"subscription": 0, "free": 1, "addon": 2, "rent": 3, "buy": 4}
+        priority = {"subscription": 0, "free": 1, "rent": 2, "buy": 3}
         existing = streaming.get(service_id)
         if existing:
             if priority.get(stream_type, 5) < priority.get(existing["type"], 5):

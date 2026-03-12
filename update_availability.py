@@ -94,7 +94,13 @@ def get_show_by_id(show_type, tmdb_id):
     show_type: 'movie' or 'series'
     Returns the show object or None.
     """
-    url = f"https://{RAPIDAPI_HOST}/shows/{show_type}/{tmdb_id}"
+    # Clean TMDB ID: strip any "movie/" or "series/" prefix, keep only the number
+    clean_id = str(tmdb_id).split("/")[-1].strip()
+    if not clean_id.isdigit():
+        print(f"  [WARN] Invalid TMDB ID '{tmdb_id}' — expected a number")
+        return None
+
+    url = f"https://{RAPIDAPI_HOST}/shows/{show_type}/{clean_id}"
     params = {
         "country": COUNTRY,
         "output_language": "en",
@@ -173,15 +179,12 @@ def extract_item_data(show, watchlist_entry):
             or ""
         )
 
-    # Get content rating
+    # Get content rating (from certification data, not the numeric score)
     rating = ""
     for cert in show.get("contentRatings", []):
         if cert.get("country", "").lower() == COUNTRY:
             rating = cert.get("rating", "")
             break
-    # Fallback: sometimes it's at the top level
-    if not rating:
-        rating = show.get("rating", "")
 
     # Get genres
     genres = [g.get("name", g.get("id", "")) for g in show.get("genres", [])]
@@ -344,14 +347,35 @@ def main():
 
             # Verify search result isn't a mismatch
             if show:
-                result_title = (show.get("title") or "").lower()
-                search_title = title.lower()
-                # If the result title doesn't share any significant words, it's likely wrong
-                search_words = set(w for w in search_title.split() if len(w) > 2)
-                result_words = set(w for w in result_title.split() if len(w) > 2)
-                if search_words and not search_words & result_words:
-                    print(f"  [MISMATCH] Search returned '{show.get('title')}' for '{title}' — skipping")
-                    show = None
+                result_title = (show.get("title") or "").lower().strip()
+                search_title = title.lower().strip()
+
+                # Strict match: titles must be very similar, not just share one word
+                # Remove common articles for comparison
+                def normalize(t):
+                    for article in ['the ', 'a ', 'an ']:
+                        if t.startswith(article):
+                            t = t[len(article):]
+                    return t
+
+                norm_search = normalize(search_title)
+                norm_result = normalize(result_title)
+
+                # Check if one title contains the other, or they share most words
+                search_words = set(w for w in norm_search.split() if len(w) > 1)
+                result_words = set(w for w in norm_result.split() if len(w) > 1)
+
+                if search_words and result_words:
+                    overlap = search_words & result_words
+                    # Require majority of the SHORTER title's words to match
+                    min_words = min(len(search_words), len(result_words))
+                    match_ratio = len(overlap) / min_words if min_words > 0 else 0
+
+                    if match_ratio < 0.5 or (min_words <= 2 and overlap != search_words and overlap != result_words):
+                        print(f"  [MISMATCH] Search returned '{show.get('title')}' for '{title}' (overlap: {overlap}) — skipping")
+                        show = None
+                    else:
+                        print(f"  [MATCH] Search found '{show.get('title')}'")
                 else:
                     print(f"  [MATCH] Search found '{show.get('title')}'")
 

@@ -328,8 +328,9 @@ def main():
             requests_made += 1
             time.sleep(0.3)
             if not show:
-                print(f"  [NOT IN API] {title} — TMDB ID {tmdb_id} not found in Streaming Availability API. Skipping search to avoid mismatch.")
-        else:
+                print(f"  [ID MISS] TMDB ID {tmdb_id} not in API, falling back to title search...")
+
+        if not show:
             print(f"  [SEARCH] {title} ({year})...")
             show = search_show(title, show_type, year)
             requests_made += 1
@@ -345,6 +346,9 @@ def main():
                 if search_words and not search_words & result_words:
                     print(f"  [MISMATCH] Search returned '{show.get('title')}' for '{title}' — skipping")
                     show = None
+                else:
+                    print(f"  [MATCH] Search found '{show.get('title')}'")
+
 
         if show:
             item_data = extract_item_data(show, entry)

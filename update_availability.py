@@ -326,13 +326,25 @@ def main():
             print(f"  [FETCH] {title} ({year}) by TMDB ID {tmdb_id}...")
             show = get_show_by_id(show_type, tmdb_id)
             requests_made += 1
-            time.sleep(0.3)  # Be polite to the API
-
-        if not show:
+            time.sleep(0.3)
+            if not show:
+                print(f"  [NOT IN API] {title} — TMDB ID {tmdb_id} not found in Streaming Availability API. Skipping search to avoid mismatch.")
+        else:
             print(f"  [SEARCH] {title} ({year})...")
             show = search_show(title, show_type, year)
             requests_made += 1
             time.sleep(0.3)
+
+            # Verify search result isn't a mismatch
+            if show:
+                result_title = (show.get("title") or "").lower()
+                search_title = title.lower()
+                # If the result title doesn't share any significant words, it's likely wrong
+                search_words = set(w for w in search_title.split() if len(w) > 2)
+                result_words = set(w for w in result_title.split() if len(w) > 2)
+                if search_words and not search_words & result_words:
+                    print(f"  [MISMATCH] Search returned '{show.get('title')}' for '{title}' — skipping")
+                    show = None
 
         if show:
             item_data = extract_item_data(show, entry)

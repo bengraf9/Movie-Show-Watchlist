@@ -28,7 +28,7 @@ jobs:
         env:
           RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
           COUNTRY: us
-          STALE_DAYS: '7'
+          STALE_DAYS: '0'
           MAX_REQUESTS: '30'
         run: python update_availability.py
 

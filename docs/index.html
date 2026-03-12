@@ -1033,13 +1033,20 @@
 
   // === POPULATE SERVICE DROPDOWN ===
   function populateServiceFilter() {
-    const services = new Map();
+    const subServices = new Map();  // Services with subscription/free content
+    let hasRentBuy = false;
     let hasTheaters = false;
     const currentYear = new Date().getFullYear();
+
     allItems.forEach(item => {
       Object.values(item.streaming || {}).forEach(s => {
-        if (!services.has(s.service)) {
-          services.set(s.service, s.serviceName || serviceLabels[s.service] || s.service);
+        if (s.type === 'subscription' || s.type === 'free') {
+          if (!subServices.has(s.service)) {
+            subServices.set(s.service, s.serviceName || serviceLabels[s.service] || s.service);
+          }
+        }
+        if (s.type === 'rent' || s.type === 'buy') {
+          hasRentBuy = true;
         }
       });
       // Check if any item qualifies for Theaters
@@ -1051,7 +1058,7 @@
     });
     const select = document.getElementById('serviceFilter');
     // Sort by name
-    [...services.entries()]
+    [...subServices.entries()]
       .sort((a, b) => a[1].localeCompare(b[1]))
       .forEach(([id, name]) => {
         const opt = document.createElement('option');
@@ -1059,7 +1066,13 @@
         opt.textContent = name;
         select.appendChild(opt);
       });
-    // Add Theaters option if applicable
+    // Add special options
+    if (hasRentBuy) {
+      const opt = document.createElement('option');
+      opt.value = '_rentbuy';
+      opt.textContent = 'Rent / Buy';
+      select.appendChild(opt);
+    }
     if (hasTheaters) {
       const opt = document.createElement('option');
       opt.value = '_theaters';
@@ -1089,8 +1102,17 @@
         if (activeService === '_theaters') {
           // Show items with no streaming (theaters/upcoming)
           if (Object.keys(streaming).length > 0) return false;
+        } else if (activeService === '_rentbuy') {
+          // Show items available for rent or buy on any service
+          const hasRentBuy = Object.values(streaming).some(
+            s => s.type === 'rent' || s.type === 'buy'
+          );
+          if (!hasRentBuy) return false;
         } else {
-          if (!streaming[activeService]) return false;
+          // Specific service: only match subscription or free (not rent/buy)
+          const svc = streaming[activeService];
+          if (!svc) return false;
+          if (svc.type === 'rent' || svc.type === 'buy') return false;
         }
       }
 

@@ -29,7 +29,7 @@ jobs:
           RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
           COUNTRY: us
-          STALE_DAYS: '0'
+          STALE_DAYS: '7'
           MAX_REQUESTS: '30'
         run: python update_availability.py
 

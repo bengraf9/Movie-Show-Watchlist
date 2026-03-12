@@ -179,12 +179,35 @@ def extract_item_data(show, watchlist_entry):
             or ""
         )
 
-    # Get content rating (from certification data, not the numeric score)
+    # Get content rating — try multiple possible field locations
     rating = ""
+
+    # Try 1: contentRatings array with country match
     for cert in show.get("contentRatings", []):
         if cert.get("country", "").lower() == COUNTRY:
             rating = cert.get("rating", "")
             break
+
+    # Try 2: Nested under certification or similar
+    if not rating:
+        rating = show.get("certification", "")
+
+    # Try 3: Top-level rating field, but ONLY if it looks like a content rating (not a numeric score)
+    if not rating:
+        top_rating = show.get("rating", "")
+        if isinstance(top_rating, str) and not top_rating.replace(".", "").isdigit():
+            rating = top_rating
+
+    # Debug: log what rating fields exist for the first few items
+    if not rating:
+        rating_fields = {}
+        for key in show:
+            val = show[key]
+            if "rat" in key.lower() or "cert" in key.lower() or "age" in key.lower() or "mpaa" in key.lower():
+                rating_fields[key] = val
+        if rating_fields:
+            title_str = show.get("title", "?")
+            print(f"    [RATING DEBUG] {title_str}: {rating_fields}")
 
     # Get genres
     genres = [g.get("name", g.get("id", "")) for g in show.get("genres", [])]

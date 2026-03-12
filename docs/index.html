@@ -1100,7 +1100,7 @@
 
       // Rating filter
       if (activeRating !== 'all') {
-        const r = (item.rating || '').toLowerCase();
+        const r = String(item.rating || '').toLowerCase();
         if (activeRating === 'kids' && !kidRatings.has(r)) return false;
         if (activeRating === 'teen' && !teenRatings.has(r)) return false;
       }
@@ -1411,7 +1411,7 @@
 
   function getRatingClass(rating) {
     if (!rating) return '';
-    const r = rating.toLowerCase().replace(/\s/g, '-');
+    const r = String(rating).toLowerCase().replace(/\s/g, '-');
     if (kidRatings.has(r)) return `rating-${r}`;
     if (['pg-13', 'tv-14'].includes(r)) return `rating-${r}`;
     if (['r', 'tv-ma', 'nc-17'].includes(r)) return `rating-${r}`;

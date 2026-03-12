@@ -1296,22 +1296,29 @@
 
     if (hasStreaming) return renderStreaming(streaming);
 
-    // Check for release date
+    const now = new Date();
+
+    // Check for release date (from TMDB or manually entered)
     if (item.release_date) {
       const rd = new Date(item.release_date + 'T00:00:00');
-      const now = new Date();
+
       if (rd > now) {
-        // Upcoming
+        // Upcoming — not yet released
         const dateStr = rd.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
         return `<span class="stream-badge badge-upcoming">Coming ${dateStr}</span>`;
       }
+
+      // Released in the last 4 months — likely in theaters (movies) or just released
+      const monthsAgo = (now - rd) / (1000 * 60 * 60 * 24 * 30);
+      if (item.type === 'movie' && monthsAgo <= 4) {
+        return '<span class="stream-badge badge-theaters">Theaters</span>';
+      }
     }
 
-    // Recent movie with no streaming → likely in theaters
-    if (item.type === 'movie') {
-      const currentYear = new Date().getFullYear();
-      const itemYear = item.year || 0;
-      if (itemYear >= currentYear - 1) {
+    // Fallback: recent movie by year with no release date data
+    if (item.type === 'movie' && !item.release_date) {
+      const currentYear = now.getFullYear();
+      if ((item.year || 0) >= currentYear) {
         return '<span class="stream-badge badge-theaters">Theaters</span>';
       }
     }

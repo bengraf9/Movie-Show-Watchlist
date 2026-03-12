@@ -36,7 +36,7 @@
       "dad-movie": 3
     },
     "release_date": "2026-05-08",
-    "tmdb_id": "movie/10556"
+    "tmdb_id": "movie/1301421"
   },
   {
     "title": "Swiss Army Man",
@@ -47,8 +47,8 @@
     "priority": {
       "dad-movie": 4
     },
-    "tmdb_id": "movie/16353",
-    "year": 2008
+    "tmdb_id": "movie/347031",
+    "year": 2016
   },
   {
     "title": "Raising Arizona",
@@ -144,8 +144,8 @@
     "priority": {
       "dad-movie": 12
     },
-    "tmdb_id": "movie/862",
-    "year": 1995
+    "tmdb_id": "movie/2107",
+    "year": 1991
   },
   {
     "title": "Tropic Thunder",
@@ -156,8 +156,8 @@
     "priority": {
       "dad-movie": 13
     },
-    "tmdb_id": "movie/95739",
-    "year": 2012
+    "tmdb_id": "movie/7446",
+    "year": 2008
   },
   {
     "title": "Being There",
@@ -173,7 +173,7 @@
   },
   {
     "title": "Boyhood",
-    "year": 1979,
+    "year": 2014,
     "type": "movie",
     "lists": [
       "dad"
@@ -181,7 +181,7 @@
     "priority": {
       "dad-movie": 15
     },
-    "tmdb_id": "movie/521777"
+    "tmdb_id": "movie/85350"
   },
   {
     "title": "Napoleon",
@@ -208,7 +208,7 @@
     "year": 2024
   },
   {
-    "title": "Spinal Tap 2",
+    "title": "Spinal Tap II: The End Continues",
     "type": "movie",
     "lists": [
       "dad"
@@ -216,8 +216,8 @@
     "priority": {
       "dad-movie": 18
     },
-    "tmdb_id": "movie/11031",
-    "year": 1984
+    "tmdb_id": "movie/975225",
+    "year": 2025
   },
   {
     "title": "The Shape of Things",
@@ -252,8 +252,8 @@
     "priority": {
       "dad-movie": 21
     },
-    "tmdb_id": "movie/10712",
-    "year": 2002
+    "tmdb_id": "movie/17450",
+    "year": 1981
   },
   {
     "title": "Thelma",
@@ -278,7 +278,7 @@
       "dad-movie": 23
     },
     "release_date": "2026-06-05",
-    "tmdb_id": "movie/1472684"
+    "tmdb_id": "movie/454639"
   },
   {
     "title": "The Secret Life of Walter Mitty",
@@ -301,8 +301,8 @@
     "priority": {
       "dad-movie": 25
     },
-    "tmdb_id": "movie/342470",
-    "year": 2020
+    "tmdb_id": "movie/522402",
+    "year": 2021
   },
   {
     "title": "Her",
@@ -314,7 +314,7 @@
     "priority": {
       "dad-movie": 26
     },
-    "tmdb_id": "movie/79"
+    "tmdb_id": "movie/152601"
   },
   {
     "title": "Black Bag",
@@ -326,7 +326,7 @@
     "priority": {
       "dad-movie": 27
     },
-    "tmdb_id": "movie/11072"
+    "tmdb_id": "movie/1233575"
   },
   {
     "title": "Jules",
@@ -362,7 +362,7 @@
     "priority": {
       "dad-movie": 30
     },
-    "tmdb_id": "movie/918176"
+    "tmdb_id": "movie/556574"
   },
   {
     "title": "Severance",
@@ -375,14 +375,7 @@
     "priority": {
       "dad-series": 1
     },
+    "tmdb_id": "tv/95396",
     "watched_seasons": 1
-  },
-  {
-    "title": "Bluey",
-    "year": 2018,
-    "type": "series",
-    "lists": [
-      "kids"
-    ]
   }
 ]

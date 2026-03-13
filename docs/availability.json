@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T15:30:45.302405+00:00",
+  "last_updated": "2026-03-13T06:44:01.387420+00:00",
   "country": "us",
   "items": [
     {
@@ -358,7 +358,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-03-12T15:30:33.252455+00:00",
+      "last_checked": "2026-03-13T06:43:59.472961+00:00",
       "runtime": 111,
       "release_date": "1992-09-25"
     },
@@ -1074,9 +1074,43 @@
       ],
       "overview": "The filmed version of Broadway original “Hamilton” that soars in music and tale.",
       "streaming": {},
-      "last_checked": "2026-03-12T15:30:45.094230+00:00",
+      "last_checked": "2026-03-13T06:43:59.929190+00:00",
       "runtime": 160,
       "release_date": "2025-09-05"
+    },
+    {
+      "title": "Severance",
+      "year": 2022,
+      "type": "series",
+      "tmdb_id": "tv/95396",
+      "lists": [
+        "dad",
+        "mom"
+      ],
+      "priority": {
+        "dad-series": 1
+      },
+      "poster": "https://www.movieofthenight.com/media/image.svg?title=Severance&width=240&direction=vertical",
+      "rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "overview": "From Ben Stiller, this series stars Adam Scott as a man whose memories have been surgically divided by his employer.",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "subscription",
+          "link": "https://tv.apple.com/us/show/severance/umc.cmc.1srk2goyh2q2zdxcx605w8vtx",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-13T06:44:01.032106+00:00",
+      "season_count": 3,
+      "episode_count": 19,
+      "watched_seasons": 1
     }
   ]
 }

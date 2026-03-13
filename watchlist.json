@@ -428,7 +428,189 @@
       "dad-series": 1
     },
     "tmdb_id": "tv/95396",
-    "watched_seasons": 1,
+    "watched_seasons": 2,
     "rating": "TV-MA"
+  },
+  {
+    "title": "Only Murders in the Building",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 2},
+    "watched_seasons": 5
+  },
+  {
+    "title": "Andor",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 3}
+  },
+  {
+    "title": "Central Park",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 4},
+    "watched_seasons": 2
+  },
+  {
+    "title": "Middleditch & Schwartz",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 5}
+  },
+  {
+    "title": "Happiness",
+    "type": "series",
+    "lists": ["dad"],
+    "tmdb_id": "tv/287399",
+    "priority": {"dad-series": 6}
+  },
+  {
+    "title": "The Larry Sanders Show",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 7}
+  },
+  {
+    "title": "Fringe",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 8}
+  },
+  {
+    "title": "A Man on the Inside",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 9},
+    "watched_seasons": 2
+  },
+  {
+    "title": "Star Trek: Strange New Worlds",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 10}
+  },
+  {
+    "title": "The Night Manager",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 11}
+  },
+  {
+    "title": "Long Story Short",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 12}
+  },
+  {
+    "title": "Star Trek: Picard",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 13}
+  },
+  {
+    "title": "Murderbot",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 14},
+    "watched_seasons": 1
+  },
+  {
+    "title": "Agents of S.H.I.E.L.D.",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 15}
+  },
+  {
+    "title": "New Girl",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 16},
+    "watched_seasons": 2
+  },
+  {
+    "title": "The Expanse",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 17}
+  },
+  {
+    "title": "American Gods",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 18}
+  },
+  {
+    "title": "The Paper",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 19}
+  },
+  {
+    "title": "Community",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 20}
+  },
+  {
+    "title": "The Queen's Gambit",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 21}
+  },
+  {
+    "title": "Mel Brooks: The 99 Year Old Man!",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 22},
+    "tmdb_id": "tv/308112"
+  },
+  {
+    "title": "Slow Horses",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 23}
+  },
+  {
+    "title": "Legion",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 24}
+  },
+  {
+    "title": "The Lord of the Rings: The Rings of Power",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 25},
+    "watched_seasons": 1
+  },
+  {
+    "title": "Manhunt",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 26}
+  },
+  {
+    "title": "Obi-Wan Kenobi",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 27}
+  },
+  {
+    "title": "Modern Family",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 28}
+  },
+  {
+    "title": "Bad Monkey",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 29}
+  },
+  {
+    "title": "Jury Duty",
+    "type": "series",
+    "lists": ["dad"],
+    "priority": {"dad-series": 30}
   }
 ]

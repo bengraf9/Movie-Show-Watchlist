@@ -464,6 +464,8 @@
     "lists": [
       "dad"
     ],
+    "tmdb_id": "tv/98198",
+    "year": 2020,
     "priority": {
       "dad-series": 4
     },
@@ -492,7 +494,7 @@
     "priority": {
       "dad-series": 6
     },
-    "year": 2021
+    "year": 2025
   },
   {
     "title": "The Larry Sanders Show",
@@ -753,8 +755,8 @@
     "priority": {
       "dad-series": 26
     },
-    "tmdb_id": "tv/72597",
-    "year": 2017,
+    "tmdb_id": "tv/155533",
+    "year": 2024,
     "rating": "TV-MA"
   },
   {

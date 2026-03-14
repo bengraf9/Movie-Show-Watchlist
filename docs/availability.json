@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T06:44:01.387420+00:00",
+  "last_updated": "2026-03-14T06:39:15.719146+00:00",
   "country": "us",
   "items": [
     {
@@ -358,7 +358,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-03-13T06:43:59.472961+00:00",
+      "last_checked": "2026-03-14T06:38:49.787617+00:00",
       "runtime": 111,
       "release_date": "1992-09-25"
     },
@@ -1074,7 +1074,7 @@
       ],
       "overview": "The filmed version of Broadway original “Hamilton” that soars in music and tale.",
       "streaming": {},
-      "last_checked": "2026-03-13T06:43:59.929190+00:00",
+      "last_checked": "2026-03-14T06:38:50.221765+00:00",
       "runtime": 160,
       "release_date": "2025-09-05"
     },
@@ -1110,7 +1110,868 @@
       "last_checked": "2026-03-13T06:44:01.032106+00:00",
       "season_count": 3,
       "episode_count": 19,
+      "watched_seasons": 2
+    },
+    {
+      "title": "Only Murders in the Building",
+      "year": 2021,
+      "type": "series",
+      "tmdb_id": "tv/107113",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 2
+      },
+      "poster": "https://cdn.movieofthenight.com/show/500/poster/vertical/en/240.jpg?Expires=1800283585&Signature=fIk9xr~KgTK3TeaDtiBQ-k9hu1MKP48jf17MSs97vuhQInMIJzkzlJcmEjhOVxZACzyIhbBEEQ3TKWHym0zodOUqdCve8whLdmIfJBdT-nGyUngw9cG4b-bF142P36bvKFEXrkz1vXxJSmr4YhaO1jADmY4y-b3ucwiE0D1lPb-llttpBPAyRi8RXo0E1D9Z83pCtA3Tcb~AzMfQmqL8hUX8qOi6B~E1tsEIWYHxrJ7iMM8o5sgFPlLTnWP1q-nOYa76nNpW~yg0hM6gstwY0ntipY2svodYEx-esXuL452Zvv170U6U70A3oW0WE-KufGJ9QRYP5sW27VQX6SGBlw__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": "TV-MA",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "overview": "Follows three strangers who share an obsession with true crime and end up wrapped up in one.",
+      "streaming": {
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/series/only-murders-in-the-building-ef31c7e1-cd0f-4e07-848d-1cbfedb50ddf",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-14T06:38:50.884752+00:00",
+      "season_count": 5,
+      "episode_count": 50,
+      "watched_seasons": 5
+    },
+    {
+      "title": "Andor",
+      "year": 2022,
+      "type": "series",
+      "tmdb_id": "tv/83867",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 3
+      },
+      "poster": "https://cdn.movieofthenight.com/show/526/poster/vertical/en/240.jpg?Expires=1789899229&Signature=M62k~Sqasaz29gF6c9R97VNrZwGpSz0j9aNrSDa8zYQYx5vsUD3h4JBNxkJlGthob6SlOeNLzRcsM4u5jwKaj9XSrpguQi7DxF7SBSFyBiQw62b7W7ezg18gvm3tlvSjzVpzomXZzn5nezalvDvgEAww3L4i2aCBxwDu7y18U0-Weui4-IDUZ6sGIFnFfpk0~PFgsDbxO~JCzgU3YuSN0kUbsr3xxvi~iW24HZbTkI6dNxR~RJ6eNNC1hN~4hGpJRuuCUT4SkwRegxb3OVKLVZb~geb-WLJ6gfSBkmeVbNui0C7rCAS92s9NLNamrkr~3MnDK8qRS6h7egYvIyyG2A__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": "TV-14",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "overview": "Cassian Andor continues the path toward his heroic rebel destiny.",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-faba988a-a9f5-45f2-a074-0775a7d6f67a",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-14T06:38:51.796145+00:00",
+      "season_count": 2,
+      "episode_count": 24
+    },
+    {
+      "title": "Central Park",
+      "year": null,
+      "type": "series",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 4
+      },
+      "poster": "",
+      "rating": "",
+      "genres": [],
+      "overview": "",
+      "streaming": {},
+      "last_checked": "2026-03-14T06:38:52.959180+00:00",
+      "watched_seasons": 2
+    },
+    {
+      "title": "Middleditch & Schwartz",
+      "year": 2020,
+      "type": "series",
+      "tmdb_id": "tv/102349",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 5
+      },
+      "poster": "https://cdn.movieofthenight.com/show/5880/poster/vertical/en/240.jpg?Expires=1803691214&Signature=TnpZSmfNqU7Fee9qfoecdta~Cvk2nN3N1-XVW7ge1MhwQjFo678x7uLc-3sOijoDmzEBGjhwyi6TMa5iy8~TzFTgOyHxLDAdSizDx2d01iHtjH7NGZ3sAEtV--Zkn-7vwrq7emb6-jSM5k~1ZkljDoV2AfnisoKtrmFDKCpksO6lXsf18li4loRuiTNY5XH30J1KonmhHXfA79z8cKp-88wY5ranoSH8xTWpsRlFyMbXi5BAGz3zwgvzvIOBzZaX0XoHBC7LzgTm2-uUT4giaIflsxsfonlFLhk7Eb-PMyU1CC0Y3708Qxbc58M6b7ktfcQJoCl1ciZwJpq5bjn8lA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": "TV-MA",
+      "genres": [
+        "Comedy"
+      ],
+      "overview": "Comedy duo Thomas Middleditch and Ben Schwartz turn small ideas into epically funny stories in this series of completely improvised comedy specials.",
+      "streaming": {
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/81122572/",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-14T06:38:53.510193+00:00",
+      "season_count": 1,
+      "episode_count": 3
+    },
+    {
+      "title": "Happiness",
+      "year": 2021,
+      "type": "series",
+      "tmdb_id": "tv/135340",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 6
+      },
+      "poster": "https://cdn.movieofthenight.com/show/5561/poster/vertical/en/240.jpg?Expires=1800343185&Signature=OKE1jdvHBZkSd7V-fSfnIy7a-KLC1qT~swI2gWcInbGKqpKVsNHr0kqAoBGsBOentoPAJmPd9Rb79m4DXWjAKhhwB2kCQjM3fdfNudX0jDzXheIJS97qb5xGfxiteMoNmU6-6H~R7F-zrDzZxvtrQ3EWRqwI2Kv~d2kaznBPYMKfHPzvqXeGPEO3rCkKQKi4kfawN4CMr50sSz5IfvvF49CyiR5HqY3krTSTwhEFF7FMP3QvFwRFpCSbmt2fM6dBG59KAo9EF48BgM6Y3qyCvPKyBl5wZTD3PNMXFGzYcfdi2xMRzoZ~KBqcelGR2NUsK7coEtYXj9njCyMmpcJgnQ__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": "",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy"
+      ],
+      "overview": "Residents of a high-rise building fight for survival when a deadly disease breaks out and turns the infected into blood-lusting zombies.",
+      "streaming": {
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/81520295/",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-03-14T06:38:54.845202+00:00",
+      "season_count": 1,
+      "episode_count": 12
+    },
+    {
+      "title": "The Larry Sanders Show",
+      "year": 1992,
+      "type": "series",
+      "tmdb_id": "tv/1915",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 7
+      },
+      "poster": "https://cdn.movieofthenight.com/show/4254/poster/vertical/en/240.jpg?Expires=1803642764&Signature=C-Rsa8jkDUXeZnFwknlRkuj3f86PPyl0PxCCNLizkWtoaGM509QvV0VBcAfz8UxBVTpo6z7Id4TqSOzWKYqjeSzhnbxEdbriGaKURX2foAGnJdEnNB9z-nXDTbOgKDGTk8vUiss~jZ3UZ8AiRRrTHlCg8O9N9yES3YZ8Mr7Mt0~RWSL90-qkooK92lp0~KRwP9nNPJI6cCOP7pvPjsdYzi5aM1CDnG~yX8KHSN76aleJYJQXvZsg99vMpBh~QGNJo1HSnjK1xMXUR8uUhuEKndDSSUXgQifNcgr78r4UqBOSRq1h10G8QcapxNIjWknMv2ibUJWz~WG5B-q7pQlu9g__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": "TV-MA",
+      "genres": [
+        "Comedy"
+      ],
+      "overview": "You'll never look at late-night TV the same way again! This classic HBO comedy series starring, co-written and co-executive produced by Garry Shandling focuses on the on- and off-camera activities ...",
+      "streaming": {
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/show/576e149d-8211-46dd-be88-e97fa9e01ac4"
+        }
+      },
+      "last_checked": "2026-03-14T06:38:55.742885+00:00",
+      "season_count": 6,
+      "episode_count": 90
+    },
+    {
+      "title": "Fringe",
+      "year": 2008,
+      "type": "series",
+      "tmdb_id": "tv/1705",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 8
+      },
+      "poster": "https://cdn.movieofthenight.com/show/193/poster/vertical/en/240.jpg?Expires=1798050321&Signature=CdaTwC6iaoKAYLlWZ3h5T4d2QU4q4U2B4yy-Z3RfXVszXzVij~vp1yUS5gSP4C3jyHL1kj1qcjqcCIlg4LgPHjhWcTxaEroFUlZ9MUEbtFcJHKfM69jQZkszHlIS-DB0CmN8HICM0kBdFS0eKi7q43hBdZGWpKyB4W2gruIXw8InGt4SF7lFwbDy84D2qP-7wWUHcUgfSIvmBJhmsP3o3sgFBDDMoBWSBj9JvClcIsWWsOmy1P6yK85Gln-~zuhtJToO~VwWji7Pr9pjnGxVtKF8In4wYLoYiwAsfF5WiHMg2yDS~t54TtLFu12qWdECmaYWifAKWdBVob1YYWGk5A__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": "TV-14",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "overview": "From J.J. Abrams (\"Lost\"), Roberto Orci and Alex Kurtzman, the team behind \"Star Trek,\" \"Mission: Impossible III\" and \"Alias,\" comes a drama that will thrill, terrify and explore the blurring line ...",
+      "streaming": {
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/series/fringe-0e1b3070-9fdd-466b-aaa6-0a181e1303b9",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-03-14T06:38:56.662259+00:00",
+      "season_count": 5,
+      "episode_count": 100
+    },
+    {
+      "title": "A Man on the Inside",
+      "year": 2024,
+      "type": "series",
+      "tmdb_id": "tv/245312",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 9
+      },
+      "poster": "https://cdn.movieofthenight.com/show/13401245/poster/vertical/en/240.jpg?Expires=1800295983&Signature=SPHa0~9KBZwhPNQ1jOrYfq9~7oc1XgxbuUWd9YOfF291EKlXg8Ah7sUe8Ue-N0XauCNWvoOwTPepW18RjhJOfkgxHMcUtU6XjS7dT-k09lwBLsT-yiq135gLtarD0jETUqOdcPUyKpvkYnwMuvF7rkTT6Y15FkLKLiSubwpYh2wsgsF4SVdgM9bvMdAfkhEsSnZUZDQuXR9lK-Bl4HQui52bzyxwOfatjxlhn7w5BcMB9GHJNJ3T2lMZ7QJUf660QJDfYmHjHWOfkVFz6N-loH-ZxQ71jIsBcB3pHQVmX2AdIJ04lyKxBQirehauw~7Qf7JNcymLf0YCeGSsIsR0ZA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": "TV-14",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "overview": "A retired professor with a knack for snooping gets a new lease on life when a private investigator recruits him to go undercover and crack a case.",
+      "streaming": {
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/81677257/",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-14T06:38:57.694697+00:00",
+      "season_count": 2,
+      "episode_count": 16,
+      "watched_seasons": 2
+    },
+    {
+      "title": "Star Trek: Strange New Worlds",
+      "year": 2022,
+      "type": "series",
+      "tmdb_id": "tv/103516",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 10
+      },
+      "poster": "https://cdn.movieofthenight.com/show/1464/poster/vertical/en/240.jpg?Expires=1799428276&Signature=hiDyyL-JYhWNaQ4O29qdssMu8LsGwgREv7xR9jJhQ2WbDlKIGb9azaJFDKBenPWnZOxd1RnxGFbZN3X9d6nXsNqQZV1Vrh81-6E35sBfbD4RG~htFN8~TdRlvmrCOrCC7~bKwsIvQgZBttNdQJgAwxTPRov-A4YNtEYE1ZR~6kX1CDen4rH4Q538Jts-j2Mg5vR6wbLhwH9cPmjbD979520~Z476i7kdhdIYIRqwT33RNCk5MNEOG1ri3XGw29qh-3jXZlro1G8PdSE~a0~lBXdwzP3WTIRZuqdp6fy6lA~KLHTwS6uO1Z6C7u-CAcTo4HYLT~KnrJLacE0q1Xuw~Q__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": "TV-PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "overview": "Venture into the unknown with Captain Pike, Spock, Number One and the U.S.S. Enterprise crew a decade before Captain Kirk's legendary five-year mission.",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/B0CKJMNRS9",
+          "quality": "hd"
+        },
+        "paramount": {
+          "service": "paramount",
+          "serviceName": "Paramount+",
+          "type": "subscription",
+          "link": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/"
+        }
+      },
+      "last_checked": "2026-03-14T06:38:58.635298+00:00",
+      "season_count": 4,
+      "episode_count": 30
+    },
+    {
+      "title": "The Night Manager",
+      "year": 2016,
+      "type": "series",
+      "tmdb_id": "tv/61859",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 11
+      },
+      "poster": "https://cdn.movieofthenight.com/show/577/poster/vertical/en/240.jpg?Expires=1798312746&Signature=edaNEPHREbWshut~oYjjaAZZCi3h3jOdNJhwZcHrgTWWpKBiM2TJOrfqdU2Ef-sVVOAiiMqJPxVHWBQ9-v5M7chmUtyS7XNdXND~ST9JgIpYNJVHPnrw6-~Oue7M39FwPMTRkF6Yai23e8PUJgA~RV0iPrQohiySta3gDBDy3qXrT4suX-XYI-DP6PkxP7vUvmWE6LOXH9pXDjnhvgre~qNp4iCdEa~~qhfnPuu3Zn4kb7xFFVzgUZjQS9zncvH8kTZ-6Byu75jIjmWdr7aBeZdBI9jG9XtQjDrIifyHQKL-4-id7LUWDBH6pdrdCHIqMM2BFdV-I6aCX0iIYQ5pZQ__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "overview": "The Night Manager is based on the internationally acclaimed novel by master storyteller John Le Carre. This suspenseful thriller follows Jonathan Pine, as he endeavours to bring down the notorious ...",
+      "streaming": {},
+      "last_checked": "2026-03-14T06:38:59.582005+00:00",
+      "season_count": 2,
+      "episode_count": 12
+    },
+    {
+      "title": "Long Story Short",
+      "year": 2025,
+      "type": "series",
+      "tmdb_id": "tv/262375",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 12
+      },
+      "poster": "https://cdn.movieofthenight.com/show/19816688/poster/vertical/en/240.jpg?Expires=1789982028&Signature=g9wdS3WaXRzkWXWHGWtvxBqbwwVe7B6ESqcz7-n96s7FZ25uxv6D7cZO79ccNxhaFuqIvGDEuLi2fIf2KwvtRHhOGTBrxSY5J7m69seAE~v41v3ebMebmXclUFhV4dSsn5eNEFWXKZt9Nk8DdgG3YQ5Dwd1xKQBYRyKwPAHNpiLWhwIGNdjWoRordpfmI9RMEE7TouTyy9Ft2QuFyGGC5kaL-yedm2xWDG5zF5UrXD3kYPARBno-oovZFKW9lvkGfDe2Xy1RoS9VtdWaB17jhJtfb9iBCxdGpyIXS3REZ6Vd3g4Udi6otOPQ1YPeSYZYKqOUn5u1ry8dRbHqmQpWBA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": "TV-14",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "overview": "Sometimes you love your family. Sometimes you hate your family. Sometimes… it's complicated. An animated comedy from the creator of \"BoJack Horseman.\"",
+      "streaming": {
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/81686879/",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-03-14T06:39:00.400701+00:00",
+      "season_count": 1,
+      "episode_count": 10
+    },
+    {
+      "title": "Star Trek: Picard",
+      "year": 2020,
+      "type": "series",
+      "tmdb_id": "tv/85949",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 13
+      },
+      "poster": "https://cdn.movieofthenight.com/show/731/poster/vertical/en/240.jpg?Expires=1801472168&Signature=HE5N5wkfJKhjqNkcnu6~PswAB2WyEUvB3uSGF0V6YiS03hMi4M2OdE9BNOCNizbLTl64f4ai4cnDOGx9Bwm2n6mbuUwWSam8XHm8LtsGcOIyd7ed~MvoaMAt4OQn-fpo9O21HiDgpXY73XYYVuywI1VsC-ojBXPr95mAen1hHJgIcCA59efngyn4UpsjkUjwL-D~xSX4qeywWvPiyk-kLkX-FrlGFL9z9Vd0BXB3o3-h3qnsnZlLzDV4M1isMcyhTCe5OLouMS-gg0Td8F3p0fqyJ0QdTQ9k-iA1viTZEdV7np0kT3Ippm5HTrWXfepLbxiL4u9kd-nJBZaMDCGv5Q__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": "TV-MA",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "overview": "Starring Sir Patrick Stewart, the series follows Jean-Luc Picard into the next chapter of his life.",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/star-trek-picard/umc.cmc.2tqufhly635jf1fnuonxojax",
+          "quality": "hd"
+        },
+        "paramount": {
+          "service": "paramount",
+          "serviceName": "Paramount+",
+          "type": "subscription",
+          "link": "https://www.paramountplus.com/shows/star-trek-picard/"
+        }
+      },
+      "last_checked": "2026-03-14T06:39:01.304838+00:00",
+      "season_count": 3,
+      "episode_count": 30
+    },
+    {
+      "title": "Murderbot",
+      "year": 2025,
+      "type": "series",
+      "tmdb_id": "tv/241554",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 14
+      },
+      "poster": "https://www.movieofthenight.com/media/image.svg?title=Murderbot&width=240&direction=vertical",
+      "rating": "TV-MA",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama"
+      ],
+      "overview": "In a high-tech future, a rogue robot (Alexander Skarsgård) secretly gains free will.",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "subscription",
+          "link": "https://tv.apple.com/us/show/murderbot/umc.cmc.5owrzntj9v1gpg31wshflud03",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-14T06:39:02.896688+00:00",
+      "season_count": 1,
+      "episode_count": 10,
       "watched_seasons": 1
+    },
+    {
+      "title": "Marvel's Agents of S.H.I.E.L.D.",
+      "year": 2013,
+      "type": "series",
+      "tmdb_id": "tv/1403",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 15
+      },
+      "poster": "https://cdn.movieofthenight.com/show/225/poster/vertical/en/240.jpg?Expires=1800328852&Signature=CupQ0-YAIcLbWGXCxOLk~NQD46D3ygkhaKsOX90pv2sbOdXqLsQr-qZXv8figP00FHP9rHNwu8TbTAid6H2IiIg03a-lN5VZ1j8BibpKcvOw~0mOv3lzcYcXcToU8effh~tQhZdDO1jhoC~a7kZRZLPIW8fF~S~Zf6fTZaSX2u8SkJG8iCzLxZgWQlzxSTQlw7~C~PVByvWV00vi1KQt8Y1qCAdenq0JDDWpk3-qVcaI8OSJrTnydU0B5rCrZwNbJ8TyBItecdzql6ZqgfAwl3iExqMiFh5JCyNRQTSHsUCXQzlgLnig0BBTaPu~Xo0FzRjpKkM1uEkEznQ82i0gYg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": "TV-14",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "overview": "Clark Gregg reprises his role of Agent Phil Coulson from Marvel’s feature films, as he assembles a small, highly select group of Agents from the worldwide law-enforcement organization known as S.H....",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/marvels-agents-of-shield/umc.cmc.26uur8iqo7k2psyp5l6em6xo0",
+          "quality": "sd"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-63516dff-91f8-4deb-b110-d22552f329cb",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-03-14T06:39:03.855276+00:00",
+      "season_count": 7,
+      "episode_count": 136
+    },
+    {
+      "title": "New Girl",
+      "year": 2011,
+      "type": "series",
+      "tmdb_id": "tv/1420",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 16
+      },
+      "poster": "https://cdn.movieofthenight.com/show/215/poster/vertical/en/240.jpg?Expires=1798049833&Signature=PNZPNp9PQzKcy99e9mVNeHhtDiwkp0CGbj-Xi7y4nLkbytnJRtEligK9AGRrU~3y8kMsyB~Fhp3~1QrLBMWPn13BXmrhUfXoXQRgZoWgSPvWyr4CLcxJrtdbEn-NAdNrvzF~ZCLZPsmPchDIgBtka1oUv3hkeEMK5oLMmkIx69TCtSadfG0JRtRQzHheMbkfM8Im0qiVYNw7gFyEoCNIj-lfpCjIEEtENywCqf7UZn1iyeGVuhreLGZvAMaZlEVLS6lw8CCnFH2LRWJdfhIM3mGddkzypOg9O-EJsjm95ZWQy2JH0cKPuh9vSTjJofKnnzFzc~xCOh1d0l0d3EYbWw__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": "TV-14",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "overview": "NEW GIRL follows five friends as they find their own places in the world.",
+      "streaming": {
+        "peacock": {
+          "service": "peacock",
+          "serviceName": "Peacock",
+          "type": "subscription",
+          "link": "https://www.peacocktv.com/watch/asset/tv/new-girl/7602787974345717112",
+          "quality": "hd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/new-girl/umc.cmc.486dsp4md8ge3a5mx2128nnau",
+          "quality": "hd"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/series/new-girl-42850dbc-0f98-4d8a-a09a-3427ee8085e5",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-03-14T06:39:04.863953+00:00",
+      "season_count": 7,
+      "episode_count": 146,
+      "watched_seasons": 2
+    },
+    {
+      "title": "The Expanse",
+      "year": 2015,
+      "type": "series",
+      "tmdb_id": "tv/63639",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 17
+      },
+      "poster": "https://www.movieofthenight.com/media/image.svg?title=The+Expanse&width=240&direction=vertical",
+      "rating": "TV-14",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "overview": "Based on the international best-selling book series by James S.A. Corey, The Expanse is a Hugo award-winning television series, airing globally on Amazon Prime.",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/the-expanse/umc.cmc.1ixz96nx5fk3uz3huu99vqpbs",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-03-14T06:39:05.598796+00:00",
+      "season_count": 6,
+      "episode_count": 62
+    },
+    {
+      "title": "American Gods",
+      "year": 2017,
+      "type": "series",
+      "tmdb_id": "tv/46639",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 18
+      },
+      "poster": "https://cdn.movieofthenight.com/show/607/poster/vertical/en/240.jpg?Expires=1800416638&Signature=JuKrIz74C~gD5qIPPbrvQoxOycyRlk8hEwGAmfzMmwr03acR10y2YqdsOIVpelV-rofO7OXUSAfDz8V5-Ako1UglSoXGr5TUzDPda1e9mDKlt7lv~o9uVJdzflLBVd8D9ss0v2ed8~j~Cv0PxrSMZt4M1oU7MOjHwQITv~XfqaIih~NyCllGyqDSCSOwSIna6WhgyaTu-zztY-yG2S-jpuAi7ft3rS7tlZ55pjLf7IhanZAhOc7LGCVloAtAJxndDozD6Wz~o0eWJbW1DabR2TE6W-OdZip0v8LW2AoSyh6QriK9zyc~giwy9gDz93FNP7vAJjZb3NhovcvX-AHkXg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "overview": "Fresh out of prison, Shadow Moon meets the enigmatic Mr. Wednesday—and is swept into a gathering storm that will upend the course of his life.",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/B0D96YRJ86",
+          "quality": "hd"
+        },
+        "tubi": {
+          "service": "tubi",
+          "serviceName": "Tubi",
+          "type": "free",
+          "link": "https://tubitv.com/series/300017904/american-gods",
+          "quality": "hd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/american-gods/umc.cmc.4o7hf0qe1ezickgfxxeppolqr",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-03-14T06:39:07.018441+00:00",
+      "season_count": 3,
+      "episode_count": 26
+    },
+    {
+      "title": "The Paper",
+      "year": 2025,
+      "type": "series",
+      "tmdb_id": "tv/253941",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 19
+      },
+      "poster": "https://cdn.movieofthenight.com/show/22008764/poster/vertical/en/240.jpg?Expires=1804156616&Signature=lFLDrpvwEvjhCQe7pUvGJgETlXLc75Qq-X9KWXc~DjDscv79U5rFwnRN0Am~AfXHdKDK98ARkG930A8d4tE9S4vDT~1S6-~ZvttSAQ8Cgmw8r1IwaG1-sttJctrewQuElbVMzYyy0GjjdnyAEPw55mLlzLLFIZroqZQ5fbYVoBbdB~3jhEGxVrD3rg~1-wo4bI2qKb9eDrpuRaEBJbvOUSnzhIqahPReGr32Rkqyo-YKa-inelFMYMeGI6YFTBAxS~ByiisZNQWablTsuOk0Ul6rw~4PW2VHSHgVwK7xMgxIt9w56jopI3AwQu8eS8oo0zV3DjXtNkPEKL6uUdZ9cA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": "TV-14",
+      "genres": [
+        "Comedy"
+      ],
+      "overview": "A documentary crew discovers a struggling Midwestern newspaper and the publisher trying to revive.",
+      "streaming": {
+        "peacock": {
+          "service": "peacock",
+          "serviceName": "Peacock",
+          "type": "subscription",
+          "link": "https://www.peacocktv.com/watch/asset/tv/the-paper-nbc-edition/8084467132185715112",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-03-14T06:39:08.333345+00:00",
+      "season_count": 1,
+      "episode_count": 10
+    },
+    {
+      "title": "Community",
+      "year": 2009,
+      "type": "series",
+      "tmdb_id": "tv/18347",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 20
+      },
+      "poster": "https://cdn.movieofthenight.com/show/165/poster/vertical/en/240.jpg?Expires=1800282883&Signature=Pd3y-5Q1H~Lop27pGlmLVk0AUcD6fpBdsWAPjLdo~wk4Rbf-vaC0gyx-sgiDqcPLNihiYeKB4n2Dn8Asjh1Z4-nenBcGPNm9PRdTKCKflp86MCB0mIxasiL55HCHsNWYZ8oPkql3kJyhiJdMFxhgKph5ZwDxLG-XAyn-TVtzqSKIW65D~iWqF-L4nGF6shiy8epdZuw~EnObPPs6LA5V~DzUmN2n4XxvFVUqv6ZjorNGIQOnanaSyYadInW14XAYHrw8aji-OE4Tt~~1I0OaujocMX005S~0WWUdRQx7YVvgeL6uGof4lLbpliaKZMtwJph~xveDBWxEZ9dVf3JDHg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": "TV-14",
+      "genres": [
+        "Comedy"
+      ],
+      "overview": "When his college degree is challenged as a fake, lawyer and schemer Jeff Winger is forced to return to school and reluctantly becomes the leader of a misfit collection of fellow students.",
+      "streaming": {
+        "tubi": {
+          "service": "tubi",
+          "serviceName": "Tubi",
+          "type": "free",
+          "link": "https://tubitv.com/series/300015028/community",
+          "quality": "hd"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/series/community-200c56d4-124c-41a1-b7d2-688f86f432bf",
+          "quality": "hd"
+        },
+        "peacock": {
+          "service": "peacock",
+          "serviceName": "Peacock",
+          "type": "subscription",
+          "link": "https://www.peacocktv.com/watch/asset/tv/community/8700597605358573112",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-14T06:39:09.356969+00:00",
+      "season_count": 6,
+      "episode_count": 110
+    },
+    {
+      "title": "The Queen's Gambit",
+      "year": 2020,
+      "type": "series",
+      "tmdb_id": "tv/87739",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 21
+      },
+      "poster": "https://cdn.movieofthenight.com/show/87/poster/vertical/en/240.jpg?Expires=1800293610&Signature=IR3bxI6oS4X1SqOQLe0cFu2zENWVjV6huffMEg6oailxKHhXKGskgRfXfJz3wtVlD2GLEFIMTTB13RYvO0nbNOLhxQGw6DG8DG4hLDMNkUcCpU55dCs3HDcWsyWb9Z2HzaDxF0b7Ge6YI6ASdxE1icqnGLttWi~77pKxW-B358YyXn6tzc5awSNdwR7SSAHUR4q9NTl9ZexMz4j9vzwR6oC6S-4fGeL~5gSf49SZ5V8TQpaHpXaGca3BDYs8zc7m4M56ndPjdbr01DFDvaYrAiNfSacIP1kyfzPfCAacwFzIQWW0nrz0mHeQMPkHwHMtbFHoRK8rtDsmKcMPiGBYMg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": "TV-MA",
+      "genres": [
+        "Drama"
+      ],
+      "overview": "Winner of 11 Emmys, this smart and stylish drama about a '60s chess prodigy was hailed by The New Yorker as \"the most satisfying show on television.\"",
+      "streaming": {
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/80234304/",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-14T06:39:10.273433+00:00",
+      "season_count": 1,
+      "episode_count": 7
+    },
+    {
+      "title": "Mel Brooks: The 99 Year Old Man!",
+      "year": 2026,
+      "type": "series",
+      "tmdb_id": "tv/308112",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 22
+      },
+      "poster": "https://cdn.movieofthenight.com/show/24734193/poster/vertical/en/240.jpg?Expires=1801610852&Signature=fsrNO~X4IpUIJAINRIgK0cwJxmCvyJRVbJ7ta5s-h0hfwFRwy79BuTgl1iQIZQNxb2f4lQullUYQy5JHyZG6JYOywB2REnJhY1wTkDcbMXXnsRxvcETrd~B4DChwpukwQG6cMklnNGaW21OWFLdUglJKGQSvrdMY221OeAswAq7Ihw8hYwLBqGFYJA-wGT1~IJt3yNYcwngubgeO3B9~r2GCJv~ZrG4ImVDutetwyP0vuVDKGen6DwFNQfjwcOXSEkLzCAPQMYNluVgaNAs4-N-uQGsD0rcALev2VH-AWT1MkYf03tdSKSCGSTWlFf84USOPcAEqRrDOCcwuJvsBbQ__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": "",
+      "genres": [
+        "Documentary"
+      ],
+      "overview": "An expansive, yet intimate look at the legendary comedian, writer, and director Mel Brooks - one of the industry's most hilarious and influential minds whose work has had audiences around the world...",
+      "streaming": {
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/show/c967b1a4-d0e2-491e-967e-ae09f88fef62"
+        }
+      },
+      "last_checked": "2026-03-14T06:39:11.538541+00:00",
+      "season_count": 1,
+      "episode_count": 2
+    },
+    {
+      "title": "Slow Horses",
+      "year": 2022,
+      "type": "series",
+      "tmdb_id": "tv/95480",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 23
+      },
+      "poster": "https://cdn.movieofthenight.com/show/1406/poster/vertical/en/240.jpg?Expires=1794931376&Signature=ea7Y7Pl9OMM5Pe73nmGg5S3rrKhfKr6pyhUurYSXL-A5BVf~1QnpTMiMNiw2iNK0hY2yYVhpbKs-WSr5gjTq~hbI4X0og8DiNtlWevolk8p9kaDfG19fzGm39dai8xLjCQ66mUqjNkoocercv5dH6dWVGy0tcg-ybvWl-O1rYkQ~iY8NC-o59NT2qVQ-1yY7vZ68pPCCm-SExiPMOqQQwaBNkfCnKB3sQYGwFag2MJp~ahJDpGE1kpwW8JGTo2fETO1l2MDMLOtxl3cGHjuW9aqVSjwZCl12wGX-Lik4lbTP6yhUbdj-32UbRIYWSCCsjlmOq8G52eXXZ~SyhKMyNg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "overview": "This quick-witted spy drama follows a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb (Gary Oldman)—as they navigate the espionage world’s smoke and mirrors to...",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "subscription",
+          "link": "https://tv.apple.com/us/show/slow-horses/umc.cmc.2szz3fdt71tl1ulnbp8utgq5o",
+          "quality": "uhd"
+        },
+        "peacock": {
+          "service": "peacock",
+          "serviceName": "Peacock",
+          "type": "subscription",
+          "link": "https://www.peacocktv.com/watch/asset/tv/slow-horses/5875839343771475112",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-14T06:39:12.243006+00:00",
+      "season_count": 5,
+      "episode_count": 30
+    },
+    {
+      "title": "Legion",
+      "year": 2017,
+      "type": "series",
+      "tmdb_id": "tv/67195",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 24
+      },
+      "poster": "https://cdn.movieofthenight.com/show/571/poster/vertical/en/240.jpg?Expires=1801789036&Signature=JKRwlbrFFxmuJwIY0xm6~E-3N79tsAv~gLLF6EmnyW5zKNtfdcm46JxXOchVTDB80qFjg9~l1fySkTI~7xc0IthEYp8iemHb1gJbgdaC6MiLe~NDxT921c8pOGU6CkvaONIZ5cCtkncsrs2h~SCSqMwh~STXABsKa~QzKxY8Bb1ZmH3scojgni12sOaTlsErVJmtKUIS05nbq53uiqLulJiWpwYNeqXikC10eH~mNORJUYRYDyCQDMAwd2zkurmqwjuN3Cm4~PGdws2EFzGzR2KHi9gSRrNqskVsbYbfWXLNNHnZF6TWUF5~K4-gLsyw~Wr5Ym2EoL4GjfM0zonmyA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": "TV-MA",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "overview": "Legion focuses on David Haller, a troubled young man who was diagnosed with schizophrenia as a child. Shuffled from one psychiatric institution to the next, in his early 30s, David met and fell in ...",
+      "streaming": {
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/series/legion-ae87e56c-5b3b-44f6-9154-b07c8e60fe6c",
+          "quality": "uhd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/legion/umc.cmc.1qs2k3j6y79dkp2muruy3tfgy",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-03-14T06:39:13.090165+00:00",
+      "season_count": 3,
+      "episode_count": 27
+    },
+    {
+      "title": "The Lord of the Rings: The Rings of Power",
+      "year": 2022,
+      "type": "series",
+      "tmdb_id": "tv/84773",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 25
+      },
+      "poster": "https://cdn.movieofthenight.com/show/147/poster/vertical/en/240.jpg?Expires=1789899409&Signature=C8eyo5aCMX-T8LkWlJ-xY1Ah29Ey~nJU7nEkkUQCruW22nxt146w04ZWnTKUVG1010ERJOFv27VEgv0jQ46dfAv30WhU5UnBQWeUPeSm5RxpYSQolggVHShEOiKjrsnKkYQKVj~JDG1iREeD2b29BMy51unl92pkJ5ZB1bg4b3uDFRH0uUs5oVygj77RoMIuW9cCiPMAihqsOmdC8~CLhiGUH009uUjtotlmQt~m4kqDjR7z5eyYCCohIxMSwPIbLtsUzLSgPBoz~vHumKHSGKuwHBkTG-ywhbLLOL2W0Mn2LmB1Q~msx6LKOceBu~VqgkoHcIqmxu1QCYP6LgczuA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": "TV-14",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "overview": "Set thousands of years before the events of J.R.R. Tolkien’s The Lord of the Rings, this epic drama follows an ensemble cast of characters, both familiar and new, as they confront the long-feared r...",
+      "streaming": {},
+      "last_checked": "2026-03-14T06:39:13.905079+00:00",
+      "season_count": 3,
+      "episode_count": 16,
+      "watched_seasons": 1
+    },
+    {
+      "title": "Manhunt",
+      "year": 2017,
+      "type": "series",
+      "tmdb_id": "tv/72597",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 26
+      },
+      "poster": "https://cdn.movieofthenight.com/show/830/poster/vertical/en/240.jpg?Expires=1800522586&Signature=JD6N5u6LfX8PJoNvVYpdbqbjyQTVlnDgFPfgtA-kdETxHITn7kt-gE6FE2iJRslPrdhogIIcGlY2yiJAoKu2KA7ikkStEEgrq9fJdq0A2CmuLKiPo05hxiIqAXA1ErOdWIuh26nwSKljerPbx8xywyey4Cnkja9RTIjXQniz0fEhPYmk4-gG-~FcrzCytBNVy4h-JGL7V63utabHYpdQuDCdZ2qsjgqMibGDd8fqO~h29Zs9bDSDz0Pj2fofp0fmlOCtyj156nkwuEyolp5D-kABZwgUl1dlpLqYe0EFb-CF-A1Y61zNBwWVQ8xRgFwQuwleV5ITj0KN4I0BEn5a8Q__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": "TV-MA",
+      "genres": [
+        "Crime"
+      ],
+      "overview": "Manhunt: The Unabomber tells the story of how the FBI brought down one of the most infamous criminal masterminds in the world from the point of view of an FBI profiler. T",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0ILD03BZX59Y5SHI1Z0SCOG2T2",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-03-14T06:39:14.798698+00:00",
+      "season_count": 2,
+      "episode_count": 18
+    },
+    {
+      "title": "Obi-Wan Kenobi",
+      "year": 2022,
+      "type": "series",
+      "tmdb_id": "tv/92830",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 27
+      },
+      "poster": "https://cdn.movieofthenight.com/show/242/poster/vertical/en/240.jpg?Expires=1800319306&Signature=R1hKSPay2jhDu-n77VYQmiUuQceKYImGEVQVUD~Ke~5BxZYjPf7KHDxshQ1pI~LkMAQxb-ZMrrEaYCejFGkSw07z~3MZorIxZkTCVBCnUxCuETwLehLgbbHpoZB58juzdvrQVOERKpgcs1ZSJtM4Jjo-UUIkUWgpkaGOvJi3VBeouiCp1cXqiEC3nV9E55jK5K1eH2fGgTWhOAKLQbJjIDaSZBD0X77EXtuzmfjAM7p5hqY9D0q7KOCXxH9aBzP3~nGumt5h6XrrmzCSagVHHoYfrnd7E7DEbbsw4qAivUQXdso~9q~V~GAnShQtR3eIVZP5syR05n03olmNfeQNTg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": "TV-14",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "overview": "During the reign of the Empire, Obi-Wan Kenobi embarks on a crucial mission.",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-e28eab5e-5cff-4ef2-b018-d2267c750364",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-14T06:39:15.511486+00:00",
+      "season_count": 1,
+      "episode_count": 6
     }
   ]
 }

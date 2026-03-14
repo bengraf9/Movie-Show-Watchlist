@@ -434,183 +434,370 @@
   {
     "title": "Only Murders in the Building",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 2},
-    "watched_seasons": 5
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 2
+    },
+    "watched_seasons": 5,
+    "tmdb_id": "tv/107113",
+    "year": 2021,
+    "rating": "TV-MA"
   },
   {
     "title": "Andor",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 3}
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 3
+    },
+    "tmdb_id": "tv/83867",
+    "year": 2022,
+    "rating": "TV-14"
   },
   {
     "title": "Central Park",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 4},
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 4
+    },
     "watched_seasons": 2
   },
   {
     "title": "Middleditch & Schwartz",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 5}
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 5
+    },
+    "tmdb_id": "tv/102349",
+    "year": 2020,
+    "rating": "TV-MA"
   },
   {
     "title": "Happiness",
     "type": "series",
-    "lists": ["dad"],
+    "lists": [
+      "dad"
+    ],
     "tmdb_id": "tv/287399",
-    "priority": {"dad-series": 6}
+    "priority": {
+      "dad-series": 6
+    },
+    "year": 2021
   },
   {
     "title": "The Larry Sanders Show",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 7}
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 7
+    },
+    "tmdb_id": "tv/1915",
+    "year": 1992,
+    "rating": "TV-MA"
   },
   {
     "title": "Fringe",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 8}
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 8
+    },
+    "tmdb_id": "tv/1705",
+    "year": 2008,
+    "rating": "TV-14"
   },
   {
     "title": "A Man on the Inside",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 9},
-    "watched_seasons": 2
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 9
+    },
+    "watched_seasons": 2,
+    "tmdb_id": "tv/245312",
+    "year": 2024,
+    "rating": "TV-14"
   },
   {
     "title": "Star Trek: Strange New Worlds",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 10}
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 10
+    },
+    "tmdb_id": "tv/103516",
+    "year": 2022,
+    "rating": "TV-PG"
   },
   {
     "title": "The Night Manager",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 11}
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 11
+    },
+    "tmdb_id": "tv/61859",
+    "year": 2016,
+    "rating": "TV-MA"
   },
   {
     "title": "Long Story Short",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 12}
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 12
+    },
+    "tmdb_id": "tv/262375",
+    "year": 2025,
+    "rating": "TV-14"
   },
   {
     "title": "Star Trek: Picard",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 13}
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 13
+    },
+    "tmdb_id": "tv/85949",
+    "year": 2020,
+    "rating": "TV-MA"
   },
   {
     "title": "Murderbot",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 14},
-    "watched_seasons": 1
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 14
+    },
+    "watched_seasons": 1,
+    "tmdb_id": "tv/241554",
+    "year": 2025,
+    "rating": "TV-MA"
   },
   {
     "title": "Agents of S.H.I.E.L.D.",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 15}
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 15
+    },
+    "tmdb_id": "tv/1403",
+    "year": 2013,
+    "rating": "TV-14"
   },
   {
     "title": "New Girl",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 16},
-    "watched_seasons": 2
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 16
+    },
+    "watched_seasons": 2,
+    "tmdb_id": "tv/1420",
+    "year": 2011,
+    "rating": "TV-14"
   },
   {
     "title": "The Expanse",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 17}
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 17
+    },
+    "tmdb_id": "tv/63639",
+    "year": 2015,
+    "rating": "TV-14"
   },
   {
     "title": "American Gods",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 18}
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 18
+    },
+    "tmdb_id": "tv/46639",
+    "year": 2017,
+    "rating": "TV-MA"
   },
   {
     "title": "The Paper",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 19}
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 19
+    },
+    "tmdb_id": "tv/253941",
+    "year": 2025,
+    "rating": "TV-14"
   },
   {
     "title": "Community",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 20}
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 20
+    },
+    "tmdb_id": "tv/18347",
+    "year": 2009,
+    "rating": "TV-14"
   },
   {
     "title": "The Queen's Gambit",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 21}
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 21
+    },
+    "tmdb_id": "tv/87739",
+    "year": 2020,
+    "rating": "TV-MA"
   },
   {
     "title": "Mel Brooks: The 99 Year Old Man!",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 22},
-    "tmdb_id": "tv/308112"
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 22
+    },
+    "tmdb_id": "tv/308112",
+    "year": 2026
   },
   {
     "title": "Slow Horses",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 23}
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 23
+    },
+    "tmdb_id": "tv/95480",
+    "year": 2022,
+    "rating": "TV-MA"
   },
   {
     "title": "Legion",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 24}
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 24
+    },
+    "tmdb_id": "tv/67195",
+    "year": 2017,
+    "rating": "TV-MA"
   },
   {
     "title": "The Lord of the Rings: The Rings of Power",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 25},
-    "watched_seasons": 1
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 25
+    },
+    "watched_seasons": 1,
+    "tmdb_id": "tv/84773",
+    "year": 2022,
+    "rating": "TV-14"
   },
   {
     "title": "Manhunt",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 26}
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 26
+    },
+    "tmdb_id": "tv/72597",
+    "year": 2017,
+    "rating": "TV-MA"
   },
   {
     "title": "Obi-Wan Kenobi",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 27}
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 27
+    },
+    "tmdb_id": "tv/92830",
+    "year": 2022,
+    "rating": "TV-14"
   },
   {
     "title": "Modern Family",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 28}
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 28
+    }
   },
   {
     "title": "Bad Monkey",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 29}
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 29
+    }
   },
   {
     "title": "Jury Duty",
     "type": "series",
-    "lists": ["dad"],
-    "priority": {"dad-series": 30}
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 30
+    }
   }
 ]

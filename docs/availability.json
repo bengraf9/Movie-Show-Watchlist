@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T19:54:11.965654+00:00",
+  "last_updated": "2026-03-15T20:03:14.994785+00:00",
   "country": "us",
   "items": [
     {
@@ -359,7 +359,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-03-15T19:54:01.145401+00:00",
+      "last_checked": "2026-03-15T20:03:08.551872+00:00",
       "runtime": 111,
       "release_date": "1992-09-25"
     },
@@ -1075,7 +1075,7 @@
       ],
       "overview": "The filmed version of Broadway original “Hamilton” that soars in music and tale.",
       "streaming": {},
-      "last_checked": "2026-03-15T19:54:02.448651+00:00",
+      "last_checked": "2026-03-15T20:03:09.118348+00:00",
       "runtime": 160,
       "release_date": "2025-09-05"
     },
@@ -1108,7 +1108,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2020-03-15T19:54:03.705002+00:00",
+      "last_checked": "2026-03-15T20:03:10.386238+00:00",
       "season_count": 3,
       "episode_count": 19,
       "watched_seasons": 2
@@ -1124,7 +1124,7 @@
       "priority": {
         "dad-series": 2
       },
-      "poster": "https://cdn.movieofthenight.com/show/500/poster/vertical/en/240.jpg?Expires=1800283585&Signature=fIk9xr~KgTK3TeaDtiBQ-k9hu1MKP48jf17MSs97vuhQInMIJzkzlJcmEjhOVxZACzyIhbBEEQ3TKWHym0zodOUqdCve8whLdmIfJBdT-nGyUngw9cG4b-bF142P36bvKFEXrkz1vXxJSmr4YhaO1jADmY4y-b3ucwiE0D1lPb-llttpBPAyRi8RXo0E1D9Z83pCtA3Tcb~AzMfQmqL8hUX8qOi6B~E1tsEIWYHxrJ7iMM8o5sgFPlLTnWP1q-nOYa76nNpW~yg0hM6gstwY0ntipY2svodYEx-esXuL452Zvv170U6U70A3oW0WE-KufGJ9QRYP5sW27VQX6SGBlw__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/1yjFVQZuW8aofZ5Cgol8iImsVFp.jpg",
       "rating": "TV-MA",
       "genres": [
         "Comedy",
@@ -1140,7 +1140,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2020-03-14T06:38:50.884752+00:00",
+      "last_checked": "2026-03-15T20:03:11.939716+00:00",
       "season_count": 5,
       "episode_count": 50,
       "watched_seasons": 5
@@ -1541,7 +1541,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-15T19:54:07.621067+00:00",
+      "last_checked": "2026-03-15T20:03:13.341058+00:00",
       "season_count": 7,
       "episode_count": 136
     },
@@ -1890,7 +1890,7 @@
       "priority": {
         "dad-series": 25
       },
-      "poster": "https://cdn.movieofthenight.com/show/147/poster/vertical/en/240.jpg?Expires=1789899409&Signature=C8eyo5aCMX-T8LkWlJ-xY1Ah29Ey~nJU7nEkkUQCruW22nxt146w04ZWnTKUVG1010ERJOFv27VEgv0jQ46dfAv30WhU5UnBQWeUPeSm5RxpYSQolggVHShEOiKjrsnKkYQKVj~JDG1iREeD2b29BMy51unl92pkJ5ZB1bg4b3uDFRH0uUs5oVygj77RoMIuW9cCiPMAihqsOmdC8~CLhiGUH009uUjtotlmQt~m4kqDjR7z5eyYCCohIxMSwPIbLtsUzLSgPBoz~vHumKHSGKuwHBkTG-ywhbLLOL2W0Mn2LmB1Q~msx6LKOceBu~VqgkoHcIqmxu1QCYP6LgczuA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/kf5Hz70tjNAHg4swGDzOr9BfoZ1.jpg",
       "rating": "TV-14",
       "genres": [
         "Action",
@@ -1899,7 +1899,7 @@
       ],
       "overview": "Set thousands of years before the events of J.R.R. Tolkien’s The Lord of the Rings, this epic drama follows an ensemble cast of characters, both familiar and new, as they confront the long-feared r...",
       "streaming": {},
-      "last_checked": "2020-03-15T19:40:28.607801+00:00",
+      "last_checked": "2026-03-15T20:03:14.748394+00:00",
       "season_count": 3,
       "episode_count": 16,
       "watched_seasons": 1

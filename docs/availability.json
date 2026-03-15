@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T21:25:16.454775+00:00",
+  "last_updated": "2026-03-15T21:55:15.695617+00:00",
   "country": "us",
   "items": [
     {
@@ -1074,8 +1074,16 @@
         "History"
       ],
       "overview": "The filmed version of Broadway original “Hamilton” that soars in music and tale.",
-      "streaming": {},
-      "last_checked": "2026-03-15T21:25:06.695618+00:00",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "disney",
+          "type": "subscription",
+          "link": "",
+          "manual": true
+        }
+      },
+      "last_checked": "2026-03-15T21:55:14.279364+00:00",
       "runtime": 160,
       "release_date": "2025-09-05"
     },
@@ -1191,7 +1199,15 @@
       "rating": "TV-14",
       "genres": [],
       "overview": "Owen Tillerman and his family live an unconventional life in New York's bustling Central Park, which Owen manages. Now, they'll have to fend off a wealthy hotel heiress who wants to turn the park i...",
-      "streaming": {},
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "apple",
+          "type": "subscription",
+          "link": "",
+          "manual": true
+        }
+      },
       "last_checked": "2020-03-15T19:40:20.948539+00:00",
       "season_count": 3,
       "episode_count": 39,
@@ -2049,7 +2065,8 @@
       "type": "series",
       "tmdb_id": "tv/222023",
       "lists": [
-        "dad"
+        "dad",
+        "mom"
       ],
       "priority": {
         "dad-series": 30

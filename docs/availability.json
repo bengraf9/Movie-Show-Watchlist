@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T19:40:35.267832+00:00",
+  "last_updated": "2026-03-15T19:54:11.965654+00:00",
   "country": "us",
   "items": [
     {
@@ -13,7 +13,7 @@
       "priority": {
         "dad-movie": 1
       },
-      "poster": "https://www.movieofthenight.com/media/image.svg?title=Project+Hail+Mary&width=240&direction=vertical",
+      "poster": "https://image.tmdb.org/t/p/w300/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "rating": "PG-13",
       "genres": [
         "Science Fiction",
@@ -21,7 +21,7 @@
       ],
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the ...",
       "streaming": {},
-      "last_checked": "2020-03-15T19:40:10.722590+00:00",
+      "last_checked": "2026-03-15T19:53:57.995012+00:00",
       "release_date": "2026-03-20",
       "runtime": 157
     },
@@ -36,7 +36,7 @@
       "priority": {
         "dad-movie": 2
       },
-      "poster": "https://www.movieofthenight.com/media/image.svg?title=Avengers%3A+Doomsday&width=240&direction=vertical",
+      "poster": "https://image.tmdb.org/t/p/w300/s2Fkuq0tj7mjAHEdbfQkFkdbeRI.jpg",
       "rating": "",
       "genres": [
         "Action",
@@ -45,7 +45,7 @@
       ],
       "overview": "The Avengers, Wakandans, Fantastic Four, Thunderbolts, and X-Men all fight against Doctor Doom. Plot TBA.",
       "streaming": {},
-      "last_checked": "2020-03-15T19:40:11.790001+00:00",
+      "last_checked": "2026-03-15T19:53:58.893511+00:00",
       "release_date": "2026-12-18"
     },
     {
@@ -59,7 +59,7 @@
       "priority": {
         "dad-movie": 3
       },
-      "poster": "https://www.movieofthenight.com/media/image.svg?title=The+Sheep+Detectives&width=240&direction=vertical",
+      "poster": "https://image.tmdb.org/t/p/w300/6QtL9rl3Zb4d8qW6EJ4qO5hSSfU.jpg",
       "rating": "PG",
       "genres": [
         "Action",
@@ -68,7 +68,7 @@
       ],
       "overview": "George is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realiz...",
       "streaming": {},
-      "last_checked": "2020-03-15T19:40:12.831196+00:00",
+      "last_checked": "2026-03-15T19:53:59.610719+00:00",
       "release_date": "2026-05-08"
     },
     {
@@ -240,7 +240,7 @@
       "priority": {
         "dad-movie": 8
       },
-      "poster": "https://www.movieofthenight.com/media/image.svg?title=Spider-Man%3A+Brand+New+Day&width=240&direction=vertical",
+      "poster": "https://image.tmdb.org/t/p/w300/9JCQtDCSpPR2ld55yNlEg1VwcQo.jpg",
       "rating": "",
       "genres": [
         "Action",
@@ -249,7 +249,7 @@
       ],
       "overview": "Four years after the events of Spider-Man: No Way Home, Peter Parker is no more and Spider-Man is at the top of his game keeping New York City safe. Things are going well until an unusual trail of ...",
       "streaming": {},
-      "last_checked": "2020-03-15T19:40:13.862567+00:00",
+      "last_checked": "2026-03-15T19:54:00.326668+00:00",
       "release_date": "2026-07-31"
     },
     {
@@ -359,7 +359,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-03-15T19:40:14.933365+00:00",
+      "last_checked": "2026-03-15T19:54:01.145401+00:00",
       "runtime": 111,
       "release_date": "1992-09-25"
     },
@@ -805,7 +805,7 @@
       "priority": {
         "dad-movie": 23
       },
-      "poster": "https://www.movieofthenight.com/media/image.svg?title=Masters+of+the+Universe&width=240&direction=vertical",
+      "poster": "https://image.tmdb.org/t/p/w300/nm2ianYVp7OXElUZVeeAbNTqBLr.jpg",
       "rating": "",
       "genres": [
         "Action",
@@ -814,7 +814,7 @@
       ],
       "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world...",
       "streaming": {},
-      "last_checked": "2020-03-15T19:40:15.779275+00:00",
+      "last_checked": "2026-03-15T19:54:01.667996+00:00",
       "release_date": "2026-06-05"
     },
     {
@@ -1075,7 +1075,7 @@
       ],
       "overview": "The filmed version of Broadway original “Hamilton” that soars in music and tale.",
       "streaming": {},
-      "last_checked": "2020-03-15T19:40:16.773358+00:00",
+      "last_checked": "2026-03-15T19:54:02.448651+00:00",
       "runtime": 160,
       "release_date": "2025-09-05"
     },
@@ -1091,7 +1091,7 @@
       "priority": {
         "dad-series": 1
       },
-      "poster": "https://www.movieofthenight.com/media/image.svg?title=Severance&width=240&direction=vertical",
+      "poster": "https://image.tmdb.org/t/p/w300/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg",
       "rating": "TV-MA",
       "genres": [
         "Drama",
@@ -1108,7 +1108,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2020-03-15T19:40:18.510947+00:00",
+      "last_checked": "2026-03-15T19:54:03.705002+00:00",
       "season_count": 3,
       "episode_count": 19,
       "watched_seasons": 2
@@ -1484,7 +1484,7 @@
       "priority": {
         "dad-series": 14
       },
-      "poster": "https://www.movieofthenight.com/media/image.svg?title=Murderbot&width=240&direction=vertical",
+      "poster": "https://image.tmdb.org/t/p/w300/mIKfKo2uDk3itzAPYIcSeYr4KtF.jpg",
       "rating": "TV-MA",
       "genres": [
         "Action",
@@ -1501,7 +1501,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2020-03-14T06:39:02.896688+00:00",
+      "last_checked": "2026-03-15T19:54:06.122180+00:00",
       "season_count": 1,
       "episode_count": 10,
       "watched_seasons": 1
@@ -1517,7 +1517,7 @@
       "priority": {
         "dad-series": 15
       },
-      "poster": "https://cdn.movieofthenight.com/show/225/poster/vertical/en/240.jpg?Expires=1800328852&Signature=CupQ0-YAIcLbWGXCxOLk~NQD46D3ygkhaKsOX90pv2sbOdXqLsQr-qZXv8figP00FHP9rHNwu8TbTAid6H2IiIg03a-lN5VZ1j8BibpKcvOw~0mOv3lzcYcXcToU8effh~tQhZdDO1jhoC~a7kZRZLPIW8fF~S~Zf6fTZaSX2u8SkJG8iCzLxZgWQlzxSTQlw7~C~PVByvWV00vi1KQt8Y1qCAdenq0JDDWpk3-qVcaI8OSJrTnydU0B5rCrZwNbJ8TyBItecdzql6ZqgfAwl3iExqMiFh5JCyNRQTSHsUCXQzlgLnig0BBTaPu~Xo0FzRjpKkM1uEkEznQ82i0gYg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg",
       "rating": "TV-14",
       "genres": [
         "Action",
@@ -1541,7 +1541,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-15T19:40:24.824079+00:00",
+      "last_checked": "2026-03-15T19:54:07.621067+00:00",
       "season_count": 7,
       "episode_count": 136
     },
@@ -1602,7 +1602,7 @@
       "priority": {
         "dad-series": 17
       },
-      "poster": "https://www.movieofthenight.com/media/image.svg?title=The+Expanse&width=240&direction=vertical",
+      "poster": "https://image.tmdb.org/t/p/w300/8djpxDeWpINnGhjpFXQjnBe6zbx.jpg",
       "rating": "TV-14",
       "genres": [
         "Drama",
@@ -1619,7 +1619,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2020-03-15T19:40:26.669406+00:00",
+      "last_checked": "2026-03-15T19:54:08.981948+00:00",
       "season_count": 6,
       "episode_count": 62
     },
@@ -2024,7 +2024,7 @@
       "priority": {
         "dad-series": 29
       },
-      "poster": "https://www.movieofthenight.com/media/image.svg?title=Bad+Monkey&width=240&direction=vertical",
+      "poster": "https://image.tmdb.org/t/p/w300/lUGG3lxIF3f2N796t4aHmxDhLK5.jpg",
       "rating": "TV-MA",
       "genres": [
         "Comedy"
@@ -2039,7 +2039,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2020-03-15T19:40:33.967226+00:00",
+      "last_checked": "2026-03-15T19:54:10.384442+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2054,14 +2054,14 @@
       "priority": {
         "dad-series": 30
       },
-      "poster": "https://www.movieofthenight.com/media/image.svg?title=Jury+Duty&width=240&direction=vertical",
+      "poster": "https://image.tmdb.org/t/p/w300/ipiqT5uHeJudWy9ICSvuCby7NeI.jpg",
       "rating": "TV-MA",
       "genres": [
         "Comedy"
       ],
       "overview": "Jury Duty is a documentary-style comedy series that shares the inner workings of an American jury trial through the eyes of one particular juror. The Exclusive Cast Commentary includes secrets from...",
       "streaming": {},
-      "last_checked": "2020-03-15T19:40:34.995562+00:00",
+      "last_checked": "2026-03-15T19:54:11.720721+00:00",
       "season_count": 1,
       "episode_count": 8
     }

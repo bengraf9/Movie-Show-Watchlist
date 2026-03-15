@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T21:55:15.695617+00:00",
+  "last_updated": "2026-03-15T22:02:20.175366+00:00",
   "country": "us",
   "items": [
     {
@@ -1083,7 +1083,7 @@
           "manual": true
         }
       },
-      "last_checked": "2026-03-15T21:55:14.279364+00:00",
+      "last_checked": "2026-03-15T22:02:13.719125+00:00",
       "runtime": 160,
       "release_date": "2025-09-05"
     },
@@ -1261,7 +1261,7 @@
       ],
       "overview": "Scandal forces Charlie Summers home to Tauranga, where he shakes up his mom Gaye's amateur musical with Broadway flair and big gay energy.",
       "streaming": {},
-      "last_checked": "2020-03-15T21:25:10.657400+00:00",
+      "last_checked": "2026-03-15T22:02:16.165987+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -1415,8 +1415,16 @@
         "Mystery"
       ],
       "overview": "The Night Manager is based on the internationally acclaimed novel by master storyteller John Le Carre. This suspenseful thriller follows Jonathan Pine, as he endeavours to bring down the notorious ...",
-      "streaming": {},
-      "last_checked": "2020-03-15T21:25:12.660434+00:00",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "prime",
+          "type": "subscription",
+          "link": "",
+          "manual": true
+        }
+      },
+      "last_checked": "2026-03-15T22:02:17.437329+00:00",
       "season_count": 2,
       "episode_count": 12
     },
@@ -1914,8 +1922,16 @@
         "Drama"
       ],
       "overview": "Set thousands of years before the events of J.R.R. Tolkien’s The Lord of the Rings, this epic drama follows an ensemble cast of characters, both familiar and new, as they confront the long-feared r...",
-      "streaming": {},
-      "last_checked": "2020-03-15T21:25:14.599785+00:00",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "prime",
+          "type": "subscription",
+          "link": "",
+          "manual": true
+        }
+      },
+      "last_checked": "2026-03-15T22:02:18.637074+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 1
@@ -2077,8 +2093,16 @@
         "Comedy"
       ],
       "overview": "Jury Duty is a documentary-style comedy series that shares the inner workings of an American jury trial through the eyes of one particular juror. The Exclusive Cast Commentary includes secrets from...",
-      "streaming": {},
-      "last_checked": "2020-03-15T21:25:16.189237+00:00",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "prime",
+          "type": "subscription",
+          "link": "",
+          "manual": true
+        }
+      },
+      "last_checked": "2026-03-15T22:02:19.979938+00:00",
       "season_count": 1,
       "episode_count": 8
     }

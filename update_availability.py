@@ -369,6 +369,18 @@ def extract_item_data(show, watchlist_entry):
     # Extract streaming options
     streaming = extract_streaming_options(show)
 
+    # Merge manual streaming entries from watchlist (for API coverage gaps)
+    for ms in watchlist_entry.get("manual_streaming", []):
+        svc_id = ms.get("service", "")
+        if svc_id and svc_id not in streaming:
+            streaming[svc_id] = {
+                "service": svc_id,
+                "serviceName": ms.get("serviceName", svc_id),
+                "type": ms.get("type", "subscription"),
+                "link": ms.get("link", ""),
+                "manual": True,
+            }
+
     # Get TMDB ID from the show
     tmdb_id = show.get("tmdbId") or watchlist_entry.get("tmdb_id")
 
@@ -689,6 +701,19 @@ def main():
                     existing["season_count"] = tmdb_data["season_count"]
                 if tmdb_data.get("episode_count") and not existing.get("episode_count"):
                     existing["episode_count"] = tmdb_data["episode_count"]
+                # Merge manual streaming entries
+                existing_streaming = existing.get("streaming", {})
+                for ms in entry.get("manual_streaming", []):
+                    svc_id = ms.get("service", "")
+                    if svc_id and svc_id not in existing_streaming:
+                        existing_streaming[svc_id] = {
+                            "service": svc_id,
+                            "serviceName": ms.get("serviceName", svc_id),
+                            "type": ms.get("type", "subscription"),
+                            "link": ms.get("link", ""),
+                            "manual": True,
+                        }
+                existing["streaming"] = existing_streaming
                 updated_items.append(existing)
             else:
                 miss_entry = {
@@ -716,6 +741,17 @@ def main():
                     miss_entry["release_date"] = tmdb_data["release_date"]
                 if entry.get("watched_seasons") is not None:
                     miss_entry["watched_seasons"] = entry["watched_seasons"]
+                # Merge manual streaming entries
+                for ms in entry.get("manual_streaming", []):
+                    svc_id = ms.get("service", "")
+                    if svc_id and svc_id not in miss_entry["streaming"]:
+                        miss_entry["streaming"][svc_id] = {
+                            "service": svc_id,
+                            "serviceName": ms.get("serviceName", svc_id),
+                            "type": ms.get("type", "subscription"),
+                            "link": ms.get("link", ""),
+                            "manual": True,
+                        }
                 updated_items.append(miss_entry)
 
     # Write results

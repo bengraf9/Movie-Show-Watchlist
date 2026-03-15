@@ -469,7 +469,8 @@
     "priority": {
       "dad-series": 4
     },
-    "watched_seasons": 2
+    "watched_seasons": 2,
+    "rating": "TV-14"
   },
   {
     "title": "Middleditch & Schwartz",
@@ -780,7 +781,10 @@
     ],
     "priority": {
       "dad-series": 28
-    }
+    },
+    "tmdb_id": "tv/1421",
+    "year": 2009,
+    "rating": "TV-PG"
   },
   {
     "title": "Bad Monkey",
@@ -790,7 +794,10 @@
     ],
     "priority": {
       "dad-series": 29
-    }
+    },
+    "tmdb_id": "tv/130853",
+    "year": 2024,
+    "rating": "TV-MA"
   },
   {
     "title": "Jury Duty",
@@ -800,6 +807,9 @@
     ],
     "priority": {
       "dad-series": 30
-    }
+    },
+    "tmdb_id": "tv/222023",
+    "year": 2023,
+    "rating": "TV-MA"
   }
 ]

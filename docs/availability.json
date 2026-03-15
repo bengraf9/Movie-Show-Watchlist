@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T06:39:15.719146+00:00",
+  "last_updated": "2026-03-15T19:40:35.267832+00:00",
   "country": "us",
   "items": [
     {
@@ -19,10 +19,11 @@
         "Science Fiction",
         "Thriller"
       ],
-      "overview": "",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the ...",
       "streaming": {},
-      "last_checked": "2020-03-12T15:30:26.704169+00:00",
-      "release_date": "2026-03-20"
+      "last_checked": "2026-03-15T19:40:10.722590+00:00",
+      "release_date": "2026-03-20",
+      "runtime": 157
     },
     {
       "title": "Avengers: Doomsday",
@@ -42,9 +43,9 @@
         "Adventure",
         "Science Fiction"
       ],
-      "overview": "",
+      "overview": "The Avengers, Wakandans, Fantastic Four, Thunderbolts, and X-Men all fight against Doctor Doom. Plot TBA.",
       "streaming": {},
-      "last_checked": "2020-03-12T15:30:27.544316+00:00",
+      "last_checked": "2026-03-15T19:40:11.790001+00:00",
       "release_date": "2026-12-18"
     },
     {
@@ -65,9 +66,9 @@
         "Comedy",
         "Mystery"
       ],
-      "overview": "",
+      "overview": "George is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realiz...",
       "streaming": {},
-      "last_checked": "2020-03-12T15:30:28.158704+00:00",
+      "last_checked": "2026-03-15T19:40:12.831196+00:00",
       "release_date": "2026-05-08"
     },
     {
@@ -246,9 +247,9 @@
         "Adventure",
         "Fantasy"
       ],
-      "overview": "",
+      "overview": "Four years after the events of Spider-Man: No Way Home, Peter Parker is no more and Spider-Man is at the top of his game keeping New York City safe. Things are going well until an unusual trail of ...",
       "streaming": {},
-      "last_checked": "2020-03-12T15:30:31.401178+00:00",
+      "last_checked": "2026-03-15T19:40:13.862567+00:00",
       "release_date": "2026-07-31"
     },
     {
@@ -358,7 +359,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-03-14T06:38:49.787617+00:00",
+      "last_checked": "2026-03-15T19:40:14.933365+00:00",
       "runtime": 111,
       "release_date": "1992-09-25"
     },
@@ -811,9 +812,9 @@
         "Adventure",
         "Family"
       ],
-      "overview": "",
+      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world...",
       "streaming": {},
-      "last_checked": "2020-03-12T15:30:40.801204+00:00",
+      "last_checked": "2026-03-15T19:40:15.779275+00:00",
       "release_date": "2026-06-05"
     },
     {
@@ -1074,7 +1075,7 @@
       ],
       "overview": "The filmed version of Broadway original “Hamilton” that soars in music and tale.",
       "streaming": {},
-      "last_checked": "2020-03-14T06:38:50.221765+00:00",
+      "last_checked": "2026-03-15T19:40:16.773358+00:00",
       "runtime": 160,
       "release_date": "2025-09-05"
     },
@@ -1107,7 +1108,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2020-03-13T06:44:01.032106+00:00",
+      "last_checked": "2026-03-15T19:40:18.510947+00:00",
       "season_count": 3,
       "episode_count": 19,
       "watched_seasons": 2
@@ -1178,7 +1179,7 @@
     },
     {
       "title": "Central Park",
-      "year": null,
+      "year": 2020,
       "type": "series",
       "lists": [
         "dad"
@@ -1186,12 +1187,14 @@
       "priority": {
         "dad-series": 4
       },
-      "poster": "",
-      "rating": "",
+      "poster": "https://image.tmdb.org/t/p/w300/ckmEgQdbSAw0jiJFJT1a1W1LEFy.jpg",
+      "rating": "TV-14",
       "genres": [],
-      "overview": "",
+      "overview": "Owen Tillerman and his family live an unconventional life in New York's bustling Central Park, which Owen manages. Now, they'll have to fend off a wealthy hotel heiress who wants to turn the park i...",
       "streaming": {},
-      "last_checked": "2020-03-14T06:38:52.959180+00:00",
+      "last_checked": "2026-03-15T19:40:20.948539+00:00",
+      "season_count": 3,
+      "episode_count": 39,
       "watched_seasons": 2
     },
     {
@@ -1226,35 +1229,25 @@
     },
     {
       "title": "Happiness",
-      "year": 2021,
+      "year": 2025,
       "type": "series",
-      "tmdb_id": "tv/135340",
+      "tmdb_id": "tv/287399",
       "lists": [
         "dad"
       ],
       "priority": {
         "dad-series": 6
       },
-      "poster": "https://cdn.movieofthenight.com/show/5561/poster/vertical/en/240.jpg?Expires=1800343185&Signature=OKE1jdvHBZkSd7V-fSfnIy7a-KLC1qT~swI2gWcInbGKqpKVsNHr0kqAoBGsBOentoPAJmPd9Rb79m4DXWjAKhhwB2kCQjM3fdfNudX0jDzXheIJS97qb5xGfxiteMoNmU6-6H~R7F-zrDzZxvtrQ3EWRqwI2Kv~d2kaznBPYMKfHPzvqXeGPEO3rCkKQKi4kfawN4CMr50sSz5IfvvF49CyiR5HqY3krTSTwhEFF7FMP3QvFwRFpCSbmt2fM6dBG59KAo9EF48BgM6Y3qyCvPKyBl5wZTD3PNMXFGzYcfdi2xMRzoZ~KBqcelGR2NUsK7coEtYXj9njCyMmpcJgnQ__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/17783719/poster/vertical/en/240.jpg?Expires=1794002076&Signature=cK0WlsNqShDE1uZVbIiHHiyYFA3W1HALbggrfnGgE0GjSMoPOw1Vl86~pCspVl1pmgyjZ807ik4xWmuk9GkjdSmeqDUJb1hS3lgrvLt3At-BFUcf75v3baH7jGbG~noBWivdzn-tbeVFWvZ3SR4YWxfkoZQWOd0BW12J3nlBlBwcQWbCYdhaH1AYq0UI7UZkl8wQp55eR6tn1BtT-VqLAwq6pLhqaMv9B51Te1L1JaqXD7~qdiYwECx3XkgHtB6-pKI52btXo-QjvoQlCQuUSEjX-52iiffrYA39WeoeU9AsnDjx21rC19oDSPmrOInFD5MizzLH6CRUk5gi9i9anA__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "",
       "genres": [
-        "Action",
-        "Drama",
-        "Fantasy"
+        "Comedy"
       ],
-      "overview": "Residents of a high-rise building fight for survival when a deadly disease breaks out and turns the infected into blood-lusting zombies.",
-      "streaming": {
-        "netflix": {
-          "service": "netflix",
-          "serviceName": "Netflix",
-          "type": "subscription",
-          "link": "https://www.netflix.com/title/81520295/",
-          "quality": "hd"
-        }
-      },
-      "last_checked": "2020-03-14T06:38:54.845202+00:00",
+      "overview": "Scandal forces Charlie Summers home to Tauranga, where he shakes up his mom Gaye's amateur musical with Broadway flair and big gay energy.",
+      "streaming": {},
+      "last_checked": "2026-03-15T19:40:22.807323+00:00",
       "season_count": 1,
-      "episode_count": 12
+      "episode_count": 6
     },
     {
       "title": "The Larry Sanders Show",
@@ -1531,7 +1524,7 @@
         "Adventure",
         "Science Fiction"
       ],
-      "overview": "Clark Gregg reprises his role of Agent Phil Coulson from Marvel’s feature films, as he assembles a small, highly select group of Agents from the worldwide law-enforcement organization known as S.H....",
+      "overview": "Agents investigate strange occurrences around the globe.",
       "streaming": {
         "apple": {
           "service": "apple",
@@ -1548,7 +1541,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-14T06:39:03.855276+00:00",
+      "last_checked": "2026-03-15T19:40:24.824079+00:00",
       "season_count": 7,
       "episode_count": 136
     },
@@ -1616,7 +1609,7 @@
         "Mystery",
         "Science Fiction"
       ],
-      "overview": "Based on the international best-selling book series by James S.A. Corey, The Expanse is a Hugo award-winning television series, airing globally on Amazon Prime.",
+      "overview": "Two centuries in the future, a missing person links an asteroid belt detective, the captain of an ice freighter and a diplomat trying to avert a war.",
       "streaming": {
         "apple": {
           "service": "apple",
@@ -1626,7 +1619,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2020-03-14T06:39:05.598796+00:00",
+      "last_checked": "2026-03-15T19:40:26.669406+00:00",
       "season_count": 6,
       "episode_count": 62
     },
@@ -1906,40 +1899,49 @@
       ],
       "overview": "Set thousands of years before the events of J.R.R. Tolkien’s The Lord of the Rings, this epic drama follows an ensemble cast of characters, both familiar and new, as they confront the long-feared r...",
       "streaming": {},
-      "last_checked": "2020-03-14T06:39:13.905079+00:00",
+      "last_checked": "2026-03-15T19:40:28.607801+00:00",
       "season_count": 3,
       "episode_count": 16,
       "watched_seasons": 1
     },
     {
       "title": "Manhunt",
-      "year": 2017,
+      "year": 2024,
       "type": "series",
-      "tmdb_id": "tv/72597",
+      "tmdb_id": "tv/155533",
       "lists": [
         "dad"
       ],
       "priority": {
         "dad-series": 26
       },
-      "poster": "https://cdn.movieofthenight.com/show/830/poster/vertical/en/240.jpg?Expires=1800522586&Signature=JD6N5u6LfX8PJoNvVYpdbqbjyQTVlnDgFPfgtA-kdETxHITn7kt-gE6FE2iJRslPrdhogIIcGlY2yiJAoKu2KA7ikkStEEgrq9fJdq0A2CmuLKiPo05hxiIqAXA1ErOdWIuh26nwSKljerPbx8xywyey4Cnkja9RTIjXQniz0fEhPYmk4-gG-~FcrzCytBNVy4h-JGL7V63utabHYpdQuDCdZ2qsjgqMibGDd8fqO~h29Zs9bDSDz0Pj2fofp0fmlOCtyj156nkwuEyolp5D-kABZwgUl1dlpLqYe0EFb-CF-A1Y61zNBwWVQ8xRgFwQuwleV5ITj0KN4I0BEn5a8Q__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/7863914/poster/vertical/en/240.jpg?Expires=1803668987&Signature=MBiZQJNhf7LocqOj1SBkY9MW44dBVxCC-9MwU3HkZXAl1zPNexbLEfdIeOJ1c0Vzv7h5XE27uZ0EB1ZfpN~DiE9U2oW60Fb3u~WKhHUuw5CIK90THG~7OSY4cCQWBez-mGRJfXLCCOVB86dvC2UjMSlOBHfcoPa2Q742ly~WLT-XJhyv~8B19JnsiwlIToIxU9ta6jLqZeRLVYbiM8NH2bJRCUAx5p56QAflNDSUkdCkt-O4jnutEoA7d~HuUC7x8wGjGMqaVXp4lOcMkAggSCMzf98li9XNzRcqQKsV0hDozfym1CdSLNWGWAFVQEFiPiEVLGN4xia~bJL6AcVBnQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "TV-MA",
       "genres": [
-        "Crime"
+        "Drama",
+        "History",
+        "Thriller"
       ],
-      "overview": "Manhunt: The Unabomber tells the story of how the FBI brought down one of the most infamous criminal masterminds in the world from the point of view of an FBI profiler. T",
+      "overview": "A conspiracy thriller about one of the best known but least understood crimes in history. This is the astonishing story of the hunt for John Wilkes Booth in the aftermath of Abraham Lincoln’s assas...",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0ILD03BZX59Y5SHI1Z0SCOG2T2",
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "subscription",
+          "link": "https://tv.apple.com/us/show/manhunt/umc.cmc.3uqhvdplroersd5p2l72udkal",
+          "quality": "uhd"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-2a63c87a-471f-4edd-9af2-4c5f988ce3ef",
           "quality": "hd"
         }
       },
-      "last_checked": "2020-03-14T06:39:14.798698+00:00",
-      "season_count": 2,
-      "episode_count": 18
+      "last_checked": "2026-03-15T19:40:30.859064+00:00",
+      "season_count": 1,
+      "episode_count": 7
     },
     {
       "title": "Obi-Wan Kenobi",
@@ -1972,6 +1974,96 @@
       "last_checked": "2026-03-14T06:39:15.511486+00:00",
       "season_count": 1,
       "episode_count": 6
+    },
+    {
+      "title": "Modern Family",
+      "year": 2009,
+      "type": "series",
+      "tmdb_id": "tv/1421",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 28
+      },
+      "poster": "https://cdn.movieofthenight.com/show/97/poster/vertical/en/240.jpg?Expires=1800297482&Signature=lq-qdt9QhU4l~feK-fg7aNqRfzcvctRsQvnkin8rlQ8uD9U414ohExfWzvm9RfBKonBkEeaYhP03zgdCqMIQlaehH1rk3ZV8CipGW3G75I0LDH5Ono~juHymwaLdeVAu8ebHBePUzOLDuEvqbhctg5LhbPyBsMx4K22sucS7KHSK0aD-pjsIj-pulGvRoEQFDsFi1xj9Y9OoWKTri76YV8azRPIQmwpUOOoYkMHx~Xa6HqKbVlWnU2FFHwSuDfDKwDCXkNx83jNwdXTTKCO3xfu9pMAnt1s699fECUDZX4PMEWIN7QSqykh7djpZS244LY83DPpUJpClACoFd-TxHw__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "rating": "TV-PG",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "overview": "An honest, often hilarious window into the everyday life of a 21st-century American family -- gay, straight, multicultural and multigenerational.",
+      "streaming": {
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/series/modern-family-883c414c-34a3-4fcc-b50a-0ad5a184c977",
+          "quality": "hd"
+        },
+        "peacock": {
+          "service": "peacock",
+          "serviceName": "Peacock",
+          "type": "subscription",
+          "link": "https://www.peacocktv.com/watch/asset/tv/modern-family/6158438733133910112",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-03-15T19:40:32.351341+00:00",
+      "season_count": 11,
+      "episode_count": 250
+    },
+    {
+      "title": "Bad Monkey",
+      "year": 2024,
+      "type": "series",
+      "tmdb_id": "tv/130853",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 29
+      },
+      "poster": "https://www.movieofthenight.com/media/image.svg?title=Bad+Monkey&width=240&direction=vertical",
+      "rating": "TV-MA",
+      "genres": [
+        "Comedy"
+      ],
+      "overview": "A detective turned restaurant inspector in Southern Florida is pulled into a world of greed and corruption after a tourist finds a severed arm while fishing. And yes, there’s a monkey.",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "subscription",
+          "link": "https://tv.apple.com/us/show/bad-monkey/umc.cmc.2qoep59s6qukjonprttysfs8x",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-15T19:40:33.967226+00:00",
+      "season_count": 1,
+      "episode_count": 10
+    },
+    {
+      "title": "Jury Duty",
+      "year": 2023,
+      "type": "series",
+      "tmdb_id": "tv/222023",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 30
+      },
+      "poster": "https://www.movieofthenight.com/media/image.svg?title=Jury+Duty&width=240&direction=vertical",
+      "rating": "TV-MA",
+      "genres": [
+        "Comedy"
+      ],
+      "overview": "Jury Duty is a documentary-style comedy series that shares the inner workings of an American jury trial through the eyes of one particular juror. The Exclusive Cast Commentary includes secrets from...",
+      "streaming": {},
+      "last_checked": "2026-03-15T19:40:34.995562+00:00",
+      "season_count": 1,
+      "episode_count": 8
     }
   ]
 }

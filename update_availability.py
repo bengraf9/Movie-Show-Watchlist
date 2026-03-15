@@ -205,11 +205,19 @@ def fetch_tmdb_details(tmdb_id, show_type, title=""):
                     overview = overview[:197] + "..."
                 result["overview"] = overview
 
-            # Season/episode counts
-            num_seasons = data.get("number_of_seasons")
+            # Season/episode counts — use seasons array to exclude Specials (season 0)
+            # and announced-but-unaired seasons (0 episodes)
+            tmdb_seasons = data.get("seasons", [])
+            if tmdb_seasons:
+                real = [s for s in tmdb_seasons
+                        if s.get("season_number", -1) != 0
+                        and (s.get("episode_count", 0) or 0) > 0]
+                if real:
+                    result["season_count"] = len(real)
+            elif data.get("number_of_seasons"):
+                result["season_count"] = data["number_of_seasons"]
+
             num_episodes = data.get("number_of_episodes")
-            if num_seasons:
-                result["season_count"] = num_seasons
             if num_episodes:
                 result["episode_count"] = num_episodes
 
@@ -317,12 +325,13 @@ def extract_item_data(show, watchlist_entry):
     if show_type == "movie":
         runtime = show.get("runtime")  # in minutes
     else:
-        # Count seasons and episodes, excluding "Specials" (season 0)
+        # Count seasons and episodes from SA API, excluding Specials and unaired seasons
         seasons = show.get("seasons", [])
         if seasons:
             real_seasons = [
                 s for s in seasons
                 if s.get("seasonNumber", s.get("season_number", -1)) != 0
+                and (s.get("episodeCount", 0) or len(s.get("episodes", []))) > 0
             ]
             season_count = len(real_seasons) if real_seasons else len(seasons)
             episode_count = sum(
@@ -336,7 +345,7 @@ def extract_item_data(show, watchlist_entry):
             episode_count = show.get("episodeCount")
 
     result = {
-        "title": show.get("title") or watchlist_entry["title"],
+        "title": watchlist_entry["title"],
         "year": show.get("releaseYear") or show.get("firstAirYear") or watchlist_entry.get("year"),
         "type": show_type,
         "tmdb_id": tmdb_id,

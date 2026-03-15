@@ -205,20 +205,34 @@ def fetch_tmdb_details(tmdb_id, show_type, title=""):
                     overview = overview[:197] + "..."
                 result["overview"] = overview
 
-            # Season/episode counts — use seasons array to exclude Specials (season 0)
-            # and announced-but-unaired seasons (0 episodes)
+            # Season/episode counts — exclude Specials (season 0)
+            # and unaired seasons (air_date in future or null)
             tmdb_seasons = data.get("seasons", [])
             if tmdb_seasons:
-                real = [s for s in tmdb_seasons
-                        if s.get("season_number", -1) != 0
-                        and (s.get("episode_count", 0) or 0) > 0]
+                from datetime import date
+                today = date.today().isoformat()
+                real = []
+                for s in tmdb_seasons:
+                    sn = s.get("season_number", -1)
+                    air = s.get("air_date") or ""
+                    ec = s.get("episode_count", 0)
+                    if sn == 0:
+                        continue  # Skip Specials
+                    if not air or air > today:
+                        print(f"    [SEASON SKIP] Season {sn}: air_date={air or 'none'}, episodes={ec}")
+                        continue  # Skip unaired
+                    real.append(s)
                 if real:
                     result["season_count"] = len(real)
+                    # Sum episodes only from aired seasons
+                    ep_total = sum(s.get("episode_count", 0) or 0 for s in real)
+                    if ep_total:
+                        result["episode_count"] = ep_total
             elif data.get("number_of_seasons"):
                 result["season_count"] = data["number_of_seasons"]
 
             num_episodes = data.get("number_of_episodes")
-            if num_episodes:
+            if num_episodes and "episode_count" not in result:
                 result["episode_count"] = num_episodes
 
             # Content rating
@@ -534,9 +548,10 @@ def main():
             needs_release = not entry.get("release_date", "")
             needs_poster = not item_data.get("poster", "")
             needs_overview = not item_data.get("overview", "")
+            needs_seasons = (show_type == "series")  # Always check TMDB for accurate season counts
             lookup_id = entry.get("tmdb_id") or show.get("tmdbId")
 
-            if (needs_rating or needs_release or needs_poster or needs_overview) and lookup_id and TMDB_API_KEY:
+            if (needs_rating or needs_release or needs_poster or needs_overview or needs_seasons) and lookup_id and TMDB_API_KEY:
                 tmdb_data = fetch_tmdb_details(lookup_id, show_type, title)
 
                 if tmdb_data.get("rating") and needs_rating:
@@ -570,10 +585,10 @@ def main():
                 if tmdb_data.get("runtime") and not item_data.get("runtime"):
                     item_data["runtime"] = tmdb_data["runtime"]
 
-                if tmdb_data.get("season_count") and not item_data.get("season_count"):
+                if tmdb_data.get("season_count"):
                     item_data["season_count"] = tmdb_data["season_count"]
 
-                if tmdb_data.get("episode_count") and not item_data.get("episode_count"):
+                if tmdb_data.get("episode_count"):
                     item_data["episode_count"] = tmdb_data["episode_count"]
 
                 time.sleep(0.15)  # Be polite to TMDB

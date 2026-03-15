@@ -252,8 +252,10 @@ def fetch_tmdb_details(tmdb_id, show_type, title=""):
 def extract_streaming_options(show):
     """Extract streaming availability from a show object."""
     streaming = {}
+    addon_entries = []
     options = show.get("streamingOptions", {}).get(COUNTRY, [])
 
+    # First pass: collect direct (non-addon) entries
     for opt in options:
         service_id = opt.get("service", {}).get("id", "")
         if service_id not in SERVICES_OF_INTEREST:
@@ -262,9 +264,9 @@ def extract_streaming_options(show):
         service_name = opt.get("service", {}).get("name", service_id)
         stream_type = opt.get("type", "")  # subscription, rent, buy, free, addon
 
-        # Skip addon entries (e.g., HBO as a "channel" on Hulu/Prime).
-        # The actual service (HBO Max) will have its own direct entry.
         if stream_type == "addon":
+            # Save for second pass
+            addon_entries.append(opt)
             continue
 
         price_info = opt.get("price", {})
@@ -294,6 +296,46 @@ def extract_streaming_options(show):
                 streaming[service_id] = entry
         else:
             streaming[service_id] = entry
+
+    # Second pass: process addon entries
+    # Only keep an addon if its service doesn't already have a direct subscription entry
+    for opt in addon_entries:
+        addon_info = opt.get("addon", {})
+        addon_id = addon_info.get("id", "")
+        addon_name = addon_info.get("name", "")
+        host_service_id = opt.get("service", {}).get("id", "")
+        link = opt.get("link", "")
+
+        # Map common addon IDs to their standalone service IDs
+        addon_to_service = {
+            "hbo_max": "hbo", "hbomax": "hbo", "hbo": "hbo",
+            "apple_tv_plus": "apple", "appletv": "apple", "apple_tv": "apple",
+            "paramount_plus": "paramount", "paramountplus": "paramount",
+            "starz": "starz", "showtime": "showtime",
+            "peacock": "peacock", "amc_plus": "amc",
+        }
+        mapped_service = addon_to_service.get(addon_id, addon_id)
+
+        # Skip if the addon's own service already has a direct entry
+        if mapped_service in streaming:
+            continue
+
+        # Also skip if it would just duplicate the host service
+        if host_service_id in streaming and streaming[host_service_id]["type"] == "subscription":
+            continue
+
+        # Keep the addon, attributed to the addon's own service
+        if mapped_service in SERVICES_OF_INTEREST or addon_id:
+            use_id = mapped_service if mapped_service in SERVICES_OF_INTEREST else host_service_id
+            use_name = addon_name or mapped_service
+            entry = {
+                "service": use_id,
+                "serviceName": use_name,
+                "type": "subscription",  # It's a subscription within the addon
+                "link": link,
+            }
+            if use_id not in streaming:
+                streaming[use_id] = entry
 
     return streaming
 
@@ -594,6 +636,12 @@ def main():
                 time.sleep(0.15)  # Be polite to TMDB
 
             stream_count = len(item_data["streaming"])
+            # Debug: if 0 services, show what raw options the API had
+            if stream_count == 0:
+                raw_options = show.get("streamingOptions", {}).get(COUNTRY, [])
+                if raw_options:
+                    raw_summary = [f"{o.get('service',{}).get('id','?')}:{o.get('type','?')}" for o in raw_options[:10]]
+                    print(f"    [STREAM DEBUG] API had {len(raw_options)} raw options: {', '.join(raw_summary)}")
             print(f"    -> Found on {stream_count} service(s)")
         else:
             print(f"  [MISS] No results for '{title}' ({year})")

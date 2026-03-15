@@ -317,13 +317,17 @@ def extract_item_data(show, watchlist_entry):
     if show_type == "movie":
         runtime = show.get("runtime")  # in minutes
     else:
-        # Count seasons and episodes
+        # Count seasons and episodes, excluding "Specials" (season 0)
         seasons = show.get("seasons", [])
         if seasons:
-            season_count = len(seasons)
+            real_seasons = [
+                s for s in seasons
+                if s.get("seasonNumber", s.get("season_number", -1)) != 0
+            ]
+            season_count = len(real_seasons) if real_seasons else len(seasons)
             episode_count = sum(
                 s.get("episodeCount", 0) or len(s.get("episodes", []))
-                for s in seasons
+                for s in real_seasons or seasons
             )
         # Fallback fields some API versions use
         if not season_count:

@@ -414,7 +414,10 @@
     },
     "tmdb_id": "movie/556574",
     "rating": "PG-13",
-    "release_date": "2025-09-05"
+    "release_date": "2025-09-05",
+    "manual_streaming": [
+      {"service": "disney", "type": "subscription"}
+    ]
   },
   {
     "title": "Severance",
@@ -470,7 +473,10 @@
       "dad-series": 4
     },
     "watched_seasons": 2,
-    "rating": "TV-14"
+    "rating": "TV-14",
+    "manual_streaming": [
+      {"service": "apple", "type": "subscription"}
+    ]
   },
   {
     "title": "Middleditch & Schwartz",
@@ -561,7 +567,10 @@
     },
     "tmdb_id": "tv/61859",
     "year": 2016,
-    "rating": "TV-MA"
+    "rating": "TV-MA",
+    "manual_streaming": [
+      {"service": "prime", "type": "subscription"}
+    ]
   },
   {
     "title": "Long Story Short",
@@ -745,7 +754,10 @@
     "watched_seasons": 1,
     "tmdb_id": "tv/84773",
     "year": 2022,
-    "rating": "TV-14"
+    "rating": "TV-14",
+    "manual_streaming": [
+      {"service": "prime", "type": "subscription"}
+    ]
   },
   {
     "title": "Manhunt",
@@ -803,13 +815,16 @@
     "title": "Jury Duty",
     "type": "series",
     "lists": [
-      "dad"
+      "dad", "mom"
     ],
     "priority": {
       "dad-series": 30
     },
     "tmdb_id": "tv/222023",
     "year": 2023,
-    "rating": "TV-MA"
+    "rating": "TV-MA",
+    "manual_streaming": [
+      {"service": "prime", "type": "subscription"}
+    ]
   }
 ]

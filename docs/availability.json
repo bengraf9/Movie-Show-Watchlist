@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T20:27:33.498842+00:00",
+  "last_updated": "2026-03-15T21:25:16.454775+00:00",
   "country": "us",
   "items": [
     {
@@ -1075,7 +1075,7 @@
       ],
       "overview": "The filmed version of Broadway original “Hamilton” that soars in music and tale.",
       "streaming": {},
-      "last_checked": "2020-03-15T20:27:31.285017+00:00",
+      "last_checked": "2026-03-15T21:25:06.695618+00:00",
       "runtime": 160,
       "release_date": "2025-09-05"
     },
@@ -1238,14 +1238,14 @@
       "priority": {
         "dad-series": 6
       },
-      "poster": "https://cdn.movieofthenight.com/show/17783719/poster/vertical/en/240.jpg?Expires=1794002076&Signature=cK0WlsNqShDE1uZVbIiHHiyYFA3W1HALbggrfnGgE0GjSMoPOw1Vl86~pCspVl1pmgyjZ807ik4xWmuk9GkjdSmeqDUJb1hS3lgrvLt3At-BFUcf75v3baH7jGbG~noBWivdzn-tbeVFWvZ3SR4YWxfkoZQWOd0BW12J3nlBlBwcQWbCYdhaH1AYq0UI7UZkl8wQp55eR6tn1BtT-VqLAwq6pLhqaMv9B51Te1L1JaqXD7~qdiYwECx3XkgHtB6-pKI52btXo-QjvoQlCQuUSEjX-52iiffrYA39WeoeU9AsnDjx21rC19oDSPmrOInFD5MizzLH6CRUk5gi9i9anA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/tPBHObrHaJiX86vgVJMWBDTx6DZ.jpg",
       "rating": "",
       "genres": [
         "Comedy"
       ],
       "overview": "Scandal forces Charlie Summers home to Tauranga, where he shakes up his mom Gaye's amateur musical with Broadway flair and big gay energy.",
       "streaming": {},
-      "last_checked": "2020-03-15T19:40:22.807323+00:00",
+      "last_checked": "2026-03-15T21:25:10.657400+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -1391,7 +1391,7 @@
       "priority": {
         "dad-series": 11
       },
-      "poster": "https://cdn.movieofthenight.com/show/577/poster/vertical/en/240.jpg?Expires=1798312746&Signature=edaNEPHREbWshut~oYjjaAZZCi3h3jOdNJhwZcHrgTWWpKBiM2TJOrfqdU2Ef-sVVOAiiMqJPxVHWBQ9-v5M7chmUtyS7XNdXND~ST9JgIpYNJVHPnrw6-~Oue7M39FwPMTRkF6Yai23e8PUJgA~RV0iPrQohiySta3gDBDy3qXrT4suX-XYI-DP6PkxP7vUvmWE6LOXH9pXDjnhvgre~qNp4iCdEa~~qhfnPuu3Zn4kb7xFFVzgUZjQS9zncvH8kTZ-6Byu75jIjmWdr7aBeZdBI9jG9XtQjDrIifyHQKL-4-id7LUWDBH6pdrdCHIqMM2BFdV-I6aCX0iIYQ5pZQ__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/1MccRnw41qQjREuZkovqP2UX1i3.jpg",
       "rating": "TV-MA",
       "genres": [
         "Crime",
@@ -1400,7 +1400,7 @@
       ],
       "overview": "The Night Manager is based on the internationally acclaimed novel by master storyteller John Le Carre. This suspenseful thriller follows Jonathan Pine, as he endeavours to bring down the notorious ...",
       "streaming": {},
-      "last_checked": "2020-03-14T06:38:59.582005+00:00",
+      "last_checked": "2026-03-15T21:25:12.660434+00:00",
       "season_count": 2,
       "episode_count": 12
     },
@@ -1899,7 +1899,7 @@
       ],
       "overview": "Set thousands of years before the events of J.R.R. Tolkien’s The Lord of the Rings, this epic drama follows an ensemble cast of characters, both familiar and new, as they confront the long-feared r...",
       "streaming": {},
-      "last_checked": "2020-03-15T20:27:33.296652+00:00",
+      "last_checked": "2026-03-15T21:25:14.599785+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 1
@@ -2061,7 +2061,7 @@
       ],
       "overview": "Jury Duty is a documentary-style comedy series that shares the inner workings of an American jury trial through the eyes of one particular juror. The Exclusive Cast Commentary includes secrets from...",
       "streaming": {},
-      "last_checked": "2020-03-15T19:54:11.720721+00:00",
+      "last_checked": "2026-03-15T21:25:16.189237+00:00",
       "season_count": 1,
       "episode_count": 8
     }

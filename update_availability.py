@@ -540,9 +540,15 @@ def main():
                     watchlist_modified = True
                     print(f"    -> Fetched release date: {tmdb_data['release_date']}")
 
-                if tmdb_data.get("poster") and needs_poster:
-                    item_data["poster"] = tmdb_data["poster"]
-                    print(f"    -> Fetched poster from TMDB")
+                if tmdb_data.get("poster"):
+                    if needs_poster:
+                        item_data["poster"] = tmdb_data["poster"]
+                        print(f"    -> Fetched poster from TMDB")
+                    elif not item_data.get("poster", "").startswith("https://image.tmdb.org"):
+                        # Prefer TMDB poster over Streaming Availability API poster
+                        # (SA API posters can be broken for unreleased/obscure titles)
+                        item_data["poster"] = tmdb_data["poster"]
+                        print(f"    -> Replaced poster with TMDB version")
 
                 if tmdb_data.get("overview") and needs_overview:
                     item_data["overview"] = tmdb_data["overview"]

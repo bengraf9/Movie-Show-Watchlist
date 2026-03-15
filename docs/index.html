@@ -337,6 +337,16 @@
   .badge-curiosity { background: #17BEBB; color: #fff; }
   .badge-pluto { background: #2a2a2a; color: #F7D948; border: 1px solid #F7D948; }
   .badge-default { background: var(--bg-surface); color: var(--text-primary); border: 1px solid var(--border); }
+  .stream-badge.manual {
+    border-style: dashed !important;
+    border-width: 1.5px !important;
+    position: relative;
+  }
+  .manual-dot {
+    font-size: 0.5rem;
+    vertical-align: super;
+    opacity: 0.7;
+  }
 
   .no-streaming {
     font-size: 0.75rem;
@@ -1377,12 +1387,16 @@
     return entries.map(s => {
       const label = serviceLabels[s.service] || s.serviceName || s.service;
       const badgeClass = `badge-${s.service}` || 'badge-default';
+      const isManual = s.manual === true;
+      const manualClass = isManual ? ' manual' : '';
+      const manualDot = isManual ? '<span class="manual-dot">✎</span>' : '';
+      const manualTitle = isManual ? ' title="Manually entered — verify periodically"' : '';
       const typeIcon = s.type === 'subscription' ? '' : s.type === 'free' ? '🆓 ' : '';
       const price = (s.type === 'rent' || s.type === 'buy')
         ? `<span class="price">${s.type === 'buy' ? 'Buy ' : ''}${s.price || ''}</span>` : '';
       const href = s.link ? ` href="${escHtml(s.link)}" target="_blank" rel="noopener"` : '';
 
-      return `<a class="stream-badge ${badgeClass}"${href}>${typeIcon}${escHtml(label)} ${price}</a>`;
+      return `<a class="stream-badge ${badgeClass}${manualClass}"${href}${manualTitle}>${typeIcon}${escHtml(label)}${manualDot} ${price}</a>`;
     }).join('');
   }
 

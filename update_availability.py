@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 “””
-Movie & Show Watchlist - Update Availability Data
+Stream Finder - Update Availability Data
 Reads watchlist.json, queries the Streaming Availability API,
 and writes availability.json for the static frontend.
 “””

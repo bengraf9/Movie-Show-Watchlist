@@ -544,13 +544,25 @@
     "rating": "TV-14"
   },
   {
+    "title": "Shrinking",
+    "type": "series",
+    "lists": [
+      "dad"
+    ],
+    "priority": {
+      "dad-series": 11
+    },
+    "tmdb_id": "tv/136311",
+    "year": 2023
+  },
+  {
     "title": "Star Trek: Strange New Worlds",
     "type": "series",
     "lists": [
       "dad"
     ],
     "priority": {
-      "dad-series": 10
+      "dad-series": 11
     },
     "tmdb_id": "tv/103516",
     "year": 2022,
@@ -563,7 +575,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 11
+      "dad-series": 12
     },
     "tmdb_id": "tv/61859",
     "year": 2016,
@@ -579,7 +591,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 12
+      "dad-series": 13
     },
     "tmdb_id": "tv/262375",
     "year": 2025,
@@ -592,7 +604,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 13
+      "dad-series": 14
     },
     "tmdb_id": "tv/85949",
     "year": 2020,
@@ -605,7 +617,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 14
+      "dad-series": 15
     },
     "watched_seasons": 1,
     "tmdb_id": "tv/241554",
@@ -619,7 +631,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 15
+      "dad-series": 16
     },
     "tmdb_id": "tv/1403",
     "year": 2013,
@@ -632,7 +644,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 16
+      "dad-series": 17
     },
     "watched_seasons": 2,
     "tmdb_id": "tv/1420",
@@ -646,7 +658,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 17
+      "dad-series": 18
     },
     "tmdb_id": "tv/63639",
     "year": 2015,
@@ -659,7 +671,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 18
+      "dad-series": 19
     },
     "tmdb_id": "tv/46639",
     "year": 2017,
@@ -672,7 +684,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 19
+      "dad-series": 20
     },
     "tmdb_id": "tv/253941",
     "year": 2025,
@@ -685,7 +697,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 20
+      "dad-series": 21
     },
     "tmdb_id": "tv/18347",
     "year": 2009,
@@ -698,7 +710,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 21
+      "dad-series": 22
     },
     "tmdb_id": "tv/87739",
     "year": 2020,
@@ -711,7 +723,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 22
+      "dad-series": 23
     },
     "tmdb_id": "tv/308112",
     "year": 2026
@@ -723,7 +735,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 23
+      "dad-series": 24
     },
     "tmdb_id": "tv/95480",
     "year": 2022,
@@ -736,7 +748,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 24
+      "dad-series": 25
     },
     "tmdb_id": "tv/67195",
     "year": 2017,
@@ -749,7 +761,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 25
+      "dad-series": 26
     },
     "watched_seasons": 1,
     "tmdb_id": "tv/84773",
@@ -766,7 +778,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 26
+      "dad-series": 27
     },
     "tmdb_id": "tv/155533",
     "year": 2024,
@@ -779,7 +791,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 27
+      "dad-series": 28
     },
     "tmdb_id": "tv/92830",
     "year": 2022,
@@ -792,7 +804,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 28
+      "dad-series": 29
     },
     "tmdb_id": "tv/1421",
     "year": 2009,
@@ -805,7 +817,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 29
+      "dad-series": 30
     },
     "tmdb_id": "tv/130853",
     "year": 2024,
@@ -815,11 +827,8 @@
     "title": "Jury Duty",
     "type": "series",
     "lists": [
-      "dad", "mom"
+      "mom"
     ],
-    "priority": {
-      "dad-series": 30
-    },
     "tmdb_id": "tv/222023",
     "year": 2023,
     "rating": "TV-MA",

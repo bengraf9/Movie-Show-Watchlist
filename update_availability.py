@@ -499,12 +499,6 @@ def main():
 
         # Check if we have fresh data already
         existing = existing_items.get(key)
-        if not existing:
-            # Debug: try to find near-matches to diagnose key mismatches
-            for ekey in existing_items:
-                if title.lower() in ekey:
-                    print(f"  [KEY DEBUG] Watchlist key: '{key}' | Similar existing key: '{ekey}'")
-                    break
         if existing and not is_stale(existing, STALE_DAYS):
             # Preserve user-managed fields (may have changed in watchlist)
             existing["lists"] = entry.get("lists", existing.get("lists", ["dad"]))
@@ -688,6 +682,7 @@ def main():
 
             # Keep existing data if we had it, or create a minimal entry
             if existing:
+                existing["last_checked"] = datetime.now(timezone.utc).isoformat()
                 existing["lists"] = entry.get("lists", existing.get("lists", ["dad"]))
                 existing["priority"] = entry.get("priority", existing.get("priority", {}))
                 if entry.get("rating"):

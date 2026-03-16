@@ -835,5 +835,375 @@
     "manual_streaming": [
       {"service": "prime", "type": "subscription"}
     ]
+  },
+  {
+    "title": "The Princess Bride",
+    "year": 1987,
+    "type": "movie",
+    "lists": ["family"],
+    "priority": {"family-movie": 1}
+  },
+  {
+    "title": "The Mighty Ducks",
+    "year": 1992,
+    "type": "movie",
+    "lists": ["family"],
+    "priority": {"family-movie": 2}
+  },
+  {
+    "title": "Ron's Gone Wrong",
+    "year": 2021,
+    "type": "movie",
+    "lists": ["family"],
+    "priority": {"family-movie": 3}
+  },
+  {
+    "title": "Caravan of Courage: An Ewok Adventure",
+    "year": 1984,
+    "type": "movie",
+    "lists": ["family"],
+    "priority": {"family-movie": 4}
+  },
+  {
+    "title": "Matilda the Musical",
+    "year": 2022,
+    "type": "movie",
+    "lists": ["family"],
+    "priority": {"family-movie": 5}
+  },
+  {
+    "title": "Finding 'Ohana",
+    "year": 2021,
+    "type": "movie",
+    "lists": ["family"],
+    "priority": {"family-movie": 6}
+  },
+  {
+    "title": "Up",
+    "year": 2009,
+    "type": "movie",
+    "lists": ["family"],
+    "priority": {"family-movie": 7}
+  },
+  {
+    "title": "Night at the Museum: Secret of the Tomb",
+    "year": 2014,
+    "type": "movie",
+    "lists": ["family"],
+    "priority": {"family-movie": 8}
+  },
+  {
+    "title": "Elio",
+    "year": 2025,
+    "type": "movie",
+    "lists": ["family"],
+    "priority": {"family-movie": 9}
+  },
+  {
+    "title": "Ewoks: The Battle for Endor",
+    "year": 1985,
+    "type": "movie",
+    "lists": ["family"],
+    "priority": {"family-movie": 10}
+  },
+  {
+    "title": "Spellbound",
+    "year": 2024,
+    "type": "movie",
+    "lists": ["family"],
+    "priority": {"family-movie": 11}
+  },
+  {
+    "title": "Mr. Magorium's Wonder Emporium",
+    "year": 2007,
+    "type": "movie",
+    "lists": ["family"],
+    "priority": {"family-movie": 12}
+  },
+  {
+    "title": "The Great Muppet Caper",
+    "year": 1981,
+    "type": "movie",
+    "lists": ["family"],
+    "priority": {"family-movie": 13}
+  },
+  {
+    "title": "Solo: A Star Wars Story",
+    "year": 2018,
+    "type": "movie",
+    "lists": ["family"],
+    "priority": {"family-movie": 14}
+  },
+  {
+    "title": "Abominable",
+    "year": 2019,
+    "type": "movie",
+    "lists": ["family"],
+    "priority": {"family-movie": 15}
+  },
+  {
+    "title": "Holes",
+    "year": 2003,
+    "type": "movie",
+    "lists": ["family"],
+    "priority": {"family-movie": 16}
+  },
+  {
+    "title": "Flow",
+    "year": 2024,
+    "type": "movie",
+    "lists": ["family"],
+    "priority": {"family-movie": 17}
+  },
+  {
+    "title": "Star Wars: The Force Awakens",
+    "year": 2015,
+    "type": "movie",
+    "lists": ["family"],
+    "priority": {"family-movie": 18}
+  },
+  {
+    "title": "Star Wars: The Last Jedi",
+    "year": 2017,
+    "type": "movie",
+    "lists": ["family"],
+    "priority": {"family-movie": 19}
+  },
+  {
+    "title": "Star Wars: The Rise of Skywalker",
+    "year": 2019,
+    "type": "movie",
+    "lists": ["family"],
+    "priority": {"family-movie": 20}
+  },
+  {
+    "title": "Inside Out",
+    "year": 2015,
+    "type": "movie",
+    "lists": ["family"],
+    "priority": {"family-movie": 21}
+  },
+  {
+    "title": "Homeward Bound: The Incredible Journey",
+    "year": 1993,
+    "type": "movie",
+    "lists": ["family"],
+    "priority": {"family-movie": 22}
+  },
+  {
+    "title": "Strange World",
+    "year": 2022,
+    "type": "movie",
+    "lists": ["family"],
+    "priority": {"family-movie": 23}
+  },
+  {
+    "title": "The Muppets Take Manhattan",
+    "year": 1984,
+    "type": "movie",
+    "lists": ["family"],
+    "priority": {"family-movie": 24}
+  },
+  {
+    "title": "Muppets from Space",
+    "year": 1999,
+    "type": "movie",
+    "lists": ["family"],
+    "priority": {"family-movie": 25}
+  },
+  {
+    "title": "8-Bit Christmas",
+    "year": 2021,
+    "type": "movie",
+    "lists": ["family"],
+    "priority": {"family-movie": 26}
+  },
+  {
+    "title": "The Little Mermaid",
+    "year": 2023,
+    "type": "movie",
+    "lists": ["family"],
+    "priority": {"family-movie": 27}
+  },
+  {
+    "title": "Elephant",
+    "year": 2020,
+    "type": "movie",
+    "lists": ["kids"]
+  },
+  {
+    "title": "Snoopy Presents: It's the Small Things, Charlie Brown",
+    "year": 2022,
+    "type": "movie",
+    "lists": ["kids"]
+  },
+  {
+    "title": "Emily's Wonder Lab",
+    "year": 2020,
+    "type": "series",
+    "lists": ["kids"]
+  },
+  {
+    "title": "America the Beautiful",
+    "year": 2022,
+    "type": "series",
+    "lists": ["kids"]
+  },
+  {
+    "title": "Oni: Thunder God's Tale",
+    "year": 2022,
+    "type": "series",
+    "lists": ["kids"]
+  },
+  {
+    "title": "Little Lunch",
+    "year": 2015,
+    "type": "series",
+    "lists": ["kids"]
+  },
+  {
+    "title": "Shaun the Sheep",
+    "year": 2007,
+    "type": "series",
+    "lists": ["kids"]
+  },
+  {
+    "title": "Big Beasts",
+    "year": 2023,
+    "type": "series",
+    "lists": ["kids"]
+  },
+  {
+    "title": "Odd Squad",
+    "year": 2014,
+    "type": "series",
+    "lists": ["kids"]
+  },
+  {
+    "title": "Trolls Band Together",
+    "year": 2023,
+    "type": "movie",
+    "lists": ["kids"]
+  },
+  {
+    "title": "Puff: Wonders of the Reef",
+    "year": 2021,
+    "type": "movie",
+    "lists": ["kids"]
+  },
+  {
+    "title": "The One and Only Ivan",
+    "year": 2020,
+    "type": "movie",
+    "lists": ["kids"]
+  },
+  {
+    "title": "Penguins",
+    "year": 2019,
+    "type": "movie",
+    "lists": ["kids"]
+  },
+  {
+    "title": "Lyle, Lyle, Crocodile",
+    "year": 2022,
+    "type": "movie",
+    "lists": ["kids"]
+  },
+  {
+    "title": "School of Magical Animals",
+    "year": 2021,
+    "type": "movie",
+    "lists": ["kids"]
+  },
+  {
+    "title": "Tiger",
+    "year": 2024,
+    "type": "movie",
+    "lists": ["kids"]
+  },
+  {
+    "title": "Tigers on the Rise",
+    "year": 2024,
+    "type": "movie",
+    "lists": ["kids"]
+  },
+  {
+    "title": "Harold and the Purple Crayon",
+    "year": 2024,
+    "type": "movie",
+    "lists": ["kids"]
+  },
+  {
+    "title": "Sonic the Hedgehog",
+    "year": 2020,
+    "type": "movie",
+    "lists": ["kids"]
+  },
+  {
+    "title": "The Secret Lives of Animals",
+    "year": 2024,
+    "type": "series",
+    "lists": ["kids"]
+  },
+  {
+    "title": "Timmy Failure: Mistakes Were Made",
+    "year": 2020,
+    "type": "movie",
+    "lists": ["kids"]
+  },
+  {
+    "title": "One Strange Rock",
+    "year": 2018,
+    "type": "series",
+    "lists": ["kids"]
+  },
+  {
+    "title": "Patrick and the Whale",
+    "year": 2023,
+    "type": "movie",
+    "lists": ["kids"]
+  },
+  {
+    "title": "Kensuke's Kingdom",
+    "year": 2024,
+    "type": "movie",
+    "lists": ["kids"]
+  },
+  {
+    "title": "The Tiger's Apprentice",
+    "year": 2024,
+    "type": "movie",
+    "lists": ["kids"]
+  },
+  {
+    "title": "Raya and the Last Dragon",
+    "year": 2021,
+    "type": "movie",
+    "lists": ["kids"]
+  },
+  {
+    "title": "Pokemon Detective Pikachu",
+    "year": 2019,
+    "type": "movie",
+    "lists": ["kids"]
+  },
+  {
+    "title": "Spy Kids",
+    "year": 2001,
+    "type": "movie",
+    "lists": ["kids"]
+  },
+  {
+    "title": "UglyDolls",
+    "year": 2019,
+    "type": "movie",
+    "lists": ["kids"]
+  },
+  {
+    "title": "The Dinosaurs",
+    "year": 2026,
+    "type": "series",
+    "lists": ["kids"],
+    "tmdb_id": "tv/313298"
   }
 ]

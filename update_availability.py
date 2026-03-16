@@ -414,7 +414,7 @@ def extract_item_data(show, watchlist_entry):
 
     result = {
         "title": watchlist_entry["title"],
-        "year": show.get("releaseYear") or show.get("firstAirYear") or watchlist_entry.get("year"),
+        "year": watchlist_entry.get("year") or show.get("releaseYear") or show.get("firstAirYear"),
         "type": show_type,
         "tmdb_id": tmdb_id,
         "lists": watchlist_entry.get("lists", ["dad"]),

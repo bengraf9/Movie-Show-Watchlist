@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16T18:42:07.329882+00:00",
+  "last_updated": "2026-03-17T06:58:01.371815+00:00",
   "country": "us",
   "items": [
     {
@@ -8,7 +8,8 @@
       "type": "movie",
       "tmdb_id": "movie/687163",
       "lists": [
-        "dad"
+        "dad",
+        "mom"
       ],
       "priority": {
         "dad-movie": 1
@@ -54,7 +55,8 @@
       "type": "movie",
       "tmdb_id": "movie/1301421",
       "lists": [
-        "dad"
+        "dad",
+        "mom"
       ],
       "priority": {
         "dad-movie": 3
@@ -480,7 +482,8 @@
       "type": "movie",
       "tmdb_id": "movie/85350",
       "lists": [
-        "dad"
+        "dad",
+        "mom"
       ],
       "priority": {
         "dad-movie": 15
@@ -1127,7 +1130,8 @@
       "type": "series",
       "tmdb_id": "tv/107113",
       "lists": [
-        "dad"
+        "dad",
+        "mom"
       ],
       "priority": {
         "dad-series": 2
@@ -1159,7 +1163,8 @@
       "type": "series",
       "tmdb_id": "tv/83867",
       "lists": [
-        "dad"
+        "dad",
+        "mom"
       ],
       "priority": {
         "dad-series": 3
@@ -1190,7 +1195,8 @@
       "year": 2020,
       "type": "series",
       "lists": [
-        "dad"
+        "dad",
+        "mom"
       ],
       "priority": {
         "dad-series": 4
@@ -1332,7 +1338,8 @@
       "type": "series",
       "tmdb_id": "tv/245312",
       "lists": [
-        "dad"
+        "dad",
+        "mom"
       ],
       "priority": {
         "dad-series": 9
@@ -1359,6 +1366,45 @@
       "watched_seasons": 2
     },
     {
+      "title": "Shrinking",
+      "year": 2023,
+      "type": "series",
+      "tmdb_id": "tv/136311",
+      "lists": [
+        "dad",
+        "mom"
+      ],
+      "priority": {
+        "dad-series": 11
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg",
+      "rating": "TV-MA",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "overview": "Jason Segel and Harrison Ford star in this comedy series about a therapist who decides to be brutally honest.",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "subscription",
+          "link": "https://tv.apple.com/us/show/shrinking/umc.cmc.apzybj6eqf6pzccd97kev7bs",
+          "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Apple TV",
+          "type": "subscription",
+          "link": "https://www.amazon.com/gp/video/detail/0IDYU6IGI0EZVDVLJ2DQWTT5Z6"
+        }
+      },
+      "last_checked": "2026-03-17T06:57:18.176465+00:00",
+      "season_count": 3,
+      "episode_count": 33,
+      "watched_seasons": 2
+    },
+    {
       "title": "Star Trek: Strange New Worlds",
       "year": 2022,
       "type": "series",
@@ -1367,7 +1413,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 10
+        "dad-series": 11
       },
       "poster": "https://cdn.movieofthenight.com/show/1464/poster/vertical/en/240.jpg?Expires=1799428276&Signature=hiDyyL-JYhWNaQ4O29qdssMu8LsGwgREv7xR9jJhQ2WbDlKIGb9azaJFDKBenPWnZOxd1RnxGFbZN3X9d6nXsNqQZV1Vrh81-6E35sBfbD4RG~htFN8~TdRlvmrCOrCC7~bKwsIvQgZBttNdQJgAwxTPRov-A4YNtEYE1ZR~6kX1CDen4rH4Q538Jts-j2Mg5vR6wbLhwH9cPmjbD979520~Z476i7kdhdIYIRqwT33RNCk5MNEOG1ri3XGw29qh-3jXZlro1G8PdSE~a0~lBXdwzP3WTIRZuqdp6fy6lA~KLHTwS6uO1Z6C7u-CAcTo4HYLT~KnrJLacE0q1Xuw~Q__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "TV-PG",
@@ -1402,10 +1448,11 @@
       "type": "series",
       "tmdb_id": "tv/61859",
       "lists": [
-        "dad"
+        "dad",
+        "mom"
       ],
       "priority": {
-        "dad-series": 11
+        "dad-series": 12
       },
       "poster": "https://image.tmdb.org/t/p/w300/1MccRnw41qQjREuZkovqP2UX1i3.jpg",
       "rating": "TV-MA",
@@ -1437,7 +1484,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 12
+        "dad-series": 13
       },
       "poster": "https://cdn.movieofthenight.com/show/19816688/poster/vertical/en/240.jpg?Expires=1789982028&Signature=g9wdS3WaXRzkWXWHGWtvxBqbwwVe7B6ESqcz7-n96s7FZ25uxv6D7cZO79ccNxhaFuqIvGDEuLi2fIf2KwvtRHhOGTBrxSY5J7m69seAE~v41v3ebMebmXclUFhV4dSsn5eNEFWXKZt9Nk8DdgG3YQ5Dwd1xKQBYRyKwPAHNpiLWhwIGNdjWoRordpfmI9RMEE7TouTyy9Ft2QuFyGGC5kaL-yedm2xWDG5zF5UrXD3kYPARBno-oovZFKW9lvkGfDe2Xy1RoS9VtdWaB17jhJtfb9iBCxdGpyIXS3REZ6Vd3g4Udi6otOPQ1YPeSYZYKqOUn5u1ry8dRbHqmQpWBA__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "TV-14",
@@ -1468,7 +1515,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 13
+        "dad-series": 14
       },
       "poster": "https://cdn.movieofthenight.com/show/731/poster/vertical/en/240.jpg?Expires=1801472168&Signature=HE5N5wkfJKhjqNkcnu6~PswAB2WyEUvB3uSGF0V6YiS03hMi4M2OdE9BNOCNizbLTl64f4ai4cnDOGx9Bwm2n6mbuUwWSam8XHm8LtsGcOIyd7ed~MvoaMAt4OQn-fpo9O21HiDgpXY73XYYVuywI1VsC-ojBXPr95mAen1hHJgIcCA59efngyn4UpsjkUjwL-D~xSX4qeywWvPiyk-kLkX-FrlGFL9z9Vd0BXB3o3-h3qnsnZlLzDV4M1isMcyhTCe5OLouMS-gg0Td8F3p0fqyJ0QdTQ9k-iA1viTZEdV7np0kT3Ippm5HTrWXfepLbxiL4u9kd-nJBZaMDCGv5Q__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "TV-MA",
@@ -1503,10 +1550,11 @@
       "type": "series",
       "tmdb_id": "tv/241554",
       "lists": [
-        "dad"
+        "dad",
+        "mom"
       ],
       "priority": {
-        "dad-series": 14
+        "dad-series": 15
       },
       "poster": "https://image.tmdb.org/t/p/w300/mIKfKo2uDk3itzAPYIcSeYr4KtF.jpg",
       "rating": "TV-MA",
@@ -1539,7 +1587,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 15
+        "dad-series": 16
       },
       "poster": "https://image.tmdb.org/t/p/w300/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg",
       "rating": "TV-14",
@@ -1575,10 +1623,11 @@
       "type": "series",
       "tmdb_id": "tv/1420",
       "lists": [
-        "dad"
+        "dad",
+        "mom"
       ],
       "priority": {
-        "dad-series": 16
+        "dad-series": 17
       },
       "poster": "https://cdn.movieofthenight.com/show/215/poster/vertical/en/240.jpg?Expires=1798049833&Signature=PNZPNp9PQzKcy99e9mVNeHhtDiwkp0CGbj-Xi7y4nLkbytnJRtEligK9AGRrU~3y8kMsyB~Fhp3~1QrLBMWPn13BXmrhUfXoXQRgZoWgSPvWyr4CLcxJrtdbEn-NAdNrvzF~ZCLZPsmPchDIgBtka1oUv3hkeEMK5oLMmkIx69TCtSadfG0JRtRQzHheMbkfM8Im0qiVYNw7gFyEoCNIj-lfpCjIEEtENywCqf7UZn1iyeGVuhreLGZvAMaZlEVLS6lw8CCnFH2LRWJdfhIM3mGddkzypOg9O-EJsjm95ZWQy2JH0cKPuh9vSTjJofKnnzFzc~xCOh1d0l0d3EYbWw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "TV-14",
@@ -1624,7 +1673,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 17
+        "dad-series": 18
       },
       "poster": "https://image.tmdb.org/t/p/w300/8djpxDeWpINnGhjpFXQjnBe6zbx.jpg",
       "rating": "TV-14",
@@ -1656,7 +1705,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 18
+        "dad-series": 19
       },
       "poster": "https://cdn.movieofthenight.com/show/607/poster/vertical/en/240.jpg?Expires=1800416638&Signature=JuKrIz74C~gD5qIPPbrvQoxOycyRlk8hEwGAmfzMmwr03acR10y2YqdsOIVpelV-rofO7OXUSAfDz8V5-Ako1UglSoXGr5TUzDPda1e9mDKlt7lv~o9uVJdzflLBVd8D9ss0v2ed8~j~Cv0PxrSMZt4M1oU7MOjHwQITv~XfqaIih~NyCllGyqDSCSOwSIna6WhgyaTu-zztY-yG2S-jpuAi7ft3rS7tlZ55pjLf7IhanZAhOc7LGCVloAtAJxndDozD6Wz~o0eWJbW1DabR2TE6W-OdZip0v8LW2AoSyh6QriK9zyc~giwy9gDz93FNP7vAJjZb3NhovcvX-AHkXg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "TV-MA",
@@ -1702,7 +1751,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 19
+        "dad-series": 20
       },
       "poster": "https://cdn.movieofthenight.com/show/22008764/poster/vertical/en/240.jpg?Expires=1804156616&Signature=lFLDrpvwEvjhCQe7pUvGJgETlXLc75Qq-X9KWXc~DjDscv79U5rFwnRN0Am~AfXHdKDK98ARkG930A8d4tE9S4vDT~1S6-~ZvttSAQ8Cgmw8r1IwaG1-sttJctrewQuElbVMzYyy0GjjdnyAEPw55mLlzLLFIZroqZQ5fbYVoBbdB~3jhEGxVrD3rg~1-wo4bI2qKb9eDrpuRaEBJbvOUSnzhIqahPReGr32Rkqyo-YKa-inelFMYMeGI6YFTBAxS~ByiisZNQWablTsuOk0Ul6rw~4PW2VHSHgVwK7xMgxIt9w56jopI3AwQu8eS8oo0zV3DjXtNkPEKL6uUdZ9cA__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "TV-14",
@@ -1732,7 +1781,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 20
+        "dad-series": 21
       },
       "poster": "https://cdn.movieofthenight.com/show/165/poster/vertical/en/240.jpg?Expires=1800282883&Signature=Pd3y-5Q1H~Lop27pGlmLVk0AUcD6fpBdsWAPjLdo~wk4Rbf-vaC0gyx-sgiDqcPLNihiYeKB4n2Dn8Asjh1Z4-nenBcGPNm9PRdTKCKflp86MCB0mIxasiL55HCHsNWYZ8oPkql3kJyhiJdMFxhgKph5ZwDxLG-XAyn-TVtzqSKIW65D~iWqF-L4nGF6shiy8epdZuw~EnObPPs6LA5V~DzUmN2n4XxvFVUqv6ZjorNGIQOnanaSyYadInW14XAYHrw8aji-OE4Tt~~1I0OaujocMX005S~0WWUdRQx7YVvgeL6uGof4lLbpliaKZMtwJph~xveDBWxEZ9dVf3JDHg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "TV-14",
@@ -1776,7 +1825,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 21
+        "dad-series": 22
       },
       "poster": "https://cdn.movieofthenight.com/show/87/poster/vertical/en/240.jpg?Expires=1800293610&Signature=IR3bxI6oS4X1SqOQLe0cFu2zENWVjV6huffMEg6oailxKHhXKGskgRfXfJz3wtVlD2GLEFIMTTB13RYvO0nbNOLhxQGw6DG8DG4hLDMNkUcCpU55dCs3HDcWsyWb9Z2HzaDxF0b7Ge6YI6ASdxE1icqnGLttWi~77pKxW-B358YyXn6tzc5awSNdwR7SSAHUR4q9NTl9ZexMz4j9vzwR6oC6S-4fGeL~5gSf49SZ5V8TQpaHpXaGca3BDYs8zc7m4M56ndPjdbr01DFDvaYrAiNfSacIP1kyfzPfCAacwFzIQWW0nrz0mHeQMPkHwHMtbFHoRK8rtDsmKcMPiGBYMg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "TV-MA",
@@ -1806,7 +1855,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 22
+        "dad-series": 23
       },
       "poster": "https://cdn.movieofthenight.com/show/24734193/poster/vertical/en/240.jpg?Expires=1801610852&Signature=fsrNO~X4IpUIJAINRIgK0cwJxmCvyJRVbJ7ta5s-h0hfwFRwy79BuTgl1iQIZQNxb2f4lQullUYQy5JHyZG6JYOywB2REnJhY1wTkDcbMXXnsRxvcETrd~B4DChwpukwQG6cMklnNGaW21OWFLdUglJKGQSvrdMY221OeAswAq7Ihw8hYwLBqGFYJA-wGT1~IJt3yNYcwngubgeO3B9~r2GCJv~ZrG4ImVDutetwyP0vuVDKGen6DwFNQfjwcOXSEkLzCAPQMYNluVgaNAs4-N-uQGsD0rcALev2VH-AWT1MkYf03tdSKSCGSTWlFf84USOPcAEqRrDOCcwuJvsBbQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "",
@@ -1835,7 +1884,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 23
+        "dad-series": 24
       },
       "poster": "https://cdn.movieofthenight.com/show/1406/poster/vertical/en/240.jpg?Expires=1794931376&Signature=ea7Y7Pl9OMM5Pe73nmGg5S3rrKhfKr6pyhUurYSXL-A5BVf~1QnpTMiMNiw2iNK0hY2yYVhpbKs-WSr5gjTq~hbI4X0og8DiNtlWevolk8p9kaDfG19fzGm39dai8xLjCQ66mUqjNkoocercv5dH6dWVGy0tcg-ybvWl-O1rYkQ~iY8NC-o59NT2qVQ-1yY7vZ68pPCCm-SExiPMOqQQwaBNkfCnKB3sQYGwFag2MJp~ahJDpGE1kpwW8JGTo2fETO1l2MDMLOtxl3cGHjuW9aqVSjwZCl12wGX-Lik4lbTP6yhUbdj-32UbRIYWSCCsjlmOq8G52eXXZ~SyhKMyNg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "TV-MA",
@@ -1873,7 +1922,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 24
+        "dad-series": 25
       },
       "poster": "https://cdn.movieofthenight.com/show/571/poster/vertical/en/240.jpg?Expires=1801789036&Signature=JKRwlbrFFxmuJwIY0xm6~E-3N79tsAv~gLLF6EmnyW5zKNtfdcm46JxXOchVTDB80qFjg9~l1fySkTI~7xc0IthEYp8iemHb1gJbgdaC6MiLe~NDxT921c8pOGU6CkvaONIZ5cCtkncsrs2h~SCSqMwh~STXABsKa~QzKxY8Bb1ZmH3scojgni12sOaTlsErVJmtKUIS05nbq53uiqLulJiWpwYNeqXikC10eH~mNORJUYRYDyCQDMAwd2zkurmqwjuN3Cm4~PGdws2EFzGzR2KHi9gSRrNqskVsbYbfWXLNNHnZF6TWUF5~K4-gLsyw~Wr5Ym2EoL4GjfM0zonmyA__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "TV-MA",
@@ -1909,10 +1958,11 @@
       "type": "series",
       "tmdb_id": "tv/84773",
       "lists": [
-        "dad"
+        "dad",
+        "mom"
       ],
       "priority": {
-        "dad-series": 25
+        "dad-series": 26
       },
       "poster": "https://image.tmdb.org/t/p/w300/kf5Hz70tjNAHg4swGDzOr9BfoZ1.jpg",
       "rating": "TV-14",
@@ -1945,7 +1995,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 26
+        "dad-series": 27
       },
       "poster": "https://cdn.movieofthenight.com/show/7863914/poster/vertical/en/240.jpg?Expires=1803668987&Signature=MBiZQJNhf7LocqOj1SBkY9MW44dBVxCC-9MwU3HkZXAl1zPNexbLEfdIeOJ1c0Vzv7h5XE27uZ0EB1ZfpN~DiE9U2oW60Fb3u~WKhHUuw5CIK90THG~7OSY4cCQWBez-mGRJfXLCCOVB86dvC2UjMSlOBHfcoPa2Q742ly~WLT-XJhyv~8B19JnsiwlIToIxU9ta6jLqZeRLVYbiM8NH2bJRCUAx5p56QAflNDSUkdCkt-O4jnutEoA7d~HuUC7x8wGjGMqaVXp4lOcMkAggSCMzf98li9XNzRcqQKsV0hDozfym1CdSLNWGWAFVQEFiPiEVLGN4xia~bJL6AcVBnQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "TV-MA",
@@ -1984,7 +2034,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 27
+        "dad-series": 28
       },
       "poster": "https://cdn.movieofthenight.com/show/242/poster/vertical/en/240.jpg?Expires=1800319306&Signature=R1hKSPay2jhDu-n77VYQmiUuQceKYImGEVQVUD~Ke~5BxZYjPf7KHDxshQ1pI~LkMAQxb-ZMrrEaYCejFGkSw07z~3MZorIxZkTCVBCnUxCuETwLehLgbbHpoZB58juzdvrQVOERKpgcs1ZSJtM4Jjo-UUIkUWgpkaGOvJi3VBeouiCp1cXqiEC3nV9E55jK5K1eH2fGgTWhOAKLQbJjIDaSZBD0X77EXtuzmfjAM7p5hqY9D0q7KOCXxH9aBzP3~nGumt5h6XrrmzCSagVHHoYfrnd7E7DEbbsw4qAivUQXdso~9q~V~GAnShQtR3eIVZP5syR05n03olmNfeQNTg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "TV-14",
@@ -2016,7 +2066,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 28
+        "dad-series": 29
       },
       "poster": "https://cdn.movieofthenight.com/show/97/poster/vertical/en/240.jpg?Expires=1800297482&Signature=lq-qdt9QhU4l~feK-fg7aNqRfzcvctRsQvnkin8rlQ8uD9U414ohExfWzvm9RfBKonBkEeaYhP03zgdCqMIQlaehH1rk3ZV8CipGW3G75I0LDH5Ono~juHymwaLdeVAu8ebHBePUzOLDuEvqbhctg5LhbPyBsMx4K22sucS7KHSK0aD-pjsIj-pulGvRoEQFDsFi1xj9Y9OoWKTri76YV8azRPIQmwpUOOoYkMHx~Xa6HqKbVlWnU2FFHwSuDfDKwDCXkNx83jNwdXTTKCO3xfu9pMAnt1s699fECUDZX4PMEWIN7QSqykh7djpZS244LY83DPpUJpClACoFd-TxHw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "TV-PG",
@@ -2054,7 +2104,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 29
+        "dad-series": 30
       },
       "poster": "https://image.tmdb.org/t/p/w300/lUGG3lxIF3f2N796t4aHmxDhLK5.jpg",
       "rating": "TV-MA",
@@ -2081,7 +2131,6 @@
       "type": "series",
       "tmdb_id": "tv/222023",
       "lists": [
-        "dad",
         "mom"
       ],
       "priority": {
@@ -2105,6 +2154,1012 @@
       "last_checked": "2026-03-15T22:02:19.979938+00:00",
       "season_count": 1,
       "episode_count": 8
+    },
+    {
+      "title": "The Princess Bride",
+      "year": 1987,
+      "type": "movie",
+      "tmdb_id": "movie/2493",
+      "lists": [
+        "family"
+      ],
+      "priority": {
+        "family-movie": 1
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+      "rating": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "overview": "A fairytale adventure about a beautiful young woman and her one true love, who must find and save her after a long separation. To be reunited, they’ll battle the evils of the mythical kingdom of Fl...",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/movie/the-princess-bride/umc.cmc.3gq6dacoanmniq9hil8tz75pw?playableId=tvs.sbd.9001%3A263952053",
+          "quality": "hd",
+          "price": "14.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-bea6a183-8ed3-4c07-af03-027dc03c1c14",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-17T06:57:19.907577+00:00",
+      "runtime": 93,
+      "release_date": "1987-10-09"
+    },
+    {
+      "title": "The Mighty Ducks",
+      "year": 1992,
+      "type": "movie",
+      "tmdb_id": "movie/10414",
+      "lists": [
+        "family"
+      ],
+      "priority": {
+        "family-movie": 2
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/zxaCHxKDFNi6frh1Q0dj19L216o.jpg",
+      "rating": "PG",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "overview": "Emilio Estevez portrays a hotshot trial attorney who gets a unique community service assignment: coaching a hapless group of pee wee hockey players. Can he turn the worst team in the league into ch...",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-a1492e63-7fa1-466e-9082-1eb5687365f0",
+          "quality": "hd"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/movie/the-mighty-ducks-a1492e63-7fa1-466e-9082-1eb5687365f0",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-03-17T06:57:21.554144+00:00",
+      "runtime": 104,
+      "release_date": "1992-10-02"
+    },
+    {
+      "title": "Ron's Gone Wrong",
+      "year": 2021,
+      "type": "movie",
+      "tmdb_id": "movie/482321",
+      "lists": [
+        "family"
+      ],
+      "priority": {
+        "family-movie": 3
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/plzgQAXIEHm4Y92ktxU6fedUc0x.jpg",
+      "rating": "PG",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy"
+      ],
+      "overview": "Things go hilariously awry when Barney, a socially awkward middle-schooler, receives a malfunctioning, digitally connected device that’s supposed to be his “best friend out of the box.” In this act...",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/rons-gone-wrong/umc.cmc.75t5f0e7lid2rslfho07lgbrx?playableId=tvs.sbd.9001%3A1592488379",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-46e6268f-beb7-496c-86ef-9af4980d62c7",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-17T06:57:23.004493+00:00",
+      "runtime": 107,
+      "release_date": "2021-10-22"
+    },
+    {
+      "title": "Caravan of Courage: An Ewok Adventure",
+      "year": 1984,
+      "type": "movie",
+      "tmdb_id": "movie/1884",
+      "lists": [
+        "family"
+      ],
+      "priority": {
+        "family-movie": 4
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/4GrECLKaJhYA6ooSTOG0XEuPnSl.jpg",
+      "rating": "NR",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "overview": "The Towani family’s starcruiser crashes on the forest moon of Endor and the separation of two children from their parents sets into motion an incredible adventure that takes four-year-old Cindel, a...",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-de308fb3-331d-44c1-a0fa-fb90c8b1ade2",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-03-17T06:57:24.553972+00:00",
+      "runtime": 96,
+      "release_date": "1990-04-07"
+    },
+    {
+      "title": "Matilda the Musical",
+      "year": 2022,
+      "type": "movie",
+      "tmdb_id": "movie/668482",
+      "lists": [
+        "family"
+      ],
+      "priority": {
+        "family-movie": 5
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/ga8R3OiOMMgSvZ4cOj8x7prUNYZ.jpg",
+      "rating": "PG",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "overview": "An extraordinary girl with a sharp mind and a vivid imagination takes a daring stand to change her story — with miraculous results. Meet Matilda.",
+      "streaming": {
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/80993016/",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-17T06:57:26.248942+00:00",
+      "runtime": 122,
+      "release_date": "2022-12-09"
+    },
+    {
+      "title": "Finding 'Ohana",
+      "year": 2021,
+      "type": "movie",
+      "lists": [
+        "family"
+      ],
+      "priority": {
+        "family-movie": 6
+      },
+      "poster": "",
+      "rating": "",
+      "genres": [],
+      "overview": "",
+      "streaming": {},
+      "last_checked": "2026-03-17T06:57:27.643624+00:00"
+    },
+    {
+      "title": "Up",
+      "year": 2009,
+      "type": "movie",
+      "tmdb_id": "movie/14160",
+      "lists": [
+        "family"
+      ],
+      "priority": {
+        "family-movie": 7
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+      "rating": "PG",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy"
+      ],
+      "overview": "High flying animated comedy adventure from Pixar Studios. 70-something retired balloon salesman Carl Fredricksen (voiced by Edward Asner) decides to use his twilight years to fulfil his lifelong dr...",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-f820c0a3-e646-4b75-8dd1-87f6d776c32b",
+          "quality": "uhd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/up/umc.cmc.7hyl1e1p1ihe8aiij3fzjwwyc?playableId=tvs.sbd.9001%3A322447599",
+          "quality": "hd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-03-17T06:57:29.102393+00:00",
+      "runtime": 96,
+      "release_date": "2009-05-29"
+    },
+    {
+      "title": "Night at the Museum: Secret of the Tomb",
+      "year": 2014,
+      "type": "movie",
+      "tmdb_id": "movie/181533",
+      "lists": [
+        "family"
+      ],
+      "priority": {
+        "family-movie": 8
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/xwgy305K6qDs3D20xUO4OZu1HPY.jpg",
+      "rating": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "overview": "Larry Daley embarks on an adventure to save the magic that brings the museum exhibits to life!",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/night-at-the-museum-secret-of-the-tomb/umc.cmc.5ddkb5jypsz1b3evck06iqnjh?playableId=tvs.sbd.9001%3A945082215",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-3c5d5a63-0e64-4f47-91da-5c1e435c958e",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-17T06:57:30.799641+00:00",
+      "runtime": 97,
+      "release_date": "2014-12-19"
+    },
+    {
+      "title": "Elio",
+      "year": 2025,
+      "type": "movie",
+      "tmdb_id": "movie/1022787",
+      "lists": [
+        "family"
+      ],
+      "priority": {
+        "family-movie": 9
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/7z8jDiTZZco9moIKpTUImFtTy7o.jpg",
+      "rating": "PG",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy"
+      ],
+      "overview": "In this fun-filled, action-packed cosmic misadventure, Elio, a space fanatic with an active imagination, is beamed up to an interplanetary organization with members from galaxies far and wide. Mist...",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-367ee1b6-1a50-413a-96f6-655175166f38",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-17T06:57:32.539942+00:00",
+      "runtime": 102,
+      "release_date": "2025-06-20"
+    },
+    {
+      "title": "Ewoks: The Battle for Endor",
+      "year": 1985,
+      "type": "movie",
+      "tmdb_id": "movie/10372",
+      "lists": [
+        "family"
+      ],
+      "priority": {
+        "family-movie": 10
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/ntgKdekb7xMKscyh2Hei706LBLf.jpg",
+      "rating": "NR",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "overview": "The adventures of the Ewoks continue as Wicket and friends confront the evil Marauders.",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-1a3764d6-c7f7-4b54-938b-18faf67c0a98",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-03-17T06:57:34.245319+00:00",
+      "runtime": 96,
+      "release_date": "1990-04-07"
+    },
+    {
+      "title": "Spellbound",
+      "year": 2024,
+      "type": "movie",
+      "tmdb_id": "movie/592983",
+      "lists": [
+        "family"
+      ],
+      "priority": {
+        "family-movie": 11
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/4dSrwXJNKtMtlkwJPgZMkjjuHvD.jpg",
+      "rating": "PG",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy"
+      ],
+      "overview": "When a powerful spell turns her parents into giant monsters, a teenage princess must journey into the wild to reverse the curse before it's too late.",
+      "streaming": {
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/81745658/",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-03-17T06:57:35.748273+00:00",
+      "runtime": 110,
+      "release_date": "2024-11-11"
+    },
+    {
+      "title": "Mr. Magorium's Wonder Emporium",
+      "year": 2007,
+      "type": "movie",
+      "tmdb_id": "movie/2284",
+      "lists": [
+        "family"
+      ],
+      "priority": {
+        "family-movie": 12
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/rdFgWATSVhhFtNYZUFsGcHzltcG.jpg",
+      "rating": "G",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "overview": "Molly Mahoney is the awkward and insecure manager of Mr. Magorium's Wonder Emporium, the strangest, most fantastic, most wonderful toy store in the world. But when Mr. Magorium, the 243 year-old ec...",
+      "streaming": {},
+      "last_checked": "2026-03-17T06:57:36.896215+00:00",
+      "runtime": 93,
+      "release_date": "2007-11-16"
+    },
+    {
+      "title": "The Great Muppet Caper",
+      "year": 1981,
+      "type": "movie",
+      "tmdb_id": "movie/14900",
+      "lists": [
+        "family"
+      ],
+      "priority": {
+        "family-movie": 13
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/8wVmU4JziUSM3cEF4JHHG8pt426.jpg",
+      "rating": "G",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Crime"
+      ],
+      "overview": "Kermit and the gang investigate when Miss Piggy is framed for burglary.",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/the-great-muppet-caper/umc.cmc.2xz7c7jdngix9lsez0j7nkwe9?playableId=tvs.sbd.9001%3A323042343",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0NLT1F7A9RLKCFXCO4CXY7LIKW/ref=atv_dp",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-abee744b-d8e6-4f7d-a9d2-1f3934877171",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-17T06:57:38.138528+00:00",
+      "runtime": 98,
+      "release_date": "1981-06-26"
+    },
+    {
+      "title": "Solo: A Star Wars Story",
+      "year": 2018,
+      "type": "movie",
+      "tmdb_id": "movie/348350",
+      "lists": [
+        "family"
+      ],
+      "priority": {
+        "family-movie": 14
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "overview": "Young Han Solo and his gang of smugglers devise a plan to steal coaxium from the planet Kessel.",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/solo-a-star-wars-story/umc.cmc.1skhjjrps93jxwc8w45mc4yyj?playableId=tvs.sbd.9001%3A1382545660",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-791bc772-d930-40c9-83ec-5ef85923573e",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-17T06:57:39.875271+00:00",
+      "runtime": 134,
+      "release_date": "2018-05-25"
+    },
+    {
+      "title": "Abominable",
+      "year": 2019,
+      "type": "movie",
+      "tmdb_id": "movie/431580",
+      "lists": [
+        "family"
+      ],
+      "priority": {
+        "family-movie": 15
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/20djTLqppfBx5WYA67Y300S6aPD.jpg",
+      "rating": "PG",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy"
+      ],
+      "overview": "When mischievous friends Yi, Jin, and Peng discover a young yeti on their roof, they name him Everest and embark on a thrilling adventure to reunite the magical creature with his family. On the jou...",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/abominable/umc.cmc.6jrpb1ce9hpllxklhnomuiipz",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/B07XZJJJM5/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.79 USD"
+        }
+      },
+      "last_checked": "2026-03-17T06:57:41.589485+00:00",
+      "runtime": 97,
+      "release_date": "2019-09-27"
+    },
+    {
+      "title": "Holes",
+      "year": 2003,
+      "type": "movie",
+      "tmdb_id": "movie/8326",
+      "lists": [
+        "family"
+      ],
+      "priority": {
+        "family-movie": 16
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/o2Dm2mcE1qW8vT0bpsJO5OMBbqa.jpg",
+      "rating": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "overview": "Prepare to be dazzled by the spectacular adaptation of Louis SacharÂ's acclaimed teen adventure Holes, featuring an all star cast including Sigourney Weaver, Jon Voight and Patricia Arquette. Wrong...",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-ecc93033-1f5a-4832-8845-458561c3d21e",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-03-17T06:57:43.346532+00:00",
+      "runtime": 118,
+      "release_date": "2003-04-18"
+    },
+    {
+      "title": "Flow",
+      "year": 2024,
+      "type": "movie",
+      "tmdb_id": "movie/823219",
+      "lists": [
+        "family"
+      ],
+      "priority": {
+        "family-movie": 17
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/zME0Ul0w48MKkYBnFRn40M5qgLh.jpg",
+      "rating": "PG",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Family"
+      ],
+      "overview": "Following an intrepid cat on a heart-stopping journey through an animated world of wonder and peril, Gints Zilbalodis’s Oscar®-winner is a moving ode to friendship. With delightfully expressive ani...",
+      "streaming": {
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/movie/83df1c2b-db9d-49cd-bf83-9ddbaa7e5e30"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://www.hulu.com/movie/flow-b5122d3b-bc80-45df-972c-a05828d9a4df"
+        }
+      },
+      "last_checked": "2026-03-17T06:57:44.974258+00:00",
+      "runtime": 85,
+      "release_date": "2024-12-06"
+    },
+    {
+      "title": "Star Wars: The Force Awakens",
+      "year": 2015,
+      "type": "movie",
+      "tmdb_id": "movie/140607",
+      "lists": [
+        "family"
+      ],
+      "priority": {
+        "family-movie": 18
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "overview": "As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace. Experience the motion pic...",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-2854a94d-3702-40bd-97a4-12d55a809188",
+          "quality": "uhd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/star-wars-the-force-awakens/umc.cmc.61i3yveu7xby4chfkqved19ka?playableId=tvs.sbd.9001%3A1063466898",
+          "quality": "hd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-03-17T06:57:46.340431+00:00",
+      "runtime": 136,
+      "release_date": "2015-12-18"
+    },
+    {
+      "title": "Star Wars: The Last Jedi",
+      "year": 2017,
+      "type": "movie",
+      "tmdb_id": "movie/181808",
+      "lists": [
+        "family"
+      ],
+      "priority": {
+        "family-movie": 19
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "overview": "Luke Skywalker comes to a crossroad when he meets a woman who wants to learn the ways of the Jedi.",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-50c1aff5-3051-4839-9ebf-e332c635e216",
+          "quality": "uhd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/star-wars-the-last-jedi/umc.cmc.7f19yhpg0i8vk8of1ydhs7g1v?playableId=tvs.sbd.9001%3A1316280891",
+          "quality": "hd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-03-17T06:57:47.656516+00:00",
+      "runtime": 152,
+      "release_date": "2017-12-15"
+    },
+    {
+      "title": "Star Wars: The Rise of Skywalker",
+      "year": 2019,
+      "type": "movie",
+      "tmdb_id": "movie/181812",
+      "lists": [
+        "family"
+      ],
+      "priority": {
+        "family-movie": 20
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "overview": "Rey and her allies prepare for a showdown against Kylo Ren and the First Order.",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-43f9c275-e7e8-4ab3-802d-00d06a8ad841",
+          "quality": "uhd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/star-wars-the-rise-of-skywalker/umc.cmc.71hlilqgd8utz8c4nlpl6ol7m?playableId=tvs.sbd.9001%3A1490359713",
+          "quality": "hd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-03-17T06:57:48.876300+00:00",
+      "runtime": 142,
+      "release_date": "2019-12-20"
+    },
+    {
+      "title": "Inside Out",
+      "year": 2015,
+      "type": "movie",
+      "tmdb_id": "movie/150540",
+      "lists": [
+        "family"
+      ],
+      "priority": {
+        "family-movie": 21
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+      "rating": "PG",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy"
+      ],
+      "overview": "When her family moves across the country, tween Riley Anderson's animated emotions get carried away - quite literally - on a fantastical journey through her mind. Oscar winner for Best Animated Fea...",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-d4b87168-7d0b-49bc-b138-457ab7723feb",
+          "quality": "uhd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/inside-out/umc.cmc.e8rnwzv7klnnt9d5gq9m45nv?playableId=tvs.sbd.9001%3A999607190",
+          "quality": "hd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-03-17T06:57:50.526886+00:00",
+      "runtime": 95,
+      "release_date": "2015-06-19"
+    },
+    {
+      "title": "Homeward Bound: The Incredible Journey",
+      "year": 1993,
+      "type": "movie",
+      "tmdb_id": "movie/6878",
+      "lists": [
+        "family"
+      ],
+      "priority": {
+        "family-movie": 22
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/el6dJEpK97OJRQiQhuiSGk2jkV5.jpg",
+      "rating": "G",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "overview": "Two dogs and a cat set out across America to find their owners.",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/B003QSE0QS/ref=atv_dp",
+          "quality": "hd",
+          "price": "4.29 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-532fc4ef-12aa-43d7-abe4-f0cbc9d949ba",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-03-17T06:57:52.230307+00:00",
+      "runtime": 84,
+      "release_date": "1993-02-12"
+    },
+    {
+      "title": "Strange World",
+      "year": 2022,
+      "type": "movie",
+      "tmdb_id": "movie/877269",
+      "lists": [
+        "family"
+      ],
+      "priority": {
+        "family-movie": 23
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/a9x70QUXs6uEwtin1SGNKoFXoia.jpg",
+      "rating": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation"
+      ],
+      "overview": "Walt Disney Animation Studios’ original action-packed comedy adventure, Strange World, introduces us to three generations of the legendary Clade family as they attempt to band together and navigate...",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0QKXVRUQSVUW4TQBO6ZE910FPD/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-30c7bfa8-63f8-4bfe-b257-e64fa816c8da",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-17T06:57:53.702099+00:00",
+      "runtime": 107,
+      "release_date": "2022-11-23"
+    },
+    {
+      "title": "The Muppets Take Manhattan",
+      "year": 1984,
+      "type": "movie",
+      "tmdb_id": "movie/11899",
+      "lists": [
+        "family"
+      ],
+      "priority": {
+        "family-movie": 24
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/rm6Gs0tvswtSE8cXBIAJqa6l25T.jpg",
+      "rating": "G",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "overview": "Fresh out od drama school, Kermit, Fozzie Bear and the entire cast of Kermit's musical - Manhattan Melodies - head for the Big Apple with plans to turn their small play into a broadway hit! All the...",
+      "streaming": {},
+      "last_checked": "2026-03-17T06:57:54.957432+00:00",
+      "runtime": 90,
+      "release_date": "1984-07-13"
+    },
+    {
+      "title": "Muppets from Space",
+      "year": 1999,
+      "type": "movie",
+      "tmdb_id": "movie/10208",
+      "lists": [
+        "family"
+      ],
+      "priority": {
+        "family-movie": 25
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/Aww9cF4uMsbald9ddhCYFoP4gBi.jpg",
+      "rating": "G",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "overview": "The Muppets are back in the hilarious family comedy MUPPETS FROM SPACE, an action-packed adventure about the search for Gonzo's past! Will Kermit, Miss Piggy and Fozzie be able to rescue their belo...",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0TZUGU2VBFCTJS2403GUQK8U46/ref=atv_dp",
+          "quality": "hd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-03-17T06:57:56.135784+00:00",
+      "runtime": 84,
+      "release_date": "1999-07-14"
+    },
+    {
+      "title": "8-Bit Christmas",
+      "year": 2021,
+      "type": "movie",
+      "tmdb_id": "movie/802217",
+      "lists": [
+        "family"
+      ],
+      "priority": {
+        "family-movie": 26
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/5YwaISdOwp8Zu6O7kwBeUn8a7Pu.jpg",
+      "rating": "PG",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "overview": "In 1980s Chicago, a ten-year-old sets out on a quest to get the Christmas gift of his generation - the latest and greatest video game system.",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/8-bit-christmas/umc.cmc.73z3l84b8o1irv4b7rqtjwkgp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        },
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/movie/01d3fe24-a0ec-432f-bdd5-4c513472b528",
+          "quality": "uhd"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://www.hulu.com/movie/8-bit-christmas-75acef95-6594-4347-97ff-dcb98faa8142"
+        }
+      },
+      "last_checked": "2026-03-17T06:57:57.908055+00:00",
+      "runtime": 97,
+      "release_date": "2021-11-24"
+    },
+    {
+      "title": "The Little Mermaid",
+      "year": 2023,
+      "type": "movie",
+      "tmdb_id": "movie/447277",
+      "lists": [
+        "family"
+      ],
+      "priority": {
+        "family-movie": 27
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",
+      "rating": "PG",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "overview": "In this breathtaking live-action reimagining of the beloved animated musical classic, a spirited young mermaid must follow her heart. She makes a deal with an evil sea witch that allows her to expe...",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/the-little-mermaid/umc.cmc.gto5t9phvu7dpajarqglrfmh?playableId=tvs.sbd.9001%3A1694118353",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-50d2a9c6-3c88-4329-8ba8-29f87d8ee3b1",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-17T06:57:59.594478+00:00",
+      "runtime": 135,
+      "release_date": "2023-05-26"
+    },
+    {
+      "title": "Elephant",
+      "year": 2020,
+      "type": "movie",
+      "tmdb_id": "movie/665135",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/wvRbUiOuqedyDmwToErkp7wuFCv.jpg",
+      "rating": "G",
+      "genres": [
+        "Adventure",
+        "Documentary"
+      ],
+      "overview": "African elephant Shani and her spirited son Jomo set out on an epic journey with their herd, traveling hundreds of miles across the vast Kalahari Desert, from the Okavango delta to the Zambezi Rive...",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-dccd969a-8b20-4b73-90d1-495d01f6d464",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-17T06:58:01.108448+00:00",
+      "runtime": 89,
+      "release_date": "2020-03-14"
     }
   ]
 }

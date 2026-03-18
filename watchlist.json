@@ -945,7 +945,9 @@
     "priority": {
       "family-movie": 6
     },
-    "tmdb_id": "movie/644092"
+    "tmdb_id": "movie/644092",
+    "rating": "PG",
+    "release_date": "2021-01-29"
   },
   {
     "title": "Up",
@@ -1258,7 +1260,10 @@
     "type": "movie",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "movie/949580",
+    "rating": "G",
+    "release_date": "2022-04-14"
   },
   {
     "title": "Emily's Wonder Lab",
@@ -1266,7 +1271,8 @@
     "type": "series",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "tv/106753"
   },
   {
     "title": "America the Beautiful",
@@ -1274,7 +1280,9 @@
     "type": "series",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "tv/115991",
+    "rating": "TV-PG"
   },
   {
     "title": "Oni: Thunder God's Tale",
@@ -1282,7 +1290,9 @@
     "type": "series",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "tv/201213",
+    "rating": "TV-Y7"
   },
   {
     "title": "Little Lunch",
@@ -1290,7 +1300,8 @@
     "type": "series",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "tv/68472"
   },
   {
     "title": "Shaun the Sheep",
@@ -1298,7 +1309,9 @@
     "type": "series",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "tv/3902",
+    "rating": "TV-G"
   },
   {
     "title": "Big Beasts",
@@ -1306,7 +1319,9 @@
     "type": "series",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "tv/223528",
+    "rating": "TV-PG"
   },
   {
     "title": "Odd Squad",
@@ -1314,7 +1329,9 @@
     "type": "series",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "tv/73549",
+    "rating": "TV-G"
   },
   {
     "title": "Trolls Band Together",
@@ -1322,7 +1339,10 @@
     "type": "movie",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "movie/901362",
+    "rating": "PG",
+    "release_date": "2023-11-17"
   },
   {
     "title": "Puff: Wonders of the Reef",
@@ -1330,7 +1350,10 @@
     "type": "movie",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "movie/890601",
+    "rating": "PG",
+    "release_date": "2021-10-01"
   },
   {
     "title": "The One and Only Ivan",
@@ -1338,7 +1361,10 @@
     "type": "movie",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "movie/508570",
+    "rating": "PG",
+    "release_date": "2020-08-21"
   },
   {
     "title": "Penguins",
@@ -1346,7 +1372,10 @@
     "type": "movie",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "movie/508802",
+    "rating": "G",
+    "release_date": "2019-04-17"
   },
   {
     "title": "Lyle, Lyle, Crocodile",
@@ -1354,7 +1383,10 @@
     "type": "movie",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "movie/830784",
+    "rating": "PG",
+    "release_date": "2022-10-07"
   },
   {
     "title": "School of Magical Animals",
@@ -1362,7 +1394,9 @@
     "type": "movie",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "movie/793937",
+    "release_date": "2023-03-24"
   },
   {
     "title": "Tiger",
@@ -1370,7 +1404,8 @@
     "type": "movie",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "movie/720557"
   },
   {
     "title": "Tigers on the Rise",
@@ -1378,7 +1413,10 @@
     "type": "movie",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "movie/1259919",
+    "rating": "PG",
+    "release_date": "2024-04-22"
   },
   {
     "title": "Harold and the Purple Crayon",
@@ -1386,7 +1424,10 @@
     "type": "movie",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "movie/826510",
+    "rating": "PG",
+    "release_date": "2024-08-02"
   },
   {
     "title": "Sonic the Hedgehog",
@@ -1394,7 +1435,10 @@
     "type": "movie",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "movie/454626",
+    "rating": "PG",
+    "release_date": "2020-02-14"
   },
   {
     "title": "The Secret Lives of Animals",
@@ -1402,7 +1446,9 @@
     "type": "series",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "tv/276501",
+    "rating": "TV-G"
   },
   {
     "title": "Timmy Failure: Mistakes Were Made",
@@ -1410,7 +1456,10 @@
     "type": "movie",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "movie/550440",
+    "rating": "PG",
+    "release_date": "2020-01-25"
   },
   {
     "title": "One Strange Rock",
@@ -1418,7 +1467,9 @@
     "type": "series",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "tv/75782",
+    "rating": "TV-G"
   },
   {
     "title": "Patrick and the Whale",
@@ -1426,7 +1477,8 @@
     "type": "movie",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "movie/1016208"
   },
   {
     "title": "Kensuke's Kingdom",
@@ -1434,7 +1486,9 @@
     "type": "movie",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "movie/587563",
+    "release_date": "2024-10-18"
   },
   {
     "title": "The Tiger's Apprentice",
@@ -1442,7 +1496,10 @@
     "type": "movie",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "movie/1182047",
+    "rating": "R",
+    "release_date": "2024-10-11"
   },
   {
     "title": "Raya and the Last Dragon",
@@ -1450,7 +1507,10 @@
     "type": "movie",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "movie/527774",
+    "rating": "PG",
+    "release_date": "2021-03-05"
   },
   {
     "title": "Pokemon Detective Pikachu",
@@ -1458,7 +1518,10 @@
     "type": "movie",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "movie/447404",
+    "rating": "PG",
+    "release_date": "2019-05-10"
   },
   {
     "title": "Spy Kids",
@@ -1466,7 +1529,10 @@
     "type": "movie",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "movie/10054",
+    "rating": "PG",
+    "release_date": "2001-03-18"
   },
   {
     "title": "UglyDolls",
@@ -1474,7 +1540,10 @@
     "type": "movie",
     "lists": [
       "kids"
-    ]
+    ],
+    "tmdb_id": "movie/454458",
+    "rating": "PG",
+    "release_date": "2019-05-03"
   },
   {
     "title": "The Dinosaurs",
@@ -1483,7 +1552,8 @@
     "lists": [
       "kids"
     ],
-    "tmdb_id": "tv/313298"
+    "tmdb_id": "tv/313298",
+    "rating": "TV-PG"
   },
   {
     "title": "Sinners",

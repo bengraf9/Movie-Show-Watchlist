@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17T06:58:01.371815+00:00",
+  "last_updated": "2026-03-18T06:57:13.649444+00:00",
   "country": "us",
   "items": [
     {
@@ -2338,21 +2338,36 @@
       "release_date": "2022-12-09"
     },
     {
-      "title": "Finding 'Ohana",
+      "title": "Finding ʻOhana",
       "year": 2021,
       "type": "movie",
+      "tmdb_id": "movie/644092",
       "lists": [
         "family"
       ],
       "priority": {
         "family-movie": 6
       },
-      "poster": "",
-      "rating": "",
-      "genres": [],
-      "overview": "",
-      "streaming": {},
-      "last_checked": "2026-03-17T06:57:27.643624+00:00"
+      "poster": "https://image.tmdb.org/t/p/w300/tTWl37oAYRXS3D5mEHmjveXXyrN.jpg",
+      "rating": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "overview": "On Oʻahu for the summer, two siblings from Brooklyn connect with their Hawaiian heritage — and their family — on a daring quest for long-lost treasure.",
+      "streaming": {
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/81023618/",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-18T06:55:22.962459+00:00",
+      "runtime": 123,
+      "release_date": "2021-01-29"
     },
     {
       "title": "Up",
@@ -3160,6 +3175,999 @@
       "last_checked": "2026-03-17T06:58:01.108448+00:00",
       "runtime": 89,
       "release_date": "2020-03-14"
+    },
+    {
+      "title": "Snoopy Presents: It's the Small Things, Charlie Brown",
+      "year": 2022,
+      "type": "movie",
+      "tmdb_id": "movie/949580",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/iEJGBnZa9PnCXSTrcQGEqK9Y9yr.jpg",
+      "rating": "G",
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "overview": "Charlie Brown is determined to win the big baseball game. But things turn into a fiasco right before the matchup, when Sally bonds with a little flower on the pitcher’s mound and vows to protect it...",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "subscription",
+          "link": "https://tv.apple.com/us/movie/its-the-small-things-charlie-brown/umc.cmc.gr1rsr9lp2tzfwb0w6zhq9y3?playableId=tvs.sbd.4000%3AA0005501002",
+          "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Apple TV",
+          "type": "subscription",
+          "link": "https://www.amazon.com/gp/video/detail/0I539KJ26SH6X6WJABZYY9B61F/ref=atv_dp"
+        }
+      },
+      "last_checked": "2026-03-18T06:55:29.606718+00:00",
+      "runtime": 38,
+      "release_date": "2022-04-14"
+    },
+    {
+      "title": "Emily's Wonder Lab",
+      "year": 2020,
+      "type": "series",
+      "tmdb_id": "tv/106753",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/5iEyWTmcOSqmVVzPOAN02g9CrLI.jpg",
+      "rating": "",
+      "genres": [
+        "Family",
+        "Talk Show"
+      ],
+      "overview": "Science-loving host Emily Calandrelli makes STEAM fun with activities, demonstrations and at-home experiments that'll make you think — and blow your mind!",
+      "streaming": {
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/81128389/",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-18T06:55:32.243173+00:00",
+      "season_count": 1,
+      "episode_count": 10
+    },
+    {
+      "title": "America the Beautiful",
+      "year": 2022,
+      "type": "series",
+      "tmdb_id": "tv/115991",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/dZw42WgYrpW8V8P58WmbXCQ3jG3.jpg",
+      "rating": "TV-PG",
+      "genres": [
+        "Adventure",
+        "Documentary"
+      ],
+      "overview": "It's the land we love and the land we think we know. We see America's breathtaking landscapes and wildlife as timeless, but the truth is very different. Its unique geography drives the forces of na...",
+      "streaming": {},
+      "last_checked": "2026-03-18T06:55:39.398625+00:00",
+      "season_count": 1,
+      "episode_count": 6
+    },
+    {
+      "title": "Oni: Thunder God's Tale",
+      "year": 2022,
+      "type": "series",
+      "tmdb_id": "tv/201213",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/b0WL7vIxEYWeDUnnUm2sDz21l5i.jpg",
+      "rating": "TV-Y7",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation"
+      ],
+      "overview": "Small in size but mighty in spirit, Onari wants nothing more than to become a great hero — and she'll do whatever it takes to make that come true.",
+      "streaming": {
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/81028343/",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-03-18T06:55:41.852338+00:00",
+      "season_count": 1,
+      "episode_count": 4
+    },
+    {
+      "title": "Little Lunch",
+      "year": 2015,
+      "type": "series",
+      "tmdb_id": "tv/68472",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/wRzli9V7V63bqm1YnlSEwVDtaJo.jpg",
+      "rating": "",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "overview": "Little Lunch is a mockumentary comedy series that takes place during fifteen highly significant minutes of a child's life - snack time in the primary school playground.",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "subscription",
+          "link": "https://www.amazon.com/gp/video/detail/0IMRIS820BENDDMH04ZTF3GEI0"
+        },
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/80078037/",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-03-18T06:55:44.535777+00:00",
+      "season_count": 1,
+      "episode_count": 26
+    },
+    {
+      "title": "Shaun the Sheep",
+      "year": 2007,
+      "type": "series",
+      "tmdb_id": "tv/3902",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/z2gPfTQd3I0JLWOAEdKYMQRLoun.jpg",
+      "rating": "TV-G",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "overview": "Follows a dim-witted farmer, a sheep named Shaun, a dog named Bitzer, and the rest of their flock as they navigate life at Mossy Bottom Farm.",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "subscription",
+          "link": "https://www.amazon.com/gp/video/detail/0IE43SN1GU6P47SRPJW4IDZUBG"
+        },
+        "tubi": {
+          "service": "tubi",
+          "serviceName": "Tubi",
+          "type": "free",
+          "link": "https://tubitv.com/series/300004056/shaun-the-sheep",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-03-18T06:55:47.954085+00:00",
+      "season_count": 6,
+      "episode_count": 170
+    },
+    {
+      "title": "Big Beasts",
+      "year": 2023,
+      "type": "series",
+      "tmdb_id": "tv/223528",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/66CZm1hKApeFAqAd3CtK0uodetF.jpg",
+      "rating": "TV-PG",
+      "genres": [
+        "Documentary"
+      ],
+      "overview": "Travel from freezing poles to tropical rainforests to meet nature’s most captivating giants, who prove being big comes with enormous challenges. Narrated by Tom Hiddleston.",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "subscription",
+          "link": "https://tv.apple.com/us/show/big-beasts/umc.cmc.7d9yulmth1rvkwpij477qsqsk",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-18T06:55:53.004019+00:00",
+      "season_count": 1,
+      "episode_count": 10
+    },
+    {
+      "title": "Odd Squad",
+      "year": 2014,
+      "type": "series",
+      "tmdb_id": "tv/73549",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/yRVaHKUbUF7e97po0fulgG4yM3h.jpg",
+      "rating": "TV-G",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "overview": "Odd Squad is a live-action media property designed to help kids ages 5-8 learn math. The show focuses on two young agents, Olive and Otto, who are part of the Odd Squad, an agency whose mission is ...",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "subscription",
+          "link": "https://www.amazon.com/gp/video/detail/B075RN88S1",
+          "quality": "sd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/odd-squad/umc.cmc.2t9yt69s366yhgkkttjk8cl83",
+          "quality": "sd"
+        },
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/80062985/",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-03-18T06:55:59.935805+00:00",
+      "season_count": 5,
+      "episode_count": 153
+    },
+    {
+      "title": "Trolls Band Together",
+      "year": 2023,
+      "type": "movie",
+      "tmdb_id": "movie/901362",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/bkpPTZUdq31UGDovmszsg2CchiI.jpg",
+      "rating": "PG",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy"
+      ],
+      "overview": "Join Poppy and Branch on their latest adventure as they embark on an epic journey that leads to Branch's reunion with his BroZone brothers and Poppy's long-lost sister, Viva.",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "subscription",
+          "link": "https://www.amazon.com/gp/video/detail/0SRZE2GJWMB5TOUTSJRBDRT2R1/ref=atv_dp",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-18T06:56:03.248016+00:00",
+      "runtime": 88,
+      "release_date": "2023-11-17"
+    },
+    {
+      "title": "Puff: Wonders of the Reef",
+      "year": 2021,
+      "type": "movie",
+      "tmdb_id": "movie/890601",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/3jW7VXaI955lIfegDlB0F5OShbP.jpg",
+      "rating": "PG",
+      "genres": [
+        "Documentary",
+        "Family"
+      ],
+      "overview": "A baby pufferfish travels through a wondrous microworld full of fantastical creatures as he searches for a home on the Great Barrier Reef.",
+      "streaming": {
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/81276049/",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-18T06:56:06.094766+00:00",
+      "runtime": 59,
+      "release_date": "2021-10-01"
+    },
+    {
+      "title": "The One and Only Ivan",
+      "year": 2020,
+      "type": "movie",
+      "tmdb_id": "movie/508570",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/wDOyGAiTaXvjKGmnmXsoFO7zItt.jpg",
+      "rating": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "overview": "An adaptation of the award-winning book about one very special gorilla, Disney’s “The One and Only Ivan” is an unforgettable tale about the beauty of friendship, the power of visualization and the ...",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0PFOTUOBLEMJE2ZNZLB5GSU51D/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-03-18T06:56:09.810823+00:00",
+      "runtime": 96,
+      "release_date": "2020-08-21"
+    },
+    {
+      "title": "Penguins",
+      "year": 2019,
+      "type": "movie",
+      "tmdb_id": "movie/508802",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/eMSuKJ2e5VgYFr4SwOTLnnl5L15.jpg",
+      "rating": "G",
+      "genres": [
+        "Documentary",
+        "Family"
+      ],
+      "overview": "Steve the penguin embarks on an epic quest to find love and start a family.",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/movie/disneynature-penguins/umc.cmc.4rx0tndy5tv6xxl1oo2xsifej",
+          "quality": "hd",
+          "price": "19.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-3388007d-2ca3-4b05-9555-266e651921c8",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-18T06:56:14.327178+00:00",
+      "runtime": 76,
+      "release_date": "2019-04-17"
+    },
+    {
+      "title": "Lyle, Lyle, Crocodile",
+      "year": 2022,
+      "type": "movie",
+      "tmdb_id": "movie/830784",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/dN6XnCEP3AO7N4XFOFyZ8V8kZF5.jpg",
+      "rating": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "overview": "From the beloved children's story comes this live-action/animated musical about a little boy who is befriended by a singing crocodile. Javier Bardem, Constance Wu, and Shawn Mendes star in this \"wa...",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/lyle-lyle-crocodile/umc.cmc.6kky7ogmpd0213u43c1zd7asm?playableId=tvs.sbd.9001%3A1646645635",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0R9UQ35EMA87NYVNEOP7H2DVUY/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/movie/lyle%2C-lyle%2C-crocodile-7e467918-4899-4c0e-b2d1-b4200db6924a",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-18T06:56:18.730514+00:00",
+      "runtime": 106,
+      "release_date": "2022-10-07"
+    },
+    {
+      "title": "School of Magical Animals",
+      "year": 2021,
+      "type": "movie",
+      "tmdb_id": "movie/793937",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/lJl7go7W9MG4yVOQ3qCLTWo6oe9.jpg",
+      "rating": "",
+      "genres": [
+        "Adventure",
+        "Family"
+      ],
+      "overview": "When her family moves, Ida transfers to a new school where the students are given magical animal companions and learn about the power of friendship.",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "subscription",
+          "link": "https://www.amazon.com/gp/video/detail/B0C549RJ6G/ref=atv_dp",
+          "quality": "sd"
+        },
+        "tubi": {
+          "service": "tubi",
+          "serviceName": "Tubi",
+          "type": "free",
+          "link": "https://tubitv.com/movies/100033317/school-of-magical-animals",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-03-18T06:56:21.935231+00:00",
+      "runtime": 93,
+      "release_date": "2023-03-24"
+    },
+    {
+      "title": "Tiger",
+      "year": 2024,
+      "type": "movie",
+      "tmdb_id": "movie/720557",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/hVYSsDvXPkTNE9WNOUQzbn2Imvj.jpg",
+      "rating": "",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "overview": "Tiger (Salman Khan) is informed about a new military group that is planning something beyond all imagination, headed by a deeply motivated Aatish Rehman (Emraan Hashmi), who has a history of his ow...",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "subscription",
+          "link": "https://www.amazon.com/gp/video/detail/0N919Y58PK8T36JQFH6NNU2YLR/ref=atv_dp",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-18T06:56:26.269121+00:00",
+      "runtime": 155
+    },
+    {
+      "title": "Tigers on the Rise",
+      "year": 2024,
+      "type": "movie",
+      "tmdb_id": "movie/1259919",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/feaKvf7R80D4FlXEZei4NnRseAw.jpg",
+      "rating": "PG",
+      "genres": [
+        "Documentary"
+      ],
+      "overview": "Celebrate the remarkable comeback of tigers and the local heroes fighting to protect them.",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-dc7f3664-4612-4fcd-9220-d7f424fa1a59",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-18T06:56:28.547094+00:00",
+      "runtime": 77,
+      "release_date": "2024-04-22"
+    },
+    {
+      "title": "Harold and the Purple Crayon",
+      "year": 2024,
+      "type": "movie",
+      "tmdb_id": "movie/826510",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/qtW6bWUEqfPLaD6KnetIlSG4adf.jpg",
+      "rating": "PG",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy"
+      ],
+      "overview": "Harold must use his creativity to save the world from unleashed imagination in the wrong hands.",
+      "streaming": {
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/81623335/",
+          "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0NB8QGC6DG5QQHZ5J3DQN13H4W/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-03-18T06:56:29.882448+00:00",
+      "runtime": 88,
+      "release_date": "2024-08-02"
+    },
+    {
+      "title": "Sonic the Hedgehog",
+      "year": 2020,
+      "type": "movie",
+      "tmdb_id": "movie/454626",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+      "rating": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "overview": "SONIC THE HEDGEHOG tells the story of the world's speediest hedgehog as he embraces his new home on Earth. Sonic and his new best friend Tom team up to defend the planet from the evil genius Dr. Ro...",
+      "streaming": {
+        "paramount": {
+          "service": "paramount",
+          "serviceName": "Paramount+",
+          "type": "subscription",
+          "link": "https://www.paramountplus.com/movies/video/5EKDXPOzdVf9voUqW6oRuocyAEeJGbEc/"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/sonic-the-hedgehog/umc.cmc.6gkyrgaoool7s2u24tratknbi?playableId=tvs.sbd.9001%3A1496058930",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0HN7PSV5T5IC5SNZVZ9LFM3A7E/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-f6104eae-6c27-44c1-a5b2-967187d0e046"
+        }
+      },
+      "last_checked": "2026-03-18T06:56:32.776719+00:00",
+      "runtime": 98,
+      "release_date": "2020-02-14"
+    },
+    {
+      "title": "The Secret Lives of Animals",
+      "year": 2024,
+      "type": "series",
+      "tmdb_id": "tv/276501",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/dogBVvVM6JCkiq25LoSjHJQ7pcY.jpg",
+      "rating": "TV-G",
+      "genres": [
+        "Documentary"
+      ],
+      "overview": "Discover the clever and creative ways animals navigate life’s most extraordinary challenges, from leaving home to finding a partner. Narrated by Hugh Bonneville.",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "subscription",
+          "link": "https://tv.apple.com/us/show/the-secret-lives-of-animals/umc.cmc.2o8al5w2z01dnm4f9aw11d2w7",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-18T06:56:36.295575+00:00",
+      "season_count": 1,
+      "episode_count": 10
+    },
+    {
+      "title": "Timmy Failure: Mistakes Were Made",
+      "year": 2020,
+      "type": "movie",
+      "tmdb_id": "movie/550440",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/9Ic99kyJewgPHwl4JftJSwzUmtD.jpg",
+      "rating": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "overview": "“Timmy Failure: Mistakes Were Made\" follows the hilarious exploits of deadpan hero, Timmy Failure, an elementary school oddball who, along with his polar bear partner Total, operates the detective ...",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/timmy-failure-mistakes-were-made/umc.cmc.2fam9f115912y31oxp6hlihle?playableId=tvs.sbd.9001%3A1710343965",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0N8CIN6XUNTV4Q230YPJ7N01ZU/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-03-18T06:56:40.916722+00:00",
+      "runtime": 102,
+      "release_date": "2020-01-25"
+    },
+    {
+      "title": "One Strange Rock",
+      "year": 2018,
+      "type": "series",
+      "tmdb_id": "tv/75782",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/bLtoGQM3WhVFKtTk1h8w0lGH1n7.jpg",
+      "rating": "TV-G",
+      "genres": [
+        "Documentary"
+      ],
+      "overview": "National Geographic, acclaimed filmmaker Darren Aronofsky and award-winning producer Jane Root present a cinematic event series hosted by Will Smith. One Strange Rock reveals the magical twists of ...",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-2a608e05-e6b0-42f1-b5fd-acb28ee5cc7c",
+          "quality": "hd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/one-strange-rock/umc.cmc.5041h6ycj7s76wi1tjdoodjws",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-03-18T06:56:43.955460+00:00",
+      "season_count": 1,
+      "episode_count": 10
+    },
+    {
+      "title": "Patrick and the Whale",
+      "year": 2023,
+      "type": "movie",
+      "tmdb_id": "movie/1016208",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/bjA5GFMN2d0pplljl21rXhsRPKz.jpg",
+      "rating": "",
+      "genres": [
+        "Documentary"
+      ],
+      "overview": "For years, Patrick Dykstra has traveled the globe following and diving with whales, learning how whales see, hear and perceive other creatures in the water. In Dominica, Patrick has a life changing...",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0LE7SV6ZZITV5AO096WZ3CFL2H/ref=atv_dp",
+          "quality": "hd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-03-18T06:56:47.169403+00:00",
+      "runtime": 73
+    },
+    {
+      "title": "Kensuke's Kingdom",
+      "year": 2024,
+      "type": "movie",
+      "tmdb_id": "movie/587563",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/9M8tTHbYFrGxCXxNMvAkvRbhtER.jpg",
+      "rating": "",
+      "genres": [
+        "Adventure",
+        "Animation"
+      ],
+      "overview": "Young Michael, shipwrecked on a remote island, must adapt to life alone. Over time, he feels another presence, learning that this world is home to both unimaginable danger and beauty.",
+      "streaming": {},
+      "last_checked": "2026-03-18T06:56:49.409500+00:00",
+      "runtime": 84,
+      "release_date": "2024-10-18"
+    },
+    {
+      "title": "The Tiger's Apprentice",
+      "year": 2024,
+      "type": "movie",
+      "tmdb_id": "movie/1182047",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/549Hdul2BgPnZMhqFxp6npp2opr.jpg",
+      "rating": "R",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "overview": "In 70s New York, aspiring mogul Donald Trump meets the man who will become one of the most important figures in his life: political fixer Roy M. Cohn.",
+      "streaming": {
+        "tubi": {
+          "service": "tubi",
+          "serviceName": "Tubi",
+          "type": "free",
+          "link": "https://tubitv.com/movies/100049049/the-apprentice",
+          "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "subscription",
+          "link": "https://www.amazon.com/gp/video/detail/0U663D4I98E51QITLHV5X9CLAN/ref=atv_dp",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-18T06:56:53.722233+00:00",
+      "runtime": 122,
+      "release_date": "2024-10-11"
+    },
+    {
+      "title": "Raya and the Last Dragon",
+      "year": 2021,
+      "type": "movie",
+      "tmdb_id": "movie/527774",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/5nVhgCzxKbK47OLIKxCR1syulOn.jpg",
+      "rating": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation"
+      ],
+      "overview": "Walt Disney Animation Studios’ “Raya and the Last Dragon” travels to the fantasy world of Kumandra, where humans and dragons lived together in harmony long ago. But when an evil force threatened th...",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/raya-and-the-last-dragon/umc.cmc.13yhvlcnjgixwpl8hy62kuppp?playableId=tvs.sbd.9001%3A1557711427",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-72aceacd-23df-4fc2-89fb-0b9595a764ca",
+          "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0FBFRB46ZO50J8MEMCJK7TWOGM/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-03-18T06:56:58.536873+00:00",
+      "runtime": 107,
+      "release_date": "2021-03-05"
+    },
+    {
+      "title": "Pokemon Detective Pikachu",
+      "year": 2019,
+      "type": "movie",
+      "tmdb_id": "movie/447404",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/uhWvnFgg3BNlcUz0Re1HfQqIcCD.jpg",
+      "rating": "PG",
+      "genres": [
+        "Adventure",
+        "Family"
+      ],
+      "overview": "When ace detective Harry Goodman goes mysteriously missing, his son Tim (Justice Smith) embarks on a journey to find out what happened. Aiding in the investigation is Harry’s former Pokémon partner...",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/pokemon-detective-pikachu/umc.cmc.2f3ohdbkpol7ui73lvygtcge2?playableId=tvs.sbd.9001%3A1460331265",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0K1VZNF96GVK06I8KZJ1K738V0/ref=atv_dp",
+          "quality": "uhd",
+          "price": "4.99 USD"
+        }
+      },
+      "last_checked": "2026-03-18T06:57:01.736079+00:00",
+      "runtime": 104,
+      "release_date": "2019-05-10"
+    },
+    {
+      "title": "Spy Kids",
+      "year": 2001,
+      "type": "movie",
+      "tmdb_id": "movie/10054",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/j3rUkHIAAoKr6jU30q3Db4fcIF9.jpg",
+      "rating": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "overview": "Gregorio and Ingrid Cortez traded the excitement of espionage for the adventure of parenthood. But when they're sent on a secret mission, they are kidnapped. Luckily, there are two people who can s...",
+      "streaming": {
+        "paramount": {
+          "service": "paramount",
+          "serviceName": "Paramount+",
+          "type": "subscription",
+          "link": "https://www.paramountplus.com/movies/video/jroofODh1y9e5vKKyC6NFGJXnn_aLjCo/"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0S5H39SRBD2LJFNVWX9JH1RO76/ref=atv_dp",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "showtime": {
+          "service": "showtime",
+          "serviceName": "Paramount+ with Showtime",
+          "type": "subscription",
+          "link": "https://www.hulu.com/movie/spy-kids-f875376e-19e8-4f2b-8176-7fba8fff73d7"
+        }
+      },
+      "last_checked": "2026-03-18T06:57:06.133209+00:00",
+      "runtime": 88,
+      "release_date": "2001-03-18"
+    },
+    {
+      "title": "UglyDolls",
+      "year": 2019,
+      "type": "movie",
+      "tmdb_id": "movie/454458",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/p97LQ1TL95mptVL2AS8Rz1cJCQg.jpg",
+      "rating": "PG",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy"
+      ],
+      "overview": "The free-spirited Moxy and her UglyDoll friends embark on a journey beyond the comfortable borders of Uglyville and discover Perfection - a town where more conventional dolls are trained before ent...",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/B07R7ZPRBY/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.79 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/uglydolls/umc.cmc.4lu8wo536mycez1alx3ugxoi5",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-03-18T06:57:09.181415+00:00",
+      "runtime": 87,
+      "release_date": "2019-05-03"
+    },
+    {
+      "title": "The Dinosaurs",
+      "year": 2026,
+      "type": "series",
+      "tmdb_id": "tv/313298",
+      "lists": [
+        "kids"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/x37IK9WWhuzi7tgyMT4ff3kiT5X.jpg",
+      "rating": "TV-PG",
+      "genres": [
+        "Documentary",
+        "History"
+      ],
+      "overview": "From the first dinosaurs to the last, this epic documentary series examines their 165 million years on Earth and the forces that shaped their evolution.",
+      "streaming": {
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/81612719/",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-03-18T06:57:13.382713+00:00",
+      "season_count": 1,
+      "episode_count": 4
     }
   ]
 }

@@ -1484,5 +1484,32 @@
       "kids"
     ],
     "tmdb_id": "tv/313298"
+  },
+  {
+    "title": "Sinners",
+    "year": 2025,
+    "type": "movie",
+    "lists": [
+      "Anne"
+    ],
+    "tmdb_id": "tv/1233413"
+  },
+  {
+    "title": "I, Jack Wright",
+    "year": 2025,
+    "type": "series",
+    "lists": [
+      "Anne"
+    ],
+    "tmdb_id": "tv/262899"
+  },
+  {
+    "title": "Heated Rivalry",
+    "year": 2025,
+    "type": "series",
+    "lists": [
+      "Anne"
+    ],
+    "tmdb_id": "tv/301507"
   }
 ]

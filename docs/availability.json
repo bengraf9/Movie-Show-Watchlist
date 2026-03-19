@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T06:51:39.769936+00:00",
+  "last_updated": "2026-03-19T11:17:38.572335+00:00",
   "country": "us",
   "items": [
     {
@@ -3646,30 +3646,29 @@
       "title": "Tiger",
       "year": 2024,
       "type": "movie",
-      "tmdb_id": "movie/720557",
+      "tmdb_id": "movie/1259918",
       "lists": [
         "kids"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/hVYSsDvXPkTNE9WNOUQzbn2Imvj.jpg",
-      "rating": "",
+      "poster": "https://image.tmdb.org/t/p/w300/pHWcpdSFDKFnxZUF66MPfJRaA5a.jpg",
+      "rating": "PG",
       "genres": [
-        "Action",
-        "Adventure",
-        "Thriller"
+        "Documentary"
       ],
-      "overview": "Tiger (Salman Khan) is informed about a new military group that is planning something beyond all imagination, headed by a deeply motivated Aatish Rehman (Emraan Hashmi), who has a history of his ow...",
+      "overview": "Journey alongside a young tigress raising her cubs in the fabled forests of India.",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
           "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0N919Y58PK8T36JQFH6NNU2YLR/ref=atv_dp",
+          "link": "https://www.disneyplus.com/browse/entity-827713af-9880-49c1-b82b-91d178b7090a",
           "quality": "uhd"
         }
       },
-      "last_checked": "2020-03-18T06:56:26.269121+00:00",
-      "runtime": 155
+      "last_checked": "2026-03-19T11:17:37.499674+00:00",
+      "runtime": 89,
+      "release_date": "2024-04-22"
     },
     {
       "title": "Tigers on the Rise",
@@ -3942,37 +3941,32 @@
       "title": "The Tiger's Apprentice",
       "year": 2024,
       "type": "movie",
-      "tmdb_id": "movie/1182047",
+      "tmdb_id": "movie/598387",
       "lists": [
         "kids"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/549Hdul2BgPnZMhqFxp6npp2opr.jpg",
-      "rating": "R",
+      "poster": "https://image.tmdb.org/t/p/w300/64ZktFMmTzsm47wdsaMOID0DzcY.jpg",
+      "rating": "PG",
       "genres": [
-        "Drama",
-        "History"
+        "Action",
+        "Adventure",
+        "Animation"
       ],
-      "overview": "In 70s New York, aspiring mogul Donald Trump meets the man who will become one of the most important figures in his life: political fixer Roy M. Cohn.",
+      "overview": "Tom Lee discovers he is part of a long lineage of magical protectors known as the Guardians. With guidance from a mythical tiger named Hu and the other Zodiac animal warriors, Tom trains to take on...",
       "streaming": {
-        "tubi": {
-          "service": "tubi",
-          "serviceName": "Tubi",
-          "type": "free",
-          "link": "https://tubitv.com/movies/100049049/the-apprentice",
-          "quality": "hd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
-          "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0U663D4I98E51QITLHV5X9CLAN/ref=atv_dp",
-          "quality": "uhd"
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/B0CP87XWCT/ref=atv_dp",
+          "quality": "uhd",
+          "price": "5.99 USD"
         }
       },
-      "last_checked": "2020-03-18T06:56:53.722233+00:00",
-      "runtime": 122,
-      "release_date": "2024-10-11"
+      "last_checked": "2026-03-19T11:17:38.351197+00:00",
+      "runtime": 83,
+      "release_date": "2024-02-02"
     },
     {
       "title": "Raya and the Last Dragon",
@@ -4175,7 +4169,7 @@
       "type": "movie",
       "tmdb_id": "movie/1233413",
       "lists": [
-        "Anne"
+        "Mom"
       ],
       "priority": {},
       "poster": "https://image.tmdb.org/t/p/w300/705nQHqe4JGdEisrQmVYmXyjs1U.jpg",
@@ -4217,7 +4211,7 @@
       "type": "series",
       "tmdb_id": "tv/262899",
       "lists": [
-        "Anne"
+        "Mom"
       ],
       "priority": {},
       "poster": "https://image.tmdb.org/t/p/w300/yWo8QNGADcVRFiWFn0vDE8u9BQS.jpg",
@@ -4253,7 +4247,7 @@
       "type": "series",
       "tmdb_id": "tv/301507",
       "lists": [
-        "Anne"
+        "Mom"
       ],
       "priority": {},
       "poster": "https://image.tmdb.org/t/p/w300/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",

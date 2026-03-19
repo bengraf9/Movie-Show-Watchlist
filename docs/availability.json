@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T06:57:13.649444+00:00",
+  "last_updated": "2026-03-19T06:51:39.769936+00:00",
   "country": "us",
   "items": [
     {
@@ -4168,6 +4168,125 @@
       "last_checked": "2026-03-18T06:57:13.382713+00:00",
       "season_count": 1,
       "episode_count": 4
+    },
+    {
+      "title": "Sinners",
+      "year": 2025,
+      "type": "movie",
+      "tmdb_id": "movie/1233413",
+      "lists": [
+        "Anne"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/705nQHqe4JGdEisrQmVYmXyjs1U.jpg",
+      "rating": "R",
+      "genres": [
+        "Action",
+        "Horror"
+      ],
+      "overview": "From writer/director Ryan Coogler and starring Michael B. Jordan comes a new vision of fear. Trying to leave their troubled lives behind, twin brothers (Jordan) return home, only to discover an eve...",
+      "streaming": {
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/movie/2a072173-2bac-43ba-9933-10eba021ed96",
+          "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "subscription",
+          "link": "https://www.amazon.com/gp/video/detail/0J21M9AM4CY8XJ74W902BIHZYM/ref=atv_dp",
+          "quality": "uhd"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://www.hulu.com/movie/sinners-a2f3d5fb-65e8-4687-80f6-8de09e312d0e"
+        }
+      },
+      "last_checked": "2026-03-19T06:51:31.111434+00:00",
+      "runtime": 137,
+      "release_date": "2025-04-18"
+    },
+    {
+      "title": "I, Jack Wright",
+      "year": 2025,
+      "type": "series",
+      "tmdb_id": "tv/262899",
+      "lists": [
+        "Anne"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/yWo8QNGADcVRFiWFn0vDE8u9BQS.jpg",
+      "rating": "",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "overview": "A death in the family. A bombshell will. A murderer in their ranks? The apparent death by suicide of high-powered businessman Jack Wright sends a shockwave through his family. As his wives and chil...",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-7abad622-6bb4-4343-8550-933b9e361e71",
+          "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "subscription",
+          "link": "https://www.amazon.com/gp/video/detail/0NOUE68QBOH81GQE75PNI5BHFP"
+        }
+      },
+      "last_checked": "2026-03-19T06:51:37.515404+00:00",
+      "season_count": 1,
+      "episode_count": 6
+    },
+    {
+      "title": "Heated Rivalry",
+      "year": 2025,
+      "type": "series",
+      "tmdb_id": "tv/301507",
+      "lists": [
+        "Anne"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
+      "rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "overview": "Heated Rivalry tells the epic story of hockey’s steamiest secret - from a tangled, confusing connection to an undeniable, all-consuming bond - culminating in a powerful love story. Canada’s golden ...",
+      "streaming": {
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/show/50cd4e99-04ee-427b-a3b4-da721ed05d9c",
+          "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://www.amazon.com/gp/video/detail/0OBESIZVH5XAJ1QDEPGKSUAVGH"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://www.hulu.com/series/heated-rivalry-f1eb6241-3544-45bb-900e-7070ee83c771"
+        }
+      },
+      "last_checked": "2026-03-19T06:51:39.456420+00:00",
+      "season_count": 1,
+      "episode_count": 6
     }
   ]
 }

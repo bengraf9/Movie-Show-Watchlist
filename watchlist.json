@@ -1560,7 +1560,9 @@
     "lists": [
       "Anne"
     ],
-    "tmdb_id": "tv/1233413"
+    "tmdb_id": "tv/1233413",
+    "rating": "R",
+    "release_date": "2025-04-18"
   },
   {
     "title": "I, Jack Wright",
@@ -1578,6 +1580,7 @@
     "lists": [
       "Anne"
     ],
-    "tmdb_id": "tv/301507"
+    "tmdb_id": "tv/301507",
+    "rating": "TV-MA"
   }
 ]

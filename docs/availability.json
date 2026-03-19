@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T11:17:38.572335+00:00",
+  "last_updated": "2026-03-19T11:21:34.280342+00:00",
   "country": "us",
   "items": [
     {
@@ -4169,7 +4169,7 @@
       "type": "movie",
       "tmdb_id": "movie/1233413",
       "lists": [
-        "Mom"
+        "mom"
       ],
       "priority": {},
       "poster": "https://image.tmdb.org/t/p/w300/705nQHqe4JGdEisrQmVYmXyjs1U.jpg",
@@ -4211,7 +4211,7 @@
       "type": "series",
       "tmdb_id": "tv/262899",
       "lists": [
-        "Mom"
+        "mom"
       ],
       "priority": {},
       "poster": "https://image.tmdb.org/t/p/w300/yWo8QNGADcVRFiWFn0vDE8u9BQS.jpg",
@@ -4247,7 +4247,7 @@
       "type": "series",
       "tmdb_id": "tv/301507",
       "lists": [
-        "Mom"
+        "mom"
       ],
       "priority": {},
       "poster": "https://image.tmdb.org/t/p/w300/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T11:21:34.280342+00:00",
+  "last_updated": "2026-03-20T06:47:00.064750+00:00",
   "country": "us",
   "items": [
     {
@@ -93,12 +93,6 @@
       ],
       "overview": "Hank is stranded on a deserted island when a corpse washes ashore and the two go on an epic adventure to bring Hank back to the woman of his dreams.",
       "streaming": {
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://play.hbomax.com/movie/f2127e58-1c4e-4855-a310-538a8acc91e1"
-        },
         "tubi": {
           "service": "tubi",
           "serviceName": "Tubi",
@@ -113,9 +107,21 @@
           "link": "https://www.amazon.com/gp/video/detail/0HSTAZCXT1LESCOWRV9WPJKFCS/ref=atv_dp",
           "quality": "sd",
           "price": "2.99 USD"
+        },
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/movie/f2127e58-1c4e-4855-a310-538a8acc91e1"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://www.hulu.com/movie/swiss-army-man-452cdfef-e577-4557-a9f7-286ba077dd34"
         }
       },
-      "last_checked": "2026-03-12T15:30:28.747925+00:00",
+      "last_checked": "2026-03-20T06:46:44.589494+00:00",
       "runtime": 93,
       "release_date": "2016-07-01"
     },
@@ -144,22 +150,14 @@
           "type": "subscription",
           "link": "https://www.hulu.com/movie/raising-arizona-6b8ced8e-bf98-4e46-b66c-9ab59abb53d5",
           "quality": "hd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0LTUA14SORGQY8WUPE7DY4BHGN/ref=atv_dp",
-          "quality": "hd",
-          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-12T15:30:29.362266+00:00",
+      "last_checked": "2026-03-20T06:46:45.261492+00:00",
       "runtime": 94,
       "release_date": "1987-04-17"
     },
     {
-      "title": "Playing by Heart",
+      "title": "Playing By Heart",
       "year": 1998,
       "type": "movie",
       "tmdb_id": "movie/825",
@@ -185,17 +183,9 @@
           "link": "https://tv.apple.com/us/movie/playing-by-heart/umc.cmc.5knvc784y9owo8c4rctm11hp7",
           "quality": "hd",
           "price": "3.99 USD"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0JC7Q5VUHGF7JEYJNDZI2LZMAY/ref=atv_dp",
-          "quality": "hd",
-          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-12T15:30:30.105042+00:00",
+      "last_checked": "2026-03-20T06:46:45.919093+00:00",
       "runtime": 120,
       "release_date": "1999-01-22"
     },
@@ -227,7 +217,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-12T15:30:30.774628+00:00",
+      "last_checked": "2026-03-20T06:46:46.610964+00:00",
       "runtime": 106,
       "release_date": "1987-06-19"
     },
@@ -290,7 +280,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-12T15:30:32.038812+00:00",
+      "last_checked": "2026-03-20T06:46:47.271512+00:00",
       "runtime": 110,
       "release_date": "2025-06-13"
     },
@@ -310,7 +300,7 @@
       "genres": [
         "Drama"
       ],
-      "overview": "A young aspiring filmmaker in the 1950s immerses himself in the magic of movies to cope with a family secret that could change his world forever.",
+      "overview": "Growing up in post-World War II era Arizona, young Sammy Fabelman aspires to become a filmmaker as he reaches adolescence, but soon discovers a shattering family secret. He discovers how the power ...",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -329,7 +319,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-12T15:30:32.640929+00:00",
+      "last_checked": "2026-03-20T06:46:48.025963+00:00",
       "runtime": 150,
       "release_date": "2022-11-23"
     },
@@ -382,7 +372,7 @@
         "Comedy",
         "Fantasy"
       ],
-      "overview": "A bored TV weatherman finds love with a British journalist.",
+      "overview": "A wacky TV weatherman loses his job after taking off yet another weekend - after all, he figures, L.A. weather never changes, does it? His personal life is a mess too, his relationship with his lon...",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -393,7 +383,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-12T15:30:33.853626+00:00",
+      "last_checked": "2026-03-20T06:46:48.722086+00:00",
       "runtime": 91,
       "release_date": "1991-02-08"
     },
@@ -417,6 +407,12 @@
       ],
       "overview": "A group of actors set out to make the most expensive war film. After huge costs force the studio to cancel the movie, the director refuses to stop shooting, leading his cast into the jungles of Sou...",
       "streaming": {
+        "paramount": {
+          "service": "paramount",
+          "serviceName": "Paramount+",
+          "type": "subscription",
+          "link": "https://www.paramountplus.com/movies/video/26DFYvRxPukwiQsNS596_MwDDvPnYWyw/"
+        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV",
@@ -424,12 +420,6 @@
           "link": "https://tv.apple.com/us/movie/tropic-thunder/umc.cmc.5iudnxk9tyxo63gewawi330mw?playableId=tvs.sbd.9001%3A291563909",
           "quality": "hd",
           "price": "3.99 USD"
-        },
-        "paramount": {
-          "service": "paramount",
-          "serviceName": "Paramount+",
-          "type": "subscription",
-          "link": "https://www.paramountplus.com/movies/video/26DFYvRxPukwiQsNS596_MwDDvPnYWyw/"
         },
         "prime": {
           "service": "prime",
@@ -440,7 +430,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-12T15:30:34.504673+00:00",
+      "last_checked": "2026-03-20T06:46:49.478285+00:00",
       "runtime": 106,
       "release_date": "2008-08-13"
     },
@@ -472,7 +462,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-12T15:30:35.105963+00:00",
+      "last_checked": "2026-03-20T06:46:50.165073+00:00",
       "runtime": 124,
       "release_date": "1979-12-19"
     },
@@ -493,8 +483,15 @@
       "genres": [
         "Drama"
       ],
-      "overview": "Unprecedented in its long-haul production methods, this expansive drama from writer-director Richard Linklater is a coming-of-age tale like no other. Nominated for six Oscars®—including a Supportin...",
+      "overview": "A celebration of life, shot over 12 yrs. with the same cast.",
       "streaming": {
+        "mubi": {
+          "service": "mubi",
+          "serviceName": "Mubi",
+          "type": "subscription",
+          "link": "https://mubi.com/films/boyhood-2014",
+          "quality": "hd"
+        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV",
@@ -518,13 +515,6 @@
           "link": "https://www.netflix.com/title/70301281/",
           "quality": "hd"
         },
-        "mubi": {
-          "service": "mubi",
-          "serviceName": "Mubi",
-          "type": "subscription",
-          "link": "https://mubi.com/films/boyhood-2014",
-          "quality": "hd"
-        },
         "hulu": {
           "service": "hulu",
           "serviceName": "Hulu",
@@ -533,7 +523,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-12T15:30:35.701477+00:00",
+      "last_checked": "2026-03-20T06:46:50.988064+00:00",
       "runtime": 165,
       "release_date": "2014-08-15"
     },
@@ -572,7 +562,7 @@
           "price": "14.99 USD"
         }
       },
-      "last_checked": "2026-03-12T15:30:36.328066+00:00",
+      "last_checked": "2026-03-20T06:46:51.731197+00:00",
       "runtime": 157,
       "release_date": "2023-11-22"
     },
@@ -587,12 +577,12 @@
       "priority": {
         "dad-movie": 17
       },
-      "poster": "https://cdn.movieofthenight.com/show/4794607/poster/vertical/en/240.jpg?Expires=1789898244&Signature=M3V2Ger~Eo4XyHo~Bj9x9Aa1E7LCihL2Nm-7GML46uTZ5iuI37MB10KbOMKsjxt~EkMGQdxSYCcvAL-re6PTa4MkdV2QN03vc0hTxvCx7AZtaJEZZJvhdaQWcSsF8FRyCZAgqWCGmmc~9tktN~g3nqJOsP-aBvr5c2OxQwDdfwxp6Ctjf7ThPunPaojbieHQxxxa3-r-N34NsREfPxJC5kbrfnoyPdWTVPqdUXZ5tRMMwNZ2k1x1H3G4mC8Oo~ylXh8a4DYuj8gwlZuffjkErtvdmCdJ8Cwc5DOqX2Jo6NWLpw~XlgCIcg~5vA4IhBb4aTWXSBguXs0MeQeGikEEMg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/4794607/poster/vertical/en/240.jpg?Expires=1805537197&Signature=EBPIyz1WM8Tw-htfnQ4BUjQLrweVmMIhh30QKL8Fzu7t4cSqFHYuIve7aadzSa~aHtGGsVeI6HkmjSjerCyeCYqPrzZewRxLZ5Y1QPAq~k0E3OA5lTXyxwjQv-WNnvpveRcTgUcS91KsufDMiCYMTG4WUXuqi2qUSXly67lJU0WGwe~DmBMMiVSBJYWbXKJlroDhaEcpdlMH~RMJPQKmUah8hx0gJxuOI4xiAsV6KXPe~mztRHPd3f1yLDbCZPrn4Z598VwNFdR3ifi6LigOBe-KUiusmQJl~Lw7TYQnGVXHZYLqC3r6gtcr7SI7EJUVSPZjpSgmxgP7GHV4Pm7lCQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
       "genres": [
         "Drama"
       ],
-      "overview": "Divine G (Colman Domingo), imprisoned at Sing Sing for a crime he didn't commit, finds purpose by acting in a theatre group alongside other incarcerated men, including wary newcomer (Clarence Macli...",
+      "overview": "Academy Award® nominee Colman Domingo shines in this true story of a man who found hope through the arts while wrongfully imprisoned.",
       "streaming": {
         "hbo": {
           "service": "hbo",
@@ -610,7 +600,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-03-12T15:30:36.930760+00:00",
+      "last_checked": "2026-03-20T06:46:52.477242+00:00",
       "runtime": 106,
       "release_date": "2024-03-08"
     },
@@ -633,6 +623,12 @@
       ],
       "overview": "Forty-one years after the release of the groundbreaking mockumentary This Is Spinal Tap, the now estranged bandmates David St. Hubbins, Nigel Tufnel, and Derek Smalls (Michael McKean, Christopher G...",
       "streaming": {
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/movie/f3bf7c8f-1c44-4a35-9bb2-8f583c5e90bb"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -640,10 +636,16 @@
           "link": "https://www.amazon.com/gp/video/detail/0QX9MSTQ5UTFHCQBXO7E8AX24M/ref=atv_dp",
           "quality": "uhd",
           "price": "5.99 USD"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://www.hulu.com/movie/spinal-tap-ii:-the-end-continues-ea3f8760-9688-4843-9e26-71536d547f6c"
         }
       },
-      "last_checked": "2026-03-12T15:30:37.572838+00:00",
-      "runtime": 83,
+      "last_checked": "2026-03-20T06:46:53.215716+00:00",
+      "runtime": 84,
       "release_date": "2025-09-12"
     },
     {
@@ -675,7 +677,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-12T15:30:38.274452+00:00",
+      "last_checked": "2026-03-20T06:46:53.876168+00:00",
       "runtime": 96,
       "release_date": "2003-01-18"
     },
@@ -707,7 +709,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-12T15:30:38.897740+00:00",
+      "last_checked": "2026-03-20T06:46:54.544210+00:00",
       "runtime": 129,
       "release_date": "1963-03-16"
     },
@@ -754,7 +756,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-12T15:30:39.496612+00:00",
+      "last_checked": "2026-03-20T06:46:55.207496+00:00",
       "runtime": 107,
       "release_date": "1982-01-01"
     },
@@ -775,7 +777,7 @@
         "Action",
         "Comedy"
       ],
-      "overview": "Now In Theaters. Thelma isn’t your average 93-year-old grandmother - she’s tenacious, determined, and on a mission. After getting conned by a scammer, she teams up with a friend and his motorized s...",
+      "overview": "Thelma isn’t your average 93-year-old grandmother – she’s tenacious, determined, and on a mission. After getting conned by a scammer, she teams up with a friend and his motorized scooter on a wild ...",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -793,7 +795,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-12T15:30:40.196818+00:00",
+      "last_checked": "2026-03-20T06:46:55.954699+00:00",
       "runtime": 98,
       "release_date": "2024-06-21"
     },
@@ -838,7 +840,7 @@
         "Comedy",
         "Drama"
       ],
-      "overview": "Ben Stiller directs and stars in this inspiring story about an ordinary man who finds the courage to discover his destiny and leap into the extraordinary adventure that is life.",
+      "overview": "A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.",
       "streaming": {
         "disney": {
           "service": "disney",
@@ -864,7 +866,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-12T15:30:41.453570+00:00",
+      "last_checked": "2026-03-20T06:46:56.631292+00:00",
       "runtime": 114,
       "release_date": "2013-12-25"
     },
@@ -904,7 +906,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-12T15:30:42.077601+00:00",
+      "last_checked": "2026-03-20T06:46:57.385872+00:00",
       "runtime": 115,
       "release_date": "2021-11-04"
     },
@@ -926,7 +928,7 @@
         "Romance",
         "Science Fiction"
       ],
-      "overview": "Her follows Theodore Twombly, a complex, soulful man who makes his living writing touching, personal letters for other people.  Heartbroken after the end of a long relationship, he becomes intrigue...",
+      "overview": "A man falls in love with his computer's operating system.",
       "streaming": {
         "apple": {
           "service": "apple",
@@ -935,17 +937,9 @@
           "link": "https://tv.apple.com/us/movie/her/umc.cmc.4ky5qbtddgx232de23d3bqr6i?playableId=tvs.sbd.9001%3A810314926",
           "quality": "hd",
           "price": "3.99 USD"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0M294Z1YCVFW2A0NQEBMX2ILS5/ref=atv_dp",
-          "quality": "hd",
-          "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-03-12T15:30:42.688239+00:00",
+      "last_checked": "2026-03-20T06:46:58.047633+00:00",
       "runtime": 125,
       "release_date": "2014-01-10"
     },
@@ -976,7 +970,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-12T15:30:43.275434+00:00",
+      "last_checked": "2026-03-20T06:46:58.729091+00:00",
       "runtime": 90,
       "release_date": "2025-03-14"
     },
@@ -1016,7 +1010,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-12T15:30:43.887077+00:00",
+      "last_checked": "2026-03-20T06:46:59.392474+00:00",
       "runtime": 87,
       "release_date": "2023-08-11"
     },
@@ -1045,17 +1039,9 @@
           "link": "https://tv.apple.com/us/movie/dear-evan-hansen/umc.cmc.2cx48pp35txxoecn7bkyvcme6?playableId=tvs.sbd.9001%3A1588512819",
           "quality": "hd",
           "price": "3.99 USD"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0PLUV8TKWGX0RV6OUCWWDZ9OHH/ref=atv_dp",
-          "quality": "uhd",
-          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-12T15:30:44.502872+00:00",
+      "last_checked": "2026-03-20T06:47:00.064082+00:00",
       "runtime": 137,
       "release_date": "2021-09-24"
     },

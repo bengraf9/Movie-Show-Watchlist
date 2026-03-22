@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T06:35:51.488149+00:00",
+  "last_updated": "2026-03-22T06:43:13.810592+00:00",
   "country": "us",
   "items": [
     {
@@ -1155,7 +1155,7 @@
       "priority": {
         "dad-series": 3
       },
-      "poster": "https://cdn.movieofthenight.com/show/526/poster/vertical/en/240.jpg?Expires=1789899229&Signature=M62k~Sqasaz29gF6c9R97VNrZwGpSz0j9aNrSDa8zYQYx5vsUD3h4JBNxkJlGthob6SlOeNLzRcsM4u5jwKaj9XSrpguQi7DxF7SBSFyBiQw62b7W7ezg18gvm3tlvSjzVpzomXZzn5nezalvDvgEAww3L4i2aCBxwDu7y18U0-Weui4-IDUZ6sGIFnFfpk0~PFgsDbxO~JCzgU3YuSN0kUbsr3xxvi~iW24HZbTkI6dNxR~RJ6eNNC1hN~4hGpJRuuCUT4SkwRegxb3OVKLVZb~geb-WLJ6gfSBkmeVbNui0C7rCAS92s9NLNamrkr~3MnDK8qRS6h7egYvIyyG2A__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/khZqmwHQicTYoS7Flreb9EddFZC.jpg",
       "rating": "TV-14",
       "genres": [
         "Action",
@@ -1172,7 +1172,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-14T06:38:51.796145+00:00",
+      "last_checked": "2026-03-22T06:42:51.793343+00:00",
       "season_count": 2,
       "episode_count": 24
     },
@@ -1216,7 +1216,7 @@
       "priority": {
         "dad-series": 5
       },
-      "poster": "https://cdn.movieofthenight.com/show/5880/poster/vertical/en/240.jpg?Expires=1803691214&Signature=TnpZSmfNqU7Fee9qfoecdta~Cvk2nN3N1-XVW7ge1MhwQjFo678x7uLc-3sOijoDmzEBGjhwyi6TMa5iy8~TzFTgOyHxLDAdSizDx2d01iHtjH7NGZ3sAEtV--Zkn-7vwrq7emb6-jSM5k~1ZkljDoV2AfnisoKtrmFDKCpksO6lXsf18li4loRuiTNY5XH30J1KonmhHXfA79z8cKp-88wY5ranoSH8xTWpsRlFyMbXi5BAGz3zwgvzvIOBzZaX0XoHBC7LzgTm2-uUT4giaIflsxsfonlFLhk7Eb-PMyU1CC0Y3708Qxbc58M6b7ktfcQJoCl1ciZwJpq5bjn8lA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/66peZcEggw4xJHLQeBqvIsKG87s.jpg",
       "rating": "TV-MA",
       "genres": [
         "Comedy"
@@ -1231,7 +1231,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-14T06:38:53.510193+00:00",
+      "last_checked": "2026-03-22T06:42:53.176554+00:00",
       "season_count": 1,
       "episode_count": 3
     },
@@ -1268,7 +1268,7 @@
       "priority": {
         "dad-series": 7
       },
-      "poster": "https://cdn.movieofthenight.com/show/4254/poster/vertical/en/240.jpg?Expires=1803642764&Signature=C-Rsa8jkDUXeZnFwknlRkuj3f86PPyl0PxCCNLizkWtoaGM509QvV0VBcAfz8UxBVTpo6z7Id4TqSOzWKYqjeSzhnbxEdbriGaKURX2foAGnJdEnNB9z-nXDTbOgKDGTk8vUiss~jZ3UZ8AiRRrTHlCg8O9N9yES3YZ8Mr7Mt0~RWSL90-qkooK92lp0~KRwP9nNPJI6cCOP7pvPjsdYzi5aM1CDnG~yX8KHSN76aleJYJQXvZsg99vMpBh~QGNJo1HSnjK1xMXUR8uUhuEKndDSSUXgQifNcgr78r4UqBOSRq1h10G8QcapxNIjWknMv2ibUJWz~WG5B-q7pQlu9g__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/uAYwC1jnIgwjaIAhy4SE9nnRgwN.jpg",
       "rating": "TV-MA",
       "genres": [
         "Comedy"
@@ -1280,9 +1280,15 @@
           "serviceName": "HBO Max",
           "type": "subscription",
           "link": "https://play.hbomax.com/show/576e149d-8211-46dd-be88-e97fa9e01ac4"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://www.hulu.com/series/the-larry-sanders-show-dc4b3bdc-3fa0-45ce-ad49-770ba0ace2d3"
         }
       },
-      "last_checked": "2026-03-14T06:38:55.742885+00:00",
+      "last_checked": "2026-03-22T06:42:54.614189+00:00",
       "season_count": 6,
       "episode_count": 90
     },
@@ -1297,7 +1303,7 @@
       "priority": {
         "dad-series": 8
       },
-      "poster": "https://cdn.movieofthenight.com/show/193/poster/vertical/en/240.jpg?Expires=1798050321&Signature=CdaTwC6iaoKAYLlWZ3h5T4d2QU4q4U2B4yy-Z3RfXVszXzVij~vp1yUS5gSP4C3jyHL1kj1qcjqcCIlg4LgPHjhWcTxaEroFUlZ9MUEbtFcJHKfM69jQZkszHlIS-DB0CmN8HICM0kBdFS0eKi7q43hBdZGWpKyB4W2gruIXw8InGt4SF7lFwbDy84D2qP-7wWUHcUgfSIvmBJhmsP3o3sgFBDDMoBWSBj9JvClcIsWWsOmy1P6yK85Gln-~zuhtJToO~VwWji7Pr9pjnGxVtKF8In4wYLoYiwAsfF5WiHMg2yDS~t54TtLFu12qWdECmaYWifAKWdBVob1YYWGk5A__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg",
       "rating": "TV-14",
       "genres": [
         "Drama",
@@ -1314,7 +1320,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-14T06:38:56.662259+00:00",
+      "last_checked": "2026-03-22T06:42:55.967548+00:00",
       "season_count": 5,
       "episode_count": 100
     },
@@ -1330,7 +1336,7 @@
       "priority": {
         "dad-series": 9
       },
-      "poster": "https://cdn.movieofthenight.com/show/13401245/poster/vertical/en/240.jpg?Expires=1800295983&Signature=SPHa0~9KBZwhPNQ1jOrYfq9~7oc1XgxbuUWd9YOfF291EKlXg8Ah7sUe8Ue-N0XauCNWvoOwTPepW18RjhJOfkgxHMcUtU6XjS7dT-k09lwBLsT-yiq135gLtarD0jETUqOdcPUyKpvkYnwMuvF7rkTT6Y15FkLKLiSubwpYh2wsgsF4SVdgM9bvMdAfkhEsSnZUZDQuXR9lK-Bl4HQui52bzyxwOfatjxlhn7w5BcMB9GHJNJ3T2lMZ7QJUf660QJDfYmHjHWOfkVFz6N-loH-ZxQ71jIsBcB3pHQVmX2AdIJ04lyKxBQirehauw~7Qf7JNcymLf0YCeGSsIsR0ZA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/c09XdTLpLku2tqHt158NZBgC4hi.jpg",
       "rating": "TV-14",
       "genres": [
         "Comedy",
@@ -1346,7 +1352,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-14T06:38:57.694697+00:00",
+      "last_checked": "2026-03-22T06:42:57.637084+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -1401,7 +1407,7 @@
       "priority": {
         "dad-series": 11
       },
-      "poster": "https://cdn.movieofthenight.com/show/1464/poster/vertical/en/240.jpg?Expires=1799428276&Signature=hiDyyL-JYhWNaQ4O29qdssMu8LsGwgREv7xR9jJhQ2WbDlKIGb9azaJFDKBenPWnZOxd1RnxGFbZN3X9d6nXsNqQZV1Vrh81-6E35sBfbD4RG~htFN8~TdRlvmrCOrCC7~bKwsIvQgZBttNdQJgAwxTPRov-A4YNtEYE1ZR~6kX1CDen4rH4Q538Jts-j2Mg5vR6wbLhwH9cPmjbD979520~Z476i7kdhdIYIRqwT33RNCk5MNEOG1ri3XGw29qh-3jXZlro1G8PdSE~a0~lBXdwzP3WTIRZuqdp6fy6lA~KLHTwS6uO1Z6C7u-CAcTo4HYLT~KnrJLacE0q1Xuw~Q__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
       "rating": "TV-PG",
       "genres": [
         "Action",
@@ -1424,8 +1430,8 @@
           "link": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/"
         }
       },
-      "last_checked": "2026-03-14T06:38:58.635298+00:00",
-      "season_count": 4,
+      "last_checked": "2026-03-22T06:42:59.352026+00:00",
+      "season_count": 3,
       "episode_count": 30
     },
     {
@@ -1472,7 +1478,7 @@
       "priority": {
         "dad-series": 13
       },
-      "poster": "https://cdn.movieofthenight.com/show/19816688/poster/vertical/en/240.jpg?Expires=1789982028&Signature=g9wdS3WaXRzkWXWHGWtvxBqbwwVe7B6ESqcz7-n96s7FZ25uxv6D7cZO79ccNxhaFuqIvGDEuLi2fIf2KwvtRHhOGTBrxSY5J7m69seAE~v41v3ebMebmXclUFhV4dSsn5eNEFWXKZt9Nk8DdgG3YQ5Dwd1xKQBYRyKwPAHNpiLWhwIGNdjWoRordpfmI9RMEE7TouTyy9Ft2QuFyGGC5kaL-yedm2xWDG5zF5UrXD3kYPARBno-oovZFKW9lvkGfDe2Xy1RoS9VtdWaB17jhJtfb9iBCxdGpyIXS3REZ6Vd3g4Udi6otOPQ1YPeSYZYKqOUn5u1ry8dRbHqmQpWBA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/22nh2kTuFpitrqTxxixhWjxEqFa.jpg",
       "rating": "TV-14",
       "genres": [
         "Animation",
@@ -1488,7 +1494,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-14T06:39:00.400701+00:00",
+      "last_checked": "2026-03-22T06:43:00.694292+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -1503,20 +1509,20 @@
       "priority": {
         "dad-series": 14
       },
-      "poster": "https://cdn.movieofthenight.com/show/731/poster/vertical/en/240.jpg?Expires=1801472168&Signature=HE5N5wkfJKhjqNkcnu6~PswAB2WyEUvB3uSGF0V6YiS03hMi4M2OdE9BNOCNizbLTl64f4ai4cnDOGx9Bwm2n6mbuUwWSam8XHm8LtsGcOIyd7ed~MvoaMAt4OQn-fpo9O21HiDgpXY73XYYVuywI1VsC-ojBXPr95mAen1hHJgIcCA59efngyn4UpsjkUjwL-D~xSX4qeywWvPiyk-kLkX-FrlGFL9z9Vd0BXB3o3-h3qnsnZlLzDV4M1isMcyhTCe5OLouMS-gg0Td8F3p0fqyJ0QdTQ9k-iA1viTZEdV7np0kT3Ippm5HTrWXfepLbxiL4u9kd-nJBZaMDCGv5Q__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/nIlAKIrLKxOeoEnc0Urb65yNCp.jpg",
       "rating": "TV-MA",
       "genres": [
         "Action",
         "Adventure",
         "Drama"
       ],
-      "overview": "Starring Sir Patrick Stewart, the series follows Jean-Luc Picard into the next chapter of his life.",
+      "overview": "Sir Patrick Stewart reprises his iconic role as Jean-Luc Picard. The retired admiral enters the next chapter of his life, while dealing with pain from the past.",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV",
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
           "type": "buy",
-          "link": "https://tv.apple.com/us/show/star-trek-picard/umc.cmc.2tqufhly635jf1fnuonxojax",
+          "link": "https://www.amazon.com/gp/video/detail/0MCWNV3907C0ROGYJRAEYCVP1V",
           "quality": "hd"
         },
         "paramount": {
@@ -1524,9 +1530,16 @@
           "serviceName": "Paramount+",
           "type": "subscription",
           "link": "https://www.paramountplus.com/shows/star-trek-picard/"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/star-trek-picard/umc.cmc.2tqufhly635jf1fnuonxojax",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-03-14T06:39:01.304838+00:00",
+      "last_checked": "2026-03-22T06:43:02.136467+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1615,7 +1628,7 @@
       "priority": {
         "dad-series": 17
       },
-      "poster": "https://cdn.movieofthenight.com/show/215/poster/vertical/en/240.jpg?Expires=1798049833&Signature=PNZPNp9PQzKcy99e9mVNeHhtDiwkp0CGbj-Xi7y4nLkbytnJRtEligK9AGRrU~3y8kMsyB~Fhp3~1QrLBMWPn13BXmrhUfXoXQRgZoWgSPvWyr4CLcxJrtdbEn-NAdNrvzF~ZCLZPsmPchDIgBtka1oUv3hkeEMK5oLMmkIx69TCtSadfG0JRtRQzHheMbkfM8Im0qiVYNw7gFyEoCNIj-lfpCjIEEtENywCqf7UZn1iyeGVuhreLGZvAMaZlEVLS6lw8CCnFH2LRWJdfhIM3mGddkzypOg9O-EJsjm95ZWQy2JH0cKPuh9vSTjJofKnnzFzc~xCOh1d0l0d3EYbWw__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/8oCqMlKKomCArVtyOjRzMN6g40Z.jpg",
       "rating": "TV-14",
       "genres": [
         "Comedy",
@@ -1623,6 +1636,13 @@
       ],
       "overview": "NEW GIRL follows five friends as they find their own places in the world.",
       "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0P8RSNTMDGG2TKL8BMA9T3NQTV",
+          "quality": "hd"
+        },
         "peacock": {
           "service": "peacock",
           "serviceName": "Peacock",
@@ -1645,7 +1665,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-14T06:39:04.863953+00:00",
+      "last_checked": "2026-03-22T06:43:03.689875+00:00",
       "season_count": 7,
       "episode_count": 146,
       "watched_seasons": 2
@@ -1693,7 +1713,7 @@
       "priority": {
         "dad-series": 19
       },
-      "poster": "https://cdn.movieofthenight.com/show/607/poster/vertical/en/240.jpg?Expires=1800416638&Signature=JuKrIz74C~gD5qIPPbrvQoxOycyRlk8hEwGAmfzMmwr03acR10y2YqdsOIVpelV-rofO7OXUSAfDz8V5-Ako1UglSoXGr5TUzDPda1e9mDKlt7lv~o9uVJdzflLBVd8D9ss0v2ed8~j~Cv0PxrSMZt4M1oU7MOjHwQITv~XfqaIih~NyCllGyqDSCSOwSIna6WhgyaTu-zztY-yG2S-jpuAi7ft3rS7tlZ55pjLf7IhanZAhOc7LGCVloAtAJxndDozD6Wz~o0eWJbW1DabR2TE6W-OdZip0v8LW2AoSyh6QriK9zyc~giwy9gDz93FNP7vAJjZb3NhovcvX-AHkXg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/3KCAZaKHmoMIN9dHutqaMtubQqD.jpg",
       "rating": "TV-MA",
       "genres": [
         "Drama",
@@ -1702,13 +1722,6 @@
       ],
       "overview": "Fresh out of prison, Shadow Moon meets the enigmatic Mr. Wednesday—and is swept into a gathering storm that will upend the course of his life.",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/B0D96YRJ86",
-          "quality": "hd"
-        },
         "tubi": {
           "service": "tubi",
           "serviceName": "Tubi",
@@ -1722,9 +1735,15 @@
           "type": "buy",
           "link": "https://tv.apple.com/us/show/american-gods/umc.cmc.4o7hf0qe1ezickgfxxeppolqr",
           "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "free",
+          "link": "https://www.amazon.com/gp/video/detail/0IV71FSGNWTHMXMD9ZQY9VA5KD"
         }
       },
-      "last_checked": "2026-03-14T06:39:07.018441+00:00",
+      "last_checked": "2026-03-22T06:43:05.620284+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1739,12 +1758,12 @@
       "priority": {
         "dad-series": 20
       },
-      "poster": "https://cdn.movieofthenight.com/show/22008764/poster/vertical/en/240.jpg?Expires=1804156616&Signature=lFLDrpvwEvjhCQe7pUvGJgETlXLc75Qq-X9KWXc~DjDscv79U5rFwnRN0Am~AfXHdKDK98ARkG930A8d4tE9S4vDT~1S6-~ZvttSAQ8Cgmw8r1IwaG1-sttJctrewQuElbVMzYyy0GjjdnyAEPw55mLlzLLFIZroqZQ5fbYVoBbdB~3jhEGxVrD3rg~1-wo4bI2qKb9eDrpuRaEBJbvOUSnzhIqahPReGr32Rkqyo-YKa-inelFMYMeGI6YFTBAxS~ByiisZNQWablTsuOk0Ul6rw~4PW2VHSHgVwK7xMgxIt9w56jopI3AwQu8eS8oo0zV3DjXtNkPEKL6uUdZ9cA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/ySA5MvhoxTdezNUMe0ifPmhxH4w.jpg",
       "rating": "TV-14",
       "genres": [
         "Comedy"
       ],
-      "overview": "A documentary crew discovers a struggling Midwestern newspaper and the publisher trying to revive.",
+      "overview": "The documentary crew from Dunder Mifflin’s Scranton branch discovers a struggling Midwestern newspaper and the publisher trying to revive it.",
       "streaming": {
         "peacock": {
           "service": "peacock",
@@ -1754,7 +1773,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-14T06:39:08.333345+00:00",
+      "last_checked": "2026-03-22T06:43:08.155529+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -1769,7 +1788,7 @@
       "priority": {
         "dad-series": 21
       },
-      "poster": "https://cdn.movieofthenight.com/show/165/poster/vertical/en/240.jpg?Expires=1800282883&Signature=Pd3y-5Q1H~Lop27pGlmLVk0AUcD6fpBdsWAPjLdo~wk4Rbf-vaC0gyx-sgiDqcPLNihiYeKB4n2Dn8Asjh1Z4-nenBcGPNm9PRdTKCKflp86MCB0mIxasiL55HCHsNWYZ8oPkql3kJyhiJdMFxhgKph5ZwDxLG-XAyn-TVtzqSKIW65D~iWqF-L4nGF6shiy8epdZuw~EnObPPs6LA5V~DzUmN2n4XxvFVUqv6ZjorNGIQOnanaSyYadInW14XAYHrw8aji-OE4Tt~~1I0OaujocMX005S~0WWUdRQx7YVvgeL6uGof4lLbpliaKZMtwJph~xveDBWxEZ9dVf3JDHg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/3KUjDt8XY7w2Ku70UE0SECmv1zP.jpg",
       "rating": "TV-14",
       "genres": [
         "Comedy"
@@ -1798,7 +1817,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-14T06:39:09.356969+00:00",
+      "last_checked": "2026-03-22T06:43:09.577033+00:00",
       "season_count": 6,
       "episode_count": 110
     },
@@ -1813,7 +1832,7 @@
       "priority": {
         "dad-series": 22
       },
-      "poster": "https://cdn.movieofthenight.com/show/87/poster/vertical/en/240.jpg?Expires=1800293610&Signature=IR3bxI6oS4X1SqOQLe0cFu2zENWVjV6huffMEg6oailxKHhXKGskgRfXfJz3wtVlD2GLEFIMTTB13RYvO0nbNOLhxQGw6DG8DG4hLDMNkUcCpU55dCs3HDcWsyWb9Z2HzaDxF0b7Ge6YI6ASdxE1icqnGLttWi~77pKxW-B358YyXn6tzc5awSNdwR7SSAHUR4q9NTl9ZexMz4j9vzwR6oC6S-4fGeL~5gSf49SZ5V8TQpaHpXaGca3BDYs8zc7m4M56ndPjdbr01DFDvaYrAiNfSacIP1kyfzPfCAacwFzIQWW0nrz0mHeQMPkHwHMtbFHoRK8rtDsmKcMPiGBYMg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
       "rating": "TV-MA",
       "genres": [
         "Drama"
@@ -1828,7 +1847,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-14T06:39:10.273433+00:00",
+      "last_checked": "2026-03-22T06:43:11.048719+00:00",
       "season_count": 1,
       "episode_count": 7
     },
@@ -1843,7 +1862,7 @@
       "priority": {
         "dad-series": 23
       },
-      "poster": "https://cdn.movieofthenight.com/show/24734193/poster/vertical/en/240.jpg?Expires=1801610852&Signature=fsrNO~X4IpUIJAINRIgK0cwJxmCvyJRVbJ7ta5s-h0hfwFRwy79BuTgl1iQIZQNxb2f4lQullUYQy5JHyZG6JYOywB2REnJhY1wTkDcbMXXnsRxvcETrd~B4DChwpukwQG6cMklnNGaW21OWFLdUglJKGQSvrdMY221OeAswAq7Ihw8hYwLBqGFYJA-wGT1~IJt3yNYcwngubgeO3B9~r2GCJv~ZrG4ImVDutetwyP0vuVDKGen6DwFNQfjwcOXSEkLzCAPQMYNluVgaNAs4-N-uQGsD0rcALev2VH-AWT1MkYf03tdSKSCGSTWlFf84USOPcAEqRrDOCcwuJvsBbQ__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/htSwFYOyepCbLUUuyCtvC0uCQ3b.jpg",
       "rating": "",
       "genres": [
         "Documentary"
@@ -1855,9 +1874,21 @@
           "serviceName": "HBO Max",
           "type": "subscription",
           "link": "https://play.hbomax.com/show/c967b1a4-d0e2-491e-967e-ae09f88fef62"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://www.amazon.com/gp/video/detail/0IT778CGN4XHSJ1GMSUZ732R1X"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://www.hulu.com/series/mel-brooks:-the-99-year-old-man%21-e5de9538-bfba-4a9a-ad66-faf53ca98fd2"
         }
       },
-      "last_checked": "2026-03-14T06:39:11.538541+00:00",
+      "last_checked": "2026-03-22T06:43:12.378422+00:00",
       "season_count": 1,
       "episode_count": 2
     },
@@ -1872,7 +1903,7 @@
       "priority": {
         "dad-series": 24
       },
-      "poster": "https://cdn.movieofthenight.com/show/1406/poster/vertical/en/240.jpg?Expires=1794931376&Signature=ea7Y7Pl9OMM5Pe73nmGg5S3rrKhfKr6pyhUurYSXL-A5BVf~1QnpTMiMNiw2iNK0hY2yYVhpbKs-WSr5gjTq~hbI4X0og8DiNtlWevolk8p9kaDfG19fzGm39dai8xLjCQ66mUqjNkoocercv5dH6dWVGy0tcg-ybvWl-O1rYkQ~iY8NC-o59NT2qVQ-1yY7vZ68pPCCm-SExiPMOqQQwaBNkfCnKB3sQYGwFag2MJp~ahJDpGE1kpwW8JGTo2fETO1l2MDMLOtxl3cGHjuW9aqVSjwZCl12wGX-Lik4lbTP6yhUbdj-32UbRIYWSCCsjlmOq8G52eXXZ~SyhKMyNg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/dnpatlJrEPiDSn5fzgzvxtiSnMo.jpg",
       "rating": "TV-MA",
       "genres": [
         "Drama",
@@ -1893,9 +1924,15 @@
           "type": "subscription",
           "link": "https://www.peacocktv.com/watch/asset/tv/slow-horses/5875839343771475112",
           "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Apple TV",
+          "type": "subscription",
+          "link": "https://www.amazon.com/gp/video/detail/0MEYJKN34E2DBOY4OY7Z31N4Q4"
         }
       },
-      "last_checked": "2026-03-14T06:39:12.243006+00:00",
+      "last_checked": "2026-03-22T06:43:13.574951+00:00",
       "season_count": 5,
       "episode_count": 30
     },

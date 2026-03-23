@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T06:43:13.810592+00:00",
+  "last_updated": "2026-03-23T07:03:11.155251+00:00",
   "country": "us",
   "items": [
     {
@@ -22,7 +22,7 @@
       ],
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the ...",
       "streaming": {},
-      "last_checked": "2026-03-15T19:53:57.995012+00:00",
+      "last_checked": "2026-03-23T07:02:50.330930+00:00",
       "release_date": "2026-03-20",
       "runtime": 157
     },
@@ -37,7 +37,7 @@
       "priority": {
         "dad-movie": 2
       },
-      "poster": "https://image.tmdb.org/t/p/w300/s2Fkuq0tj7mjAHEdbfQkFkdbeRI.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
       "rating": "",
       "genres": [
         "Action",
@@ -46,7 +46,7 @@
       ],
       "overview": "The Avengers, Wakandans, Fantastic Four, Thunderbolts, and X-Men all fight against Doctor Doom. Plot TBA.",
       "streaming": {},
-      "last_checked": "2026-03-15T19:53:58.893511+00:00",
+      "last_checked": "2026-03-23T07:02:51.114332+00:00",
       "release_date": "2026-12-18"
     },
     {
@@ -70,7 +70,7 @@
       ],
       "overview": "George is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realiz...",
       "streaming": {},
-      "last_checked": "2026-03-15T19:53:59.610719+00:00",
+      "last_checked": "2026-03-23T07:02:51.714118+00:00",
       "release_date": "2026-05-08"
     },
     {
@@ -157,6 +157,29 @@
       "release_date": "1987-04-17"
     },
     {
+      "title": "Dune: Part Three",
+      "year": 2026,
+      "type": "movie",
+      "tmdb_id": "movie/1170608",
+      "lists": [
+        "dad",
+        "mom"
+      ],
+      "priority": {
+        "dad-movie": 6
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/b4wekkUaxExzOeGe7hKXzhnyXHt.jpg",
+      "rating": "",
+      "genres": [
+        "Action",
+        "Science Fiction"
+      ],
+      "overview": "As Emperor, Paul Atreides grapples with the consequences of his rise to power as political conspiracies and a galaxy-spanning holy war threaten the future he alone can foresee.",
+      "streaming": {},
+      "last_checked": "2026-03-23T07:02:52.395896+00:00",
+      "release_date": "2026-12-18"
+    },
+    {
       "title": "Playing By Heart",
       "year": 1998,
       "type": "movie",
@@ -165,7 +188,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 6
+        "dad-movie": 7
       },
       "poster": "https://cdn.movieofthenight.com/show/14578/poster/vertical/en/240.jpg?Expires=1801803247&Signature=eMqplLEnLC71luRb3BJRKp~fM3w~oZVMzP1ogm54PR0AHEZLgJJ8MvkEZXFv3rEzVW958YcIW5Y0MifNpAYwdMPLmuTj6sFr6e4qUrwhLbogROlCuijGx-q-QEZn2-u7XKTC6qjMt9BT0atqIh0NnqVdmjLn4vENjbVk~ZeOimeuZgamFc~Y9WhIfd2gVHl4j1Y3ydRqRPGNLVU--dX59dQM86OuxUCOJxHCEH33R9hCeUkVVojjfUR-41XK2t9QwjkKgtPLzDX~5AUIA~FFdIyfOYQjvgqoLDcc6HUljtgIgDzyTWIvQMabg1Fkcz8Ejit01R1STd76OUoHX-xIJA__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
@@ -198,7 +221,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 7
+        "dad-movie": 8
       },
       "poster": "https://cdn.movieofthenight.com/show/8467/poster/vertical/en/240.jpg?Expires=1801784997&Signature=JBaYFvbDPKVgR6p8HLhV70Ic2pqB-yyHibkPU4zUV6XR3QHhQz0WOE64vS-L~fb76XWpbM0dG~4GYrugJZv5~H9n1uTHPH4yANnqp2y8kBEyyh~0-PGiyeEGGMbJIpCSZPs3U70lKUGLQQEufgl0hk92KMx5NZ4rmar3VPq3-NwTwSLYWDlG9-9TkXinAeU4EbQElFLUdiblcWlIh5-Q1PfMERd-gBehoPfn4j8NLRG5UbNayf-H~H00W51liI4UnIEY38gVUU5Bz7FtIW7dNfb5D0-pbL-Wp2DNwtAgSL90o4WMrLu8y69hbaTvT~Is3-1BT8Nei3TxHO61LoH8Qg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
@@ -230,18 +253,18 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 8
+        "dad-movie": 9
       },
-      "poster": "https://image.tmdb.org/t/p/w300/9JCQtDCSpPR2ld55yNlEg1VwcQo.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/ucQ0QBXXQPSxeUmWfh4YQenIuB9.jpg",
       "rating": "",
       "genres": [
         "Action",
         "Adventure",
         "Fantasy"
       ],
-      "overview": "Four years after the events of Spider-Man: No Way Home, Peter Parker is no more and Spider-Man is at the top of his game keeping New York City safe. Things are going well until an unusual trail of ...",
+      "overview": "Four years have passed since the events of No Way Home, and Peter is now an adult living entirely alone, having voluntarily erased himself from the lives and memories of those he loves. Crime-fight...",
       "streaming": {},
-      "last_checked": "2026-03-15T19:54:00.326668+00:00",
+      "last_checked": "2026-03-23T07:02:53.010700+00:00",
       "release_date": "2026-07-31"
     },
     {
@@ -253,7 +276,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 9
+        "dad-movie": 10
       },
       "poster": "https://cdn.movieofthenight.com/show/9894297/poster/vertical/en/240.jpg?Expires=1801611999&Signature=UP17LhTTfxtJ7n081ELbm4e6K0Ud6kchn9tF6lZEkwwqlzGxG5UVoEnefMzDK6q8v1zPIro9RmfNnKMNdMQMQQ6id1eDcw9q6HVF5pF00nK9V4Enz53vXZzX2HnCzg91wScLg~-qeRWKfkqZS3CSau9Qk4HgHalLKCKd5dG7yjp36-am4uugDvk7I9A7vL3rxr92CHdCLMeWO~CYMKhsGwezeLNuB4cOJAeFHYDIGfWHIAlJQdxvBp-mWnDhMizVXgEUaIhXWRJ4cZQLRZ4bOvyhfaWRWCnZLg~Rb-yUeSvuth342qodO3JsrP3lIeYFUhNyfpNmt1SVXupLE1jKww__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
@@ -293,7 +316,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 10
+        "dad-movie": 11
       },
       "poster": "https://cdn.movieofthenight.com/show/10397/poster/vertical/en/240.jpg?Expires=1800304889&Signature=ivfk3A24YUZQ6FABXzljfwqWkGppGnOK8xEjRD0I3CRTnh~BRFuUsshrlZJ-O8Y-MzW1-HT~VhEaP9h19qnlc9pcjDaCQ1zSHNgFsu4VQLImrBLcBxF2l4s8o8wFUnhYWvH0tIS85GT6teH3tfAESy~0q2UX53pR5HAbUfnTLHs2yFEcUAQwpnDXa3ZlDenOZz-sdYz49hJCjQBbpMAN8g9aTBRsI91iaiDGSOx-EpybDekg~eyd4WSP3iiVsvmTU~KHzRait9TtB4acnGrWbPiv7y7-Iv-yhH58LTfoeuqJda~ZxXxsMjLNrlZVeXZH8dErJWFaegRUOMsLCu7mBA__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG-13",
@@ -332,7 +355,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 11
+        "dad-movie": 12
       },
       "poster": "https://cdn.movieofthenight.com/show/2655/poster/vertical/en/240.jpg?Expires=1800320090&Signature=iLpPf2xqrRLLlt8LDkco7vtCILKLAGl74DuUmNR~FxLz1Hdc5sc6mGDoWFLWYGyJOqAvONKXF3jUpClxcYKzWAlU01TDqHQ52QkvE-lgp5HmAYtMxjtYUBr0B~46mCWdyPjb0GfjkOXUTtfT0ED3W9q0E24Dc4zf7JcbsD7i-GAXgsmuUaWniqAfiIZgg0wMGPtFNnfUKbJibDANHCB8~Vi4qJfanz5a6QcYPLRrKFceM~ExTpCxf1MHwIms~V~hw~P~Gwt6vj1UBrIxJWIQXPhpwN9ZovmJ6E7KHTGBQOL4msryOAagGWKVbyZMwFtnSDMBPcDpZmVNiUPouUFkbg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
@@ -351,7 +374,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-03-15T20:20:32.533462+00:00",
+      "last_checked": "2026-03-23T07:02:53.611180+00:00",
       "runtime": 111,
       "release_date": "1992-09-25"
     },
@@ -364,7 +387,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 12
+        "dad-movie": 13
       },
       "poster": "https://cdn.movieofthenight.com/show/10520/poster/vertical/en/240.jpg?Expires=1801796735&Signature=a5GJCF9mNcPejAqxsjamqoppBFiiPtCqIxoWxNVxTp6heY~abHq6zkis88N4AxxnF6-MtHGbEnHbVdKW8x5hh2~O8otE~JwPiH7hXxB8tIP7CibTmKqahTvmGm2lBkRm3fwwmZiXVvjB-KcpLjzFhkR8F6M6XiXJEdY-W2s9z1n64NBnKxXNxg6qVAkwxwHqdnbZwDfbhAHdAo1NzB4Hdpk843mSxgL8pLiArTu3JEYGKVitv-zf4PIDprLh4Ipx7LYGoNl6HvlLzuzKNeFRLGCgTYjXgRYJU1aM1Pt9Owayzd7Wn3NIWC0XEFF-ylmsSUMR4Q4wzmympiRoJ7e1LQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG-13",
@@ -396,7 +419,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 13
+        "dad-movie": 14
       },
       "poster": "https://cdn.movieofthenight.com/show/825/poster/vertical/en/240.jpg?Expires=1798247227&Signature=KkyrE2XqOPtwfPKGWcMcLmeJK37UHc5Kxl~bVGUscGQoAyizkVgnYOxM08o4u62gAVFXc-I5bT8jLVp8dmOpe42-GGN2Li~n8v4c9AFtxmbBfmVzfN9T5luqXRxBZt3CjnT8bc-1~cpCW8WD-sR7JOdRRDFO-n6EAYArwO6o~pfwFQhC64aL0Hm-2ctZiJG0v2YNpr~E9C3i6CS8bbgoXvaJcR10wsVlmy32AoC9X-z4Zdu5BHhhowPBddpZON1duVfhjAM-dr919WmhSvUKF9n0NdNpk3p9woCtqyGWz57kbVFVA-v4nw1D~k-ULcZZ2ibXix79-ppZiDj9hPW4aQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
@@ -443,7 +466,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 14
+        "dad-movie": 15
       },
       "poster": "https://cdn.movieofthenight.com/show/5998/poster/vertical/en/240.jpg?Expires=1800323048&Signature=PjHGJwBJJrYuksyj1BnGKd2l-dAv7TV0G3EfHZBc7Jy-vNLVP6w8GHqX6tvARzBCyzGYabpORl2akjuTowuW7fXyDXuXCOKLyV9zhWlhJo2ZrqQ28i5HY80FVuhkr2V30sFnhU-p2MQoVcllXpZCFI5zLJj7~0uOTTE1rfTVtUYvP-Zl2ZuOhVnM27HvqD0XKSXqkuD9hxSoBYBpQ5skhiwQbYoacOLBxgic0WkS2h1zs88oFFCH1x2b6r2u7F7GhUAMXJNYTRKL0uq9TGn86oHnmKSedaOztfW~lJh~I-t0l0MX9AzBlWYb28wCAjO3DB4ZuwC42AYY7U-TwqRfAA__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
@@ -476,7 +499,7 @@
         "mom"
       ],
       "priority": {
-        "dad-movie": 15
+        "dad-movie": 16
       },
       "poster": "https://cdn.movieofthenight.com/show/1041/poster/vertical/en/240.jpg?Expires=1800311153&Signature=idxDTkX6Ix-fFkYOJbZNzaaEFkC~YrtuCxiAI3Tp8ghKJNmYvfsaT2VOJLeAsTZW1WVJQWG~Ydle7M1p39tIbnrxWIuH8wuOC6FL756dH15wior3RnWdJdp-2hADfLjhfFYwT4ENa5J-n3vOdmZ47GH-NB3kughqTU0kHk0XlBup06tpJG5tBh2rVnllsLwNXjCY-Fs7Of~7FkgaIcK-e4yeQAprDQHOWjEMx2cKtYIgBjAYnmFbbfiNDOtZZAsPUm70~LMS3qC7aLGDQC1HRpZvblX53JQFBVglhzfDTXppWg~UWRUAF4c4PBw2lhoQqdk6LLArY32yRGm4YLm3xg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
@@ -536,7 +559,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 16
+        "dad-movie": 17
       },
       "poster": "https://cdn.movieofthenight.com/show/5460020/poster/vertical/en/240.jpg?Expires=1800823556&Signature=C1xpYHB~sGfoXz06k7FO71CmReAuo6yIHREtetyEpb8qlDjwGBvw8MCNMI6WolILapk4S8vSYq~gWl4pKf3cjy7FaPZO~qcqVjhYnTehZciU21DLKcA3haBlEbGawzsG7Nv2zJ46pJ6jdoFJV39SNeMIWpa5HhK~b7D1UvYpNBHWy9TNTrEXZRmKdFp8CxZ1AmvQeXbIIa2DpuQvjC7MmwigqCcpczbGucF5r4Z~8MquSzAw6aKEo93DXKgQOwzclClyefKbCHeDOAmArJ-gmj8if5WGToP2uO4mJQgPQg7HfT51shIKZb55T0WIgK-TugclNz7YmJDXSAwpjqNxOQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
@@ -575,7 +598,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 17
+        "dad-movie": 18
       },
       "poster": "https://cdn.movieofthenight.com/show/4794607/poster/vertical/en/240.jpg?Expires=1805537197&Signature=EBPIyz1WM8Tw-htfnQ4BUjQLrweVmMIhh30QKL8Fzu7t4cSqFHYuIve7aadzSa~aHtGGsVeI6HkmjSjerCyeCYqPrzZewRxLZ5Y1QPAq~k0E3OA5lTXyxwjQv-WNnvpveRcTgUcS91KsufDMiCYMTG4WUXuqi2qUSXly67lJU0WGwe~DmBMMiVSBJYWbXKJlroDhaEcpdlMH~RMJPQKmUah8hx0gJxuOI4xiAsV6KXPe~mztRHPd3f1yLDbCZPrn4Z598VwNFdR3ifi6LigOBe-KUiusmQJl~Lw7TYQnGVXHZYLqC3r6gtcr7SI7EJUVSPZjpSgmxgP7GHV4Pm7lCQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
@@ -613,7 +636,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 18
+        "dad-movie": 19
       },
       "poster": "https://cdn.movieofthenight.com/show/17337939/poster/vertical/en/240.jpg?Expires=1795808849&Signature=gsNmyYw9RHH71dr2Fda1tg0QN93Ng948rNfoXI32adbLY4ZnKrsUmMK4p7j7cmjjmHygT817XroVdlTPOgkTRFaUKmAOQYfJdzOA1wOHhtB0ambMf96TqXV~Wqydesn3dct2LPG-t17PborkcGBJXga2NAw7Gzl6~ClHIS8M0Vipcayhmxis-KCIqPQpNME~zqBa2wiXXtzKqG3B7hGmNirI2enxXqPteAiEwZd3JJQkdn~2O0H-KyUv-S6~ZmPePrnSLQjpFeBv4EiIPQVBEn4r0~GcGtBjHww2rTDZ0etyCO5NCmHH6FCGdaKwIddXh1Ua39kr2bosfgmLEiXn3Q__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
@@ -657,7 +680,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 19
+        "dad-movie": 20
       },
       "poster": "https://cdn.movieofthenight.com/show/20054/poster/vertical/en/240.jpg?Expires=1800266319&Signature=hSU6S4vppRu5jaC75pRwBaCznO~r3Rx07974yEMnqgbW8AufHOYhrbdKePiJBPKo44x3OB33hANsygTt6eyaRRT-67HKP01Hu9GzBfsPIg1WvRdNp8VeU2oQY21iM291krzDTVXRwKe0FYt9eezj5LeRW6~8-Ogh5AIUy7Rmd-5jx0xYCW7B7E7RwoPI2Tg6ykxxJ0zKWRh6cru7Kt3rNeRZYy-NpUTtQOMvetQ~P8zg1YX2fsX3uU5MeaqZ0yDQ4~ASAU1KSPqmqbhMxwezB4ks78kL4y4n65dTXMo1Ojnua6I-9Dt6Me0KKI20LvkipAugxY0tDb9OlYCfWw28sg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
@@ -690,7 +713,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 20
+        "dad-movie": 21
       },
       "poster": "https://cdn.movieofthenight.com/show/1208/poster/vertical/en/240.jpg?Expires=1800292554&Signature=ZP6yW~42YVd0bxbl8V0mijsJ78nY1QrgoUudARGL4ACqURzqQ3FNotCQEZwpVN4hd2wG32QXoW-jM3qU53j-ja5oAKpQPlC8PBtOS~deb04t~ISZCh3aAb07ax5JYO6jAUTZUxYjVA-7PiqWceKBEoJI1PlRdaINRHUcgRO5QblG8QmbUMmPhievTkQdbN1~Vg0~ZU6rbpF2vKRPlBUGnwFq13-29Jumrhv-8fOYrm2J5-QmNmPVfE-v4-LjmMBiDCtW7CpvHCkDFBY2I2mXl8E1KcqRBOXJ3up4VjsWTaKB4uMAJHtKUtG3WCxe-mAcFhaOeNSckmq-5D2JFHiLpA__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "NR",
@@ -722,7 +745,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 21
+        "dad-movie": 22
       },
       "poster": "https://cdn.movieofthenight.com/show/30352/poster/vertical/en/240.jpg?Expires=1803885530&Signature=SNRHelEXcS5RJA4fDFKER~Ta6GqrEldV7dAA1K5CHg4eAq~b3efzVkNPocQEl4JT~iUOgRM~zYNzBNIubQ49X2bpAycyXkW9Ui~PnCEkgg5FVzxhFkCA7MUmcxVlddcUzGzxTRL2jqUNxmhPbqbnmZKqrv4vWr7DNCs8T00m01CITYdSgnnNu1W7hTDr8u-dkyV1Y41hymyUh56ynqm3iebz37HV88rQTbIHuw7yhmgNIJbeZYWEE79n3~7Yu0cdttupS3L4ATijKRhp2zZ3rB62kN~keX4xi9rayrM2MhvUdBl7qwoJOA~yQidbl~dDL2qxPOL8R3w-9tCjz2xyRA__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
@@ -769,7 +792,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 22
+        "dad-movie": 23
       },
       "poster": "https://cdn.movieofthenight.com/show/6756359/poster/vertical/en/240.jpg?Expires=1792753550&Signature=NDH2GrGgwTe8M1ggYrQPoEqZCxA3pd6eUEkNImN6nzun~oB243eUbmjTa4VRUdXYb~tqBG4DmySdYgc0nzZt2kHKQbYlI6abNl6il~kmfGQIfiZsdH8nVnSEDaBGFYeDbDHS6JiPbwfmniToEM79wxXHwUcIEmksMDCNhgKzn6Kaugt~1dVdVNnbUCk5BMj7t6RKkOYoAJ2tkRtvOkmycypYinB7W3i2sZs9GajQQjTaIDVJt~AJFjGL8qm-hXPTD1Ks74oiq0cRjifhmHjb5nSBRknTSWlatVs02y9e5IzMXkBffUq1NGQuuF9kiqVE4Ppg-Ql8vMjQPdMEZ~Ng~g__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG-13",
@@ -808,7 +831,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 23
+        "dad-movie": 24
       },
       "poster": "https://image.tmdb.org/t/p/w300/nm2ianYVp7OXElUZVeeAbNTqBLr.jpg",
       "rating": "",
@@ -819,7 +842,7 @@
       ],
       "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world...",
       "streaming": {},
-      "last_checked": "2026-03-15T19:54:01.667996+00:00",
+      "last_checked": "2026-03-23T07:02:54.043598+00:00",
       "release_date": "2026-06-05"
     },
     {
@@ -831,7 +854,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 24
+        "dad-movie": 25
       },
       "poster": "https://cdn.movieofthenight.com/show/1198/poster/vertical/en/240.jpg?Expires=1800307177&Signature=dfX149a9BBdf08Gpf-RbB9czFodpI~oweeeG5rMShhdV3vqYXyXdiWvKKVtzi3Mav9iw7iBc8R1EoyOtuUB9MEYPJvx0~rd1w-iVOrN5ZGbq8ZYod0m7tQ7U~f9Ld~ni3Fxfo0Le8cBzEv4wEnXWq6pEhX6j8Iazg07PC1ZNcs4OuBy-7BETv4hFrpoiAjY2TJpm6vNgHP-ur7cbkSMlmSCgW6LZbDZLgdgrlLNAztaHXSZHMuhWk3WIVhsGzAozU8UHyN0BEY4d8TChX8O5vjW9frQlH2IvnRXzqSuGu3IBXWnKyzYlmHouOngm5emTdbamgokTontW5xqiPxNZ2Q__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
@@ -879,7 +902,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 25
+        "dad-movie": 26
       },
       "poster": "https://cdn.movieofthenight.com/show/5332/poster/vertical/en/240.jpg?Expires=1798310524&Signature=IXDjwOjIcsELaKZYvZfwlPNFQi48JTII5CQWIn1rKinGVuhooS2-oEtPtVb6TMdAF5QfbQxL4zMX7iS0asud9ZyDxo75TbxPZmf83Iz-BuLfz5C5i5RmmfZPAt2etzEqqV~A8qo46v-bPz0cDG-PpGLh8cn0qlNYkedAPyv6NAm3QI4ztQIBcBNkZXGaPTQk0C1OrO9ZTJM4KsRqbVMMUAyns5FK3hJg3HHF07Usi3hMkLi5brB641TIMpdTJBBuaVJuMipVucaj0O2W9uXR~-zxp1DVljw0Y5cT2Ued824L9wqt3OYdoK2b4m8HQnhC58UvT2XVBzsmEj80Ex1waw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG-13",
@@ -919,7 +942,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 26
+        "dad-movie": 27
       },
       "poster": "https://cdn.movieofthenight.com/show/460/poster/vertical/en/240.jpg?Expires=1800280066&Signature=XtmpYs-o~wtjfCLBWBRPESyIp9avc3G~jrd-VEsaEFd4gnFX7aJhz36bnFee4X7Y-MnRz2a~QqQo7XWjnltlSk8CmaXMmNU5RAUCTzwau1-GRBvBc~6NHB3Q84XY8TLZS2ty61EQY8645Oh2EX7n89znfLSKbIPR1rMc~Jj0pS64RJ3GJwj9GBOpPmrjZ8pM2qDU~j~sj3w6tPveCMEt~GFeNRH9i~3j58iFrItaDIrffDKlbD6h4ENR~JfOrvYBj6W5~ijssYrdmOdkn-Jj73TTlUEhS~6sm-RMfji2-DCF--FTZwrb4Dy1j0THDCxT4TzQT0DbH~d~0jPhT4tT1Q__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
@@ -952,7 +975,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 27
+        "dad-movie": 28
       },
       "poster": "https://cdn.movieofthenight.com/show/14625489/poster/vertical/en/240.jpg?Expires=1794932419&Signature=KCp1vlTs3qAB2gM-CtgcSDEpdHCFcFqWd-eduwdAj79RNp7-SOhQ3Vw5YwagVC9hym5FLhEM~q4Orm0RO1t0CkuOQUjOYfNqaWgvvGmpeCl07l02Qv5II7nc3hM2oN6xV3hCLGDeRvBcBr7XdNuZi6rv28fc1vAGOfG-vNYaDmrov9HxDLi~aS8-SdvKigAViDwrn~c54TrfkPDXP0-w82Cgp8kohbfScAJxU--dn~ioKjnnRZWhlSLinvLapOB0vAY-HjfO-zciG3SrjstnATSqa7Cm7CuNpt~LomXeN23GV8YdWnB2MEUHD-4X2Irc06orxVyTu0OI-eL7i2p7pA__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
@@ -983,7 +1006,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 28
+        "dad-movie": 23
       },
       "poster": "https://cdn.movieofthenight.com/show/1689619/poster/vertical/en/240.jpg?Expires=1803183787&Signature=PrhhgWKeScHrgovuDl9ulvTgqPVWObj5Kj7Lw2KN~2sUvnUjGfKqFQZDdPxy7sbw6d3zwidWaY8KAM5EEu32V1cUTragP4OBp4pZbvjwEpnPQ277fj3g7Ok3Vra~2lhV9ExYszvMtx-boajJxwolYz1rgkjkecOGZROsRRExZ2VprgdmRRVbrgUYLoK~sPaJbO-5iCdgu5magU72v-07BFzfiwCyFDE8ucnw35R-hVUXyEqadEedh1hbqsBboF8E-H38jUhjL8TKmiyOBmxErSR~Mf7fpc~-9uTvKT3-coZxnScdZXPEN0D2zUbYPAtnfQwmAWremKatxyPk0gpd8Q__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG-13",
@@ -1023,7 +1046,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 29
+        "dad-movie": 30
       },
       "poster": "https://cdn.movieofthenight.com/show/16889/poster/vertical/en/240.jpg?Expires=1800472668&Signature=ISJfKweCztEcvmvqzkB-~VYYbYCyUlPUPgUYPZRugDtlrFeUZ-XQLq9uPggbKxeEvlKjKsA6dS-Ucu1e7rpvbRd3y69u7ud8-PW4a65qW1VGERcjX~b6hWiCQvLAadp3nAoKSCgise-GK8SEvW9iElCQmtJopdXaJwNW0Ej5D-egG2ZLJN0Ijzs916X54G3ACV-n4F30S~YoiJGP2DKDnydwgZSTsle0azfYiTGIQJhUrqgJK3Woprk2YyJFwwFciFkMaa3BVb3S0gYD0R9oP8W6rxlXsoerJGw0bLTun-K4~e8Ow3LYlQSb4Vc72cBptalAbTF5fCZgf6UvfyGQew__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG-13",
@@ -1054,7 +1077,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 30
+        "dad-movie": 31
       },
       "poster": "https://cdn.movieofthenight.com/show/4744/poster/vertical/en/240.jpg?Expires=1800357889&Signature=hl7xdVopcYG8qoYOj7wqJbl1USRo-o2iBfWwuVn0oAKagJUl6U0SfmOw3wWn-WfljwGYJ2ZDNOnt3X0BwUL-OOe0Qzdv9nUrArw2szc3NYH~LmzLRcClPOdh~McFWEQf2TZqspusv0aXNeuy~OshA-4uWDHhANCaf0woM2MRbbKJ0Jpr4EhiP5bN3R4xS4dyHoqUeXz2qKGaW2aCxHnhcU5Q7r3fxP3OqLUYSnwHqES~HS1LmaQCQZ8HrCNVgV2u-qexm7JhpmAranMrMvc9~xV-eGOICo9YzHed2XsAyc3z9UBVwv07GcBqNdJmpMO5jLBhZByfvcxDkXurW1x5QA__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG-13",
@@ -1103,9 +1126,15 @@
           "type": "subscription",
           "link": "https://tv.apple.com/us/show/severance/umc.cmc.1srk2goyh2q2zdxcx605w8vtx",
           "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Apple TV",
+          "type": "subscription",
+          "link": "https://www.amazon.com/gp/video/detail/0FLPRHXE8OR3CT3LRWZ76EA9GC"
         }
       },
-      "last_checked": "2026-03-15T20:27:32.135722+00:00",
+      "last_checked": "2026-03-23T07:02:55.292699+00:00",
       "season_count": 2,
       "episode_count": 19,
       "watched_seasons": 2
@@ -1138,7 +1167,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-15T20:03:11.939716+00:00",
+      "last_checked": "2026-03-23T07:02:56.763690+00:00",
       "season_count": 5,
       "episode_count": 50,
       "watched_seasons": 5
@@ -1174,7 +1203,8 @@
       },
       "last_checked": "2026-03-22T06:42:51.793343+00:00",
       "season_count": 2,
-      "episode_count": 24
+      "episode_count": 24,
+      "watched_seasons": 1
     },
     {
       "title": "Central Park",
@@ -1253,7 +1283,7 @@
       ],
       "overview": "Scandal forces Charlie Summers home to Tauranga, where he shakes up his mom Gaye's amateur musical with Broadway flair and big gay energy.",
       "streaming": {},
-      "last_checked": "2026-03-15T22:02:16.165987+00:00",
+      "last_checked": "2026-03-23T07:02:58.162406+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -1457,13 +1487,12 @@
       "streaming": {
         "prime": {
           "service": "prime",
-          "serviceName": "prime",
+          "serviceName": "Prime Video",
           "type": "subscription",
-          "link": "",
-          "manual": true
+          "link": "https://www.amazon.com/gp/video/detail/0IV5WXSP5Q7XTPBSY98OT47XVF"
         }
       },
-      "last_checked": "2026-03-15T22:02:17.437329+00:00",
+      "last_checked": "2026-03-23T07:02:59.608956+00:00",
       "season_count": 2,
       "episode_count": 12
     },
@@ -1570,9 +1599,15 @@
           "type": "subscription",
           "link": "https://tv.apple.com/us/show/murderbot/umc.cmc.5owrzntj9v1gpg31wshflud03",
           "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Apple TV",
+          "type": "subscription",
+          "link": "https://www.amazon.com/gp/video/detail/0GGSK0601JM6NFQEFK850Z0U1L"
         }
       },
-      "last_checked": "2026-03-15T19:54:06.122180+00:00",
+      "last_checked": "2026-03-23T07:03:01.833239+00:00",
       "season_count": 1,
       "episode_count": 10,
       "watched_seasons": 1
@@ -1612,7 +1647,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-15T20:20:35.090695+00:00",
+      "last_checked": "2026-03-23T07:03:03.192173+00:00",
       "season_count": 7,
       "episode_count": 136
     },
@@ -1690,6 +1725,13 @@
       ],
       "overview": "Two centuries in the future, a missing person links an asteroid belt detective, the captain of an ice freighter and a diplomat trying to avert a war.",
       "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "subscription",
+          "link": "https://www.amazon.com/gp/video/detail/0OBDSPAICFE4VNWZNFPW2I8TYU",
+          "quality": "uhd"
+        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV",
@@ -1698,7 +1740,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-15T19:54:08.981948+00:00",
+      "last_checked": "2026-03-23T07:03:04.508218+00:00",
       "season_count": 6,
       "episode_count": 62
     },
@@ -1947,14 +1989,14 @@
       "priority": {
         "dad-series": 25
       },
-      "poster": "https://cdn.movieofthenight.com/show/571/poster/vertical/en/240.jpg?Expires=1801789036&Signature=JKRwlbrFFxmuJwIY0xm6~E-3N79tsAv~gLLF6EmnyW5zKNtfdcm46JxXOchVTDB80qFjg9~l1fySkTI~7xc0IthEYp8iemHb1gJbgdaC6MiLe~NDxT921c8pOGU6CkvaONIZ5cCtkncsrs2h~SCSqMwh~STXABsKa~QzKxY8Bb1ZmH3scojgni12sOaTlsErVJmtKUIS05nbq53uiqLulJiWpwYNeqXikC10eH~mNORJUYRYDyCQDMAwd2zkurmqwjuN3Cm4~PGdws2EFzGzR2KHi9gSRrNqskVsbYbfWXLNNHnZF6TWUF5~K4-gLsyw~Wr5Ym2EoL4GjfM0zonmyA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/xhJtYVTsdXQCIlB5hAXkMCPUG9y.jpg",
       "rating": "TV-MA",
       "genres": [
         "Action",
         "Science Fiction",
         "Thriller"
       ],
-      "overview": "Legion focuses on David Haller, a troubled young man who was diagnosed with schizophrenia as a child. Shuffled from one psychiatric institution to the next, in his early 30s, David met and fell in ...",
+      "overview": "Based on the Marvel Comics, the series focuses on David Haller, a powerful mutant.",
       "streaming": {
         "hulu": {
           "service": "hulu",
@@ -1971,7 +2013,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-14T06:39:13.090165+00:00",
+      "last_checked": "2026-03-23T07:03:05.863495+00:00",
       "season_count": 3,
       "episode_count": 27
     },
@@ -1998,13 +2040,13 @@
       "streaming": {
         "prime": {
           "service": "prime",
-          "serviceName": "prime",
+          "serviceName": "Prime Video",
           "type": "subscription",
-          "link": "",
-          "manual": true
+          "link": "https://www.amazon.com/gp/video/detail/0UB2ZI7XTDU5ENEYYH4GR048TQ",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-15T22:02:18.637074+00:00",
+      "last_checked": "2026-03-23T07:03:07.140582+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 1
@@ -2020,7 +2062,7 @@
       "priority": {
         "dad-series": 27
       },
-      "poster": "https://cdn.movieofthenight.com/show/7863914/poster/vertical/en/240.jpg?Expires=1803668987&Signature=MBiZQJNhf7LocqOj1SBkY9MW44dBVxCC-9MwU3HkZXAl1zPNexbLEfdIeOJ1c0Vzv7h5XE27uZ0EB1ZfpN~DiE9U2oW60Fb3u~WKhHUuw5CIK90THG~7OSY4cCQWBez-mGRJfXLCCOVB86dvC2UjMSlOBHfcoPa2Q742ly~WLT-XJhyv~8B19JnsiwlIToIxU9ta6jLqZeRLVYbiM8NH2bJRCUAx5p56QAflNDSUkdCkt-O4jnutEoA7d~HuUC7x8wGjGMqaVXp4lOcMkAggSCMzf98li9XNzRcqQKsV0hDozfym1CdSLNWGWAFVQEFiPiEVLGN4xia~bJL6AcVBnQ__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/pN5qeqDgCG1Pij7KaEBKLkyjn4A.jpg",
       "rating": "TV-MA",
       "genres": [
         "Drama",
@@ -2044,7 +2086,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-15T19:40:30.859064+00:00",
+      "last_checked": "2026-03-23T07:03:08.267809+00:00",
       "season_count": 1,
       "episode_count": 7
     },
@@ -2059,7 +2101,7 @@
       "priority": {
         "dad-series": 28
       },
-      "poster": "https://cdn.movieofthenight.com/show/242/poster/vertical/en/240.jpg?Expires=1800319306&Signature=R1hKSPay2jhDu-n77VYQmiUuQceKYImGEVQVUD~Ke~5BxZYjPf7KHDxshQ1pI~LkMAQxb-ZMrrEaYCejFGkSw07z~3MZorIxZkTCVBCnUxCuETwLehLgbbHpoZB58juzdvrQVOERKpgcs1ZSJtM4Jjo-UUIkUWgpkaGOvJi3VBeouiCp1cXqiEC3nV9E55jK5K1eH2fGgTWhOAKLQbJjIDaSZBD0X77EXtuzmfjAM7p5hqY9D0q7KOCXxH9aBzP3~nGumt5h6XrrmzCSagVHHoYfrnd7E7DEbbsw4qAivUQXdso~9q~V~GAnShQtR3eIVZP5syR05n03olmNfeQNTg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/4Lok3HBSfbQxibQZBygoVCwKKrZ.jpg",
       "rating": "TV-14",
       "genres": [
         "Action",
@@ -2076,7 +2118,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-14T06:39:15.511486+00:00",
+      "last_checked": "2026-03-23T07:03:09.385666+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -2091,14 +2133,21 @@
       "priority": {
         "dad-series": 29
       },
-      "poster": "https://cdn.movieofthenight.com/show/97/poster/vertical/en/240.jpg?Expires=1800297482&Signature=lq-qdt9QhU4l~feK-fg7aNqRfzcvctRsQvnkin8rlQ8uD9U414ohExfWzvm9RfBKonBkEeaYhP03zgdCqMIQlaehH1rk3ZV8CipGW3G75I0LDH5Ono~juHymwaLdeVAu8ebHBePUzOLDuEvqbhctg5LhbPyBsMx4K22sucS7KHSK0aD-pjsIj-pulGvRoEQFDsFi1xj9Y9OoWKTri76YV8azRPIQmwpUOOoYkMHx~Xa6HqKbVlWnU2FFHwSuDfDKwDCXkNx83jNwdXTTKCO3xfu9pMAnt1s699fECUDZX4PMEWIN7QSqykh7djpZS244LY83DPpUJpClACoFd-TxHw__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
       "rating": "TV-PG",
       "genres": [
         "Comedy",
         "Romance"
       ],
-      "overview": "An honest, often hilarious window into the everyday life of a 21st-century American family -- gay, straight, multicultural and multigenerational.",
+      "overview": "Today's American families come in all shapes and sizes. The cookie cutter mold of man + wife + 2.5 kids is a thing of the past, as it becomes quickly apparent in the bird's eye view of ABC's half-h...",
       "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0IV5WZ6TUSCYEZLQCQFKSN3Z8B",
+          "quality": "hd"
+        },
         "hulu": {
           "service": "hulu",
           "serviceName": "Hulu",
@@ -2114,7 +2163,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-15T19:40:32.351341+00:00",
+      "last_checked": "2026-03-23T07:03:10.954056+00:00",
       "season_count": 11,
       "episode_count": 250
     },

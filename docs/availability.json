@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T07:03:11.155251+00:00",
+  "last_updated": "2026-03-24T06:57:58.592615+00:00",
   "country": "us",
   "items": [
     {
@@ -1095,7 +1095,7 @@
           "manual": true
         }
       },
-      "last_checked": "2026-03-16T15:59:49.062804+00:00",
+      "last_checked": "2026-03-24T06:57:31.227392+00:00",
       "runtime": 160,
       "release_date": "2025-09-05"
     },
@@ -1210,6 +1210,7 @@
       "title": "Central Park",
       "year": 2020,
       "type": "series",
+      "tmdb_id": "tv/98198",
       "lists": [
         "dad",
         "mom"
@@ -1219,18 +1220,21 @@
       },
       "poster": "https://image.tmdb.org/t/p/w300/ckmEgQdbSAw0jiJFJT1a1W1LEFy.jpg",
       "rating": "TV-14",
-      "genres": [],
-      "overview": "Owen Tillerman and his family live an unconventional life in New York's bustling Central Park, which Owen manages. Now, they'll have to fend off a wealthy hotel heiress who wants to turn the park i...",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "overview": "In this animated musical comedy, Owen Tillerman and his family live an unconventional life in New York's bustling Central Park, which Owen manages. Now, they'll have to fend off a wealthy hotel hei...",
       "streaming": {
         "apple": {
           "service": "apple",
-          "serviceName": "apple",
+          "serviceName": "Apple TV",
           "type": "subscription",
-          "link": "",
-          "manual": true
+          "link": "https://tv.apple.com/us/show/central-park/umc.cmc.4qe3i11erof30x0vz8nwnjkw3",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-16T18:41:14.450359+00:00",
+      "last_checked": "2026-03-24T06:57:33.875550+00:00",
       "season_count": 3,
       "episode_count": 39,
       "watched_seasons": 2
@@ -1421,7 +1425,7 @@
           "link": "https://www.amazon.com/gp/video/detail/0IDYU6IGI0EZVDVLJ2DQWTT5Z6"
         }
       },
-      "last_checked": "2026-03-17T06:57:18.176465+00:00",
+      "last_checked": "2026-03-24T06:57:36.544594+00:00",
       "season_count": 3,
       "episode_count": 33,
       "watched_seasons": 2
@@ -2191,9 +2195,15 @@
           "type": "subscription",
           "link": "https://tv.apple.com/us/show/bad-monkey/umc.cmc.2qoep59s6qukjonprttysfs8x",
           "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Apple TV",
+          "type": "subscription",
+          "link": "https://www.amazon.com/gp/video/detail/0GT17MJKEIECVM1FQXNI6YVFWM"
         }
       },
-      "last_checked": "2026-03-15T19:54:10.384442+00:00",
+      "last_checked": "2026-03-24T06:57:39.404971+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2205,9 +2215,7 @@
       "lists": [
         "mom"
       ],
-      "priority": {
-        "dad-series": 30
-      },
+      "priority": {},
       "poster": "https://image.tmdb.org/t/p/w300/ipiqT5uHeJudWy9ICSvuCby7NeI.jpg",
       "rating": "TV-MA",
       "genres": [
@@ -2217,13 +2225,13 @@
       "streaming": {
         "prime": {
           "service": "prime",
-          "serviceName": "prime",
+          "serviceName": "Prime Video",
           "type": "subscription",
-          "link": "",
-          "manual": true
+          "link": "https://www.amazon.com/gp/video/detail/0PHVBBBNLOS0UDCDQH3FI3YSL4",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-15T22:02:19.979938+00:00",
+      "last_checked": "2026-03-24T06:57:41.400100+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -2238,7 +2246,7 @@
       "priority": {
         "family-movie": 1
       },
-      "poster": "https://image.tmdb.org/t/p/w300/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/791/poster/vertical/en/240.jpg?Expires=1800323256&Signature=g4CGAA-liBrpAkkzDLBfxO9CSlEW7XhMVNP5fvbKDTVXsj~EoB5bydSH-e39v5rK95iblLHzPBNFriG3hcMt2xNTTLp13H1hpsI3hdkmc1n314OUYqJ~aNqvCTRc2I~hdYUoRkiSB~yWxYXpoliNXMT7lUlxaoY-Pyzl8uAMkgIQyMKlRAeQuBRgnN6GjD5Q9v9zB-z9fEUrFLN1jHBII9ZmIz6R1pnISgb7GMU~Zko2tWhvrNGVZ7W3anjR~MF8anUAFSmnClTN4b5opDmhvGbRQDgEJ7OxV-H~8M2dkZ4N6QUlumMhXb8E4n642aHCsy97ck7yeuq9gpgZdW12Cw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -2261,9 +2269,17 @@
           "type": "subscription",
           "link": "https://www.disneyplus.com/browse/entity-bea6a183-8ed3-4c07-af03-027dc03c1c14",
           "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0T4D2BTFT2LVL52U47EYZHBCRU/ref=atv_dp",
+          "quality": "hd",
+          "price": "6.99 USD"
         }
       },
-      "last_checked": "2026-03-17T06:57:19.907577+00:00",
+      "last_checked": "2026-03-24T06:57:42.454110+00:00",
       "runtime": 93,
       "release_date": "1987-10-09"
     },
@@ -2278,7 +2294,7 @@
       "priority": {
         "family-movie": 2
       },
-      "poster": "https://image.tmdb.org/t/p/w300/zxaCHxKDFNi6frh1Q0dj19L216o.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/6367/poster/vertical/en/240.jpg?Expires=1800378650&Signature=c5NwwB8Sjn0nsVqtK3jiYoiB1XfXjG9s65r1DEYFG1wm2iTA3fwuFlDEfE11NG17D61JEkoB1kBCRXdsCUZsl2fD~uTDOXkkC1njWQBrUJepFOVRhn0NZF3i-1jt82Ed~Ww8Zhr7YoCkbUW4UIRG-76nskoeTk6aI40wiPOAGIX1aY9LSv5NtsIFoTquFMb~6~4ZURGwA7mbzOfsz0MW8EHOWQS7g0FTZ8YgJadHeNMLWGPW5zb7TMuNxpQtpo4gXk-uZdvH3zCN6eBAht-4JPsbfVaWgureK2599vr5fMPcb35J4z2VZorLTERrGxpXq65fwWRpBxlCTppqYpbGxw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Comedy",
@@ -2302,7 +2318,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-17T06:57:21.554144+00:00",
+      "last_checked": "2026-03-24T06:57:43.250964+00:00",
       "runtime": 104,
       "release_date": "1992-10-02"
     },
@@ -2317,14 +2333,14 @@
       "priority": {
         "family-movie": 3
       },
-      "poster": "https://image.tmdb.org/t/p/w300/plzgQAXIEHm4Y92ktxU6fedUc0x.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/10225/poster/vertical/en/240.jpg?Expires=1801661731&Signature=WMTXNY-FNCIf0OD7Qx10L30tNkIp4gh7T-c0oDt8O5lEg2mWKO3CXllBFEA-jgISo3SI0SDG~Z18Jva5pgWd3qXVhqu7kEvIiAhAXYWvsIVmyBvuM8a0cOeaBS6WQsVYYQB1s7J-Kk0KvxcyZWMcSLPuAG5MwSEKt3ZcQ9SmBABY5vufUAHLGpxg6PklY6FV6m-J3pJeKGOcLtoNnWwnurnqIAaR6s-1j3KainqwAvdUtsBaZ1u1~S0V4QxhsFzbxsD0egIWPPWgwG6IDsqgNQhAiF4tTYUqyMfehjlAC0NvEFv0a-aJxM-j~IJodqpPBcnPLEC4HDF1jH04zVKsPw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
         "Animation",
         "Comedy"
       ],
-      "overview": "Things go hilariously awry when Barney, a socially awkward middle-schooler, receives a malfunctioning, digitally connected device that’s supposed to be his “best friend out of the box.” In this act...",
+      "overview": "The story of a middle-schooler and his “best friend out of the box” robot.",
       "streaming": {
         "apple": {
           "service": "apple",
@@ -2340,9 +2356,17 @@
           "type": "subscription",
           "link": "https://www.disneyplus.com/browse/entity-46e6268f-beb7-496c-86ef-9af4980d62c7",
           "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0M7LUXB0DEQU6O21LZ0WTWJX07/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-17T06:57:23.004493+00:00",
+      "last_checked": "2026-03-24T06:57:44.088028+00:00",
       "runtime": 107,
       "release_date": "2021-10-22"
     },
@@ -2357,7 +2381,7 @@
       "priority": {
         "family-movie": 4
       },
-      "poster": "https://image.tmdb.org/t/p/w300/4GrECLKaJhYA6ooSTOG0XEuPnSl.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/19787/poster/vertical/en/240.jpg?Expires=1800292016&Signature=DohBfxI8i75D7KAk00Aul453JxgAZXPN56UTGhSfvLGXTXpgw4z6cJ2DplZC7b5FYzAny139OYwKdndVfO-5hs3oWcEdVcU-PKaImBZTwwEhwEcMNeSNV8lr1n~vNLT7EnZXUCgZbrKxKeEl8ppwhOHrOra7KPFrI7rLPiZWyAkm4Fn7EaloZDAggoTK4VkOX0vl-wG3yHRA2zu7YugeAcY0AdQ6wcZS00Cv-z2hfJmefrFZHfLtDjcf3RfLxv0K~fkdlsP0TOf~34hDpYOAblJ7S3t0a-cpAbRgj4yFooCrmAV7b72Hrup3yMXgVsNvAuUqWLyg7kocxS8NKE~Ilg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "NR",
       "genres": [
         "Adventure",
@@ -2374,7 +2398,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-17T06:57:24.553972+00:00",
+      "last_checked": "2026-03-24T06:57:44.850606+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -2389,7 +2413,7 @@
       "priority": {
         "family-movie": 5
       },
-      "poster": "https://image.tmdb.org/t/p/w300/ga8R3OiOMMgSvZ4cOj8x7prUNYZ.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/15873/poster/vertical/en/240.jpg?Expires=1800405588&Signature=ivh0C~M64mA-BW1Gu3WKInZkOoXLVUuDBeCoyb0jLMIGf5FICDRDXdaS7d6QUk2jol4SrBd4w-49VkAE7vEfZ68xy3GV6yHfDAZdIksZ5rxeyfig8vbOKN8wJisosWl315M9Xiux9xHaNJ7IJNw~hOLHy1se3nUbXjTwjjALUvmc2Z94RtC1FtpKj5Ocf~QWBQukzcoro5LGnEboiwMMC7WGFKiw-0qK7HQu22xbIQ0S4SL9ROrcowdHH9Fjdwvudu3wOVSZkQ-mzN77s4LeW3WJmjTUVwh83Zh11j8X6KAVf-kwGq4aWbxgIgDccKeroHEav8u3PnGzWe4OyztBdg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Comedy",
@@ -2405,7 +2429,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-17T06:57:26.248942+00:00",
+      "last_checked": "2026-03-24T06:57:45.600918+00:00",
       "runtime": 122,
       "release_date": "2022-12-09"
     },
@@ -2452,7 +2476,7 @@
       "priority": {
         "family-movie": 7
       },
-      "poster": "https://image.tmdb.org/t/p/w300/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/172/poster/vertical/en/240.jpg?Expires=1801611732&Signature=AQ1PIFj3H9-dIi3~2kBWp~sUIKYXwoUAjZCswMilnXuN-hjAZmp~cuoy1l01J7TqcpzsyVsdFRxOTRT1yjYQbdZIB5Rph9He5G0B8eoDEH5ukmJlx9-HIk8NoFE2eRqy~exIcc7BysVpoYM8RcnA6S7xuTp2GA8j5hCvXi2Yu4qdiyD~CbnuymxrrLCS4-fKW2Vs-VlEtx6-jYyCEB~x0T6XSZCTJWqQL80pQj7Exz7lQCX22j3XqRBUo0Vwc22jNmoMPpioatHE48f12B611RbJfqvyVdHhnKMtzLiO9Kf~KNh5EzbOH23ZAS2QpGHuM~FyR6xjbV0altG6QWulzg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -2475,9 +2499,17 @@
           "link": "https://tv.apple.com/us/movie/up/umc.cmc.7hyl1e1p1ihe8aiij3fzjwwyc?playableId=tvs.sbd.9001%3A322447599",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0KIU948OY9VO8VMM4DJ5GFL95J/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-17T06:57:29.102393+00:00",
+      "last_checked": "2026-03-24T06:57:46.353080+00:00",
       "runtime": 96,
       "release_date": "2009-05-29"
     },
@@ -2492,7 +2524,7 @@
       "priority": {
         "family-movie": 8
       },
-      "poster": "https://image.tmdb.org/t/p/w300/xwgy305K6qDs3D20xUO4OZu1HPY.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/3688/poster/vertical/en/240.jpg?Expires=1801611616&Signature=V5G1H~022NY-Elo3gXFdv-dUCWBwlsONJUv65Z-FIVPUExv7SViyF4z1BT9uHAASGvn1SNiZzHerbjowdM90bXn-QtnCDINidp2MmzWjPU87lbiSIhIL3o1Cd~PunXuhzIlnrcd1T5fhfSPGB-5KpK9-X95VVvSaou6eBQ-FdffTCAtoOVejXVe898fx6qROZ~YZf663ZkHtUevKun82l4~jMdKZVIdqYaSev2vTn450rM8NUkqpHspPt6yBRWBOa8NwNPpyledVAMYcS9cDtyopqc7O~o0kb~lXUJZFPp00aa0occZ3ItV2xp3NgF~guarJ4TfuTDklapo7ksWuKw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -2517,7 +2549,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-17T06:57:30.799641+00:00",
+      "last_checked": "2026-03-24T06:57:47.203916+00:00",
       "runtime": 97,
       "release_date": "2014-12-19"
     },
@@ -2532,7 +2564,7 @@
       "priority": {
         "family-movie": 9
       },
-      "poster": "https://image.tmdb.org/t/p/w300/7z8jDiTZZco9moIKpTUImFtTy7o.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/14625585/poster/vertical/en/240.jpg?Expires=1803179801&Signature=OVgLRisS6XfAn60JZylUZ3AWhjprqC885TbNbG8xqVaNhySmdEIjXfFEZFLvqqsWtyx0CQhjIArJlHgcg4mF~PGSt62MVR4q7fba11shSrOJ2aHWSUnITD0Xdid6EexSFSwkE2pUAz-ncSq2C5qUNhl2ak3AvDxJN6VKLFxVdfRmSWb40ev4vB~m-~xTcrN727LbWxKfMZ6lyUc1atplV9q86Zenz5txIW5zORw9cFDnjsP82d7y98CV37KrSXnC3awDzS80MdRiAXRIhWhDBWNfLTRbJ4KBqc0vzYcW2nTQcaxteHtHGJ2zY99LqHTWr6tJxuKcTy-DlLhh02F6Lw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -2541,6 +2573,14 @@
       ],
       "overview": "In this fun-filled, action-packed cosmic misadventure, Elio, a space fanatic with an active imagination, is beamed up to an interplanetary organization with members from galaxies far and wide. Mist...",
       "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0O7NE3VI07XP9B35NDN2HXZS7Q/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        },
         "disney": {
           "service": "disney",
           "serviceName": "Disney+",
@@ -2549,7 +2589,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-17T06:57:32.539942+00:00",
+      "last_checked": "2026-03-24T06:57:47.960074+00:00",
       "runtime": 102,
       "release_date": "2025-06-20"
     },
@@ -2564,7 +2604,7 @@
       "priority": {
         "family-movie": 10
       },
-      "poster": "https://image.tmdb.org/t/p/w300/ntgKdekb7xMKscyh2Hei706LBLf.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/21714/poster/vertical/en/240.jpg?Expires=1800267488&Signature=gdBBtDbI9xk1inNEWkuZXNfzaYh6cnS7dHT7-3-NzKUvppHC1ISz44DTEhzOka~rsmg~j00~zfO09Uz87fELlPpK5SqGEclr~464-tZ8P6VuGc0jZlXP2IgeLjhMNZf8ksoVgPWQOnNP9qUuDUk2AifUZaIho0wBw7XeQbLMckvrzsqzHPq70AUbd3fgiOieNnXNx10-jQqvj6f4JEzdO3Et~0bcF-Lnin7MGtoegu8vBlLNX6vnvZWyC6JAqY~Vl33dNEQPKq~LF1s47vB8ZnxA2O95etxLQmFAeuisEcP71vaifufPrgAbvpXPnSMjnr1rE9KCRc06czL3kjNKEQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "NR",
       "genres": [
         "Adventure",
@@ -2581,7 +2621,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-17T06:57:34.245319+00:00",
+      "last_checked": "2026-03-24T06:57:48.769357+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -2596,7 +2636,7 @@
       "priority": {
         "family-movie": 11
       },
-      "poster": "https://image.tmdb.org/t/p/w300/4dSrwXJNKtMtlkwJPgZMkjjuHvD.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/9682322/poster/vertical/en/240.jpg?Expires=1798388323&Signature=i7gSFZCZd9cnzcoC9e-KgHyZf9KzOV0jIikwfXV6aI1NLq7xhy1Y~Vy8rE4hQRY5DDTHeGbNgxtQ5zjMhdNoxxfnXiXXRBNM-JMs4ZXNCduLxBR3edEp0cyDw8WmZTeAdj-1OWVoM9RwUOCQWHUEY9-Wbaj-NMA5mfdgyidNU17UeGu3kXBWq8z8PvomSS0BjzdMtuvB~0Gmc0Yo3uOv1dzGpoju-9YlT1q9WCQlCQokCDjm4tZr1xILqh6ajBGdn-ojPtS2QgAgFvhWfd333sOFRlHBj3fX1RGS-ig1MnO7PA4k9LJ0LQm7jcCS-8LpQcBQlmUH9u7zbrzfv7lMdw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -2613,7 +2653,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-17T06:57:35.748273+00:00",
+      "last_checked": "2026-03-24T06:57:49.529402+00:00",
       "runtime": 110,
       "release_date": "2024-11-11"
     },
@@ -2628,7 +2668,7 @@
       "priority": {
         "family-movie": 12
       },
-      "poster": "https://image.tmdb.org/t/p/w300/rdFgWATSVhhFtNYZUFsGcHzltcG.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/8396/poster/vertical/en/240.jpg?Expires=1800362537&Signature=Jj8-zjcQLUP-5nAKRTYV2-xiHWMRRSVaTREJKJSrKsUI1I~DWMS4L~bF673UgQNSidKAWHmDpYZqvh6hPLN6HHPYd0oALBpQOKS0DuUqxjT3TH6KrayLg-OILfm7ePWYhPM-L87Y2iAJzgv9ylA1H0nBnHTTP0~x3J~~Xopmui69Ni58rwqtsrVFlZmxKKU63IlEgRQ26N8qoO3aquvnmXHZibyIvZzX9gWvUFvEzlWx1onmGGV-ccMh9o46IxzZN75U3rcdDhrPcLHYHm02Z36WVbQRtg1vrLee0uhg4SR1E669hRPjt6pDGcmw-NlnR7qKs6USnVhR9Djsf5yJog__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "G",
       "genres": [
         "Comedy",
@@ -2637,7 +2677,7 @@
       ],
       "overview": "Molly Mahoney is the awkward and insecure manager of Mr. Magorium's Wonder Emporium, the strangest, most fantastic, most wonderful toy store in the world. But when Mr. Magorium, the 243 year-old ec...",
       "streaming": {},
-      "last_checked": "2026-03-17T06:57:36.896215+00:00",
+      "last_checked": "2026-03-24T06:57:50.279230+00:00",
       "runtime": 93,
       "release_date": "2007-11-16"
     },
@@ -2652,7 +2692,7 @@
       "priority": {
         "family-movie": 13
       },
-      "poster": "https://image.tmdb.org/t/p/w300/8wVmU4JziUSM3cEF4JHHG8pt426.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/16604/poster/vertical/en/240.jpg?Expires=1800336960&Signature=YeytYJQ~RDUQDw8Pqixi7Nv4p6J7w~xwuLAdYwtNnsGrlmUGopDSa9JggXcwAP5I2lTcu18AbVbjgnSmKsUm9RzSuJ8HJaAvEK-kpj9QRVK9zlP~kIM7mjPFGFw0H7FR1Xb9fi~CXK5z8aJdntiZ2LNjwIdgA4AgNdBUV-gtI1bPsGpJLnpTyg7VG~B3r-WP~QIzw8dhI~orfbRhL0ZukzpTNg7fzjWkVEIyud6IDPAMzLBGAIfhEU9wgCpwUmPShPr92WnYovAbHlFTdQpW91pj7DWPbmYJSdbOyMZDNudGmdpnRtnPVmcNt-tDiT0MgIWfWPUD2KTVxyEu~Br9jQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "G",
       "genres": [
         "Adventure",
@@ -2685,7 +2725,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-17T06:57:38.138528+00:00",
+      "last_checked": "2026-03-24T06:57:51.104286+00:00",
       "runtime": 98,
       "release_date": "1981-06-26"
     },
@@ -2700,7 +2740,7 @@
       "priority": {
         "family-movie": 14
       },
-      "poster": "https://image.tmdb.org/t/p/w300/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/1060/poster/vertical/en/240.jpg?Expires=1800309481&Signature=b-OwFZw65fWxfCyRk-Su7zI1-1uIKL3yFL606XELprc~qeYiDtzUHh2POdz8mAQYH6tF78v5XTdLUHB6~zZq4gaxQe5FA2R5PuCHUIKVuL1-jke4mlPC7Di4t8UCJwtkkX9MHuimbdqVxiGAv2-56qE~bLrnbpehYl~sD4BJUme5ATROOSK1X9IJ1vs7CcnVs6S83obL~4lviaLvDvGsfoXZn3GPOKHGsjE1YyTQX75HgwvCqF7qT4jpegMoJ9QYGfZKW0x6m0iYw9t9L8iOxhg4LA5nQO1X3xCKHMjxTheGUrgK9g6AYOS0AI4xNYIca6Pbnx-VFvalkBxcILAYbw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG-13",
       "genres": [
         "Action",
@@ -2723,9 +2763,17 @@
           "type": "subscription",
           "link": "https://www.disneyplus.com/browse/entity-791bc772-d930-40c9-83ec-5ef85923573e",
           "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0FSEHO8AO4JCQ58Y4IUU3PMCA9/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-17T06:57:39.875271+00:00",
+      "last_checked": "2026-03-24T06:57:51.932643+00:00",
       "runtime": 134,
       "release_date": "2018-05-25"
     },
@@ -2740,7 +2788,7 @@
       "priority": {
         "family-movie": 15
       },
-      "poster": "https://image.tmdb.org/t/p/w300/20djTLqppfBx5WYA67Y300S6aPD.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/9369/poster/vertical/en/240.jpg?Expires=1800477710&Signature=DKQ4BzB4EpORNvQtO7IZ5MSPnj~Cs6IVX7LMG0-HiZcppfbA5dzs9uLn5Uc7AJVu3sT1RvuqLcQeUfNfRCQHZiJY~Bu84SZxDVJR0yCo3BW1NXwinS2TdHOWK1CNS4IBtSOrPjAOKTuZ~wu2o5BaSTt6HSIwr3IIwKL3WLIkqkaqTNczjzTRVFn8HBoGSL3mmzLVViWrpS1gmzeyoY8jbn9cuk5pAGFGhQcOgIV2q8iHrI7zWIOsA7roaXneCCFsdqRZPgYJXVfwy931Bu9IT~ta6qIfIYVjRmcGrTQdWYOeoKp4XzKVFdiAbiqE5AS5ueCaZVUOW4qmhisiPLopvg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -2766,7 +2814,7 @@
           "price": "3.79 USD"
         }
       },
-      "last_checked": "2026-03-17T06:57:41.589485+00:00",
+      "last_checked": "2026-03-24T06:57:52.808400+00:00",
       "runtime": 97,
       "release_date": "2019-09-27"
     },
@@ -2781,7 +2829,7 @@
       "priority": {
         "family-movie": 16
       },
-      "poster": "https://image.tmdb.org/t/p/w300/o2Dm2mcE1qW8vT0bpsJO5OMBbqa.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/4987/poster/vertical/en/240.jpg?Expires=1798310352&Signature=BI-7xn8mDgJHnBtZ2fsjSriR61uPBbvXR~700FyHENKHlTqJII2fyjovqGmsA8fJchVQjV68OmlAdOmYnHBjgN015Gya0IOfMEGFbtvjqbOKg2BMhcsRcBqO4a7UAdcZ0Xw3KsGjf7BCNOhVcHmsqRPgW71C64kW3~Yx4YgpaeOEyXB7NVdukILsuWZaf0B2Wiy38E-HCBQJSCZZ~cDF5LzQLn1QYGH2WpqN0cr~xz6Mftfpa9fT~vDaj~IBCwLdJCja-y-N1UPYaN4Ne2u7C18KmtgoMMiQPdSZOzElaR8KHJ8QS-UDcNKISQ3xNsJLGiKicmC-Xzn1O2mnVner8A__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -2796,9 +2844,17 @@
           "type": "subscription",
           "link": "https://www.disneyplus.com/browse/entity-ecc93033-1f5a-4832-8845-458561c3d21e",
           "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0QX4QE1CG8MO5AND9K892CU3E1/ref=atv_dp",
+          "quality": "hd",
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-17T06:57:43.346532+00:00",
+      "last_checked": "2026-03-24T06:57:53.641463+00:00",
       "runtime": 118,
       "release_date": "2003-04-18"
     },
@@ -2813,7 +2869,7 @@
       "priority": {
         "family-movie": 17
       },
-      "poster": "https://image.tmdb.org/t/p/w300/zME0Ul0w48MKkYBnFRn40M5qgLh.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/8947213/poster/vertical/en/240.jpg?Expires=1802994400&Signature=bFTcZtW7Mxt9OfxMQ4Hj5LbEjVe7xUnR-xFjFNzhhDzxIWldeG5Y2PQRcl4tRTwI9d9xC8Y-wjVfxcQAbHFTIeiWJ6CAE-1PLA30d0oqkuZTvqflrZwodM5TWvN4YL5R0Vmp6m19PUzoHeNeBzN97idEMK2H75bcPicZng0G9LDJUdhJt3Su8bLJZaRV7HJ9hY1PLp1nrDpJeAonUycTZRDB465D52lZOaSx9NdFnCKqR9G95whOaKTwqmiyZehNqv82v~P5SzhZNXHYykdHibGFJxkfhCQCTqqHBTJimRefVbGbFa1q5UxhCOQV5AwcIna72Y5GBZznlR5QgN1yGA__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -2822,6 +2878,14 @@
       ],
       "overview": "Following an intrepid cat on a heart-stopping journey through an animated world of wonder and peril, Gints Zilbalodis’s Oscar®-winner is a moving ode to friendship. With delightfully expressive ani...",
       "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0O4ID4HQRWTX3ANR58042XXJY7/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        },
         "hbo": {
           "service": "hbo",
           "serviceName": "HBO Max",
@@ -2835,7 +2899,7 @@
           "link": "https://www.hulu.com/movie/flow-b5122d3b-bc80-45df-972c-a05828d9a4df"
         }
       },
-      "last_checked": "2026-03-17T06:57:44.974258+00:00",
+      "last_checked": "2026-03-24T06:57:54.467271+00:00",
       "runtime": 85,
       "release_date": "2024-12-06"
     },
@@ -2850,7 +2914,7 @@
       "priority": {
         "family-movie": 18
       },
-      "poster": "https://image.tmdb.org/t/p/w300/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/208/poster/vertical/en/240.jpg?Expires=1800305459&Signature=KHVAyTucjJwIbQ9aD7KPb7A5UlPHw7mT3YUeLziS3Fom~ke90VL74Kkop28WD84MOVpn4VjXRUIi2H917duEhEmSD-B9bhK09Jav31wW9W3KznGzSjDJK1XR7nBcFC42iW0qqeDawXc9HAlVipvJS-9oK0iNn5jv7cuajrQan-LcWHuAKK2W2cbESgr1~Dy6vEUCwTK509eFTKnd6mCvvU5m65YA4fru6NDqz98OK8jN18Yg2uJaRzCOhJUhlJ36afCglyahYgzQIUFJmlyArMBXJimoZpYZsf5y93v6GWXJ6MQiRU0~a-dQGNrwYcztJXgbf4qT~CJ~RORTctqgOA__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG-13",
       "genres": [
         "Action",
@@ -2873,9 +2937,17 @@
           "link": "https://tv.apple.com/us/movie/star-wars-the-force-awakens/umc.cmc.61i3yveu7xby4chfkqved19ka?playableId=tvs.sbd.9001%3A1063466898",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0NHIR4TKVN1YFCJ45N6LBOC1NV/ref=atv_dp",
+          "quality": "uhd",
+          "price": "5.66 USD"
         }
       },
-      "last_checked": "2026-03-17T06:57:46.340431+00:00",
+      "last_checked": "2026-03-24T06:57:55.361785+00:00",
       "runtime": 136,
       "release_date": "2015-12-18"
     },
@@ -2890,7 +2962,7 @@
       "priority": {
         "family-movie": 19
       },
-      "poster": "https://image.tmdb.org/t/p/w300/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/440/poster/vertical/en/240.jpg?Expires=1800301293&Signature=NKGr3cKVlZ6E5pKzWvoLGEEm2rnT2845Nus4mXJwXkaTqf~b~tYWRp44-rfMecCcoVSyNzJRVZFBmX9U5ZCc4nq9vYUJdiMnLrxz5nVS0KTAHDzbPcTP91uMkfzvX7X5gsutohpbYe7wfpakSes~uoKwCbY1PcAWQvZk~P8SlDydIZj8UNIRHttqrdzBbYnZi~hPSqPRkWGPTPes8HYUhxsmvbctTp4H3RnHkF7LYaRbtZcoq9EXKYbPVp8psxNq0-PV0-PS7JyAXHDhObWf0iKIWECl~vg0eLFD3y6ySWCVxRnbC9sPdfTacqHh2~3LJJGLKM4RSqnNrq-rShG--w__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG-13",
       "genres": [
         "Action",
@@ -2899,6 +2971,14 @@
       ],
       "overview": "Luke Skywalker comes to a crossroad when he meets a woman who wants to learn the ways of the Jedi.",
       "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0PM8SZIAJ1D6NYOBOXPRL92WZZ/ref=atv_dp",
+          "quality": "uhd",
+          "price": "5.66 USD"
+        },
         "disney": {
           "service": "disney",
           "serviceName": "Disney+",
@@ -2915,7 +2995,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-17T06:57:47.656516+00:00",
+      "last_checked": "2026-03-24T06:57:56.234353+00:00",
       "runtime": 152,
       "release_date": "2017-12-15"
     },
@@ -2930,7 +3010,7 @@
       "priority": {
         "family-movie": 20
       },
-      "poster": "https://image.tmdb.org/t/p/w300/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/739/poster/vertical/en/240.jpg?Expires=1800308578&Signature=NXh~vU89TB5~0zTtzNm4VGdfF0OintVuOrCp95jEexONZMmAqFMtv8IiBeoszftUZQNTNVQnK~o62X8uEMcvxyxVnDVLykBI~OvkBs3IwhqRr2ZFZ6F2SOrD2uRrRDDj7u2o9WC6TC1p6ztlywlU263nvlcFNkAD8n47PUhEWGzG7BG5xfHAMSYLupeZxi8zh1UmMHR~Ht4kKbTUM4jw~G4BnlqAB7SZgqfYiY1gpa~I-s9cv1KvoJc5KVYmoJsaqCaQyCq7vuUGcRSgjZbKjFwVe5B1F2UXqOe8Wt2xx0BTQ-2yIR5Om4EKoYQqa4EFhBwrMI211aTjBSs6tsnEZQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG-13",
       "genres": [
         "Action",
@@ -2946,6 +3026,14 @@
           "link": "https://www.disneyplus.com/browse/entity-43f9c275-e7e8-4ab3-802d-00d06a8ad841",
           "quality": "uhd"
         },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0QKCRV1LHJQLWBQZ772047WQE3/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV",
@@ -2955,7 +3043,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-17T06:57:48.876300+00:00",
+      "last_checked": "2026-03-24T06:57:57.071752+00:00",
       "runtime": 142,
       "release_date": "2019-12-20"
     },
@@ -2970,14 +3058,14 @@
       "priority": {
         "family-movie": 21
       },
-      "poster": "https://image.tmdb.org/t/p/w300/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/335/poster/vertical/en/240.jpg?Expires=1801611591&Signature=gql1AeA-6-2j~vg89xb24J0jmlGuMJtUCncKPKfz7-3cbeNrKA8EdxHrudh8n0UMKxHEUSkQGJYe7ogOwoNhyPKnpchb4n3ULX9PjITWTpmExeZwXeVIuI4I-wiMdYJFwbZ8PDNY1xMR-V8OHt70-94AFYwgvRHDZdjJwGF6twSdcf-fig-4myQwtNfQyzqUr24-lQM-ALschfQ9M46bvTPiRL8T7NHEhdO5SHUSdpf6-FrcIEru5aw5sKf0Hy547vnQv-VK7r7gDeH3dHci8XA8EXXEtia4FqEjjMLf2GORXBqXi2sEXN2-4HlISZeG2iXck1lGtcjtrvXsAfZVPQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
         "Animation",
         "Comedy"
       ],
-      "overview": "When her family moves across the country, tween Riley Anderson's animated emotions get carried away - quite literally - on a fantastical journey through her mind. Oscar winner for Best Animated Fea...",
+      "overview": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they mus...",
       "streaming": {
         "disney": {
           "service": "disney",
@@ -2993,9 +3081,17 @@
           "link": "https://tv.apple.com/us/movie/inside-out/umc.cmc.e8rnwzv7klnnt9d5gq9m45nv?playableId=tvs.sbd.9001%3A999607190",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0J3OTK57KK6RCCPICSS1JWRNR7/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-17T06:57:50.526886+00:00",
+      "last_checked": "2026-03-24T06:57:57.834848+00:00",
       "runtime": 95,
       "release_date": "2015-06-19"
     },
@@ -3010,7 +3106,7 @@
       "priority": {
         "family-movie": 22
       },
-      "poster": "https://image.tmdb.org/t/p/w300/el6dJEpK97OJRQiQhuiSGk2jkV5.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/8251/poster/vertical/en/240.jpg?Expires=1801795261&Signature=deSutL9nUtNLoc2EGQ3cwxxyhXgv2kRtbIVEeEm0DJ19JWKi0B~zUjAi0AX2IvFdpH--G8gAkRc9NTu3dDIUMHtPtu4rx-w-lwLAh2MqsfeUW9PLjec8m6eXIEGYO7aOge535DWzPMocIyy5GzrpENNgxhmG1jnkEKfAn94p6C1E5tnv7p5uTMlxMg69mmER5HHiO01iaXQIJRI3tR5dV~Vy~4ZB2RJroVki6iHsV7j7NQjZOcSHBB7CXEikc0LtbnrHyyxxzZKlFu4UEflUJFIAcQG1lFz3EoGhgIOiaAinRE~ixCeSqeIACBsZp4Y67sLlNe7nSa2BZovl32pMeQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "G",
       "genres": [
         "Adventure",
@@ -3034,7 +3130,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-17T06:57:52.230307+00:00",
+      "last_checked": "2026-03-24T06:57:58.591859+00:00",
       "runtime": 84,
       "release_date": "1993-02-12"
     },

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T06:57:58.592615+00:00",
+  "last_updated": "2026-03-25T06:56:09.320553+00:00",
   "country": "us",
   "items": [
     {
@@ -2444,7 +2444,7 @@
       "priority": {
         "family-movie": 6
       },
-      "poster": "https://image.tmdb.org/t/p/w300/tTWl37oAYRXS3D5mEHmjveXXyrN.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/21177/poster/vertical/en/240.jpg?Expires=1800289425&Signature=hsIpqc6yjjKUmifEx5C2qx966A5WYSf5jOaQ9GZ4Zz5OhSVuvGOjuny7CuBHD5uFzPAHG1B1h2wMDnkhq25-vII-4DEMPwzXox9QLWTXBKEMNW207jIlcaDn~~SmAO0NRGaK0ToTaZxf~QSpRxwnYmcH0MzG~msuLwuQriL-F3XVwUBMC0hl4tF0Klhrcp3FwMkDezwSGoWNRP5YVGa2ncu1-u-E8zFwLHMSZl2YAEbJT4FtsgRuDNyZe-koVdlhQjzRxfj3WstXDsgAlrC0ipGCVwRTDSngXtvesENzKZonhmS9e1twXqwyaij0YXKTUWFpcKgOf~5BhFesSIDy~w__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Action",
@@ -2461,7 +2461,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-18T06:55:22.962459+00:00",
+      "last_checked": "2026-03-25T06:55:47.861333+00:00",
       "runtime": 123,
       "release_date": "2021-01-29"
     },
@@ -3145,7 +3145,7 @@
       "priority": {
         "family-movie": 23
       },
-      "poster": "https://image.tmdb.org/t/p/w300/a9x70QUXs6uEwtin1SGNKoFXoia.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/10913/poster/vertical/en/240.jpg?Expires=1800305082&Signature=WlkDL~kKX96bWchrGMzm7vGFqIml~4V3Ls3CN6Ix0a9Rz1802mSP4Ny1yQeG5aaRbkuaZ1w7JguEwUmAdCRERcpvThogNtASGHNSkdaKCAML5Y4ohiW5vEz73NekiwP64Y1hFmDCIKD5Gzo2LnaeEngTUGICjMJRO5wmlifsTyR7SpqYzNTu9n6jpt6IIqUZ5zC2mhwCN84htbLiXMTpQNbcdqZQyLp5mIz~~sRI0kUOxrWkNgzDX0T65Io7eqm42PEhV0CDkijWH8tjWHP1d-64ZuDMLMYTTS1TzAfReKoGuD3qC8Ph7fGAEci25PXhYDA4Ca9wLyswIMB82abNlw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Action",
@@ -3170,7 +3170,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-17T06:57:53.702099+00:00",
+      "last_checked": "2026-03-25T06:55:48.621368+00:00",
       "runtime": 107,
       "release_date": "2022-11-23"
     },
@@ -3185,15 +3185,24 @@
       "priority": {
         "family-movie": 24
       },
-      "poster": "https://image.tmdb.org/t/p/w300/rm6Gs0tvswtSE8cXBIAJqa6l25T.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/13654/poster/vertical/en/240.jpg?Expires=1800349534&Signature=e65SFCQszIsHt8A3l2RctAB84UHrbz3F~Akn3VPw6B2H2Dd3JldcMv3iUnAymPFEZ1744u25b3mdotSxicUdtFf3s3CmChO-8N3QRVevzdMcvM-DNDswtmKgRyak5WNO7B~b3fGmVCE6PvxKJ0UVseRsL4DJ4ZRdMDu~1IFPqcxhVpz77iWk8ZIeTtdytBAvQDlTU0Kr24yNdSrDE8QilalkX800~HvuqIQcZvGMibgcvX6Zkp2p3QUTMUXLp8g1181MgHHm55j62kFyrjMZKNTAAG5IpXFshNTJMC81ChYrYEK-4RKCzAmc5MERqWZOe4T9MIBofFb8pEkxniTqFQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "G",
       "genres": [
         "Adventure",
         "Comedy"
       ],
       "overview": "Fresh out od drama school, Kermit, Fozzie Bear and the entire cast of Kermit's musical - Manhattan Melodies - head for the Big Apple with plans to turn their small play into a broadway hit! All the...",
-      "streaming": {},
-      "last_checked": "2026-03-17T06:57:54.957432+00:00",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0OWK02IQCSAJZ6SA0HN0XYLPZD/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-03-25T06:55:49.413766+00:00",
       "runtime": 90,
       "release_date": "1984-07-13"
     },
@@ -3208,7 +3217,7 @@
       "priority": {
         "family-movie": 25
       },
-      "poster": "https://image.tmdb.org/t/p/w300/Aww9cF4uMsbald9ddhCYFoP4gBi.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/14509/poster/vertical/en/240.jpg?Expires=1800380352&Signature=Qshr0lfvAYQfXGTnbWLGezwBlVxMVYduCPVKn6-tEmO3fYdw34n0U~iSOSau-yZG~l51s7o6DaoFULS1TSM-hYRz65vTH2mv0jPULxPUnL7ANgTe0EhYqjf31~W1gDPxmZldg7OxHvVj9LYkJtLdPYZwaPG8zA64antmW560MzcDpvb3B~ZDtQINibOAsoEz7jnlQFBhf4iCy3JBTxbIzAwhRd7aTZP1~k0B97IZy7KltZ61SPEFPyW1sNOv-SSASr3Dy2Ago3c6S6ivVfISByxGFyLvZ6QsC3zSLCK0-Gwr5ia2uQu1gWiMiq6-SHmjndAWbdKsUW8l80W3p74Rmw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "G",
       "genres": [
         "Adventure",
@@ -3226,7 +3235,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-17T06:57:56.135784+00:00",
+      "last_checked": "2026-03-25T06:55:50.170740+00:00",
       "runtime": 84,
       "release_date": "1999-07-14"
     },
@@ -3241,7 +3250,7 @@
       "priority": {
         "family-movie": 26
       },
-      "poster": "https://image.tmdb.org/t/p/w300/5YwaISdOwp8Zu6O7kwBeUn8a7Pu.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/14936/poster/vertical/en/240.jpg?Expires=1800353930&Signature=MTJRyWOrWhguhagpNR8673PI09jQukuE5~~1mHwpI5GAa-QBeZf4812vxW2CfRs1ktt45mtYHn95MWMNUZxBjmsxeTggSojyYLksnoFsM7GMfCLVMlT51T7SjNOCGMMGV3996tpknAmVMrOXwNLWDpjN284Z5XkKE4BMJcf-qexY6hp1YKNh48p3GemSJKGkQmxRBrrePXCaprkfPu27rqVH3JqeaStC25j0PXZW064svIG~DUKSQzmBc68zrDOuV~ZuuzjPuObQ13JmEytxXLbghTYbjA~wB47oSwOzyicbBMSvz20iMG0QqIkBHBWL7MhKY1cFdBC8yhTlNpeftw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Comedy",
@@ -3257,6 +3266,14 @@
           "quality": "uhd",
           "price": "3.99 USD"
         },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0FCO4Z9G8KI4R1CXC5E3Y3F46Z/ref=atv_dp",
+          "quality": "uhd",
+          "price": "4.99 USD"
+        },
         "hbo": {
           "service": "hbo",
           "serviceName": "HBO Max",
@@ -3271,7 +3288,7 @@
           "link": "https://www.hulu.com/movie/8-bit-christmas-75acef95-6594-4347-97ff-dcb98faa8142"
         }
       },
-      "last_checked": "2026-03-17T06:57:57.908055+00:00",
+      "last_checked": "2026-03-25T06:55:50.955916+00:00",
       "runtime": 97,
       "release_date": "2021-11-24"
     },
@@ -3286,7 +3303,7 @@
       "priority": {
         "family-movie": 27
       },
-      "poster": "https://image.tmdb.org/t/p/w300/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/2700450/poster/vertical/en/240.jpg?Expires=1800823521&Signature=GK5Lvk4~3W~vrbc1JF4Il082nIHZy3ZA8nKnvto0Tw21HD3jEkmbvxN8gd0uIDrd2nsYpA3F3yMIXuKDO5NDZxavAO8a7pOKAoWxGXQR33-xSM6GiCf-KcQUMIqbRuacZjPhUExDkF5n6wrbCAhsIBF1nzS2LhE-zNf63I9cOMx6FOSuJFfvLaw2RXpkzVuRq3zZcOGwy7zocb7fZEkAbMZ8wOWgzG5WNdzRdnigYJ6moBcXwWkJcGRF3dky6D512bm7NfMELIni4YrxXP7PRpJBPS0JAZWhFn-Ke7kLzjkhxoFuPdosDAgb8CIBGXopmovZBgYWZbD83ksak4mLyw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -3311,7 +3328,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-17T06:57:59.594478+00:00",
+      "last_checked": "2026-03-25T06:55:51.614701+00:00",
       "runtime": 135,
       "release_date": "2023-05-26"
     },
@@ -3324,7 +3341,7 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/wvRbUiOuqedyDmwToErkp7wuFCv.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/54631/poster/vertical/en/240.jpg?Expires=1800451377&Signature=Myr1~BZ9Ciw3ajisZKESQtEzASq52cTXJLEdkfKBP-1eoogsZjBjE03FiTwNIFw6Lfydwa5ht~Ofc5Ik5RFkJFjB52okvt~je8Lb6d0AYXc0K~85OU3SzABdEBUaJr2p-WZSCH1rNQ72Sp2W3OOGsORZ9sPdZkrlWjUfXTd9MTBdqlfw3tiF1PA-Elq5DITlFU7Z0cmDp0knYheRCNXi-Z9bDz0ifOYHY5QpG3UmCOEGiX3QcdmuC9OU2KXAGx6b9HT8CAKPCIQ-S8vzjEbyWObJyT~vfeEb9AWpbojREotw5BvUQVLgjyXxsahncVdM7XkD1ZQ8Rbtf-UZniWiLFw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "G",
       "genres": [
         "Adventure",
@@ -3340,7 +3357,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-17T06:58:01.108448+00:00",
+      "last_checked": "2026-03-25T06:55:52.314135+00:00",
       "runtime": 89,
       "release_date": "2020-03-14"
     },
@@ -3353,7 +3370,7 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/iEJGBnZa9PnCXSTrcQGEqK9Y9yr.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/151050/poster/vertical/en/240.jpg?Expires=1799534823&Signature=IeyVkNvw5WylUOG0dvGUiILRbaOSp1A8yRpVi~mOitPvfKXTYsRVR6ebVTubyc8A7t7nEBzZe8PdDEhxwg82FXG~7s-oC70PYvnLfDKQRoGW5QT1p5VlSQzer5kHOWIg2N6GLPDTW~EW7lbJa5fT9dnHNFR7CKsznyYpiWCyCbr94nfyH9037anuFEaU0FFMdBHmxd8AteSJXIIz9vfXxuIELpE88fGgQFb~d4xOJPXUFdB-C1Z7wmBNnUoCbsFI6tP4aLhbBJTYw6DYFX2uNhOzUTo3a9rRYeR8kXQi3UKiQvDxFEvFZ5Ee1h-Gng51gPfVsMJBiJP51oslllAJuA__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "G",
       "genres": [
         "Animation",
@@ -3375,7 +3392,7 @@
           "link": "https://www.amazon.com/gp/video/detail/0I539KJ26SH6X6WJABZYY9B61F/ref=atv_dp"
         }
       },
-      "last_checked": "2026-03-18T06:55:29.606718+00:00",
+      "last_checked": "2026-03-25T06:55:53.056307+00:00",
       "runtime": 38,
       "release_date": "2022-04-14"
     },
@@ -3404,7 +3421,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-18T06:55:32.243173+00:00",
+      "last_checked": "2026-03-25T06:55:54.710984+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -3425,7 +3442,7 @@
       ],
       "overview": "It's the land we love and the land we think we know. We see America's breathtaking landscapes and wildlife as timeless, but the truth is very different. Its unique geography drives the forces of na...",
       "streaming": {},
-      "last_checked": "2026-03-18T06:55:39.398625+00:00",
+      "last_checked": "2026-03-25T06:55:57.345792+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -3455,7 +3472,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-18T06:55:41.852338+00:00",
+      "last_checked": "2026-03-25T06:55:59.250691+00:00",
       "season_count": 1,
       "episode_count": 4
     },
@@ -3490,7 +3507,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-18T06:55:44.535777+00:00",
+      "last_checked": "2026-03-25T06:56:01.013910+00:00",
       "season_count": 1,
       "episode_count": 26
     },
@@ -3525,7 +3542,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-18T06:55:47.954085+00:00",
+      "last_checked": "2026-03-25T06:56:02.874570+00:00",
       "season_count": 6,
       "episode_count": 170
     },
@@ -3553,7 +3570,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-18T06:55:53.004019+00:00",
+      "last_checked": "2026-03-25T06:56:04.950128+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -3597,7 +3614,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-18T06:55:59.935805+00:00",
+      "last_checked": "2026-03-25T06:56:07.637835+00:00",
       "season_count": 5,
       "episode_count": 153
     },
@@ -3610,7 +3627,7 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/bkpPTZUdq31UGDovmszsg2CchiI.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/5039254/poster/vertical/en/240.jpg?Expires=1805538570&Signature=AFw5fFp2NVUhJ70XKkhxBSZtDW696jAbdRq-MY7VQVlmqr1RVL8z~7jSzq3RwHnzLZiMwwiGmMQF~tFg2DZhGquFrNxoY6symMQZYxXrVcsPE87wis2lVFq4-l3PZ0qV-njf6f91~qet7yETngfNLcpZiVXKODDPEPaKEAxcujKodfkwW4xTixH3VSF3fUBCvOP40KZfRAMkxsXAQ1huKmfQdWqZ~P9UrGyk36Yh-4m3dqCI0lRbLGzKtryDK4LeP9leOJHaB5J54aIZrDbKtryWAmuhvkqGTOHXm8p22I3u~CzLdZd-ko2ueAU3EF02LKuvK0Y~1IeuOYWOT9P6AQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -3627,7 +3644,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-18T06:56:03.248016+00:00",
+      "last_checked": "2026-03-25T06:56:08.658979+00:00",
       "runtime": 88,
       "release_date": "2023-11-17"
     },
@@ -3640,7 +3657,7 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/3jW7VXaI955lIfegDlB0F5OShbP.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/94822/poster/vertical/en/240.jpg?Expires=1803604117&Signature=NUHYDOga1hacVq6G0nwLNDsl6pRYJfTYxtDqNW8FmdjxFn4BJLU4GeFOfLaLjJgtoN~7arqNOg-9-Z0kN4Z6wZD0QRPlrgseF5iriH3cQRChB-DRLnuuIfjslwfAzR0a6-HPhG409fbolNPNw6W6Pk~8nAPBiETywIiauSstH8MxZPZ2wQvPEzMMa7rUca69CgkPJMvYudFAHZkV0c03Hn~onj3bXJSTMOHjPzI599qa4bVEusIm4TBIbv7zxzRtLkFs5X4d9P7oWueBjsOfgU8TQ0Gc-o4zQHPHsmPG9NBiyMpoy5sx95g5BQ8rhWJz24gq~9DDFQgGyMsBLVsybQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Documentary",
@@ -3656,7 +3673,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-18T06:56:06.094766+00:00",
+      "last_checked": "2026-03-25T06:56:09.319897+00:00",
       "runtime": 59,
       "release_date": "2021-10-01"
     },

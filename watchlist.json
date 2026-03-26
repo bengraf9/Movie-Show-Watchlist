@@ -601,26 +601,6 @@
     "rating": "TV-PG"
   },
   {
-    "title": "The Night Manager",
-    "type": "series",
-    "lists": [
-      "dad",
-      "mom"
-    ],
-    "priority": {
-      "dad-series": 12
-    },
-    "tmdb_id": "tv/61859",
-    "year": 2016,
-    "rating": "TV-MA",
-    "manual_streaming": [
-      {
-        "service": "prime",
-        "type": "subscription"
-      }
-    ]
-  },
-  {
     "title": "Long Story Short",
     "type": "series",
     "lists": [

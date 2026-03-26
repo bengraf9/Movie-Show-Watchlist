@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-25T06:56:09.320553+00:00",
+  "last_updated": "2026-03-26T07:01:19.410794+00:00",
   "country": "us",
   "items": [
     {
@@ -1289,7 +1289,8 @@
       "streaming": {},
       "last_checked": "2026-03-23T07:02:58.162406+00:00",
       "season_count": 1,
-      "episode_count": 6
+      "episode_count": 6,
+      "watched_seasons": 1
     },
     {
       "title": "The Larry Sanders Show",
@@ -3686,7 +3687,7 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/wDOyGAiTaXvjKGmnmXsoFO7zItt.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/19128/poster/vertical/en/240.jpg?Expires=1800312792&Signature=Lc2Ox5rf6xYTutTd48qpAoi7b20lkj-nBVnR5HnpHc4-wQ3oZII0qP7QKu~G4nn~hUzWqEbm~~n258pgFcFPA71Cusx8wC5GH5o6CMfEYlTlhLchfVeuv1FYNccgydexASkiRkXmeALWREWIovYT2hdEMONKJ5yd5PDnlK~nPybfl~peeEG5WHQtRu8-46XZe579Zts7KBft9dn39p2fqNc9k0BCRk9ZWMTPuIJ9SQpREsdAC1kAGxhk6S3PqUE96mJxTb2-OQAbci9SHgK856mdjdIEgs0x3HGYLfbGm-6cG3doTIn~0ezRwcmgVxs-S8UyjbfsfKHZl4zEvZ~9nw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -3704,7 +3705,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-18T06:56:09.810823+00:00",
+      "last_checked": "2026-03-26T07:00:58.611883+00:00",
       "runtime": 96,
       "release_date": "2020-08-21"
     },
@@ -3717,7 +3718,7 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/eMSuKJ2e5VgYFr4SwOTLnnl5L15.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/65111/poster/vertical/en/240.jpg?Expires=1803616802&Signature=Um~~J3nUvjzvE8VuJS3DnyaPFV~0gzqmc8T1x0mgX2HNysPQS~4Tgh0fNsO3sdNJ2n~D~dY244H1Kq5vEkOiJ~w1YOCxPFGi4-K0UNpz58568Idlkxo1lP7N0uJlr9lcXYzjHBgJ4AAPvSHv0GG5imBVhUGeLc5L-guixNW3FADlDB21-hA9m4plwRn9zhV5AHLXsKX8DRf6lMtFiRWRnjqWI~CQcZhpB2bK0q4Nkt90dQzfXnigpE5TAORLf-mB2zIlTgUDxosupDCvobVvKozv67JAVTo9uEr~KXOUHvlJFnN89pI025P-oCFnMiATYGJ9mHrO6ZB6hCpldaiNBQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "G",
       "genres": [
         "Documentary",
@@ -3741,7 +3742,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-18T06:56:14.327178+00:00",
+      "last_checked": "2026-03-26T07:00:59.282169+00:00",
       "runtime": 76,
       "release_date": "2019-04-17"
     },
@@ -3754,7 +3755,7 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/dN6XnCEP3AO7N4XFOFyZ8V8kZF5.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/28819/poster/vertical/en/240.jpg?Expires=1800859782&Signature=k68M~Kebp~1I5SnDRrs9LpGNslyVveOGkSHyCQYPxhabXqa6gXggSFOCGPKgM09xFL7iq29Flgo2LkQX92csPu4llM5Vm8VhmTf3dS~WtE5GKzI-AXGjQCI-I3P6C5sm2dkhdQT1dmrAtLrPYzuLMQ7YncE0kmbcPGQEQfoIdA8Vf4vn3BVDNDHX8j7EXAFCFT3uW6xWPBQeqoizYI1A5OZNyMA4rKT4fcfckByuHgtI4iLfXaeZbsSEXgB3MjhfGFfuZ1CaFO6ty6PObV6c-Kam5p~0DbaoMepBd6TUOs6jgvhw0FRQudDH6I9FNheMgY8Zez5st5mkJmKzU~C0wg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -3787,7 +3788,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-18T06:56:18.730514+00:00",
+      "last_checked": "2026-03-26T07:01:00.022865+00:00",
       "runtime": 106,
       "release_date": "2022-10-07"
     },
@@ -3823,7 +3824,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-18T06:56:21.935231+00:00",
+      "last_checked": "2026-03-26T07:01:00.760548+00:00",
       "runtime": 93,
       "release_date": "2023-03-24"
     },
@@ -3864,7 +3865,7 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/feaKvf7R80D4FlXEZei4NnRseAw.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/8947383/poster/vertical/en/240.jpg?Expires=1801769212&Signature=LvqZZWy-YZAN3~UfcPSA-s8k5SLBTqGYWY~7uRZFe3C9Ym~pJ1BYnVh729NV-bfLybw4VTtADv5WmfJpHM39o2qV-fMeXnF7qgPfWYk0vlu6n2f5FqrwQndUe7DpavR-c5ndUHsexYXEgdF4Qb-dNnGkQ6RlcYcDoeqCVo9moFZd4V9h1G1kXGvo~HmPw4c0YI8ZQiwFxgI-XtEfGtX4jzJlwW9qjPjUBEOX-SOghm7KYDnvxiQjG1egAVcn3kTSNM2HLPTAqackf8~OSOgL~H7Qt~OHr9WBn9z~HV0WxZ2nFKROJgEA6I3G6LAwxwAJ8PVVbo8tbFfOHrGR2~9Z6g__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Documentary"
@@ -3879,7 +3880,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-18T06:56:28.547094+00:00",
+      "last_checked": "2026-03-26T07:01:01.694240+00:00",
       "runtime": 77,
       "release_date": "2024-04-22"
     },
@@ -3892,7 +3893,7 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/qtW6bWUEqfPLaD6KnetIlSG4adf.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/8862718/poster/vertical/en/240.jpg?Expires=1791439673&Signature=Gk4~jbRVCtHgWeDw4HpIPzGkeQ1QRprqitfiN7mhqfhxHAr6GihoYfbevskdGX9OFhRjGP5pSqYnd4Z~Kxqm9rA0dzEre~FuWsdlapo~ku4nJkLDCbn8GHfF5bcZh5V~9mK1Ie2s97ML4tWmw2Kf~v93t~t5WAxllnfU7FBAPEh6XaAhX1V2cEDDsxuyJcna6dpM2bs2FGeS2CSZh5Sb82I9ZI19ykeOE7Z6c5MIU8SiDAa0CC9KsU20OBkIyAXQ-O8DnkOQffXvWhESSdQmYnHzkyC2DSK7aYkFfJZ4APx8Lh9do-LZ7gxppbByaqNymQOKZBFsJOIY5Em8JLe25A__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -3917,7 +3918,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-18T06:56:29.882448+00:00",
+      "last_checked": "2026-03-26T07:01:02.394837+00:00",
       "runtime": 88,
       "release_date": "2024-08-02"
     },
@@ -3930,7 +3931,7 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/3275/poster/vertical/en/240.jpg?Expires=1798247839&Signature=UJkrgT0EGi12ALlwYOiLgE3PU5Hte1jLl49hzVywz~CkzDDCbYGdCIslTBOPECY~VvSbONtDS3UfMCWZFIl1orxBFBeHaQB1zSNIs3AxY2CGPW2ownc3cmFmQ0NFpJc9TGYi4BmFVfO1v~KcIZhP~wXmqH0BhmWE43J7IDMHIqU3RZ~6N6p7rS1yvkFbLhGej0S-fgB-lFmfxUHDZC6z7TB91gYBBkFkKbfrDxLoUJVQ437wRkAKkuxWYvTnlSPBCCWGPX9i6a6NOa26izo4zou~opCimxFyfbe72QgCbAlPdVpMAWyT-qhyGQL8VB9kVyg98lO-~3VvnkMHV~KiXg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Action",
@@ -3968,7 +3969,7 @@
           "link": "https://www.disneyplus.com/browse/entity-f6104eae-6c27-44c1-a5b2-967187d0e046"
         }
       },
-      "last_checked": "2026-03-18T06:56:32.776719+00:00",
+      "last_checked": "2026-03-26T07:01:03.132697+00:00",
       "runtime": 98,
       "release_date": "2020-02-14"
     },
@@ -3996,7 +3997,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-18T06:56:36.295575+00:00",
+      "last_checked": "2026-03-26T07:01:05.064227+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -4009,7 +4010,7 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/9Ic99kyJewgPHwl4JftJSwzUmtD.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/45525/poster/vertical/en/240.jpg?Expires=1800436408&Signature=DMVPgSG09Xbs1CHJsA8stlvKzpU2LVggTB~a3NUnlmSUIOGMUtc1LTG09rJ6bnmsKheAUUz252MSvVC6uwoOOwK-3kwFjbNozpozGwzCsjSazHI8glfWuAuOzxI7v789jZPf-79awPC~JFstek2pGRtiwwB7N6pLX8vegjJja22gdKEk0w7mS8d41l-oXGm01vCmBgUo1Of65HtLRa9ZmuOB5C8HC2fhbHUYVcjJDvqIxyjIDnq4nweBrU5r2H~ye1sKqW5cIsSIASM0vHU61E3c3i90xHfIr6KoSc2TFA8K4~0mAUOfmv8IeErtgkA23yH4zEBgKUWojx~9hGG2Qw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -4034,7 +4035,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-18T06:56:40.916722+00:00",
+      "last_checked": "2026-03-26T07:01:06.013361+00:00",
       "runtime": 102,
       "release_date": "2020-01-25"
     },
@@ -4069,7 +4070,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-18T06:56:43.955460+00:00",
+      "last_checked": "2026-03-26T07:01:07.608147+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -4098,7 +4099,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-18T06:56:47.169403+00:00",
+      "last_checked": "2026-03-26T07:01:08.533719+00:00",
       "runtime": 73
     },
     {
@@ -4118,7 +4119,7 @@
       ],
       "overview": "Young Michael, shipwrecked on a remote island, must adapt to life alone. Over time, he feels another presence, learning that this world is home to both unimaginable danger and beauty.",
       "streaming": {},
-      "last_checked": "2026-03-18T06:56:49.409500+00:00",
+      "last_checked": "2026-03-26T07:01:09.448940+00:00",
       "runtime": 84,
       "release_date": "2024-10-18"
     },
@@ -4162,7 +4163,7 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/5nVhgCzxKbK47OLIKxCR1syulOn.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/2998/poster/vertical/en/240.jpg?Expires=1798315077&Signature=IThiagnDB~P0CZBoSQeeGMyJXXqk1PyE9uh0ylC~NeLs8Lp2mcExZZ9tzkRKt4PfgLdbtwy0jUFtir6WhNRrKEQr1~NOp8hs20jYxsJJvL5c2alyBxTzXFWrj7ZzG4B42wEKP8AeEN2fsMRVMFdvVIkZBfoNTajCWGw4L6BWMDhW4nTHSYKr9RBaUGze08kzGa7efRlnhs84mrnt1ejqXNrR4MTKnaa~~H3tWgmZ259NMiIOFgmDEsBPT7Nj9CzmzG5OWmTo~7bsnl2S3PORU8t1B8dERIWZYqO~Ebf~CO5wbdKxgUhNPlxQAMw-c0Mourhk--7LZgC3SVJfms0jNw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Action",
@@ -4195,7 +4196,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-18T06:56:58.536873+00:00",
+      "last_checked": "2026-03-26T07:01:10.454318+00:00",
       "runtime": 107,
       "release_date": "2021-03-05"
     },
@@ -4208,7 +4209,7 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/uhWvnFgg3BNlcUz0Re1HfQqIcCD.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/2784/poster/vertical/en/240.jpg?Expires=1800287645&Signature=I5WuYK27SWimZC0s1CnLoeuPVfF81KXuRjClBSLsU5xMMcPIJGU7lyGUqrkA9XY-KrUdb~wgBNWwwlng82-13Avv2M2Wv6vpv8MfIKKWOcY2rUmC8ZdnZP~IBkrc~cezh8vGC7YvxVMF5kVqPNnG2RjnkkV6ECYh1SH-BkZsEttbK6KznA3bX-a90667ApOGGwy2dn4YEef0pcUuIEFti~7if2~Z8VHVvQZouB4NJY-E4SspIknI1flGOZBy-U5y6eLcpuSOEGohtXTN9uEX3WqqM1iQ1grvAFgE6djqotWWjC99y-ijzG32P51RzTdFCv-dJesOsFurY417ptHY2A__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -4233,7 +4234,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-03-18T06:57:01.736079+00:00",
+      "last_checked": "2026-03-26T07:01:11.193780+00:00",
       "runtime": 104,
       "release_date": "2019-05-10"
     },
@@ -4246,7 +4247,7 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/j3rUkHIAAoKr6jU30q3Db4fcIF9.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/3891/poster/vertical/en/240.jpg?Expires=1800276232&Signature=UJvCVngQNrJZoyhESPchJdFEu9WwOJIMdPTNOuHAiDtje0oEiM6jnvBsMaNaydG4qYkl~1YpJt2Dr9naaPNZBpytuBCUAjaFJn7dh6Cy31KgIZlNPU2L6Arw7ISKYs~djQby56jxFeZaQDJLL~qH16PmrN3DSc0R5rDMvyQGd3fV-CJOwIuySh96AttEiAFUi9QpzX0PTaOqHWSnpDr05zZiPPpHZDYrMwzVbxljnjZiSfxWLEJXnpy3EjsvCxIYHY91gCf5ObiyTiZEMWyBweexdnzqw4bvJ5-xlb9mzjF229UdXyC~dRCsV5wYKic8OccAMHo1clZDOpkxLKJeWA__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Action",
@@ -4276,7 +4277,7 @@
           "link": "https://www.hulu.com/movie/spy-kids-f875376e-19e8-4f2b-8176-7fba8fff73d7"
         }
       },
-      "last_checked": "2026-03-18T06:57:06.133209+00:00",
+      "last_checked": "2026-03-26T07:01:11.957431+00:00",
       "runtime": 88,
       "release_date": "2001-03-18"
     },
@@ -4289,7 +4290,7 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/p97LQ1TL95mptVL2AS8Rz1cJCQg.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/27116/poster/vertical/en/240.jpg?Expires=1803214222&Signature=hwGHbHO9eMa3LlpoppXmE0FL~VeoayuhCOK7pATENSob-32Nr-EJwicbHfpuiI9fCryzTNW5J61JqCr-AIHWOmWA7-EpbMnfpT7kZIgj95rQzPvp8910LWTcL9trWnooHfq6Ugr6vlJaFJbNyjLabTaZyRb0ib6OoM4ayhEUAUNdK559TEdbjH9rh0ojvmYBJQUMlnlxoiKszcDjXrEM-bCQxmVDgkFxr3pMOdfmzNc3yhHw~NmnC3WRuErbuvMJ1ID~8F0d~8on6TG~I7g7ejWzqhCuu6zBNWIy2OPjZeqzkrl653gFizSo~8tas2Q4nVoz49YifrcGYZzmh88hTg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -4315,7 +4316,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-18T06:57:09.181415+00:00",
+      "last_checked": "2026-03-26T07:01:12.690423+00:00",
       "runtime": 87,
       "release_date": "2019-05-03"
     },
@@ -4344,7 +4345,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-18T06:57:13.382713+00:00",
+      "last_checked": "2026-03-26T07:01:14.844885+00:00",
       "season_count": 1,
       "episode_count": 4
     },
@@ -4357,7 +4358,7 @@
         "mom"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/705nQHqe4JGdEisrQmVYmXyjs1U.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/14625266/poster/vertical/en/240.jpg?Expires=1798050509&Signature=lb-GUmjBntjPcqoVLHrKlC3SVtcO93vw6~svNOetetoDczuDLK73UoWpVLfDZeUpklvhOGsJs2pbRJ0cFF5CzW8JEPwneXVOgJtJpThuGSfu2jotEJDuJEpedC6ySux6V3-hvS~sPI3-A-oQn6qYFWEF~z29MU4oLh~IMgwT-NRU7ebxs2eFrVGFOycd6N8Rc0DLvebe8dfOYRcjdxTX-lDYtGd5PWUbYeGi2hAM8SqUonYoEX3M2ak8It4s8UcTb7cgh7weQ3ep2rHX22Y2GAvVQVtlbFu5RzSBAUp68MwzHMzGY9Ccfy4yBpuWWn5GQLYTjp3bofMQIV4LTS3vqA__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
       "genres": [
         "Action",
@@ -4386,7 +4387,7 @@
           "link": "https://www.hulu.com/movie/sinners-a2f3d5fb-65e8-4687-80f6-8de09e312d0e"
         }
       },
-      "last_checked": "2026-03-19T06:51:31.111434+00:00",
+      "last_checked": "2026-03-26T07:01:15.867566+00:00",
       "runtime": 137,
       "release_date": "2025-04-18"
     },
@@ -4422,7 +4423,7 @@
           "link": "https://www.amazon.com/gp/video/detail/0NOUE68QBOH81GQE75PNI5BHFP"
         }
       },
-      "last_checked": "2026-03-19T06:51:37.515404+00:00",
+      "last_checked": "2026-03-26T07:01:17.385373+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -4463,7 +4464,7 @@
           "link": "https://www.hulu.com/series/heated-rivalry-f1eb6241-3544-45bb-900e-7070ee83c771"
         }
       },
-      "last_checked": "2026-03-19T06:51:39.456420+00:00",
+      "last_checked": "2026-03-26T07:01:19.162729+00:00",
       "season_count": 1,
       "episode_count": 6
     }

@@ -846,6 +846,15 @@
     "rating": "TV-MA"
   },
   {
+    "title": "Harry Potter",
+    "type": "series",
+    "lists": [
+      "dad"
+    ],
+    "tmdb_id": "tv/224377",
+    "year": 2026
+  },
+  {
     "title": "Jury Duty",
     "type": "series",
     "lists": [

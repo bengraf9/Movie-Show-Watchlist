@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T07:20:04.165219+00:00",
+  "last_updated": "2026-03-31T07:05:55.146447+00:00",
   "country": "us",
   "items": [
     {
@@ -1096,7 +1096,7 @@
           "manual": true
         }
       },
-      "last_checked": "2026-03-24T06:57:31.227392+00:00",
+      "last_checked": "2026-03-31T07:05:39.448027+00:00",
       "runtime": 160,
       "release_date": "2025-09-05"
     },
@@ -1233,9 +1233,15 @@
           "type": "subscription",
           "link": "https://tv.apple.com/us/show/central-park/umc.cmc.4qe3i11erof30x0vz8nwnjkw3",
           "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Apple TV",
+          "type": "subscription",
+          "link": "https://www.amazon.com/gp/video/detail/0HW7VTXDT3OH1GAONJQP8DG5JK"
         }
       },
-      "last_checked": "2026-03-24T06:57:33.875550+00:00",
+      "last_checked": "2026-03-31T07:05:41.062483+00:00",
       "season_count": 3,
       "episode_count": 39,
       "watched_seasons": 2
@@ -1432,10 +1438,10 @@
           "service": "prime",
           "serviceName": "Apple TV",
           "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0IDYU6IGI0EZVDVLJ2DQWTT5Z6"
+          "link": "https://www.amazon.com/gp/video/detail/0O22CPXWWNVSTDP3BI6RM6YHHF"
         }
       },
-      "last_checked": "2026-03-24T06:57:36.544594+00:00",
+      "last_checked": "2026-03-31T07:05:42.631813+00:00",
       "season_count": 3,
       "episode_count": 33,
       "watched_seasons": 2
@@ -2201,7 +2207,7 @@
           "link": "https://www.amazon.com/gp/video/detail/0GT17MJKEIECVM1FQXNI6YVFWM"
         }
       },
-      "last_checked": "2026-03-24T06:57:39.404971+00:00",
+      "last_checked": "2026-03-31T07:05:44.051814+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2245,7 +2251,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-24T06:57:41.400100+00:00",
+      "last_checked": "2026-03-31T07:05:45.175809+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -2290,10 +2296,10 @@
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0T4D2BTFT2LVL52U47EYZHBCRU/ref=atv_dp",
           "quality": "hd",
-          "price": "6.99 USD"
+          "price": "14.99 USD"
         }
       },
-      "last_checked": "2026-03-24T06:57:42.454110+00:00",
+      "last_checked": "2026-03-31T07:05:45.961678+00:00",
       "runtime": 93,
       "release_date": "1987-10-09"
     },
@@ -2324,6 +2330,14 @@
           "link": "https://www.disneyplus.com/browse/entity-a1492e63-7fa1-466e-9082-1eb5687365f0",
           "quality": "hd"
         },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0NQ1J6ZEBHLUTBJESW1SWIFFKD/ref=atv_dp",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
         "hulu": {
           "service": "hulu",
           "serviceName": "Hulu",
@@ -2332,7 +2346,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-24T06:57:43.250964+00:00",
+      "last_checked": "2026-03-31T07:05:46.507593+00:00",
       "runtime": 104,
       "release_date": "1992-10-02"
     },
@@ -2377,10 +2391,10 @@
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0M7LUXB0DEQU6O21LZ0WTWJX07/ref=atv_dp",
           "quality": "uhd",
-          "price": "3.99 USD"
+          "price": "2.99 USD"
         }
       },
-      "last_checked": "2026-03-24T06:57:44.088028+00:00",
+      "last_checked": "2026-03-31T07:05:46.947401+00:00",
       "runtime": 107,
       "release_date": "2021-10-22"
     },
@@ -2412,7 +2426,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-24T06:57:44.850606+00:00",
+      "last_checked": "2026-03-31T07:05:47.372145+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -2443,7 +2457,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-24T06:57:45.600918+00:00",
+      "last_checked": "2026-03-31T07:05:47.827533+00:00",
       "runtime": 122,
       "release_date": "2022-12-09"
     },
@@ -2512,7 +2526,7 @@
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/up/umc.cmc.7hyl1e1p1ihe8aiij3fzjwwyc?playableId=tvs.sbd.9001%3A322447599",
           "quality": "hd",
-          "price": "3.99 USD"
+          "price": "4.99 USD"
         },
         "prime": {
           "service": "prime",
@@ -2523,7 +2537,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-24T06:57:46.353080+00:00",
+      "last_checked": "2026-03-31T07:05:48.322346+00:00",
       "runtime": 96,
       "release_date": "2009-05-29"
     },
@@ -2547,6 +2561,13 @@
       ],
       "overview": "Larry Daley embarks on an adventure to save the magic that brings the museum exhibits to life!",
       "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-eefd84d7-01a2-419e-941c-631efaad118a",
+          "quality": "uhd"
+        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV",
@@ -2555,15 +2576,15 @@
           "quality": "hd",
           "price": "3.99 USD"
         },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
           "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-3c5d5a63-0e64-4f47-91da-5c1e435c958e",
-          "quality": "uhd"
+          "link": "https://www.netflix.com/title/70305932/",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-03-24T06:57:47.203916+00:00",
+      "last_checked": "2026-03-31T07:05:48.796539+00:00",
       "runtime": 97,
       "release_date": "2014-12-19"
     },
@@ -2603,7 +2624,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-24T06:57:47.960074+00:00",
+      "last_checked": "2026-03-31T07:05:49.233455+00:00",
       "runtime": 102,
       "release_date": "2025-06-20"
     },
@@ -2635,7 +2656,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-24T06:57:48.769357+00:00",
+      "last_checked": "2026-03-31T07:05:49.666972+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -2667,7 +2688,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-24T06:57:49.529402+00:00",
+      "last_checked": "2026-03-31T07:05:50.099078+00:00",
       "runtime": 110,
       "release_date": "2024-11-11"
     },
@@ -2691,7 +2712,7 @@
       ],
       "overview": "Molly Mahoney is the awkward and insecure manager of Mr. Magorium's Wonder Emporium, the strangest, most fantastic, most wonderful toy store in the world. But when Mr. Magorium, the 243 year-old ec...",
       "streaming": {},
-      "last_checked": "2026-03-24T06:57:50.279230+00:00",
+      "last_checked": "2026-03-31T07:05:50.558060+00:00",
       "runtime": 93,
       "release_date": "2007-11-16"
     },
@@ -2739,7 +2760,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-24T06:57:51.104286+00:00",
+      "last_checked": "2026-03-31T07:05:51.007738+00:00",
       "runtime": 98,
       "release_date": "1981-06-26"
     },
@@ -2787,7 +2808,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-24T06:57:51.932643+00:00",
+      "last_checked": "2026-03-31T07:05:51.515319+00:00",
       "runtime": 134,
       "release_date": "2018-05-25"
     },
@@ -2828,7 +2849,7 @@
           "price": "3.79 USD"
         }
       },
-      "last_checked": "2026-03-24T06:57:52.808400+00:00",
+      "last_checked": "2026-03-31T07:05:51.968588+00:00",
       "runtime": 97,
       "release_date": "2019-09-27"
     },
@@ -2868,7 +2889,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-24T06:57:53.641463+00:00",
+      "last_checked": "2026-03-31T07:05:52.406299+00:00",
       "runtime": 118,
       "release_date": "2003-04-18"
     },
@@ -2913,7 +2934,7 @@
           "link": "https://www.hulu.com/movie/flow-b5122d3b-bc80-45df-972c-a05828d9a4df"
         }
       },
-      "last_checked": "2026-03-24T06:57:54.467271+00:00",
+      "last_checked": "2026-03-31T07:05:52.869817+00:00",
       "runtime": 85,
       "release_date": "2024-12-06"
     },
@@ -2961,7 +2982,7 @@
           "price": "5.66 USD"
         }
       },
-      "last_checked": "2026-03-24T06:57:55.361785+00:00",
+      "last_checked": "2026-03-31T07:05:53.306586+00:00",
       "runtime": 136,
       "release_date": "2015-12-18"
     },
@@ -2985,6 +3006,13 @@
       ],
       "overview": "Luke Skywalker comes to a crossroad when he meets a woman who wants to learn the ways of the Jedi.",
       "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-50c1aff5-3051-4839-9ebf-e332c635e216",
+          "quality": "uhd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -2992,13 +3020,6 @@
           "link": "https://www.amazon.com/gp/video/detail/0PM8SZIAJ1D6NYOBOXPRL92WZZ/ref=atv_dp",
           "quality": "uhd",
           "price": "5.66 USD"
-        },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-50c1aff5-3051-4839-9ebf-e332c635e216",
-          "quality": "uhd"
         },
         "apple": {
           "service": "apple",
@@ -3009,7 +3030,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-24T06:57:56.234353+00:00",
+      "last_checked": "2026-03-31T07:05:53.807930+00:00",
       "runtime": 152,
       "release_date": "2017-12-15"
     },
@@ -3057,7 +3078,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-24T06:57:57.071752+00:00",
+      "last_checked": "2026-03-31T07:05:54.271716+00:00",
       "runtime": 142,
       "release_date": "2019-12-20"
     },
@@ -3088,14 +3109,6 @@
           "link": "https://www.disneyplus.com/browse/entity-d4b87168-7d0b-49bc-b138-457ab7723feb",
           "quality": "uhd"
         },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/inside-out/umc.cmc.e8rnwzv7klnnt9d5gq9m45nv?playableId=tvs.sbd.9001%3A999607190",
-          "quality": "hd",
-          "price": "3.99 USD"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -3103,9 +3116,17 @@
           "link": "https://www.amazon.com/gp/video/detail/0J3OTK57KK6RCCPICSS1JWRNR7/ref=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/inside-out/umc.cmc.e8rnwzv7klnnt9d5gq9m45nv?playableId=tvs.sbd.9001%3A999607190",
+          "quality": "hd",
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-24T06:57:57.834848+00:00",
+      "last_checked": "2026-03-31T07:05:54.714773+00:00",
       "runtime": 95,
       "release_date": "2015-06-19"
     },
@@ -3144,7 +3165,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-24T06:57:58.591859+00:00",
+      "last_checked": "2026-03-31T07:05:55.145804+00:00",
       "runtime": 84,
       "release_date": "1993-02-12"
     },

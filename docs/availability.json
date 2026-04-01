@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T07:05:55.146447+00:00",
+  "last_updated": "2026-04-01T07:13:10.989779+00:00",
   "country": "us",
   "items": [
     {
@@ -2489,7 +2489,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-25T06:55:47.861333+00:00",
+      "last_checked": "2026-04-01T07:12:46.441222+00:00",
       "runtime": 123,
       "release_date": "2021-01-29"
     },
@@ -3205,7 +3205,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-25T06:55:48.621368+00:00",
+      "last_checked": "2026-04-01T07:12:47.286348+00:00",
       "runtime": 107,
       "release_date": "2022-11-23"
     },
@@ -3237,7 +3237,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-25T06:55:49.413766+00:00",
+      "last_checked": "2026-04-01T07:12:48.086109+00:00",
       "runtime": 90,
       "release_date": "1984-07-13"
     },
@@ -3270,7 +3270,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-25T06:55:50.170740+00:00",
+      "last_checked": "2026-04-01T07:12:48.881808+00:00",
       "runtime": 84,
       "release_date": "1999-07-14"
     },
@@ -3323,7 +3323,7 @@
           "link": "https://www.hulu.com/movie/8-bit-christmas-75acef95-6594-4347-97ff-dcb98faa8142"
         }
       },
-      "last_checked": "2026-03-25T06:55:50.955916+00:00",
+      "last_checked": "2026-04-01T07:12:49.667105+00:00",
       "runtime": 97,
       "release_date": "2021-11-24"
     },
@@ -3361,9 +3361,17 @@
           "type": "subscription",
           "link": "https://www.disneyplus.com/browse/entity-50d2a9c6-3c88-4329-8ba8-29f87d8ee3b1",
           "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0RM0H61GS3T6PEGQ1RNMZP9X1F/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-03-25T06:55:51.614701+00:00",
+      "last_checked": "2026-04-01T07:12:50.511029+00:00",
       "runtime": 135,
       "release_date": "2023-05-26"
     },
@@ -3392,7 +3400,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-25T06:55:52.314135+00:00",
+      "last_checked": "2026-04-01T07:12:51.334680+00:00",
       "runtime": 89,
       "release_date": "2020-03-14"
     },
@@ -3427,7 +3435,7 @@
           "link": "https://www.amazon.com/gp/video/detail/0I539KJ26SH6X6WJABZYY9B61F/ref=atv_dp"
         }
       },
-      "last_checked": "2026-03-25T06:55:53.056307+00:00",
+      "last_checked": "2026-04-01T07:12:52.122868+00:00",
       "runtime": 38,
       "release_date": "2022-04-14"
     },
@@ -3456,7 +3464,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-25T06:55:54.710984+00:00",
+      "last_checked": "2026-04-01T07:12:53.989700+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -3477,7 +3485,7 @@
       ],
       "overview": "It's the land we love and the land we think we know. We see America's breathtaking landscapes and wildlife as timeless, but the truth is very different. Its unique geography drives the forces of na...",
       "streaming": {},
-      "last_checked": "2026-03-25T06:55:57.345792+00:00",
+      "last_checked": "2026-04-01T07:12:57.051407+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -3507,7 +3515,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-25T06:55:59.250691+00:00",
+      "last_checked": "2026-04-01T07:12:59.131102+00:00",
       "season_count": 1,
       "episode_count": 4
     },
@@ -3542,7 +3550,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-25T06:56:01.013910+00:00",
+      "last_checked": "2026-04-01T07:13:01.253389+00:00",
       "season_count": 1,
       "episode_count": 26
     },
@@ -3567,7 +3575,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0IE43SN1GU6P47SRPJW4IDZUBG"
+          "link": "https://www.amazon.com/gp/video/detail/0RMLEWCAFDEWCXZ74RGLN7XBOX"
         },
         "tubi": {
           "service": "tubi",
@@ -3577,7 +3585,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-25T06:56:02.874570+00:00",
+      "last_checked": "2026-04-01T07:13:03.473895+00:00",
       "season_count": 6,
       "episode_count": 170
     },
@@ -3603,9 +3611,15 @@
           "type": "subscription",
           "link": "https://tv.apple.com/us/show/big-beasts/umc.cmc.7d9yulmth1rvkwpij477qsqsk",
           "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Apple TV",
+          "type": "subscription",
+          "link": "https://www.amazon.com/gp/video/detail/0PQENI3MQ81VA3AJD3ZVWKVDJH"
         }
       },
-      "last_checked": "2026-03-25T06:56:04.950128+00:00",
+      "last_checked": "2026-04-01T07:13:06.018098+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -3649,7 +3663,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-25T06:56:07.637835+00:00",
+      "last_checked": "2026-04-01T07:13:09.141098+00:00",
       "season_count": 5,
       "episode_count": 153
     },
@@ -3679,7 +3693,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-25T06:56:08.658979+00:00",
+      "last_checked": "2026-04-01T07:13:10.265776+00:00",
       "runtime": 88,
       "release_date": "2023-11-17"
     },
@@ -3708,7 +3722,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-25T06:56:09.319897+00:00",
+      "last_checked": "2026-04-01T07:13:10.989109+00:00",
       "runtime": 59,
       "release_date": "2021-10-01"
     },

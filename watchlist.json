@@ -440,6 +440,15 @@
     ]
   },
   {
+    "title": "Real Genius",
+    "year": 1985,
+    "type": "movie",
+    "lists": [
+      "dad"
+    ],
+    "tmdb_id": "movie/14370"
+  }, 
+  {
     "title": "Severance",
     "year": 2022,
     "type": "series",

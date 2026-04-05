@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T06:53:31.064481+00:00",
+  "last_updated": "2026-04-05T06:59:09.914272+00:00",
   "country": "us",
   "items": [
     {
@@ -1239,7 +1239,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-29T06:56:46.761516+00:00",
+      "last_checked": "2026-04-05T06:58:48.263129+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1
@@ -1309,7 +1309,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-29T06:56:48.868834+00:00",
+      "last_checked": "2026-04-05T06:58:49.549839+00:00",
       "season_count": 1,
       "episode_count": 3
     },
@@ -1373,9 +1373,15 @@
           "serviceName": "HBO Max",
           "type": "subscription",
           "link": "https://www.hulu.com/series/the-larry-sanders-show-dc4b3bdc-3fa0-45ce-ad49-770ba0ace2d3"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://www.amazon.com/gp/video/detail/0KX2ZYU6WJ58ZGJ4JFH0UW7SVQ"
         }
       },
-      "last_checked": "2026-03-29T06:56:50.863262+00:00",
+      "last_checked": "2026-04-05T06:58:50.923253+00:00",
       "season_count": 6,
       "episode_count": 90
     },
@@ -1399,6 +1405,13 @@
       ],
       "overview": "From J.J. Abrams (\"Lost\"), Roberto Orci and Alex Kurtzman, the team behind \"Star Trek,\" \"Mission: Impossible III\" and \"Alias,\" comes a drama that will thrill, terrify and explore the blurring line ...",
       "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0KZW29L9Y0POR6UT6HNAY2EQ53",
+          "quality": "hd"
+        },
         "hulu": {
           "service": "hulu",
           "serviceName": "Hulu",
@@ -1407,7 +1420,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-29T06:56:52.784185+00:00",
+      "last_checked": "2026-04-05T06:58:52.180282+00:00",
       "season_count": 5,
       "episode_count": 100
     },
@@ -1439,7 +1452,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-29T06:56:55.279588+00:00",
+      "last_checked": "2026-04-05T06:58:54.133501+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -1517,7 +1530,7 @@
           "link": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/"
         }
       },
-      "last_checked": "2026-03-29T06:56:57.300716+00:00",
+      "last_checked": "2026-04-05T06:58:55.583788+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1548,7 +1561,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-29T06:56:59.268531+00:00",
+      "last_checked": "2026-04-05T06:58:56.897965+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -1572,28 +1585,28 @@
       ],
       "overview": "Sir Patrick Stewart reprises his iconic role as Jean-Luc Picard. The retired admiral enters the next chapter of his life, while dealing with pain from the past.",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0IPFH7LZM86DGI45AU1AN74NZV",
-          "quality": "sd"
-        },
         "paramount": {
           "service": "paramount",
           "serviceName": "Paramount+",
           "type": "subscription",
           "link": "https://www.paramountplus.com/shows/star-trek-picard/"
         },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0MCWNV3907C0ROGYJRAEYCVP1V",
+          "quality": "sd"
+        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV",
           "type": "buy",
           "link": "https://tv.apple.com/us/show/star-trek-picard/umc.cmc.2tqufhly635jf1fnuonxojax",
-          "quality": "sd"
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-03-29T06:57:01.368367+00:00",
+      "last_checked": "2026-04-05T06:58:58.283402+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1732,7 +1745,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-29T06:57:03.744443+00:00",
+      "last_checked": "2026-04-05T06:58:59.826453+00:00",
       "season_count": 7,
       "episode_count": 146,
       "watched_seasons": 2
@@ -1817,7 +1830,7 @@
           "link": "https://www.amazon.com/gp/video/detail/0IV71FSGNWTHMXMD9ZQY9VA5KD"
         }
       },
-      "last_checked": "2026-03-29T06:57:06.428279+00:00",
+      "last_checked": "2026-04-05T06:59:01.733858+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1854,7 +1867,7 @@
           "quality": "sd"
         }
       },
-      "last_checked": "2026-03-29T06:57:09.299634+00:00",
+      "last_checked": "2026-04-05T06:59:04.169405+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -1876,19 +1889,19 @@
       ],
       "overview": "When his college degree is challenged as a fake, lawyer and schemer Jeff Winger is forced to return to school and reluctantly becomes the leader of a misfit collection of fellow students.",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0RP4D4UQY9C8HSP0409EDW1OAW",
-          "quality": "sd"
-        },
         "peacock": {
           "service": "peacock",
           "serviceName": "Peacock",
           "type": "subscription",
           "link": "https://www.peacocktv.com/watch/asset/tv/community/8700597605358573112",
           "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0RP4D4UQY9C8HSP0409EDW1OAW",
+          "quality": "sd"
         },
         "hulu": {
           "service": "hulu",
@@ -1898,7 +1911,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-03-29T06:57:11.641333+00:00",
+      "last_checked": "2026-04-05T06:59:05.690222+00:00",
       "season_count": 6,
       "episode_count": 110
     },
@@ -1928,7 +1941,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-03-29T06:57:13.897371+00:00",
+      "last_checked": "2026-04-05T06:59:07.151346+00:00",
       "season_count": 1,
       "episode_count": 7
     },
@@ -1969,7 +1982,7 @@
           "link": "https://www.hulu.com/series/mel-brooks:-the-99-year-old-man%21-e5de9538-bfba-4a9a-ad66-faf53ca98fd2"
         }
       },
-      "last_checked": "2026-03-29T06:57:15.897950+00:00",
+      "last_checked": "2026-04-05T06:59:08.448703+00:00",
       "season_count": 1,
       "episode_count": 2
     },
@@ -2006,7 +2019,7 @@
           "link": "https://www.amazon.com/gp/video/detail/0MEYJKN34E2DBOY4OY7Z31N4Q4"
         }
       },
-      "last_checked": "2026-03-29T06:57:17.747585+00:00",
+      "last_checked": "2026-04-05T06:59:09.703565+00:00",
       "season_count": 5,
       "episode_count": 30
     },

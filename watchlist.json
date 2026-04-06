@@ -446,8 +446,10 @@
     "lists": [
       "dad"
     ],
-    "tmdb_id": "movie/14370"
-  }, 
+    "tmdb_id": "movie/14370",
+    "rating": "PG",
+    "release_date": "1985-08-07"
+  },
   {
     "title": "Severance",
     "year": 2022,

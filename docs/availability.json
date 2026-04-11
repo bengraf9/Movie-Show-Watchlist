@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T07:19:17.107211+00:00",
+  "last_updated": "2026-04-11T06:54:29.200501+00:00",
   "country": "us",
   "items": [
     {
@@ -4233,7 +4233,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-02T07:05:30.024010+00:00",
+      "last_checked": "2026-04-11T06:54:22.522230+00:00",
       "runtime": 73
     },
     {
@@ -4253,7 +4253,7 @@
       ],
       "overview": "Young Michael, shipwrecked on a remote island, must adapt to life alone. Over time, he feels another presence, learning that this world is home to both unimaginable danger and beauty.",
       "streaming": {},
-      "last_checked": "2026-04-02T07:05:30.710227+00:00",
+      "last_checked": "2026-04-11T06:54:23.108849+00:00",
       "runtime": 84,
       "release_date": "2024-10-18"
     },
@@ -4284,7 +4284,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-04-03T07:01:05.897737+00:00",
+      "last_checked": "2026-04-11T06:54:23.740915+00:00",
       "runtime": 83,
       "release_date": "2024-02-02"
     },
@@ -4330,7 +4330,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-02T07:05:31.368299+00:00",
+      "last_checked": "2026-04-11T06:54:24.130044+00:00",
       "runtime": 107,
       "release_date": "2021-03-05"
     },
@@ -4368,7 +4368,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-04-02T07:05:31.832670+00:00",
+      "last_checked": "2026-04-11T06:54:24.536489+00:00",
       "runtime": 104,
       "release_date": "2019-05-10"
     },
@@ -4411,7 +4411,7 @@
           "link": "https://www.hulu.com/movie/spy-kids-f875376e-19e8-4f2b-8176-7fba8fff73d7"
         }
       },
-      "last_checked": "2026-04-02T07:05:32.270845+00:00",
+      "last_checked": "2026-04-11T06:54:24.992281+00:00",
       "runtime": 88,
       "release_date": "2001-03-18"
     },
@@ -4450,7 +4450,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-02T07:05:32.781893+00:00",
+      "last_checked": "2026-04-11T06:54:25.365301+00:00",
       "runtime": 87,
       "release_date": "2019-05-03"
     },
@@ -4479,7 +4479,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-02T07:05:34.221039+00:00",
+      "last_checked": "2026-04-11T06:54:26.470067+00:00",
       "season_count": 1,
       "episode_count": 4
     },
@@ -4521,7 +4521,7 @@
           "link": "https://www.hulu.com/movie/sinners-a2f3d5fb-65e8-4687-80f6-8de09e312d0e"
         }
       },
-      "last_checked": "2026-04-02T07:05:34.862578+00:00",
+      "last_checked": "2026-04-11T06:54:27.111456+00:00",
       "runtime": 137,
       "release_date": "2025-04-18"
     },
@@ -4552,12 +4552,12 @@
         },
         "prime": {
           "service": "prime",
-          "serviceName": "Prime Video",
+          "serviceName": "BritBox",
           "type": "subscription",
           "link": "https://www.amazon.com/gp/video/detail/0NOUE68QBOH81GQE75PNI5BHFP"
         }
       },
-      "last_checked": "2026-04-02T07:05:35.948690+00:00",
+      "last_checked": "2026-04-11T06:54:27.980647+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -4598,7 +4598,7 @@
           "link": "https://www.hulu.com/series/heated-rivalry-f1eb6241-3544-45bb-900e-7070ee83c771"
         }
       },
-      "last_checked": "2026-04-02T07:05:37.183864+00:00",
+      "last_checked": "2026-04-11T06:54:29.005660+00:00",
       "season_count": 1,
       "episode_count": 6
     }

@@ -1,20 +1,5 @@
 [
   {
-    "title": "Project Hail Mary",
-    "year": 2026,
-    "type": "movie",
-    "lists": [
-      "dad",
-      "mom"
-    ],
-    "priority": {
-      "dad-movie": 1
-    },
-    "tmdb_id": "movie/687163",
-    "rating": "PG-13",
-    "release_date": "2026-03-20"
-  },
-  {
     "title": "Avengers: Doomsday",
     "year": 2026,
     "type": "movie",
@@ -83,20 +68,6 @@
     },
     "tmdb_id": "movie/1170608",
     "release_date": "2026-12-18"
-  },
-  {
-    "title": "Playing By Heart",
-    "type": "movie",
-    "lists": [
-      "dad"
-    ],
-    "priority": {
-      "dad-movie": 7
-    },
-    "tmdb_id": "movie/825",
-    "year": 1998,
-    "rating": "R",
-    "release_date": "1999-01-22"
   },
   {
     "title": "Roxanne",
@@ -595,7 +566,7 @@
     },
     "tmdb_id": "tv/136311",
     "year": 2023,
-    "watched_seasons": 2,
+    "watched_seasons": 3,
     "rating": "TV-MA"
   },
   {

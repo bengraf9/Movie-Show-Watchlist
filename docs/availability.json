@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T06:54:29.200501+00:00",
+  "last_updated": "2026-04-12T07:06:50.471306+00:00",
   "country": "us",
   "items": [
     {
@@ -1270,7 +1270,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-05T06:58:48.263129+00:00",
+      "last_checked": "2026-04-12T07:06:31.565531+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1
@@ -1340,7 +1340,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-05T06:58:49.549839+00:00",
+      "last_checked": "2026-04-12T07:06:32.816865+00:00",
       "season_count": 1,
       "episode_count": 3
     },
@@ -1409,10 +1409,10 @@
           "service": "prime",
           "serviceName": "HBO Max",
           "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0KX2ZYU6WJ58ZGJ4JFH0UW7SVQ"
+          "link": "https://www.amazon.com/gp/video/detail/0JEZIT9IZ53WDI5WM3HX92FF4P"
         }
       },
-      "last_checked": "2026-04-05T06:58:50.923253+00:00",
+      "last_checked": "2026-04-12T07:06:34.103939+00:00",
       "season_count": 6,
       "episode_count": 90
     },
@@ -1451,7 +1451,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-05T06:58:52.180282+00:00",
+      "last_checked": "2026-04-12T07:06:35.399505+00:00",
       "season_count": 5,
       "episode_count": 100
     },
@@ -1483,7 +1483,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-05T06:58:54.133501+00:00",
+      "last_checked": "2026-04-12T07:06:36.948416+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -1561,7 +1561,7 @@
           "link": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/"
         }
       },
-      "last_checked": "2026-04-05T06:58:55.583788+00:00",
+      "last_checked": "2026-04-12T07:06:38.507871+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1592,7 +1592,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-05T06:58:56.897965+00:00",
+      "last_checked": "2026-04-12T07:06:39.643719+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -1634,10 +1634,10 @@
           "serviceName": "Apple TV",
           "type": "buy",
           "link": "https://tv.apple.com/us/show/star-trek-picard/umc.cmc.2tqufhly635jf1fnuonxojax",
-          "quality": "hd"
+          "quality": "sd"
         }
       },
-      "last_checked": "2026-04-05T06:58:58.283402+00:00",
+      "last_checked": "2026-04-12T07:06:40.798379+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1776,7 +1776,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-05T06:58:59.826453+00:00",
+      "last_checked": "2026-04-12T07:06:42.168511+00:00",
       "season_count": 7,
       "episode_count": 146,
       "watched_seasons": 2
@@ -1858,10 +1858,10 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "free",
-          "link": "https://www.amazon.com/gp/video/detail/0IV71FSGNWTHMXMD9ZQY9VA5KD"
+          "link": "https://www.amazon.com/gp/video/detail/0IU1CTJVS3A7J0SRNX9B1L7YWV"
         }
       },
-      "last_checked": "2026-04-05T06:59:01.733858+00:00",
+      "last_checked": "2026-04-12T07:06:43.728195+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1883,22 +1883,22 @@
       ],
       "overview": "The documentary crew from Dunder Mifflin’s Scranton branch discovers a struggling Midwestern newspaper and the publisher trying to revive it.",
       "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0H2URYUURJKC88N1JCAAJKOHJ0",
+          "quality": "hd"
+        },
         "peacock": {
           "service": "peacock",
           "serviceName": "Peacock",
           "type": "subscription",
           "link": "https://www.peacocktv.com/watch/asset/tv/the-paper-nbc-edition/8084467132185715112",
           "quality": "hd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0H2URYUURJKC88N1JCAAJKOHJ0",
-          "quality": "sd"
         }
       },
-      "last_checked": "2026-04-05T06:59:04.169405+00:00",
+      "last_checked": "2026-04-12T07:06:45.206894+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -1920,19 +1920,19 @@
       ],
       "overview": "When his college degree is challenged as a fake, lawyer and schemer Jeff Winger is forced to return to school and reluctantly becomes the leader of a misfit collection of fellow students.",
       "streaming": {
-        "peacock": {
-          "service": "peacock",
-          "serviceName": "Peacock",
-          "type": "subscription",
-          "link": "https://www.peacocktv.com/watch/asset/tv/community/8700597605358573112",
-          "quality": "uhd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0RP4D4UQY9C8HSP0409EDW1OAW",
           "quality": "sd"
+        },
+        "peacock": {
+          "service": "peacock",
+          "serviceName": "Peacock",
+          "type": "subscription",
+          "link": "https://www.peacocktv.com/watch/asset/tv/community/8700597605358573112",
+          "quality": "uhd"
         },
         "hulu": {
           "service": "hulu",
@@ -1942,7 +1942,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-05T06:59:05.690222+00:00",
+      "last_checked": "2026-04-12T07:06:46.726017+00:00",
       "season_count": 6,
       "episode_count": 110
     },
@@ -1972,7 +1972,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-05T06:59:07.151346+00:00",
+      "last_checked": "2026-04-12T07:06:47.970023+00:00",
       "season_count": 1,
       "episode_count": 7
     },
@@ -2013,7 +2013,7 @@
           "link": "https://www.hulu.com/series/mel-brooks:-the-99-year-old-man%21-e5de9538-bfba-4a9a-ad66-faf53ca98fd2"
         }
       },
-      "last_checked": "2026-04-05T06:59:08.448703+00:00",
+      "last_checked": "2026-04-12T07:06:49.109398+00:00",
       "season_count": 1,
       "episode_count": 2
     },
@@ -2047,10 +2047,10 @@
           "service": "prime",
           "serviceName": "Apple TV",
           "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0MEYJKN34E2DBOY4OY7Z31N4Q4"
+          "link": "https://www.amazon.com/gp/video/detail/0MU0MMNKEU67F2XIJ8GIRIUJCQ"
         }
       },
-      "last_checked": "2026-04-05T06:59:09.703565+00:00",
+      "last_checked": "2026-04-12T07:06:50.281276+00:00",
       "season_count": 5,
       "episode_count": 30
     },

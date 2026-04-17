@@ -1552,7 +1552,7 @@
     "lists": [
       "mom"
     ],
-    "tmdb_id": "tv/1233413",
+    "tmdb_id": "movie/1233413",
     "rating": "R",
     "release_date": "2025-04-18"
   },
@@ -1574,5 +1574,23 @@
     ],
     "tmdb_id": "tv/301507",
     "rating": "TV-MA"
+  },
+  {
+    "title": "Spaceballs: The New One",
+    "year": 2027,
+    "type": "movie",
+    "lists": [
+      "dad"
+    ],
+    "tmdb_id": "movie/1306322"
+  },
+  {
+    "title": "Remarkably Bright Creatures",
+    "year": 2027,
+    "type": "movie",
+    "lists": [
+      "dad"
+    ],
+    "tmdb_id": "movie/1330021"
   }
 ]

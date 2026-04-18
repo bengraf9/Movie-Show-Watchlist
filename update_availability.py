@@ -38,6 +38,30 @@ SERVICES_OF_INTEREST = [
     "curiosity", "crunchyroll", "tubi", "pluto", "roku",
 ]
 
+# Normalize variant service IDs to canonical IDs
+SERVICE_ALIASES = {
+    "hbomax": "hbo", "hbo_max": "hbo", "max": "hbo",
+    "appletv": "apple", "apple_tv": "apple", "apple_tv_plus": "apple",
+    "paramountplus": "paramount", "paramount_plus": "paramount",
+    "paramount_plus_with_showtime": "paramount",
+    "amazon_prime": "prime", "amazon": "prime",
+    "disneyplus": "disney", "disney_plus": "disney",
+}
+
+# Canonical display names (used everywhere instead of API-provided names)
+SERVICE_NAMES = {
+    "netflix": "Netflix", "prime": "Prime Video", "disney": "Disney+",
+    "hulu": "Hulu", "hbo": "HBO Max", "apple": "Apple TV+",
+    "peacock": "Peacock", "paramount": "Paramount+", "starz": "Starz",
+    "showtime": "Showtime", "tubi": "Tubi", "roku": "Roku", "mubi": "MUBI",
+    "crunchyroll": "Crunchyroll", "curiosity": "Curiosity Stream", "pluto": "Pluto TV",
+}
+
+
+def normalize_service_id(service_id):
+    """Map variant service IDs to their canonical form."""
+    return SERVICE_ALIASES.get(service_id, service_id)
+
 
 def load_json(path):
     """Load a JSON file, returning empty structure if not found."""
@@ -257,11 +281,12 @@ def extract_streaming_options(show):
 
     # First pass: collect direct (non-addon) entries
     for opt in options:
-        service_id = opt.get("service", {}).get("id", "")
+        raw_id = opt.get("service", {}).get("id", "")
+        service_id = normalize_service_id(raw_id)
         if service_id not in SERVICES_OF_INTEREST:
             continue
 
-        service_name = opt.get("service", {}).get("name", service_id)
+        service_name = SERVICE_NAMES.get(service_id, opt.get("service", {}).get("name", service_id))
         stream_type = opt.get("type", "")  # subscription, rent, buy, free, addon
 
         if stream_type == "addon":
@@ -302,19 +327,11 @@ def extract_streaming_options(show):
     for opt in addon_entries:
         addon_info = opt.get("addon", {})
         addon_id = addon_info.get("id", "")
-        addon_name = addon_info.get("name", "")
-        host_service_id = opt.get("service", {}).get("id", "")
+        host_service_id = normalize_service_id(opt.get("service", {}).get("id", ""))
         link = opt.get("link", "")
 
-        # Map common addon IDs to their standalone service IDs
-        addon_to_service = {
-            "hbo_max": "hbo", "hbomax": "hbo", "hbo": "hbo",
-            "apple_tv_plus": "apple", "appletv": "apple", "apple_tv": "apple",
-            "paramount_plus": "paramount", "paramountplus": "paramount",
-            "starz": "starz", "showtime": "showtime",
-            "peacock": "peacock", "amc_plus": "amc",
-        }
-        mapped_service = addon_to_service.get(addon_id, addon_id)
+        # Normalize the addon ID to a canonical service
+        mapped_service = normalize_service_id(addon_id)
 
         # Skip if the addon's own service already has a direct entry
         if mapped_service in streaming:
@@ -324,18 +341,16 @@ def extract_streaming_options(show):
         if host_service_id in streaming and streaming[host_service_id]["type"] == "subscription":
             continue
 
-        # Keep the addon, attributed to the addon's own service
-        if mapped_service in SERVICES_OF_INTEREST or addon_id:
-            use_id = mapped_service if mapped_service in SERVICES_OF_INTEREST else host_service_id
-            use_name = addon_name or mapped_service
+        # Keep the addon, attributed to the addon's canonical service
+        if mapped_service in SERVICES_OF_INTEREST:
             entry = {
-                "service": use_id,
-                "serviceName": use_name,
-                "type": "subscription",  # It's a subscription within the addon
+                "service": mapped_service,
+                "serviceName": SERVICE_NAMES.get(mapped_service, mapped_service),
+                "type": "subscription",
                 "link": link,
             }
-            if use_id not in streaming:
-                streaming[use_id] = entry
+            if mapped_service not in streaming:
+                streaming[mapped_service] = entry
 
     return streaming
 

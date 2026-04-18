@@ -1582,7 +1582,8 @@
     "lists": [
       "dad"
     ],
-    "tmdb_id": "movie/1306322"
+    "tmdb_id": "movie/1306322",
+    "release_date": "2027-04-23"
   },
   {
     "title": "Remarkably Bright Creatures",
@@ -1591,6 +1592,7 @@
     "lists": [
       "dad"
     ],
-    "tmdb_id": "movie/1330021"
+    "tmdb_id": "movie/1330021",
+    "release_date": "2026-05-08"
   }
 ]

@@ -1006,6 +1006,17 @@
     crunchyroll: 'Crunchyroll', curiosity: 'Curiosity', pluto: 'Pluto TV',
   };
 
+  // Normalize variant service IDs to canonical IDs
+  const serviceAliases = {
+    hbomax: 'hbo', hbo_max: 'hbo', max: 'hbo',
+    appletv: 'apple', apple_tv: 'apple', apple_tv_plus: 'apple',
+    paramountplus: 'paramount', paramount_plus: 'paramount',
+    paramount_plus_with_showtime: 'paramount',
+    amazon_prime: 'prime', amazon: 'prime',
+    disneyplus: 'disney', disney_plus: 'disney',
+  };
+  function normalizeServiceId(id) { return serviceAliases[id] || id; }
+
   const kidRatings = new Set(['g', 'pg', 'tv-y', 'tv-y7', 'tv-y7-fv', 'tv-g']);
   const teenRatings = new Set([...kidRatings, 'pg-13', 'tv-pg', 'tv-14']);
 
@@ -1046,9 +1057,10 @@
 
     allItems.forEach(item => {
       Object.values(item.streaming || {}).forEach(s => {
+        const svcId = normalizeServiceId(s.service);
         if (s.type === 'subscription' || s.type === 'free') {
-          if (!subServices.has(s.service)) {
-            subServices.set(s.service, s.serviceName || serviceLabels[s.service] || s.service);
+          if (!subServices.has(svcId)) {
+            subServices.set(svcId, serviceLabels[svcId] || s.serviceName || svcId);
           }
         }
         if (s.type === 'rent' || s.type === 'buy') {
@@ -1115,10 +1127,12 @@
           );
           if (!hasRentBuy) return false;
         } else {
-          // Specific service: only match subscription or free (not rent/buy)
-          const svc = streaming[activeService];
-          if (!svc) return false;
-          if (svc.type === 'rent' || svc.type === 'buy') return false;
+          // Specific service: check all entries with normalized IDs
+          const match = Object.values(streaming).find(
+            s => normalizeServiceId(s.service) === activeService
+              && s.type !== 'rent' && s.type !== 'buy'
+          );
+          if (!match) return false;
         }
       }
 
@@ -1381,8 +1395,9 @@
     if (entries.length === 0) return '<span class="no-streaming">Not currently streaming</span>';
 
     return entries.map(s => {
-      const label = serviceLabels[s.service] || s.serviceName || s.service;
-      const badgeClass = `badge-${s.service}` || 'badge-default';
+      const svcId = normalizeServiceId(s.service);
+      const label = serviceLabels[svcId] || s.serviceName || svcId;
+      const badgeClass = `badge-${svcId}`;
       const isManual = s.manual === true;
       const manualClass = isManual ? ' manual' : '';
       const manualDot = isManual ? '<span class="manual-dot">✎</span>' : '';

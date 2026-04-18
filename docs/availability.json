@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T07:00:11.479619+00:00",
+  "last_updated": "2026-04-18T15:54:11.811440+00:00",
   "country": "us",
   "items": [
     {
@@ -2318,53 +2318,6 @@
       "last_checked": "2026-04-14T07:22:35.378326+00:00",
       "runtime": 93,
       "release_date": "1987-10-09"
-    },
-    {
-      "title": "The Mighty Ducks",
-      "year": 1992,
-      "type": "movie",
-      "tmdb_id": "movie/10414",
-      "lists": [
-        "family"
-      ],
-      "priority": {
-        "family-movie": 2
-      },
-      "poster": "https://cdn.movieofthenight.com/show/6367/poster/vertical/en/240.jpg?Expires=1800378650&Signature=c5NwwB8Sjn0nsVqtK3jiYoiB1XfXjG9s65r1DEYFG1wm2iTA3fwuFlDEfE11NG17D61JEkoB1kBCRXdsCUZsl2fD~uTDOXkkC1njWQBrUJepFOVRhn0NZF3i-1jt82Ed~Ww8Zhr7YoCkbUW4UIRG-76nskoeTk6aI40wiPOAGIX1aY9LSv5NtsIFoTquFMb~6~4ZURGwA7mbzOfsz0MW8EHOWQS7g0FTZ8YgJadHeNMLWGPW5zb7TMuNxpQtpo4gXk-uZdvH3zCN6eBAht-4JPsbfVaWgureK2599vr5fMPcb35J4z2VZorLTERrGxpXq65fwWRpBxlCTppqYpbGxw__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "PG",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Family"
-      ],
-      "overview": "Emilio Estevez portrays a hotshot trial attorney who gets a unique community service assignment: coaching a hapless group of pee wee hockey players. Can he turn the worst team in the league into ch...",
-      "streaming": {
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-a1492e63-7fa1-466e-9082-1eb5687365f0",
-          "quality": "hd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0NQ1J6ZEBHLUTBJESW1SWIFFKD/ref=atv_dp",
-          "quality": "hd",
-          "price": "3.99 USD"
-        },
-        "hulu": {
-          "service": "hulu",
-          "serviceName": "Hulu",
-          "type": "subscription",
-          "link": "https://www.hulu.com/movie/the-mighty-ducks-a1492e63-7fa1-466e-9082-1eb5687365f0",
-          "quality": "hd"
-        }
-      },
-      "last_checked": "2026-04-14T07:22:35.897212+00:00",
-      "runtime": 104,
-      "release_date": "1992-10-02"
     },
     {
       "title": "Ron's Gone Wrong",

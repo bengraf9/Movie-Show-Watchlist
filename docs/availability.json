@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T15:54:11.811440+00:00",
+  "last_updated": "2026-04-19T07:11:16.032744+00:00",
   "country": "us",
   "items": [
     {
@@ -1205,7 +1205,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-12T07:06:31.565531+00:00",
+      "last_checked": "2026-04-19T07:10:55.843536+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1
@@ -1275,7 +1275,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-12T07:06:32.816865+00:00",
+      "last_checked": "2026-04-19T07:10:57.338068+00:00",
       "season_count": 1,
       "episode_count": 3
     },
@@ -1333,21 +1333,9 @@
           "serviceName": "HBO Max",
           "type": "subscription",
           "link": "https://play.hbomax.com/show/576e149d-8211-46dd-be88-e97fa9e01ac4"
-        },
-        "hulu": {
-          "service": "hulu",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://www.hulu.com/series/the-larry-sanders-show-dc4b3bdc-3fa0-45ce-ad49-770ba0ace2d3"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0JEZIT9IZ53WDI5WM3HX92FF4P"
         }
       },
-      "last_checked": "2026-04-12T07:06:34.103939+00:00",
+      "last_checked": "2026-04-19T07:10:58.668332+00:00",
       "season_count": 6,
       "episode_count": 90
     },
@@ -1386,7 +1374,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-12T07:06:35.399505+00:00",
+      "last_checked": "2026-04-19T07:10:59.928053+00:00",
       "season_count": 5,
       "episode_count": 100
     },
@@ -1418,7 +1406,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-12T07:06:36.948416+00:00",
+      "last_checked": "2026-04-19T07:11:01.499481+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -1482,21 +1470,21 @@
       ],
       "overview": "Venture into the unknown with Captain Pike, Spock, Number One and the U.S.S. Enterprise crew a decade before Captain Kirk's legendary five-year mission.",
       "streaming": {
+        "paramount": {
+          "service": "paramount",
+          "serviceName": "Paramount+",
+          "type": "subscription",
+          "link": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/B0CKJMNRS9",
           "quality": "hd"
-        },
-        "paramount": {
-          "service": "paramount",
-          "serviceName": "Paramount+",
-          "type": "subscription",
-          "link": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/"
         }
       },
-      "last_checked": "2026-04-12T07:06:38.507871+00:00",
+      "last_checked": "2026-04-19T07:11:02.831542+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1527,7 +1515,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-12T07:06:39.643719+00:00",
+      "last_checked": "2026-04-19T07:11:04.098450+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -1551,28 +1539,28 @@
       ],
       "overview": "Sir Patrick Stewart reprises his iconic role as Jean-Luc Picard. The retired admiral enters the next chapter of his life, while dealing with pain from the past.",
       "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0S4PHJ50UWJJMEE08SOKDCOI6E",
+          "quality": "uhd"
+        },
         "paramount": {
           "service": "paramount",
           "serviceName": "Paramount+",
           "type": "subscription",
           "link": "https://www.paramountplus.com/shows/star-trek-picard/"
         },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0MCWNV3907C0ROGYJRAEYCVP1V",
-          "quality": "sd"
-        },
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "buy",
           "link": "https://tv.apple.com/us/show/star-trek-picard/umc.cmc.2tqufhly635jf1fnuonxojax",
           "quality": "sd"
         }
       },
-      "last_checked": "2026-04-12T07:06:40.798379+00:00",
+      "last_checked": "2026-04-19T07:11:05.441874+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1698,7 +1686,7 @@
         },
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "buy",
           "link": "https://tv.apple.com/us/show/new-girl/umc.cmc.486dsp4md8ge3a5mx2128nnau",
           "quality": "hd"
@@ -1711,7 +1699,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-12T07:06:42.168511+00:00",
+      "last_checked": "2026-04-19T07:11:06.982116+00:00",
       "season_count": 7,
       "episode_count": 146,
       "watched_seasons": 2
@@ -1775,6 +1763,12 @@
       ],
       "overview": "Fresh out of prison, Shadow Moon meets the enigmatic Mr. Wednesday—and is swept into a gathering storm that will upend the course of his life.",
       "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "free",
+          "link": "https://www.amazon.com/gp/video/detail/0U5LPGLHIBYAA24ISAM352994E"
+        },
         "tubi": {
           "service": "tubi",
           "serviceName": "Tubi",
@@ -1784,19 +1778,13 @@
         },
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "buy",
           "link": "https://tv.apple.com/us/show/american-gods/umc.cmc.4o7hf0qe1ezickgfxxeppolqr",
           "quality": "hd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "free",
-          "link": "https://www.amazon.com/gp/video/detail/0IU1CTJVS3A7J0SRNX9B1L7YWV"
         }
       },
-      "last_checked": "2026-04-12T07:06:43.728195+00:00",
+      "last_checked": "2026-04-19T07:11:08.697078+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1822,7 +1810,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0H2URYUURJKC88N1JCAAJKOHJ0",
+          "link": "https://www.amazon.com/gp/video/detail/0PV0P8Q1AUKOP1SDF08MFE78D9",
           "quality": "hd"
         },
         "peacock": {
@@ -1833,7 +1821,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-12T07:06:45.206894+00:00",
+      "last_checked": "2026-04-19T07:11:10.450344+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -1877,7 +1865,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-12T07:06:46.726017+00:00",
+      "last_checked": "2026-04-19T07:11:11.996089+00:00",
       "season_count": 6,
       "episode_count": 110
     },
@@ -1907,7 +1895,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-12T07:06:47.970023+00:00",
+      "last_checked": "2026-04-19T07:11:13.402854+00:00",
       "season_count": 1,
       "episode_count": 7
     },
@@ -1934,21 +1922,9 @@
           "serviceName": "HBO Max",
           "type": "subscription",
           "link": "https://play.hbomax.com/show/c967b1a4-d0e2-491e-967e-ae09f88fef62"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0IT778CGN4XHSJ1GMSUZ732R1X"
-        },
-        "hulu": {
-          "service": "hulu",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://www.hulu.com/series/mel-brooks:-the-99-year-old-man%21-e5de9538-bfba-4a9a-ad66-faf53ca98fd2"
         }
       },
-      "last_checked": "2026-04-12T07:06:49.109398+00:00",
+      "last_checked": "2026-04-19T07:11:14.642429+00:00",
       "season_count": 1,
       "episode_count": 2
     },
@@ -1973,19 +1949,13 @@
       "streaming": {
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "subscription",
           "link": "https://tv.apple.com/us/show/slow-horses/umc.cmc.2szz3fdt71tl1ulnbp8utgq5o",
           "quality": "uhd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Apple TV",
-          "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0MU0MMNKEU67F2XIJ8GIRIUJCQ"
         }
       },
-      "last_checked": "2026-04-12T07:06:50.281276+00:00",
+      "last_checked": "2026-04-19T07:11:15.824671+00:00",
       "season_count": 5,
       "episode_count": 30
     },

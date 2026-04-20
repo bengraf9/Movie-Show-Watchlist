@@ -705,19 +705,6 @@
     "rating": "TV-14"
   },
   {
-    "title": "The Queen's Gambit",
-    "type": "series",
-    "lists": [
-      "dad"
-    ],
-    "priority": {
-      "dad-series": 22
-    },
-    "tmdb_id": "tv/87739",
-    "year": 2020,
-    "rating": "TV-MA"
-  },
-  {
     "title": "Mel Brooks: The 99 Year Old Man!",
     "type": "series",
     "lists": [
@@ -852,20 +839,6 @@
         "type": "subscription"
       }
     ]
-  },
-  {
-    "title": "The Princess Bride",
-    "year": 1987,
-    "type": "movie",
-    "lists": [
-      "family"
-    ],
-    "priority": {
-      "family-movie": 1
-    },
-    "tmdb_id": "movie/2493",
-    "rating": "PG",
-    "release_date": "1987-10-09"
   },
   {
     "title": "Ron's Gone Wrong",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T07:57:27.988385+00:00",
+  "last_updated": "2026-04-21T07:26:37.647920+00:00",
   "country": "us",
   "items": [
     {
@@ -1069,7 +1069,7 @@
           "manual": true
         }
       },
-      "last_checked": "2026-04-14T07:22:28.154110+00:00",
+      "last_checked": "2026-04-21T07:26:20.051338+00:00",
       "runtime": 160,
       "release_date": "2025-09-05"
     },
@@ -1227,19 +1227,13 @@
       "streaming": {
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "subscription",
           "link": "https://tv.apple.com/us/show/central-park/umc.cmc.4qe3i11erof30x0vz8nwnjkw3",
           "quality": "uhd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Apple TV",
-          "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0HW7VTXDT3OH1GAONJQP8DG5JK"
         }
       },
-      "last_checked": "2026-04-14T07:22:29.576923+00:00",
+      "last_checked": "2026-04-21T07:26:21.848494+00:00",
       "season_count": 3,
       "episode_count": 39,
       "watched_seasons": 2
@@ -1428,19 +1422,13 @@
       "streaming": {
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "subscription",
           "link": "https://tv.apple.com/us/show/shrinking/umc.cmc.apzybj6eqf6pzccd97kev7bs",
           "quality": "uhd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Apple TV",
-          "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0O22CPXWWNVSTDP3BI6RM6YHHF"
         }
       },
-      "last_checked": "2026-04-14T07:22:31.101007+00:00",
+      "last_checked": "2026-04-21T07:26:23.538740+00:00",
       "season_count": 3,
       "episode_count": 33,
       "watched_seasons": 3
@@ -1859,36 +1847,6 @@
       "episode_count": 110
     },
     {
-      "title": "The Queen's Gambit",
-      "year": 2020,
-      "type": "series",
-      "tmdb_id": "tv/87739",
-      "lists": [
-        "dad"
-      ],
-      "priority": {
-        "dad-series": 22
-      },
-      "poster": "https://image.tmdb.org/t/p/w300/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
-      "rating": "TV-MA",
-      "genres": [
-        "Drama"
-      ],
-      "overview": "Winner of 11 Emmys, this smart and stylish drama about a '60s chess prodigy was hailed by The New Yorker as \"the most satisfying show on television.\"",
-      "streaming": {
-        "netflix": {
-          "service": "netflix",
-          "serviceName": "Netflix",
-          "type": "subscription",
-          "link": "https://www.netflix.com/title/80234304/",
-          "quality": "uhd"
-        }
-      },
-      "last_checked": "2026-04-19T07:11:13.402854+00:00",
-      "season_count": 1,
-      "episode_count": 7
-    },
-    {
       "title": "Mel Brooks: The 99 Year Old Man!",
       "year": 2026,
       "type": "series",
@@ -2164,19 +2122,13 @@
       "streaming": {
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "subscription",
           "link": "https://tv.apple.com/us/show/bad-monkey/umc.cmc.2qoep59s6qukjonprttysfs8x",
           "quality": "uhd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Apple TV",
-          "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0GT17MJKEIECVM1FQXNI6YVFWM"
         }
       },
-      "last_checked": "2026-04-14T07:22:32.416146+00:00",
+      "last_checked": "2026-04-21T07:26:25.445163+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2193,7 +2145,7 @@
       "genres": [],
       "overview": "There is nothing special about Harry Potter - at least that's what his Aunt Petunia always says. On his 11th birthday, a letter of admittance to Hogwarts School of Witchcraft and Wizardry opens up ...",
       "streaming": {},
-      "last_checked": "2026-04-14T07:22:33.871908+00:00",
+      "last_checked": "2026-04-21T07:26:27.214346+00:00",
       "episode_count": 1
     },
     {
@@ -2220,57 +2172,9 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-14T07:22:34.790739+00:00",
+      "last_checked": "2026-04-21T07:26:28.298381+00:00",
       "season_count": 1,
       "episode_count": 8
-    },
-    {
-      "title": "The Princess Bride",
-      "year": 1987,
-      "type": "movie",
-      "tmdb_id": "movie/2493",
-      "lists": [
-        "family"
-      ],
-      "priority": {
-        "family-movie": 1
-      },
-      "poster": "https://cdn.movieofthenight.com/show/791/poster/vertical/en/240.jpg?Expires=1800323256&Signature=g4CGAA-liBrpAkkzDLBfxO9CSlEW7XhMVNP5fvbKDTVXsj~EoB5bydSH-e39v5rK95iblLHzPBNFriG3hcMt2xNTTLp13H1hpsI3hdkmc1n314OUYqJ~aNqvCTRc2I~hdYUoRkiSB~yWxYXpoliNXMT7lUlxaoY-Pyzl8uAMkgIQyMKlRAeQuBRgnN6GjD5Q9v9zB-z9fEUrFLN1jHBII9ZmIz6R1pnISgb7GMU~Zko2tWhvrNGVZ7W3anjR~MF8anUAFSmnClTN4b5opDmhvGbRQDgEJ7OxV-H~8M2dkZ4N6QUlumMhXb8E4n642aHCsy97ck7yeuq9gpgZdW12Cw__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "PG",
-      "genres": [
-        "Adventure",
-        "Comedy",
-        "Family"
-      ],
-      "overview": "A fairytale adventure about a beautiful young woman and her one true love, who must find and save her after a long separation. To be reunited, they’ll battle the evils of the mythical kingdom of Fl...",
-      "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/movie/the-princess-bride/umc.cmc.3gq6dacoanmniq9hil8tz75pw?playableId=tvs.sbd.9001%3A263952053",
-          "quality": "hd",
-          "price": "14.99 USD"
-        },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-bea6a183-8ed3-4c07-af03-027dc03c1c14",
-          "quality": "uhd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0T4D2BTFT2LVL52U47EYZHBCRU/ref=atv_dp",
-          "quality": "hd",
-          "price": "14.99 USD"
-        }
-      },
-      "last_checked": "2026-04-14T07:22:35.378326+00:00",
-      "runtime": 93,
-      "release_date": "1987-10-09"
     },
     {
       "title": "Ron's Gone Wrong",
@@ -2294,7 +2198,7 @@
       "streaming": {
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/rons-gone-wrong/umc.cmc.75t5f0e7lid2rslfho07lgbrx?playableId=tvs.sbd.9001%3A1592488379",
           "quality": "hd",
@@ -2316,7 +2220,7 @@
           "price": "2.99 USD"
         }
       },
-      "last_checked": "2026-04-14T07:22:36.436936+00:00",
+      "last_checked": "2026-04-21T07:26:29.110542+00:00",
       "runtime": 107,
       "release_date": "2021-10-22"
     },
@@ -2348,7 +2252,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-14T07:22:36.864994+00:00",
+      "last_checked": "2026-04-21T07:26:29.614533+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -2379,7 +2283,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-14T07:22:37.267926+00:00",
+      "last_checked": "2026-04-21T07:26:30.154417+00:00",
       "runtime": 122,
       "release_date": "2022-12-09"
     },
@@ -2444,7 +2348,7 @@
         },
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/up/umc.cmc.7hyl1e1p1ihe8aiij3fzjwwyc?playableId=tvs.sbd.9001%3A322447599",
           "quality": "hd",
@@ -2459,7 +2363,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-14T07:22:37.667554+00:00",
+      "last_checked": "2026-04-21T07:26:30.886592+00:00",
       "runtime": 96,
       "release_date": "2009-05-29"
     },
@@ -2490,9 +2394,17 @@
           "link": "https://www.disneyplus.com/browse/entity-eefd84d7-01a2-419e-941c-631efaad118a",
           "quality": "uhd"
         },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0TADTQPFUVM9H8ZI5WPDZEYXML/ref=atv_dp",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/night-at-the-museum-secret-of-the-tomb/umc.cmc.5ddkb5jypsz1b3evck06iqnjh?playableId=tvs.sbd.9001%3A945082215",
           "quality": "hd",
@@ -2506,7 +2418,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-14T07:22:38.080802+00:00",
+      "last_checked": "2026-04-21T07:26:31.417747+00:00",
       "runtime": 97,
       "release_date": "2014-12-19"
     },
@@ -2546,7 +2458,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-14T07:22:38.486290+00:00",
+      "last_checked": "2026-04-21T07:26:31.939786+00:00",
       "runtime": 102,
       "release_date": "2025-06-20"
     },
@@ -2578,7 +2490,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-14T07:22:38.883071+00:00",
+      "last_checked": "2026-04-21T07:26:32.438665+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -2610,7 +2522,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-14T07:22:39.269118+00:00",
+      "last_checked": "2026-04-21T07:26:32.969510+00:00",
       "runtime": 110,
       "release_date": "2024-11-11"
     },
@@ -2634,7 +2546,7 @@
       ],
       "overview": "Molly Mahoney is the awkward and insecure manager of Mr. Magorium's Wonder Emporium, the strangest, most fantastic, most wonderful toy store in the world. But when Mr. Magorium, the 243 year-old ec...",
       "streaming": {},
-      "last_checked": "2026-04-14T07:22:39.709491+00:00",
+      "last_checked": "2026-04-21T07:26:33.502481+00:00",
       "runtime": 93,
       "release_date": "2007-11-16"
     },
@@ -2660,7 +2572,7 @@
       "streaming": {
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/the-great-muppet-caper/umc.cmc.2xz7c7jdngix9lsez0j7nkwe9?playableId=tvs.sbd.9001%3A323042343",
           "quality": "hd",
@@ -2682,7 +2594,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-14T07:22:40.231981+00:00",
+      "last_checked": "2026-04-21T07:26:34.040060+00:00",
       "runtime": 98,
       "release_date": "1981-06-26"
     },
@@ -2708,7 +2620,7 @@
       "streaming": {
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/solo-a-star-wars-story/umc.cmc.1skhjjrps93jxwc8w45mc4yyj?playableId=tvs.sbd.9001%3A1382545660",
           "quality": "hd",
@@ -2730,7 +2642,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-14T07:22:40.629706+00:00",
+      "last_checked": "2026-04-21T07:26:34.515263+00:00",
       "runtime": 134,
       "release_date": "2018-05-25"
     },
@@ -2756,7 +2668,7 @@
       "streaming": {
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/abominable/umc.cmc.6jrpb1ce9hpllxklhnomuiipz",
           "quality": "uhd",
@@ -2771,7 +2683,7 @@
           "price": "3.79 USD"
         }
       },
-      "last_checked": "2026-04-14T07:22:41.019148+00:00",
+      "last_checked": "2026-04-21T07:26:35.038050+00:00",
       "runtime": 97,
       "release_date": "2019-09-27"
     },
@@ -2811,7 +2723,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-14T07:22:41.436934+00:00",
+      "last_checked": "2026-04-21T07:26:35.509961+00:00",
       "runtime": 118,
       "release_date": "2003-04-18"
     },
@@ -2848,15 +2760,9 @@
           "serviceName": "HBO Max",
           "type": "subscription",
           "link": "https://play.hbomax.com/movie/83df1c2b-db9d-49cd-bf83-9ddbaa7e5e30"
-        },
-        "hulu": {
-          "service": "hulu",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://www.hulu.com/movie/flow-b5122d3b-bc80-45df-972c-a05828d9a4df"
         }
       },
-      "last_checked": "2026-04-14T07:22:41.832760+00:00",
+      "last_checked": "2026-04-21T07:26:36.007968+00:00",
       "runtime": 85,
       "release_date": "2024-12-06"
     },
@@ -2897,14 +2803,14 @@
         },
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/star-wars-the-force-awakens/umc.cmc.61i3yveu7xby4chfkqved19ka?playableId=tvs.sbd.9001%3A1063466898",
           "quality": "hd",
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-14T07:22:42.265760+00:00",
+      "last_checked": "2026-04-21T07:26:36.483377+00:00",
       "runtime": 136,
       "release_date": "2015-12-18"
     },
@@ -2928,13 +2834,6 @@
       ],
       "overview": "Luke Skywalker comes to a crossroad when he meets a woman who wants to learn the ways of the Jedi.",
       "streaming": {
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-50c1aff5-3051-4839-9ebf-e332c635e216",
-          "quality": "uhd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -2943,16 +2842,23 @@
           "quality": "uhd",
           "price": "5.66 USD"
         },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-50c1aff5-3051-4839-9ebf-e332c635e216",
+          "quality": "uhd"
+        },
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/star-wars-the-last-jedi/umc.cmc.7f19yhpg0i8vk8of1ydhs7g1v?playableId=tvs.sbd.9001%3A1316280891",
           "quality": "hd",
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-14T07:22:42.673223+00:00",
+      "last_checked": "2026-04-21T07:26:37.050670+00:00",
       "runtime": 152,
       "release_date": "2017-12-15"
     },
@@ -2993,14 +2899,14 @@
         },
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/star-wars-the-rise-of-skywalker/umc.cmc.71hlilqgd8utz8c4nlpl6ol7m?playableId=tvs.sbd.9001%3A1490359713",
           "quality": "hd",
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-14T07:22:43.066542+00:00",
+      "last_checked": "2026-04-21T07:26:37.647386+00:00",
       "runtime": 142,
       "release_date": "2019-12-20"
     },

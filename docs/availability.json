@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T07:26:37.647920+00:00",
+  "last_updated": "2026-04-22T07:23:52.685308+00:00",
   "country": "us",
   "items": [
     {
@@ -2943,18 +2943,18 @@
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0J3OTK57KK6RCCPICSS1JWRNR7/ref=atv_dp",
           "quality": "uhd",
-          "price": "3.99 USD"
+          "price": "2.99 USD"
         },
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/inside-out/umc.cmc.e8rnwzv7klnnt9d5gq9m45nv?playableId=tvs.sbd.9001%3A999607190",
           "quality": "hd",
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-04-15T07:22:56.588503+00:00",
+      "last_checked": "2026-04-22T07:23:51.812295+00:00",
       "runtime": 95,
       "release_date": "2015-06-19"
     },
@@ -2993,7 +2993,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-15T07:22:56.987205+00:00",
+      "last_checked": "2026-04-22T07:23:52.684649+00:00",
       "runtime": 84,
       "release_date": "1993-02-12"
     },

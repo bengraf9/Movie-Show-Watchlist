@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T07:23:52.685308+00:00",
+  "last_updated": "2026-04-23T07:27:55.411442+00:00",
   "country": "us",
   "items": [
     {
@@ -2315,7 +2315,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-16T07:22:58.699413+00:00",
+      "last_checked": "2026-04-23T07:27:26.916037+00:00",
       "runtime": 123,
       "release_date": "2021-01-29"
     },
@@ -3033,7 +3033,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-16T07:22:59.092709+00:00",
+      "last_checked": "2026-04-23T07:27:27.781539+00:00",
       "runtime": 107,
       "release_date": "2022-11-23"
     },
@@ -3065,7 +3065,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-16T07:22:59.468033+00:00",
+      "last_checked": "2026-04-23T07:27:28.594852+00:00",
       "runtime": 90,
       "release_date": "1984-07-13"
     },
@@ -3098,7 +3098,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-16T07:22:59.865423+00:00",
+      "last_checked": "2026-04-23T07:27:29.386567+00:00",
       "runtime": 84,
       "release_date": "1999-07-14"
     },
@@ -3123,19 +3123,11 @@
       "streaming": {
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/8-bit-christmas/umc.cmc.73z3l84b8o1irv4b7rqtjwkgp",
           "quality": "uhd",
           "price": "3.99 USD"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0FCO4Z9G8KI4R1CXC5E3Y3F46Z/ref=atv_dp",
-          "quality": "uhd",
-          "price": "4.99 USD"
         },
         "hbo": {
           "service": "hbo",
@@ -3144,14 +3136,16 @@
           "link": "https://play.hbomax.com/movie/01d3fe24-a0ec-432f-bdd5-4c513472b528",
           "quality": "uhd"
         },
-        "hulu": {
-          "service": "hulu",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://www.hulu.com/movie/8-bit-christmas-75acef95-6594-4347-97ff-dcb98faa8142"
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0FCO4Z9G8KI4R1CXC5E3Y3F46Z/ref=atv_dp",
+          "quality": "uhd",
+          "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-04-16T07:23:00.275205+00:00",
+      "last_checked": "2026-04-23T07:27:30.204958+00:00",
       "runtime": 97,
       "release_date": "2021-11-24"
     },
@@ -3177,7 +3171,7 @@
       "streaming": {
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/the-little-mermaid/umc.cmc.gto5t9phvu7dpajarqglrfmh?playableId=tvs.sbd.9001%3A1694118353",
           "quality": "hd",
@@ -3196,10 +3190,10 @@
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0RM0H61GS3T6PEGQ1RNMZP9X1F/ref=atv_dp",
           "quality": "uhd",
-          "price": "2.99 USD"
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-16T07:23:00.672412+00:00",
+      "last_checked": "2026-04-23T07:27:30.994828+00:00",
       "runtime": 135,
       "release_date": "2023-05-26"
     },
@@ -3228,7 +3222,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-16T07:23:01.089762+00:00",
+      "last_checked": "2026-04-23T07:27:31.724761+00:00",
       "runtime": 89,
       "release_date": "2020-03-14"
     },
@@ -3251,19 +3245,13 @@
       "streaming": {
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "subscription",
           "link": "https://tv.apple.com/us/movie/its-the-small-things-charlie-brown/umc.cmc.gr1rsr9lp2tzfwb0w6zhq9y3?playableId=tvs.sbd.4000%3AA0005501002",
           "quality": "uhd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Apple TV",
-          "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0I539KJ26SH6X6WJABZYY9B61F/ref=atv_dp"
         }
       },
-      "last_checked": "2026-04-16T07:23:01.492513+00:00",
+      "last_checked": "2026-04-23T07:27:32.613636+00:00",
       "runtime": 38,
       "release_date": "2022-04-14"
     },
@@ -3292,7 +3280,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-16T07:23:02.685208+00:00",
+      "last_checked": "2026-04-23T07:27:34.460211+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -3313,7 +3301,7 @@
       ],
       "overview": "It's the land we love and the land we think we know. We see America's breathtaking landscapes and wildlife as timeless, but the truth is very different. Its unique geography drives the forces of na...",
       "streaming": {},
-      "last_checked": "2026-04-16T07:23:04.357556+00:00",
+      "last_checked": "2026-04-23T07:27:37.427625+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -3343,7 +3331,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-16T07:23:05.582460+00:00",
+      "last_checked": "2026-04-23T07:27:39.487440+00:00",
       "season_count": 1,
       "episode_count": 4
     },
@@ -3378,7 +3366,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-16T07:23:06.627547+00:00",
+      "last_checked": "2026-04-23T07:27:41.444555+00:00",
       "season_count": 1,
       "episode_count": 26
     },
@@ -3403,7 +3391,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0RMLEWCAFDEWCXZ74RGLN7XBOX"
+          "link": "https://www.amazon.com/gp/video/detail/0G0V1VGD71Z6L2V31XG9T32XG8"
         },
         "tubi": {
           "service": "tubi",
@@ -3413,7 +3401,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-16T07:23:07.734540+00:00",
+      "last_checked": "2026-04-23T07:27:43.498424+00:00",
       "season_count": 6,
       "episode_count": 170
     },
@@ -3435,19 +3423,13 @@
       "streaming": {
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "subscription",
           "link": "https://tv.apple.com/us/show/big-beasts/umc.cmc.7d9yulmth1rvkwpij477qsqsk",
           "quality": "uhd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Apple TV",
-          "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0PQENI3MQ81VA3AJD3ZVWKVDJH"
         }
       },
-      "last_checked": "2026-04-16T07:23:09.105504+00:00",
+      "last_checked": "2026-04-23T07:27:45.907049+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -3478,7 +3460,7 @@
         },
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "buy",
           "link": "https://tv.apple.com/us/show/odd-squad/umc.cmc.2t9yt69s366yhgkkttjk8cl83",
           "quality": "sd"
@@ -3491,9 +3473,9 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-16T07:23:10.948617+00:00",
+      "last_checked": "2026-04-23T07:27:48.703812+00:00",
       "season_count": 6,
-      "episode_count": 173
+      "episode_count": 177
     },
     {
       "title": "Trolls Band Together",
@@ -3521,7 +3503,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-16T07:23:11.525663+00:00",
+      "last_checked": "2026-04-23T07:27:49.753650+00:00",
       "runtime": 88,
       "release_date": "2023-11-17"
     },
@@ -3550,7 +3532,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-16T07:23:11.899741+00:00",
+      "last_checked": "2026-04-23T07:27:50.477587+00:00",
       "runtime": 59,
       "release_date": "2021-10-01"
     },
@@ -3581,7 +3563,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-16T07:23:12.279846+00:00",
+      "last_checked": "2026-04-23T07:27:51.223414+00:00",
       "runtime": 96,
       "release_date": "2020-08-21"
     },
@@ -3604,7 +3586,7 @@
       "streaming": {
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "buy",
           "link": "https://tv.apple.com/us/movie/disneynature-penguins/umc.cmc.4rx0tndy5tv6xxl1oo2xsifej",
           "quality": "hd",
@@ -3618,7 +3600,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-16T07:23:12.655830+00:00",
+      "last_checked": "2026-04-23T07:27:51.940624+00:00",
       "runtime": 76,
       "release_date": "2019-04-17"
     },
@@ -3642,7 +3624,7 @@
       "streaming": {
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/lyle-lyle-crocodile/umc.cmc.6kky7ogmpd0213u43c1zd7asm?playableId=tvs.sbd.9001%3A1646645635",
           "quality": "hd",
@@ -3664,7 +3646,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-16T07:23:13.022696+00:00",
+      "last_checked": "2026-04-23T07:27:52.755964+00:00",
       "runtime": 106,
       "release_date": "2022-10-07"
     },
@@ -3700,7 +3682,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-16T07:23:13.399883+00:00",
+      "last_checked": "2026-04-23T07:27:53.624124+00:00",
       "runtime": 93,
       "release_date": "2023-03-24"
     },
@@ -3756,7 +3738,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-16T07:23:14.041801+00:00",
+      "last_checked": "2026-04-23T07:27:54.681668+00:00",
       "runtime": 77,
       "release_date": "2024-04-22"
     },
@@ -3794,7 +3776,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-16T07:23:14.411811+00:00",
+      "last_checked": "2026-04-23T07:27:55.410917+00:00",
       "runtime": 88,
       "release_date": "2024-08-02"
     },

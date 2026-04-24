@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T07:27:55.411442+00:00",
+  "last_updated": "2026-04-24T07:53:08.261448+00:00",
   "country": "us",
   "items": [
     {
@@ -89,15 +89,9 @@
           "serviceName": "Tubi",
           "type": "free",
           "link": "https://tubitv.com/movies/100046625/swiss-army-man"
-        },
-        "hulu": {
-          "service": "hulu",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://www.hulu.com/movie/swiss-army-man-452cdfef-e577-4557-a9f7-286ba077dd34"
         }
       },
-      "last_checked": "2026-04-17T07:23:50.623604+00:00",
+      "last_checked": "2026-04-24T07:52:47.182400+00:00",
       "runtime": 93,
       "release_date": "2016-07-01"
     },
@@ -136,7 +130,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-17T07:23:51.322856+00:00",
+      "last_checked": "2026-04-24T07:52:47.844763+00:00",
       "runtime": 94,
       "release_date": "1987-04-17"
     },
@@ -192,7 +186,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-17T07:23:52.031399+00:00",
+      "last_checked": "2026-04-24T07:52:48.537173+00:00",
       "runtime": 106,
       "release_date": "1987-06-19"
     },
@@ -255,7 +249,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-17T07:23:52.693921+00:00",
+      "last_checked": "2026-04-24T07:52:49.221688+00:00",
       "runtime": 110,
       "release_date": "2025-06-13"
     },
@@ -287,7 +281,7 @@
         },
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/the-fabelmans/umc.cmc.4lgvd75jcuqp79fuar3e9p9zh?playableId=tvs.sbd.9001%3A1655490626",
           "quality": "hd",
@@ -301,7 +295,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-17T07:23:53.448410+00:00",
+      "last_checked": "2026-04-24T07:52:49.964378+00:00",
       "runtime": 150,
       "release_date": "2022-11-23"
     },
@@ -365,7 +359,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-17T07:23:54.108334+00:00",
+      "last_checked": "2026-04-24T07:52:50.622871+00:00",
       "runtime": 91,
       "release_date": "1991-02-08"
     },
@@ -397,7 +391,7 @@
         },
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/tropic-thunder/umc.cmc.5iudnxk9tyxo63gewawi330mw?playableId=tvs.sbd.9001%3A291563909",
           "quality": "hd",
@@ -412,7 +406,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-17T07:23:54.830136+00:00",
+      "last_checked": "2026-04-24T07:52:51.358804+00:00",
       "runtime": 106,
       "release_date": "2008-08-13"
     },
@@ -444,7 +438,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-17T07:23:55.480650+00:00",
+      "last_checked": "2026-04-24T07:52:52.024837+00:00",
       "runtime": 124,
       "release_date": "1979-12-19"
     },
@@ -477,7 +471,7 @@
         },
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/boyhood/umc.cmc.4axgvzn6bs6yn40r5z8sn6t2e?playableId=tvs.sbd.9001%3A1820241182",
           "quality": "hd",
@@ -485,7 +479,7 @@
         },
         "mubi": {
           "service": "mubi",
-          "serviceName": "Mubi",
+          "serviceName": "MUBI",
           "type": "subscription",
           "link": "https://mubi.com/films/boyhood-2014",
           "quality": "hd"
@@ -505,7 +499,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-17T07:23:56.237288+00:00",
+      "last_checked": "2026-04-24T07:52:52.756327+00:00",
       "runtime": 165,
       "release_date": "2014-08-15"
     },
@@ -528,13 +522,6 @@
       ],
       "overview": "A personal look at the French military leader’s origins and swift, ruthless climb to emperor. The story is viewed through the prism of Napoleon’s addictive, volatile relationship with his wife and ...",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV",
-          "type": "subscription",
-          "link": "https://tv.apple.com/us/movie/napoleon/umc.cmc.25k80oxl3vo69c8rimk8v81s1?playableId=tvs.sbd.4000%3AA0064201001",
-          "quality": "uhd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -542,9 +529,16 @@
           "link": "https://www.amazon.com/gp/video/detail/0GKJ06SJM9QAGM8UCSBTK6N4BH/ref=atv_dp",
           "quality": "uhd",
           "price": "14.99 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "subscription",
+          "link": "https://tv.apple.com/us/movie/napoleon/umc.cmc.25k80oxl3vo69c8rimk8v81s1?playableId=tvs.sbd.4000%3AA0064201001",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-17T07:23:56.954463+00:00",
+      "last_checked": "2026-04-24T07:52:53.511105+00:00",
       "runtime": 157,
       "release_date": "2023-11-22"
     },
@@ -582,7 +576,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-04-17T07:23:57.725980+00:00",
+      "last_checked": "2026-04-24T07:52:54.268365+00:00",
       "runtime": 106,
       "release_date": "2024-03-08"
     },
@@ -617,16 +611,10 @@
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0QX9MSTQ5UTFHCQBXO7E8AX24M/ref=atv_dp",
           "quality": "uhd",
-          "price": "5.99 USD"
-        },
-        "hulu": {
-          "service": "hulu",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://www.hulu.com/movie/spinal-tap-ii:-the-end-continues-ea3f8760-9688-4843-9e26-71536d547f6c"
+          "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-04-17T07:23:58.465425+00:00",
+      "last_checked": "2026-04-24T07:52:55.023751+00:00",
       "runtime": 84,
       "release_date": "2025-09-12"
     },
@@ -659,7 +647,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-17T07:23:59.110762+00:00",
+      "last_checked": "2026-04-24T07:52:55.689667+00:00",
       "runtime": 96,
       "release_date": "2003-01-18"
     },
@@ -691,7 +679,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-17T07:23:59.786057+00:00",
+      "last_checked": "2026-04-24T07:52:56.343442+00:00",
       "runtime": 129,
       "release_date": "1963-03-16"
     },
@@ -716,7 +704,7 @@
       "streaming": {
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/pennies-from-heaven/umc.cmc.1kbmm9ry9lh89xb7k4rglas5o",
           "quality": "hd",
@@ -738,7 +726,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-17T07:24:00.489791+00:00",
+      "last_checked": "2026-04-24T07:52:57.010837+00:00",
       "runtime": 107,
       "release_date": "1982-01-01"
     },
@@ -753,7 +741,7 @@
       "priority": {
         "dad-movie": 23
       },
-      "poster": "https://cdn.movieofthenight.com/show/6756359/poster/vertical/en/240.jpg?Expires=1792753550&Signature=NDH2GrGgwTe8M1ggYrQPoEqZCxA3pd6eUEkNImN6nzun~oB243eUbmjTa4VRUdXYb~tqBG4DmySdYgc0nzZt2kHKQbYlI6abNl6il~kmfGQIfiZsdH8nVnSEDaBGFYeDbDHS6JiPbwfmniToEM79wxXHwUcIEmksMDCNhgKzn6Kaugt~1dVdVNnbUCk5BMj7t6RKkOYoAJ2tkRtvOkmycypYinB7W3i2sZs9GajQQjTaIDVJt~AJFjGL8qm-hXPTD1Ks74oiq0cRjifhmHjb5nSBRknTSWlatVs02y9e5IzMXkBffUq1NGQuuF9kiqVE4Ppg-Ql8vMjQPdMEZ~Ng~g__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/6756359/poster/vertical/en/240.jpg?Expires=1808396491&Signature=awRD69cNP-PR~PCqgNWoXX5kXKyBDCVSxDbQRs-BumeYOTZRcYOyPonm9X3QKSLUjO52A30SMzNh4eje00D~JVAoUSkND2GNGh1gX8~F1WzaHue8RihqW6PNkJEoXenxpV5KKHdMEgiyDb~RSkSvuyNbhg09jnI4nuXpNEbwR3CP9x08EKmYL48uSV4glseZugOIQYtNL7MNbz~RLQiZDfFtrpTosZh-~M0I8nEEl8uBlLlLDxr-J-g8SWWAWCtaZGOP7s1xMaGK99UqmVQfNyc7ULk9dEjbA2DEZtPGsGMQfhgyx7v6helyLsjg4~078P3DJTEN1lI5xFuzZEi0Sw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG-13",
       "genres": [
         "Action",
@@ -777,7 +765,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-17T07:24:01.233628+00:00",
+      "last_checked": "2026-04-24T07:52:57.745608+00:00",
       "runtime": 98,
       "release_date": "2024-06-21"
     },
@@ -833,7 +821,7 @@
         },
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/the-secret-life-of-walter-mitty/umc.cmc.pw6qkwfo6ppbm0q2zkp07a3f?playableId=tvs.sbd.9001%3A772093232",
           "quality": "hd",
@@ -848,7 +836,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-17T07:24:01.935515+00:00",
+      "last_checked": "2026-04-24T07:52:58.417886+00:00",
       "runtime": 114,
       "release_date": "2013-12-25"
     },
@@ -882,13 +870,13 @@
         },
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "subscription",
           "link": "https://tv.apple.com/us/movie/finch/umc.cmc.47dkj9f2ho3h8dwxixflz65q5?playableId=tvs.sbd.4000%3AA0064701001",
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-17T07:24:02.704121+00:00",
+      "last_checked": "2026-04-24T07:52:59.162456+00:00",
       "runtime": 115,
       "release_date": "2021-11-04"
     },
@@ -914,7 +902,7 @@
       "streaming": {
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/her/umc.cmc.4ky5qbtddgx232de23d3bqr6i?playableId=tvs.sbd.9001%3A810314926",
           "quality": "hd",
@@ -929,7 +917,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-04-17T07:24:03.354274+00:00",
+      "last_checked": "2026-04-24T07:52:59.860402+00:00",
       "runtime": 125,
       "release_date": "2014-01-10"
     },
@@ -960,7 +948,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-17T07:24:04.049581+00:00",
+      "last_checked": "2026-04-24T07:53:00.521242+00:00",
       "runtime": 90,
       "release_date": "2025-03-14"
     },
@@ -1000,7 +988,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-17T07:24:04.726177+00:00",
+      "last_checked": "2026-04-24T07:53:01.185540+00:00",
       "runtime": 87,
       "release_date": "2023-08-11"
     },
@@ -1031,14 +1019,14 @@
         },
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/dear-evan-hansen/umc.cmc.2cx48pp35txxoecn7bkyvcme6?playableId=tvs.sbd.9001%3A1588512819",
           "quality": "hd",
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-17T07:24:05.414134+00:00",
+      "last_checked": "2026-04-24T07:53:01.846829+00:00",
       "runtime": 137,
       "release_date": "2021-09-24"
     },
@@ -3710,7 +3698,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-17T07:24:06.098571+00:00",
+      "last_checked": "2026-04-24T07:53:02.508719+00:00",
       "runtime": 89,
       "release_date": "2024-04-22"
     },
@@ -3806,7 +3794,7 @@
         },
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/sonic-the-hedgehog/umc.cmc.6gkyrgaoool7s2u24tratknbi?playableId=tvs.sbd.9001%3A1496058930",
           "quality": "hd",
@@ -3816,7 +3804,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0SR3GO2IQ1PQ939VTOTOZXUU2Z/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0IX0SYSTLGMA5ZUWRKVJNLWBZ0/ref=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
         },
@@ -3827,7 +3815,7 @@
           "link": "https://www.disneyplus.com/browse/entity-f6104eae-6c27-44c1-a5b2-967187d0e046"
         }
       },
-      "last_checked": "2026-04-17T07:24:06.833846+00:00",
+      "last_checked": "2026-04-24T07:53:03.249995+00:00",
       "runtime": 98,
       "release_date": "2020-02-14"
     },
@@ -3849,19 +3837,13 @@
       "streaming": {
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "subscription",
           "link": "https://tv.apple.com/us/show/the-secret-lives-of-animals/umc.cmc.2o8al5w2z01dnm4f9aw11d2w7",
           "quality": "uhd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Apple TV",
-          "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0RM2MSZ4Q17TU93ONIWEZDDB34"
         }
       },
-      "last_checked": "2026-04-17T07:24:08.738857+00:00",
+      "last_checked": "2026-04-24T07:53:05.423746+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -3884,14 +3866,14 @@
       "streaming": {
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/timmy-failure-mistakes-were-made/umc.cmc.2fam9f115912y31oxp6hlihle?playableId=tvs.sbd.9001%3A1710343965",
           "quality": "hd",
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-17T07:24:09.696073+00:00",
+      "last_checked": "2026-04-24T07:53:06.356989+00:00",
       "runtime": 102,
       "release_date": "2020-01-25"
     },
@@ -3920,7 +3902,7 @@
         },
         "apple": {
           "service": "apple",
-          "serviceName": "Apple TV",
+          "serviceName": "Apple TV+",
           "type": "buy",
           "link": "https://tv.apple.com/us/show/one-strange-rock/umc.cmc.5041h6ycj7s76wi1tjdoodjws",
           "quality": "hd"
@@ -3933,7 +3915,7 @@
           "quality": "sd"
         }
       },
-      "last_checked": "2026-04-17T07:24:11.328758+00:00",
+      "last_checked": "2026-04-24T07:53:07.996277+00:00",
       "season_count": 1,
       "episode_count": 10
     },

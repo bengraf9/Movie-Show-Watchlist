@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T08:12:37.276248+00:00",
+  "last_updated": "2026-04-28T08:13:53.886126+00:00",
   "country": "us",
   "items": [
     {
@@ -1057,7 +1057,7 @@
           "manual": true
         }
       },
-      "last_checked": "2026-04-21T07:26:20.051338+00:00",
+      "last_checked": "2026-04-28T08:13:30.729666+00:00",
       "runtime": 160,
       "release_date": "2025-09-05"
     },
@@ -1221,7 +1221,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-21T07:26:21.848494+00:00",
+      "last_checked": "2026-04-28T08:13:33.092662+00:00",
       "season_count": 3,
       "episode_count": 39,
       "watched_seasons": 2
@@ -1416,7 +1416,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-21T07:26:23.538740+00:00",
+      "last_checked": "2026-04-28T08:13:35.211273+00:00",
       "season_count": 3,
       "episode_count": 33,
       "watched_seasons": 3
@@ -2116,7 +2116,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-21T07:26:25.445163+00:00",
+      "last_checked": "2026-04-28T08:13:37.527319+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2133,7 +2133,7 @@
       "genres": [],
       "overview": "There is nothing special about Harry Potter - at least that's what his Aunt Petunia always says. On his 11th birthday, a letter of admittance to Hogwarts School of Witchcraft and Wizardry opens up ...",
       "streaming": {},
-      "last_checked": "2026-04-21T07:26:27.214346+00:00",
+      "last_checked": "2026-04-28T08:13:39.754269+00:00",
       "episode_count": 1
     },
     {
@@ -2160,7 +2160,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-21T07:26:28.298381+00:00",
+      "last_checked": "2026-04-28T08:13:41.343317+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -2205,10 +2205,10 @@
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0M7LUXB0DEQU6O21LZ0WTWJX07/ref=atv_dp",
           "quality": "uhd",
-          "price": "2.99 USD"
+          "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-04-21T07:26:29.110542+00:00",
+      "last_checked": "2026-04-28T08:13:42.356564+00:00",
       "runtime": 107,
       "release_date": "2021-10-22"
     },
@@ -2240,7 +2240,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-21T07:26:29.614533+00:00",
+      "last_checked": "2026-04-28T08:13:43.049514+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -2271,7 +2271,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-21T07:26:30.154417+00:00",
+      "last_checked": "2026-04-28T08:13:43.727268+00:00",
       "runtime": 122,
       "release_date": "2022-12-09"
     },
@@ -2348,10 +2348,10 @@
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0KIU948OY9VO8VMM4DJ5GFL95J/ref=atv_dp",
           "quality": "uhd",
-          "price": "3.99 USD"
+          "price": "2.99 USD"
         }
       },
-      "last_checked": "2026-04-21T07:26:30.886592+00:00",
+      "last_checked": "2026-04-28T08:13:44.529348+00:00",
       "runtime": 96,
       "release_date": "2009-05-29"
     },
@@ -2404,9 +2404,16 @@
           "type": "subscription",
           "link": "https://www.netflix.com/title/70305932/",
           "quality": "hd"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/movie/night-at-the-museum:-secret-of-the-tomb-eefd84d7-01a2-419e-941c-631efaad118a",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-04-21T07:26:31.417747+00:00",
+      "last_checked": "2026-04-28T08:13:45.243805+00:00",
       "runtime": 97,
       "release_date": "2014-12-19"
     },
@@ -2446,7 +2453,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-21T07:26:31.939786+00:00",
+      "last_checked": "2026-04-28T08:13:45.922885+00:00",
       "runtime": 102,
       "release_date": "2025-06-20"
     },
@@ -2478,7 +2485,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-21T07:26:32.438665+00:00",
+      "last_checked": "2026-04-28T08:13:46.588530+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -2510,7 +2517,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-21T07:26:32.969510+00:00",
+      "last_checked": "2026-04-28T08:13:47.251017+00:00",
       "runtime": 110,
       "release_date": "2024-11-11"
     },
@@ -2534,7 +2541,7 @@
       ],
       "overview": "Molly Mahoney is the awkward and insecure manager of Mr. Magorium's Wonder Emporium, the strangest, most fantastic, most wonderful toy store in the world. But when Mr. Magorium, the 243 year-old ec...",
       "streaming": {},
-      "last_checked": "2026-04-21T07:26:33.502481+00:00",
+      "last_checked": "2026-04-28T08:13:47.917231+00:00",
       "runtime": 93,
       "release_date": "2007-11-16"
     },
@@ -2582,7 +2589,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-21T07:26:34.040060+00:00",
+      "last_checked": "2026-04-28T08:13:48.676693+00:00",
       "runtime": 98,
       "release_date": "1981-06-26"
     },
@@ -2630,7 +2637,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-21T07:26:34.515263+00:00",
+      "last_checked": "2026-04-28T08:13:49.425054+00:00",
       "runtime": 134,
       "release_date": "2018-05-25"
     },
@@ -2671,7 +2678,7 @@
           "price": "3.79 USD"
         }
       },
-      "last_checked": "2026-04-21T07:26:35.038050+00:00",
+      "last_checked": "2026-04-28T08:13:50.184039+00:00",
       "runtime": 97,
       "release_date": "2019-09-27"
     },
@@ -2711,7 +2718,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-21T07:26:35.509961+00:00",
+      "last_checked": "2026-04-28T08:13:50.936826+00:00",
       "runtime": 118,
       "release_date": "2003-04-18"
     },
@@ -2750,7 +2757,7 @@
           "link": "https://play.hbomax.com/movie/83df1c2b-db9d-49cd-bf83-9ddbaa7e5e30"
         }
       },
-      "last_checked": "2026-04-21T07:26:36.007968+00:00",
+      "last_checked": "2026-04-28T08:13:51.662106+00:00",
       "runtime": 85,
       "release_date": "2024-12-06"
     },
@@ -2780,14 +2787,7 @@
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0HK9XPVWNZ64U1ES6OJKN2P9Z8/ref=atv_dp",
           "quality": "uhd",
-          "price": "5.66 USD"
-        },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-2854a94d-3702-40bd-97a4-12d55a809188",
-          "quality": "uhd"
+          "price": "3.99 USD"
         },
         "apple": {
           "service": "apple",
@@ -2796,9 +2796,16 @@
           "link": "https://tv.apple.com/us/movie/star-wars-the-force-awakens/umc.cmc.61i3yveu7xby4chfkqved19ka?playableId=tvs.sbd.9001%3A1063466898",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-2854a94d-3702-40bd-97a4-12d55a809188",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-21T07:26:36.483377+00:00",
+      "last_checked": "2026-04-28T08:13:52.386853+00:00",
       "runtime": 136,
       "release_date": "2015-12-18"
     },
@@ -2830,13 +2837,6 @@
           "quality": "uhd",
           "price": "5.66 USD"
         },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-50c1aff5-3051-4839-9ebf-e332c635e216",
-          "quality": "uhd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -2844,9 +2844,16 @@
           "link": "https://tv.apple.com/us/movie/star-wars-the-last-jedi/umc.cmc.7f19yhpg0i8vk8of1ydhs7g1v?playableId=tvs.sbd.9001%3A1316280891",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-50c1aff5-3051-4839-9ebf-e332c635e216",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-21T07:26:37.050670+00:00",
+      "last_checked": "2026-04-28T08:13:53.131425+00:00",
       "runtime": 152,
       "release_date": "2017-12-15"
     },
@@ -2870,13 +2877,6 @@
       ],
       "overview": "Rey and her allies prepare for a showdown against Kylo Ren and the First Order.",
       "streaming": {
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-43f9c275-e7e8-4ab3-802d-00d06a8ad841",
-          "quality": "uhd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -2892,9 +2892,16 @@
           "link": "https://tv.apple.com/us/movie/star-wars-the-rise-of-skywalker/umc.cmc.71hlilqgd8utz8c4nlpl6ol7m?playableId=tvs.sbd.9001%3A1490359713",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-43f9c275-e7e8-4ab3-802d-00d06a8ad841",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-21T07:26:37.647386+00:00",
+      "last_checked": "2026-04-28T08:13:53.885691+00:00",
       "runtime": 142,
       "release_date": "2019-12-20"
     },

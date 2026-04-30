@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T08:06:32.542242+00:00",
+  "last_updated": "2026-04-30T08:11:19.877829+00:00",
   "country": "us",
   "items": [
     {
@@ -2303,7 +2303,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-23T07:27:26.916037+00:00",
+      "last_checked": "2026-04-30T08:10:33.702964+00:00",
       "runtime": 123,
       "release_date": "2021-01-29"
     },
@@ -3012,6 +3012,13 @@
       ],
       "overview": "Walt Disney Animation Studios’ original action-packed comedy adventure, Strange World, introduces us to three generations of the legendary Clade family as they attempt to band together and navigate...",
       "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-30c7bfa8-63f8-4bfe-b257-e64fa816c8da",
+          "quality": "uhd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -3019,16 +3026,9 @@
           "link": "https://www.amazon.com/gp/video/detail/0QKXVRUQSVUW4TQBO6ZE910FPD/ref=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
-        },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-30c7bfa8-63f8-4bfe-b257-e64fa816c8da",
-          "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-23T07:27:27.781539+00:00",
+      "last_checked": "2026-04-30T08:10:35.934182+00:00",
       "runtime": 107,
       "release_date": "2022-11-23"
     },
@@ -3060,7 +3060,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-23T07:27:28.594852+00:00",
+      "last_checked": "2026-04-30T08:10:40.797078+00:00",
       "runtime": 90,
       "release_date": "1984-07-13"
     },
@@ -3093,7 +3093,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-23T07:27:29.386567+00:00",
+      "last_checked": "2026-04-30T08:10:45.717840+00:00",
       "runtime": 84,
       "release_date": "1999-07-14"
     },
@@ -3124,13 +3124,6 @@
           "quality": "uhd",
           "price": "3.99 USD"
         },
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://play.hbomax.com/movie/01d3fe24-a0ec-432f-bdd5-4c513472b528",
-          "quality": "uhd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -3138,9 +3131,16 @@
           "link": "https://www.amazon.com/gp/video/detail/0FCO4Z9G8KI4R1CXC5E3Y3F46Z/ref=atv_dp",
           "quality": "uhd",
           "price": "4.99 USD"
+        },
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/movie/01d3fe24-a0ec-432f-bdd5-4c513472b528",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-23T07:27:30.204958+00:00",
+      "last_checked": "2026-04-30T08:10:53.706310+00:00",
       "runtime": 97,
       "release_date": "2021-11-24"
     },
@@ -3188,7 +3188,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-23T07:27:30.994828+00:00",
+      "last_checked": "2026-04-30T08:11:04.091575+00:00",
       "runtime": 135,
       "release_date": "2023-05-26"
     },
@@ -3217,7 +3217,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-23T07:27:31.724761+00:00",
+      "last_checked": "2026-04-30T08:11:04.606359+00:00",
       "runtime": 89,
       "release_date": "2020-03-14"
     },
@@ -3246,7 +3246,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-23T07:27:32.613636+00:00",
+      "last_checked": "2026-04-30T08:11:05.102070+00:00",
       "runtime": 38,
       "release_date": "2022-04-14"
     },
@@ -3275,7 +3275,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-23T07:27:34.460211+00:00",
+      "last_checked": "2026-04-30T08:11:06.310299+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -3296,7 +3296,7 @@
       ],
       "overview": "It's the land we love and the land we think we know. We see America's breathtaking landscapes and wildlife as timeless, but the truth is very different. Its unique geography drives the forces of na...",
       "streaming": {},
-      "last_checked": "2026-04-23T07:27:37.427625+00:00",
+      "last_checked": "2026-04-30T08:11:08.166043+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -3326,7 +3326,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-23T07:27:39.487440+00:00",
+      "last_checked": "2026-04-30T08:11:09.656081+00:00",
       "season_count": 1,
       "episode_count": 4
     },
@@ -3361,7 +3361,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-23T07:27:41.444555+00:00",
+      "last_checked": "2026-04-30T08:11:11.054548+00:00",
       "season_count": 1,
       "episode_count": 26
     },
@@ -3386,7 +3386,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0G0V1VGD71Z6L2V31XG9T32XG8"
+          "link": "https://www.amazon.com/gp/video/detail/0RMLEWCAFDEWCXZ74RGLN7XBOX"
         },
         "tubi": {
           "service": "tubi",
@@ -3396,7 +3396,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-23T07:27:43.498424+00:00",
+      "last_checked": "2026-04-30T08:11:12.403434+00:00",
       "season_count": 6,
       "episode_count": 170
     },
@@ -3424,7 +3424,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-23T07:27:45.907049+00:00",
+      "last_checked": "2026-04-30T08:11:13.906105+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -3468,7 +3468,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-23T07:27:48.703812+00:00",
+      "last_checked": "2026-04-30T08:11:15.840796+00:00",
       "season_count": 6,
       "episode_count": 177
     },
@@ -3498,7 +3498,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-23T07:27:49.753650+00:00",
+      "last_checked": "2026-04-30T08:11:16.517288+00:00",
       "runtime": 88,
       "release_date": "2023-11-17"
     },
@@ -3527,7 +3527,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-23T07:27:50.477587+00:00",
+      "last_checked": "2026-04-30T08:11:16.947798+00:00",
       "runtime": 59,
       "release_date": "2021-10-01"
     },
@@ -3558,7 +3558,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-23T07:27:51.223414+00:00",
+      "last_checked": "2026-04-30T08:11:17.402270+00:00",
       "runtime": 96,
       "release_date": "2020-08-21"
     },
@@ -3595,7 +3595,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-23T07:27:51.940624+00:00",
+      "last_checked": "2026-04-30T08:11:17.851396+00:00",
       "runtime": 76,
       "release_date": "2019-04-17"
     },
@@ -3641,7 +3641,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-23T07:27:52.755964+00:00",
+      "last_checked": "2026-04-30T08:11:18.315596+00:00",
       "runtime": 106,
       "release_date": "2022-10-07"
     },
@@ -3677,7 +3677,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-23T07:27:53.624124+00:00",
+      "last_checked": "2026-04-30T08:11:18.767534+00:00",
       "runtime": 93,
       "release_date": "2023-03-24"
     },
@@ -3733,7 +3733,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-23T07:27:54.681668+00:00",
+      "last_checked": "2026-04-30T08:11:19.417945+00:00",
       "runtime": 77,
       "release_date": "2024-04-22"
     },
@@ -3769,9 +3769,15 @@
           "link": "https://www.amazon.com/gp/video/detail/0NB8QGC6DG5QQHZ5J3DQN13H4W/ref=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-cae0a85a-0f85-4116-9f71-9aaef9b00c80"
         }
       },
-      "last_checked": "2026-04-23T07:27:55.410917+00:00",
+      "last_checked": "2026-04-30T08:11:19.877279+00:00",
       "runtime": 88,
       "release_date": "2024-08-02"
     },

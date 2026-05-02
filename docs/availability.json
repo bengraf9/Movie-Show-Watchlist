@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T08:05:39.798484+00:00",
+  "last_updated": "2026-05-02T07:24:14.169468+00:00",
   "country": "us",
   "items": [
     {
@@ -3957,7 +3957,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-25T07:06:36.810022+00:00",
+      "last_checked": "2026-05-02T07:24:03.849394+00:00",
       "runtime": 73
     },
     {
@@ -3977,7 +3977,7 @@
       ],
       "overview": "Young Michael, shipwrecked on a remote island, must adapt to life alone. Over time, he feels another presence, learning that this world is home to both unimaginable danger and beauty.",
       "streaming": {},
-      "last_checked": "2026-04-25T07:06:37.930858+00:00",
+      "last_checked": "2026-05-02T07:24:04.608130+00:00",
       "runtime": 84,
       "release_date": "2024-10-18"
     },
@@ -4008,7 +4008,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-04-25T07:06:38.918011+00:00",
+      "last_checked": "2026-05-02T07:24:05.366964+00:00",
       "runtime": 83,
       "release_date": "2024-02-02"
     },
@@ -4030,13 +4030,6 @@
       ],
       "overview": "Walt Disney Animation Studios’ “Raya and the Last Dragon” travels to the fantasy world of Kumandra, where humans and dragons lived together in harmony long ago. But when an evil force threatened th...",
       "streaming": {
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-72aceacd-23df-4fc2-89fb-0b9595a764ca",
-          "quality": "uhd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -4052,9 +4045,16 @@
           "link": "https://www.amazon.com/gp/video/detail/0FBFRB46ZO50J8MEMCJK7TWOGM/ref=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-72aceacd-23df-4fc2-89fb-0b9595a764ca",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-25T07:06:39.715760+00:00",
+      "last_checked": "2026-05-02T07:24:05.842428+00:00",
       "runtime": 107,
       "release_date": "2021-03-05"
     },
@@ -4092,7 +4092,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-04-25T07:06:40.575209+00:00",
+      "last_checked": "2026-05-02T07:24:06.387449+00:00",
       "runtime": 104,
       "release_date": "2019-05-10"
     },
@@ -4135,7 +4135,7 @@
           "link": "https://www.hulu.com/movie/spy-kids-f875376e-19e8-4f2b-8176-7fba8fff73d7"
         }
       },
-      "last_checked": "2026-04-25T07:06:41.372319+00:00",
+      "last_checked": "2026-05-02T07:24:06.819499+00:00",
       "runtime": 88,
       "release_date": "2001-03-18"
     },
@@ -4174,7 +4174,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-04-25T07:06:42.171910+00:00",
+      "last_checked": "2026-05-02T07:24:07.269879+00:00",
       "runtime": 87,
       "release_date": "2019-05-03"
     },
@@ -4203,7 +4203,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-25T07:06:44.408638+00:00",
+      "last_checked": "2026-05-02T07:24:08.580853+00:00",
       "season_count": 1,
       "episode_count": 4
     },
@@ -4239,7 +4239,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-25T07:06:45.469562+00:00",
+      "last_checked": "2026-05-02T07:24:09.416691+00:00",
       "runtime": 137,
       "release_date": "2025-04-18"
     },
@@ -4269,7 +4269,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-25T07:06:47.176568+00:00",
+      "last_checked": "2026-05-02T07:24:10.370664+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -4298,7 +4298,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-25T07:06:49.078719+00:00",
+      "last_checked": "2026-05-02T07:24:11.557351+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -4318,7 +4318,7 @@
       ],
       "overview": "Described as \"a non-prequel non-reboot sequel part two but with reboot elements franchise expansion film\". Plot TBA.",
       "streaming": {},
-      "last_checked": "2026-04-25T07:06:50.907708+00:00",
+      "last_checked": "2026-05-02T07:24:12.751172+00:00",
       "release_date": "2027-04-23"
     },
     {
@@ -4334,7 +4334,7 @@
       "genres": [],
       "overview": "A lonely elderly widow named Tova forms an unlikely friendship with a curmudgeonly cephalopod octopus named Marcellus, but unbeknownst to her, Marcellus is on a mission to solve a mystery that will...",
       "streaming": {},
-      "last_checked": "2026-04-25T07:06:53.051437+00:00",
+      "last_checked": "2026-05-02T07:24:14.169439+00:00",
       "release_date": "2026-05-08"
     }
   ]

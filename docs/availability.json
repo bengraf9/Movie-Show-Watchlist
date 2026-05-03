@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T07:24:14.169468+00:00",
+  "last_updated": "2026-05-03T07:53:34.031335+00:00",
   "country": "us",
   "items": [
     {
@@ -1188,7 +1188,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-26T07:20:36.539830+00:00",
+      "last_checked": "2026-05-03T07:53:07.073295+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1
@@ -1252,7 +1252,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-26T07:20:38.008123+00:00",
+      "last_checked": "2026-05-03T07:53:08.824827+00:00",
       "season_count": 1,
       "episode_count": 3
     },
@@ -1312,7 +1312,7 @@
           "link": "https://play.hbomax.com/show/576e149d-8211-46dd-be88-e97fa9e01ac4"
         }
       },
-      "last_checked": "2026-04-26T07:20:39.425783+00:00",
+      "last_checked": "2026-05-03T07:53:10.672861+00:00",
       "season_count": 6,
       "episode_count": 90
     },
@@ -1351,7 +1351,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-26T07:20:40.681389+00:00",
+      "last_checked": "2026-05-03T07:53:12.506337+00:00",
       "season_count": 5,
       "episode_count": 100
     },
@@ -1383,7 +1383,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-26T07:20:42.395994+00:00",
+      "last_checked": "2026-05-03T07:53:14.896191+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -1441,21 +1441,21 @@
       ],
       "overview": "Venture into the unknown with Captain Pike, Spock, Number One and the U.S.S. Enterprise crew a decade before Captain Kirk's legendary five-year mission.",
       "streaming": {
-        "paramount": {
-          "service": "paramount",
-          "serviceName": "Paramount+",
-          "type": "subscription",
-          "link": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/B0CKJMNRS9",
           "quality": "hd"
+        },
+        "paramount": {
+          "service": "paramount",
+          "serviceName": "Paramount+",
+          "type": "subscription",
+          "link": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/"
         }
       },
-      "last_checked": "2026-04-26T07:20:43.847576+00:00",
+      "last_checked": "2026-05-03T07:53:16.834637+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1486,7 +1486,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-26T07:20:45.152187+00:00",
+      "last_checked": "2026-05-03T07:53:18.718220+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -1531,7 +1531,7 @@
           "link": "https://www.paramountplus.com/shows/star-trek-picard/"
         }
       },
-      "last_checked": "2026-04-26T07:20:46.622913+00:00",
+      "last_checked": "2026-05-03T07:53:20.745667+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1639,7 +1639,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0G9FYIB9KJM4P0PPF0RIHS07Z0",
+          "link": "https://www.amazon.com/gp/video/detail/0P8RSNTMDGG2TKL8BMA9T3NQTV",
           "quality": "hd"
         },
         "peacock": {
@@ -1664,7 +1664,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-26T07:20:48.232166+00:00",
+      "last_checked": "2026-05-03T07:53:23.079157+00:00",
       "season_count": 7,
       "episode_count": 146,
       "watched_seasons": 2
@@ -1732,7 +1732,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0FQ6CCQ8R4PTZVYRLWGR3BLX93"
+          "link": "https://www.amazon.com/gp/video/detail/0U5LPGLHIBYAA24ISAM352994E"
         },
         "tubi": {
           "service": "tubi",
@@ -1749,7 +1749,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-26T07:20:50.029640+00:00",
+      "last_checked": "2026-05-03T07:53:25.550641+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1786,7 +1786,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-26T07:20:51.776073+00:00",
+      "last_checked": "2026-05-03T07:53:28.060904+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -1812,7 +1812,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0M1NFDPQIS7OC2KAY32RNTKH8K",
+          "link": "https://www.amazon.com/gp/video/detail/0RP4D4UQY9C8HSP0409EDW1OAW",
           "quality": "sd"
         },
         "peacock": {
@@ -1830,7 +1830,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-04-26T07:20:53.298320+00:00",
+      "last_checked": "2026-05-03T07:53:30.200320+00:00",
       "season_count": 6,
       "episode_count": 110
     },
@@ -1859,7 +1859,7 @@
           "link": "https://play.hbomax.com/show/c967b1a4-d0e2-491e-967e-ae09f88fef62"
         }
       },
-      "last_checked": "2026-04-26T07:20:54.702234+00:00",
+      "last_checked": "2026-05-03T07:53:32.057764+00:00",
       "season_count": 1,
       "episode_count": 2
     },
@@ -1890,7 +1890,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-04-26T07:20:55.893809+00:00",
+      "last_checked": "2026-05-03T07:53:33.768208+00:00",
       "season_count": 5,
       "episode_count": 30
     },

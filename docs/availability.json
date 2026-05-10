@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T07:48:28.787571+00:00",
+  "last_updated": "2026-05-10T08:01:24.981986+00:00",
   "country": "us",
   "items": [
     {
@@ -1195,7 +1195,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-03T07:53:07.073295+00:00",
+      "last_checked": "2026-05-10T08:01:02.325360+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1
@@ -1259,7 +1259,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-03T07:53:08.824827+00:00",
+      "last_checked": "2026-05-10T08:01:03.615995+00:00",
       "season_count": 1,
       "episode_count": 3
     },
@@ -1319,7 +1319,7 @@
           "link": "https://play.hbomax.com/show/576e149d-8211-46dd-be88-e97fa9e01ac4"
         }
       },
-      "last_checked": "2026-05-03T07:53:10.672861+00:00",
+      "last_checked": "2026-05-10T08:01:05.475154+00:00",
       "season_count": 6,
       "episode_count": 90
     },
@@ -1358,7 +1358,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-03T07:53:12.506337+00:00",
+      "last_checked": "2026-05-10T08:01:07.008065+00:00",
       "season_count": 5,
       "episode_count": 100
     },
@@ -1390,7 +1390,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-03T07:53:14.896191+00:00",
+      "last_checked": "2026-05-10T08:01:08.775755+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -1462,7 +1462,7 @@
           "link": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/"
         }
       },
-      "last_checked": "2026-05-03T07:53:16.834637+00:00",
+      "last_checked": "2026-05-10T08:01:10.317703+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1493,7 +1493,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-03T07:53:18.718220+00:00",
+      "last_checked": "2026-05-10T08:01:11.689163+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -1538,7 +1538,7 @@
           "link": "https://www.paramountplus.com/shows/star-trek-picard/"
         }
       },
-      "last_checked": "2026-05-03T07:53:20.745667+00:00",
+      "last_checked": "2026-05-10T08:01:13.339513+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1649,13 +1649,6 @@
           "link": "https://www.amazon.com/gp/video/detail/0P8RSNTMDGG2TKL8BMA9T3NQTV",
           "quality": "hd"
         },
-        "peacock": {
-          "service": "peacock",
-          "serviceName": "Peacock",
-          "type": "subscription",
-          "link": "https://www.peacocktv.com/watch/asset/tv/new-girl/7602787974345717112",
-          "quality": "hd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -1669,9 +1662,16 @@
           "type": "subscription",
           "link": "https://www.hulu.com/series/new-girl-42850dbc-0f98-4d8a-a09a-3427ee8085e5",
           "quality": "hd"
+        },
+        "peacock": {
+          "service": "peacock",
+          "serviceName": "Peacock",
+          "type": "subscription",
+          "link": "https://www.peacocktv.com/watch/asset/tv/new-girl/7602787974345717112",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-05-03T07:53:23.079157+00:00",
+      "last_checked": "2026-05-10T08:01:15.143795+00:00",
       "season_count": 7,
       "episode_count": 146,
       "watched_seasons": 2
@@ -1756,7 +1756,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-03T07:53:25.550641+00:00",
+      "last_checked": "2026-05-10T08:01:17.131132+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1793,7 +1793,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-03T07:53:28.060904+00:00",
+      "last_checked": "2026-05-10T08:01:19.207810+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -1815,13 +1815,6 @@
       ],
       "overview": "When his college degree is challenged as a fake, lawyer and schemer Jeff Winger is forced to return to school and reluctantly becomes the leader of a misfit collection of fellow students.",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0RP4D4UQY9C8HSP0409EDW1OAW",
-          "quality": "sd"
-        },
         "peacock": {
           "service": "peacock",
           "serviceName": "Peacock",
@@ -1835,9 +1828,16 @@
           "type": "subscription",
           "link": "https://www.hulu.com/series/community-200c56d4-124c-41a1-b7d2-688f86f432bf",
           "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0RZDRR4YJ51TRS4ISXB1JC1KTR",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-05-03T07:53:30.200320+00:00",
+      "last_checked": "2026-05-10T08:01:21.003467+00:00",
       "season_count": 6,
       "episode_count": 110
     },
@@ -1866,7 +1866,7 @@
           "link": "https://play.hbomax.com/show/c967b1a4-d0e2-491e-967e-ae09f88fef62"
         }
       },
-      "last_checked": "2026-05-03T07:53:32.057764+00:00",
+      "last_checked": "2026-05-10T08:01:22.454615+00:00",
       "season_count": 1,
       "episode_count": 2
     },
@@ -1897,7 +1897,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-03T07:53:33.768208+00:00",
+      "last_checked": "2026-05-10T08:01:23.651884+00:00",
       "season_count": 5,
       "episode_count": 30
     },
@@ -3997,7 +3997,7 @@
       ],
       "overview": "Young Michael, shipwrecked on a remote island, must adapt to life alone. Over time, he feels another presence, learning that this world is home to both unimaginable danger and beauty.",
       "streaming": {},
-      "last_checked": "2026-05-02T07:24:04.608130+00:00",
+      "last_checked": "2026-05-10T08:01:24.318746+00:00",
       "runtime": 84,
       "release_date": "2024-10-18"
     },
@@ -4028,7 +4028,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-05-02T07:24:05.366964+00:00",
+      "last_checked": "2026-05-10T08:01:24.981884+00:00",
       "runtime": 83,
       "release_date": "2024-02-02"
     },

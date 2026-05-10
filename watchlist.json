@@ -71,20 +71,6 @@
     "rating": "PG-13"
   },
   {
-    "title": "Roxanne",
-    "type": "movie",
-    "lists": [
-      "dad"
-    ],
-    "priority": {
-      "dad-movie": 8
-    },
-    "tmdb_id": "movie/11584",
-    "year": 1987,
-    "rating": "PG",
-    "release_date": "1987-06-19"
-  },
-  {
     "title": "Spider-Man: Brand New Day",
     "year": 2026,
     "type": "movie",
@@ -180,21 +166,6 @@
     "year": 1979,
     "rating": "PG",
     "release_date": "1979-12-19"
-  },
-  {
-    "title": "Boyhood",
-    "year": 2014,
-    "type": "movie",
-    "lists": [
-      "dad",
-      "mom"
-    ],
-    "priority": {
-      "dad-movie": 16
-    },
-    "tmdb_id": "movie/85350",
-    "rating": "R",
-    "release_date": "2014-08-15"
   },
   {
     "title": "Napoleon",
@@ -1251,16 +1222,6 @@
     "tmdb_id": "tv/68472"
   },
   {
-    "title": "Shaun the Sheep",
-    "year": 2007,
-    "type": "series",
-    "lists": [
-      "kids"
-    ],
-    "tmdb_id": "tv/3902",
-    "rating": "TV-G"
-  },
-  {
     "title": "Big Beasts",
     "year": 2023,
     "type": "series",
@@ -1390,16 +1351,6 @@
     "release_date": "2020-02-14"
   },
   {
-    "title": "The Secret Lives of Animals",
-    "year": 2024,
-    "type": "series",
-    "lists": [
-      "kids"
-    ],
-    "tmdb_id": "tv/276501",
-    "rating": "TV-G"
-  },
-  {
     "title": "Timmy Failure: Mistakes Were Made",
     "year": 2020,
     "type": "movie",
@@ -1495,16 +1446,6 @@
     "release_date": "2019-05-03"
   },
   {
-    "title": "The Dinosaurs",
-    "year": 2026,
-    "type": "series",
-    "lists": [
-      "kids"
-    ],
-    "tmdb_id": "tv/313298",
-    "rating": "TV-PG"
-  },
-  {
     "title": "Sinners",
     "year": 2025,
     "type": "movie",
@@ -1514,15 +1455,6 @@
     "tmdb_id": "movie/1233413",
     "rating": "R",
     "release_date": "2025-04-18"
-  },
-  {
-    "title": "I, Jack Wright",
-    "year": 2025,
-    "type": "series",
-    "lists": [
-      "mom"
-    ],
-    "tmdb_id": "tv/262899"
   },
   {
     "title": "Heated Rivalry",
@@ -1554,5 +1486,13 @@
     "tmdb_id": "movie/1330021",
     "release_date": "2026-05-08",
     "rating": "PG-13"
+  },
+  {
+    "title": "Ted Lasso",
+    "type": "series",
+    "lists": [
+      "dad"
+    ],
+    "watched_seasons": 3,
   }
 ]

@@ -432,7 +432,7 @@
       "mom"
     ],
     "priority": {
-      "dad-series": 3
+      "dad-series": 6
     },
     "tmdb_id": "tv/83867",
     "year": 2022,
@@ -449,7 +449,7 @@
     "tmdb_id": "tv/98198",
     "year": 2020,
     "priority": {
-      "dad-series": 4
+      "dad-series": 7
     },
     "watched_seasons": 2,
     "rating": "TV-14",
@@ -467,7 +467,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 5
+      "dad-series": 10
     },
     "tmdb_id": "tv/102349",
     "year": 2020,
@@ -481,7 +481,7 @@
     ],
     "tmdb_id": "tv/287399",
     "priority": {
-      "dad-series": 6
+      "dad-series": 4
     },
     "watched_seasons": 1,
     "year": 2025
@@ -493,7 +493,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 7
+      "dad-series": 11
     },
     "tmdb_id": "tv/1915",
     "year": 1992,
@@ -506,7 +506,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 8
+      "dad-series": 14
     },
     "tmdb_id": "tv/1705",
     "year": 2008,
@@ -535,7 +535,7 @@
       "mom"
     ],
     "priority": {
-      "dad-series": 11
+      "dad-series": 5
     },
     "tmdb_id": "tv/136311",
     "year": 2023,
@@ -549,24 +549,11 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 11
+      "dad-series": 13
     },
     "tmdb_id": "tv/103516",
     "year": 2022,
     "rating": "TV-PG"
-  },
-  {
-    "title": "Long Story Short",
-    "type": "series",
-    "lists": [
-      "dad"
-    ],
-    "priority": {
-      "dad-series": 13
-    },
-    "tmdb_id": "tv/262375",
-    "year": 2025,
-    "rating": "TV-14"
   },
   {
     "title": "Star Trek: Picard",
@@ -575,7 +562,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 14
+      "dad-series": 18
     },
     "tmdb_id": "tv/85949",
     "year": 2020,
@@ -589,40 +576,12 @@
       "mom"
     ],
     "priority": {
-      "dad-series": 15
+      "dad-series": 12
     },
     "watched_seasons": 1,
     "tmdb_id": "tv/241554",
     "year": 2025,
     "rating": "TV-MA"
-  },
-  {
-    "title": "Agents of S.H.I.E.L.D.",
-    "type": "series",
-    "lists": [
-      "dad"
-    ],
-    "priority": {
-      "dad-series": 16
-    },
-    "tmdb_id": "tv/1403",
-    "year": 2013,
-    "rating": "TV-14"
-  },
-  {
-    "title": "New Girl",
-    "type": "series",
-    "lists": [
-      "dad",
-      "mom"
-    ],
-    "priority": {
-      "dad-series": 17
-    },
-    "watched_seasons": 2,
-    "tmdb_id": "tv/1420",
-    "year": 2011,
-    "rating": "TV-14"
   },
   {
     "title": "The Expanse",
@@ -631,7 +590,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 18
+      "dad-series": 20
     },
     "tmdb_id": "tv/63639",
     "year": 2015,
@@ -644,7 +603,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 19
+      "dad-series": 15
     },
     "tmdb_id": "tv/46639",
     "year": 2017,
@@ -657,7 +616,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 20
+      "dad-series": 22
     },
     "tmdb_id": "tv/253941",
     "year": 2025,
@@ -683,7 +642,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 23
+      "dad-series": 24
     },
     "tmdb_id": "tv/308112",
     "year": 2026
@@ -695,7 +654,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 24
+      "dad-series": 25
     },
     "tmdb_id": "tv/95480",
     "year": 2022,
@@ -708,7 +667,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 25
+      "dad-series": 17
     },
     "tmdb_id": "tv/67195",
     "year": 2017,
@@ -722,7 +681,7 @@
       "mom"
     ],
     "priority": {
-      "dad-series": 26
+      "dad-series": 23
     },
     "watched_seasons": 1,
     "tmdb_id": "tv/84773",
@@ -742,7 +701,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 27
+      "dad-series": 19
     },
     "tmdb_id": "tv/155533",
     "year": 2024,
@@ -755,7 +714,7 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 28
+      "dad-series": 26
     },
     "tmdb_id": "tv/92830",
     "year": 2022,
@@ -768,24 +727,11 @@
       "dad"
     ],
     "priority": {
-      "dad-series": 29
+      "dad-series": 16
     },
     "tmdb_id": "tv/1421",
     "year": 2009,
     "rating": "TV-PG"
-  },
-  {
-    "title": "Bad Monkey",
-    "type": "series",
-    "lists": [
-      "dad"
-    ],
-    "priority": {
-      "dad-series": 30
-    },
-    "tmdb_id": "tv/130853",
-    "year": 2024,
-    "rating": "TV-MA"
   },
   {
     "title": "Harry Potter",
@@ -793,6 +739,9 @@
     "lists": [
       "dad"
     ],
+    "priority": {
+      "dad-series": 8
+    },
     "tmdb_id": "tv/224377",
     "year": 2026
   },
@@ -1480,6 +1429,10 @@
     "lists": [
       "dad"
     ],
+    "priority": {
+      "dad-series": 3
+    },
+
     "tmdb_id": "tv/97546",
     "watched_seasons": 3  
   },

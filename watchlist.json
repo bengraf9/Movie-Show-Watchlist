@@ -1337,41 +1337,54 @@
     "priority": {
       "dad-series": 3
     },
-
     "tmdb_id": "tv/97546",
-    "watched_seasons": 3  
+    "watched_seasons": 3,
+    "year": 2020,
+    "rating": "TV-MA"
   },
   {
     "title": "Before Sunrise",
     "type": "movie",
     "lists": [
-      "dad", "mom"
+      "dad",
+      "mom"
     ],
     "priority": {
       "dad-movie": 5
     },
-    "tmdb_id": "movie/76"
-  },  
+    "tmdb_id": "movie/76",
+    "year": 1995,
+    "rating": "R",
+    "release_date": "1995-01-27"
+  },
   {
     "title": "Before Sunset",
     "type": "movie",
     "lists": [
-      "dad", "mom"
+      "dad",
+      "mom"
     ],
     "priority": {
       "dad-movie": 6
     },
-    "tmdb_id": "movie/80"
-  },  
+    "tmdb_id": "movie/80",
+    "year": 2004,
+    "rating": "R",
+    "release_date": "2004-07-30"
+  },
   {
     "title": "Before Midnight",
     "type": "movie",
     "lists": [
-      "dad", "mom"
+      "dad",
+      "mom"
     ],
     "priority": {
       "dad-movie": 7
     },
-    "tmdb_id": "movie/132344"
+    "tmdb_id": "movie/132344",
+    "year": 2013,
+    "rating": "R",
+    "release_date": "2013-06-14"
   }
 ]

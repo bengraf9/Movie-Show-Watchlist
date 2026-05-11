@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T11:09:56.615758+00:00",
+  "last_updated": "2026-05-11T19:32:36.425129+00:00",
   "country": "us",
   "items": [
     {
@@ -11,7 +11,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 2
+        "dad-movie": 1
       },
       "poster": "https://image.tmdb.org/t/p/w300/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
       "rating": "",
@@ -35,7 +35,7 @@
         "mom"
       ],
       "priority": {
-        "dad-movie": 3
+        "dad-movie": 2
       },
       "poster": "https://image.tmdb.org/t/p/w300/hTirV44jiLh6NqdiB6jtxPsDIoG.jpg",
       "rating": "PG",
@@ -59,7 +59,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 4
+        "dad-movie": 11
       },
       "poster": "https://cdn.movieofthenight.com/show/3748/poster/vertical/en/240.jpg?Expires=1800371597&Signature=CGMpdETArmw7DjndCExpyJsJ7ZUD3YNnDy5S3EqS3RKQdOtRVGExaRDa0dEIbmUKYZeM4RehRKYBwbQPyCNLFpkNEDlV723TvFohw3twBbhxEnuKMMkImyqX4C2l3bnd-VgDiPinlHdjf3F1U1ux5Q8AUiC~14EbB~MZvevQKKlS0OlXz-QWn0h2VSxi4sED2t5VlAqVeGutaMUHidpMALRq1Y~60ycJcnS1h-TIs52zWfMlXqan7dXYMK5XY-BSJPu~h67McOjx1MNkqLQuitNeOzy~pz1YCdwYiVLIpOwUeo-rdOo-VK0nPtnawnIVSyyuB6VffG6MOPlttb6lWg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
@@ -104,7 +104,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 5
+        "dad-movie": 3
       },
       "poster": "https://cdn.movieofthenight.com/show/3270/poster/vertical/en/240.jpg?Expires=1800300935&Signature=Bj~0KFZ1SKGx362SLepXhYAW9BED17M-2fGAY~jxHQuognehj5TX81h3mp2b8x2zxyKZxMUgn48fEfIsplxFASH6CLFY9Q8yWZZFzGs0vEhNpOEUwrPZ3HcDamIFHhdaJsianxGW9Mukbc4mVBnkWX42a5Y3Kh9j0PuHU11k5Awe6oZbMS5qAxwKGW-sZ4PIdRjNJqgeTFsP-dLVjioRflA2Coi77AJ6zG3adkX4YagbPFkeNGzxQnX9aTfpeV5v0U5M5X5jObZ--oX3QFDu-qxZ17mYqMYEexzjTa08F7qqLtQVELP57DLvyQ3kyQTKB9DjLxkUsd2peFvccur9Xg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG-13",
@@ -136,7 +136,7 @@
     },
     {
       "title": "Dune: Part Three",
-      "year": 2026,
+      "year": 20,
       "type": "movie",
       "tmdb_id": "movie/1170608",
       "lists": [
@@ -144,7 +144,7 @@
         "mom"
       ],
       "priority": {
-        "dad-movie": 6
+        "dad-movie": 9
       },
       "poster": "https://image.tmdb.org/t/p/w300/4mTXkCtz75P4VjbaxRJzTVZkUxK.jpg",
       "rating": "PG-13",
@@ -154,19 +154,19 @@
       ],
       "overview": "As Emperor, Paul Atreides grapples with the consequences of his rise to power as political conspiracies and a galaxy-spanning holy war threaten the future he alone can foresee.",
       "streaming": {},
-      "last_checked": "2026-05-11T11:09:34.856596+00:00",
-      "release_date": "2026-12-18"
+      "last_checked": "2026-05-11T19:32:21.316068+00:00",
+      "release_date": "20-12-18"
     },
     {
       "title": "Spider-Man: Brand New Day",
-      "year": 2026,
+      "year": 20,
       "type": "movie",
       "tmdb_id": "movie/969681",
       "lists": [
         "dad"
       ],
       "priority": {
-        "dad-movie": 9
+        "dad-movie": 4
       },
       "poster": "https://image.tmdb.org/t/p/w300/pspkSVP39NGa6G2rvK5KlMjvYUe.jpg",
       "rating": "",
@@ -177,8 +177,8 @@
       ],
       "overview": "Four years have passed since the events of No Way Home, and Peter is now an adult living entirely alone, having voluntarily erased himself from the lives and memories of those he loves. Crime-fight...",
       "streaming": {},
-      "last_checked": "2026-05-11T11:09:35.520142+00:00",
-      "release_date": "2026-07-31"
+      "last_checked": "2026-05-11T19:32:22.460330+00:00",
+      "release_date": "20-07-31"
     },
     {
       "title": "The Life of Chuck",
@@ -229,7 +229,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 11
+        "dad-movie": 14
       },
       "poster": "https://cdn.movieofthenight.com/show/10397/poster/vertical/en/240.jpg?Expires=1800304889&Signature=ivfk3A24YUZQ6FABXzljfwqWkGppGnOK8xEjRD0I3CRTnh~BRFuUsshrlZJ-O8Y-MzW1-HT~VhEaP9h19qnlc9pcjDaCQ1zSHNgFsu4VQLImrBLcBxF2l4s8o8wFUnhYWvH0tIS85GT6teH3tfAESy~0q2UX53pR5HAbUfnTLHs2yFEcUAQwpnDXa3ZlDenOZz-sdYz49hJCjQBbpMAN8g9aTBRsI91iaiDGSOx-EpybDekg~eyd4WSP3iiVsvmTU~KHzRait9TtB4acnGrWbPiv7y7-Iv-yhH58LTfoeuqJda~ZxXxsMjLNrlZVeXZH8dErJWFaegRUOMsLCu7mBA__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG-13",
@@ -275,7 +275,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 12
+        "dad-movie": 16
       },
       "poster": "https://cdn.movieofthenight.com/show/2655/poster/vertical/en/240.jpg?Expires=1800320090&Signature=iLpPf2xqrRLLlt8LDkco7vtCILKLAGl74DuUmNR~FxLz1Hdc5sc6mGDoWFLWYGyJOqAvONKXF3jUpClxcYKzWAlU01TDqHQ52QkvE-lgp5HmAYtMxjtYUBr0B~46mCWdyPjb0GfjkOXUTtfT0ED3W9q0E24Dc4zf7JcbsD7i-GAXgsmuUaWniqAfiIZgg0wMGPtFNnfUKbJibDANHCB8~Vi4qJfanz5a6QcYPLRrKFceM~ExTpCxf1MHwIms~V~hw~P~Gwt6vj1UBrIxJWIQXPhpwN9ZovmJ6E7KHTGBQOL4msryOAagGWKVbyZMwFtnSDMBPcDpZmVNiUPouUFkbg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
@@ -307,7 +307,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 13
+        "dad-movie": 19
       },
       "poster": "https://cdn.movieofthenight.com/show/10520/poster/vertical/en/240.jpg?Expires=1801796735&Signature=a5GJCF9mNcPejAqxsjamqoppBFiiPtCqIxoWxNVxTp6heY~abHq6zkis88N4AxxnF6-MtHGbEnHbVdKW8x5hh2~O8otE~JwPiH7hXxB8tIP7CibTmKqahTvmGm2lBkRm3fwwmZiXVvjB-KcpLjzFhkR8F6M6XiXJEdY-W2s9z1n64NBnKxXNxg6qVAkwxwHqdnbZwDfbhAHdAo1NzB4Hdpk843mSxgL8pLiArTu3JEYGKVitv-zf4PIDprLh4Ipx7LYGoNl6HvlLzuzKNeFRLGCgTYjXgRYJU1aM1Pt9Owayzd7Wn3NIWC0XEFF-ylmsSUMR4Q4wzmympiRoJ7e1LQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG-13",
@@ -331,53 +331,6 @@
       "release_date": "1991-02-08"
     },
     {
-      "title": "Tropic Thunder",
-      "year": 2008,
-      "type": "movie",
-      "tmdb_id": "movie/7446",
-      "lists": [
-        "dad"
-      ],
-      "priority": {
-        "dad-movie": 14
-      },
-      "poster": "https://cdn.movieofthenight.com/show/825/poster/vertical/en/240.jpg?Expires=1798247227&Signature=KkyrE2XqOPtwfPKGWcMcLmeJK37UHc5Kxl~bVGUscGQoAyizkVgnYOxM08o4u62gAVFXc-I5bT8jLVp8dmOpe42-GGN2Li~n8v4c9AFtxmbBfmVzfN9T5luqXRxBZt3CjnT8bc-1~cpCW8WD-sR7JOdRRDFO-n6EAYArwO6o~pfwFQhC64aL0Hm-2ctZiJG0v2YNpr~E9C3i6CS8bbgoXvaJcR10wsVlmy32AoC9X-z4Zdu5BHhhowPBddpZON1duVfhjAM-dr919WmhSvUKF9n0NdNpk3p9woCtqyGWz57kbVFVA-v4nw1D~k-ULcZZ2ibXix79-ppZiDj9hPW4aQ__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "R",
-      "genres": [
-        "Action",
-        "Comedy",
-        "War"
-      ],
-      "overview": "A group of actors set out to make the most expensive war film. After huge costs force the studio to cancel the movie, the director refuses to stop shooting, leading his cast into the jungles of Sou...",
-      "streaming": {
-        "paramount": {
-          "service": "paramount",
-          "serviceName": "Paramount+",
-          "type": "subscription",
-          "link": "https://www.paramountplus.com/movies/video/26DFYvRxPukwiQsNS596_MwDDvPnYWyw/"
-        },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/tropic-thunder/umc.cmc.5iudnxk9tyxo63gewawi330mw?playableId=tvs.sbd.9001%3A291563909",
-          "quality": "hd",
-          "price": "3.99 USD"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0TQ1NHZTDAPGSZ2PITECHNP47B/ref=atv_dp",
-          "quality": "uhd",
-          "price": "3.99 USD"
-        }
-      },
-      "last_checked": "2026-05-09T07:48:14.699089+00:00",
-      "runtime": 106,
-      "release_date": "2008-08-13"
-    },
-    {
       "title": "Being There",
       "year": 1979,
       "type": "movie",
@@ -386,7 +339,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 15
+        "dad-movie": 13
       },
       "poster": "https://cdn.movieofthenight.com/show/5998/poster/vertical/en/240.jpg?Expires=1800323048&Signature=PjHGJwBJJrYuksyj1BnGKd2l-dAv7TV0G3EfHZBc7Jy-vNLVP6w8GHqX6tvARzBCyzGYabpORl2akjuTowuW7fXyDXuXCOKLyV9zhWlhJo2ZrqQ28i5HY80FVuhkr2V30sFnhU-p2MQoVcllXpZCFI5zLJj7~0uOTTE1rfTVtUYvP-Zl2ZuOhVnM27HvqD0XKSXqkuD9hxSoBYBpQ5skhiwQbYoacOLBxgic0WkS2h1zs88oFFCH1x2b6r2u7F7GhUAMXJNYTRKL0uq9TGn86oHnmKSedaOztfW~lJh~I-t0l0MX9AzBlWYb28wCAjO3DB4ZuwC42AYY7U-TwqRfAA__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
@@ -418,7 +371,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 17
+        "dad-movie": 21
       },
       "poster": "https://cdn.movieofthenight.com/show/5460020/poster/vertical/en/240.jpg?Expires=1800823556&Signature=C1xpYHB~sGfoXz06k7FO71CmReAuo6yIHREtetyEpb8qlDjwGBvw8MCNMI6WolILapk4S8vSYq~gWl4pKf3cjy7FaPZO~qcqVjhYnTehZciU21DLKcA3haBlEbGawzsG7Nv2zJ46pJ6jdoFJV39SNeMIWpa5HhK~b7D1UvYpNBHWy9TNTrEXZRmKdFp8CxZ1AmvQeXbIIa2DpuQvjC7MmwigqCcpczbGucF5r4Z~8MquSzAw6aKEo93DXKgQOwzclClyefKbCHeDOAmArJ-gmj8if5WGToP2uO4mJQgPQg7HfT51shIKZb55T0WIgK-TugclNz7YmJDXSAwpjqNxOQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
@@ -457,7 +410,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 18
+        "dad-movie": 12
       },
       "poster": "https://cdn.movieofthenight.com/show/4794607/poster/vertical/en/240.jpg?Expires=1805537197&Signature=EBPIyz1WM8Tw-htfnQ4BUjQLrweVmMIhh30QKL8Fzu7t4cSqFHYuIve7aadzSa~aHtGGsVeI6HkmjSjerCyeCYqPrzZewRxLZ5Y1QPAq~k0E3OA5lTXyxwjQv-WNnvpveRcTgUcS91KsufDMiCYMTG4WUXuqi2qUSXly67lJU0WGwe~DmBMMiVSBJYWbXKJlroDhaEcpdlMH~RMJPQKmUah8hx0gJxuOI4xiAsV6KXPe~mztRHPd3f1yLDbCZPrn4Z598VwNFdR3ifi6LigOBe-KUiusmQJl~Lw7TYQnGVXHZYLqC3r6gtcr7SI7EJUVSPZjpSgmxgP7GHV4Pm7lCQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
@@ -495,7 +448,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 19
+        "dad-movie": 22
       },
       "poster": "https://cdn.movieofthenight.com/show/17337939/poster/vertical/en/240.jpg?Expires=1795808849&Signature=gsNmyYw9RHH71dr2Fda1tg0QN93Ng948rNfoXI32adbLY4ZnKrsUmMK4p7j7cmjjmHygT817XroVdlTPOgkTRFaUKmAOQYfJdzOA1wOHhtB0ambMf96TqXV~Wqydesn3dct2LPG-t17PborkcGBJXga2NAw7Gzl6~ClHIS8M0Vipcayhmxis-KCIqPQpNME~zqBa2wiXXtzKqG3B7hGmNirI2enxXqPteAiEwZd3JJQkdn~2O0H-KyUv-S6~ZmPePrnSLQjpFeBv4EiIPQVBEn4r0~GcGtBjHww2rTDZ0etyCO5NCmHH6FCGdaKwIddXh1Ua39kr2bosfgmLEiXn3Q__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
@@ -525,39 +478,6 @@
       "release_date": "2025-09-12"
     },
     {
-      "title": "The Shape of Things",
-      "year": 2003,
-      "type": "movie",
-      "tmdb_id": "movie/22958",
-      "lists": [
-        "dad"
-      ],
-      "priority": {
-        "dad-movie": 20
-      },
-      "poster": "https://cdn.movieofthenight.com/show/20054/poster/vertical/en/240.jpg?Expires=1800266319&Signature=hSU6S4vppRu5jaC75pRwBaCznO~r3Rx07974yEMnqgbW8AufHOYhrbdKePiJBPKo44x3OB33hANsygTt6eyaRRT-67HKP01Hu9GzBfsPIg1WvRdNp8VeU2oQY21iM291krzDTVXRwKe0FYt9eezj5LeRW6~8-Ogh5AIUy7Rmd-5jx0xYCW7B7E7RwoPI2Tg6ykxxJ0zKWRh6cru7Kt3rNeRZYy-NpUTtQOMvetQ~P8zg1YX2fsX3uU5MeaqZ0yDQ4~ASAU1KSPqmqbhMxwezB4ks78kL4y4n65dTXMo1Ojnua6I-9Dt6Me0KKI20LvkipAugxY0tDb9OlYCfWw28sg__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "R",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Romance"
-      ],
-      "overview": "When nerdy Adam meets Evelyn, an attractive and confrontational art student, his predictable life seems to change overnight. As Evelyn strengthens her hold on Adam, his emotional and physical trans...",
-      "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0OWF23L4GUXZ26OR42ZKCL80SU/ref=atv_dp",
-          "quality": "hd",
-          "price": "3.99 USD"
-        }
-      },
-      "last_checked": "2026-05-09T07:48:18.058868+00:00",
-      "runtime": 96,
-      "release_date": "2003-01-18"
-    },
-    {
       "title": "To Kill a Mockingbird",
       "year": 1962,
       "type": "movie",
@@ -566,7 +486,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 21
+        "dad-movie": 26
       },
       "poster": "https://cdn.movieofthenight.com/show/1208/poster/vertical/en/240.jpg?Expires=1800292554&Signature=ZP6yW~42YVd0bxbl8V0mijsJ78nY1QrgoUudARGL4ACqURzqQ3FNotCQEZwpVN4hd2wG32QXoW-jM3qU53j-ja5oAKpQPlC8PBtOS~deb04t~ISZCh3aAb07ax5JYO6jAUTZUxYjVA-7PiqWceKBEoJI1PlRdaINRHUcgRO5QblG8QmbUMmPhievTkQdbN1~Vg0~ZU6rbpF2vKRPlBUGnwFq13-29Jumrhv-8fOYrm2J5-QmNmPVfE-v4-LjmMBiDCtW7CpvHCkDFBY2I2mXl8E1KcqRBOXJ3up4VjsWTaKB4uMAJHtKUtG3WCxe-mAcFhaOeNSckmq-5D2JFHiLpA__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "NR",
@@ -598,7 +518,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 22
+        "dad-movie": 25
       },
       "poster": "https://cdn.movieofthenight.com/show/30352/poster/vertical/en/240.jpg?Expires=1803885530&Signature=SNRHelEXcS5RJA4fDFKER~Ta6GqrEldV7dAA1K5CHg4eAq~b3efzVkNPocQEl4JT~iUOgRM~zYNzBNIubQ49X2bpAycyXkW9Ui~PnCEkgg5FVzxhFkCA7MUmcxVlddcUzGzxTRL2jqUNxmhPbqbnmZKqrv4vWr7DNCs8T00m01CITYdSgnnNu1W7hTDr8u-dkyV1Y41hymyUh56ynqm3iebz37HV88rQTbIHuw7yhmgNIJbeZYWEE79n3~7Yu0cdttupS3L4ATijKRhp2zZ3rB62kN~keX4xi9rayrM2MhvUdBl7qwoJOA~yQidbl~dDL2qxPOL8R3w-9tCjz2xyRA__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
@@ -645,7 +565,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 23
+        "dad-movie": 18
       },
       "poster": "https://cdn.movieofthenight.com/show/6756359/poster/vertical/en/240.jpg?Expires=1808396491&Signature=awRD69cNP-PR~PCqgNWoXX5kXKyBDCVSxDbQRs-BumeYOTZRcYOyPonm9X3QKSLUjO52A30SMzNh4eje00D~JVAoUSkND2GNGh1gX8~F1WzaHue8RihqW6PNkJEoXenxpV5KKHdMEgiyDb~RSkSvuyNbhg09jnI4nuXpNEbwR3CP9x08EKmYL48uSV4glseZugOIQYtNL7MNbz~RLQiZDfFtrpTosZh-~M0I8nEEl8uBlLlLDxr-J-g8SWWAWCtaZGOP7s1xMaGK99UqmVQfNyc7ULk9dEjbA2DEZtPGsGMQfhgyx7v6helyLsjg4~078P3DJTEN1lI5xFuzZEi0Sw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG-13",
@@ -677,14 +597,14 @@
     },
     {
       "title": "Masters of the Universe",
-      "year": 2026,
+      "year": 20,
       "type": "movie",
       "tmdb_id": "movie/454639",
       "lists": [
         "dad"
       ],
       "priority": {
-        "dad-movie": 24
+        "dad-movie": 20
       },
       "poster": "https://image.tmdb.org/t/p/w300/nm2ianYVp7OXElUZVeeAbNTqBLr.jpg",
       "rating": "PG-13",
@@ -695,8 +615,8 @@
       ],
       "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world...",
       "streaming": {},
-      "last_checked": "2026-05-11T11:09:36.649152+00:00",
-      "release_date": "2026-06-05",
+      "last_checked": "2026-05-11T19:32:23.547664+00:00",
+      "release_date": "20-06-05",
       "runtime": 132
     },
     {
@@ -708,7 +628,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 25
+        "dad-movie": 23
       },
       "poster": "https://cdn.movieofthenight.com/show/1198/poster/vertical/en/240.jpg?Expires=1800307177&Signature=dfX149a9BBdf08Gpf-RbB9czFodpI~oweeeG5rMShhdV3vqYXyXdiWvKKVtzi3Mav9iw7iBc8R1EoyOtuUB9MEYPJvx0~rd1w-iVOrN5ZGbq8ZYod0m7tQ7U~f9Ld~ni3Fxfo0Le8cBzEv4wEnXWq6pEhX6j8Iazg07PC1ZNcs4OuBy-7BETv4hFrpoiAjY2TJpm6vNgHP-ur7cbkSMlmSCgW6LZbDZLgdgrlLNAztaHXSZHMuhWk3WIVhsGzAozU8UHyN0BEY4d8TChX8O5vjW9frQlH2IvnRXzqSuGu3IBXWnKyzYlmHouOngm5emTdbamgokTontW5xqiPxNZ2Q__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
@@ -748,87 +668,6 @@
       "release_date": "2013-12-25"
     },
     {
-      "title": "Finch",
-      "year": 2021,
-      "type": "movie",
-      "tmdb_id": "movie/522402",
-      "lists": [
-        "dad"
-      ],
-      "priority": {
-        "dad-movie": 26
-      },
-      "poster": "https://cdn.movieofthenight.com/show/5332/poster/vertical/en/240.jpg?Expires=1798310524&Signature=IXDjwOjIcsELaKZYvZfwlPNFQi48JTII5CQWIn1rKinGVuhooS2-oEtPtVb6TMdAF5QfbQxL4zMX7iS0asud9ZyDxo75TbxPZmf83Iz-BuLfz5C5i5RmmfZPAt2etzEqqV~A8qo46v-bPz0cDG-PpGLh8cn0qlNYkedAPyv6NAm3QI4ztQIBcBNkZXGaPTQk0C1OrO9ZTJM4KsRqbVMMUAyns5FK3hJg3HHF07Usi3hMkLi5brB641TIMpdTJBBuaVJuMipVucaj0O2W9uXR~-zxp1DVljw0Y5cT2Ued824L9wqt3OYdoK2b4m8HQnhC58UvT2XVBzsmEj80Ex1waw__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "PG-13",
-      "genres": [
-        "Adventure",
-        "Drama",
-        "Science Fiction"
-      ],
-      "overview": "Tom Hanks is Finch, a man who embarks on a journey to find a new home for his unlikely family in a ravaged world.",
-      "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0HJLHQKKZ7HAIGP086N75Q6Y3W/ref=atv_dp",
-          "quality": "uhd",
-          "price": "3.99 USD"
-        },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "subscription",
-          "link": "https://tv.apple.com/us/movie/finch/umc.cmc.47dkj9f2ho3h8dwxixflz65q5?playableId=tvs.sbd.4000%3AA0064701001",
-          "quality": "uhd"
-        }
-      },
-      "last_checked": "2026-05-09T07:48:21.033011+00:00",
-      "runtime": 115,
-      "release_date": "2021-11-04"
-    },
-    {
-      "title": "Her",
-      "year": 2013,
-      "type": "movie",
-      "tmdb_id": "movie/152601",
-      "lists": [
-        "dad"
-      ],
-      "priority": {
-        "dad-movie": 27
-      },
-      "poster": "https://cdn.movieofthenight.com/show/460/poster/vertical/en/240.jpg?Expires=1800280066&Signature=XtmpYs-o~wtjfCLBWBRPESyIp9avc3G~jrd-VEsaEFd4gnFX7aJhz36bnFee4X7Y-MnRz2a~QqQo7XWjnltlSk8CmaXMmNU5RAUCTzwau1-GRBvBc~6NHB3Q84XY8TLZS2ty61EQY8645Oh2EX7n89znfLSKbIPR1rMc~Jj0pS64RJ3GJwj9GBOpPmrjZ8pM2qDU~j~sj3w6tPveCMEt~GFeNRH9i~3j58iFrItaDIrffDKlbD6h4ENR~JfOrvYBj6W5~ijssYrdmOdkn-Jj73TTlUEhS~6sm-RMfji2-DCF--FTZwrb4Dy1j0THDCxT4TzQT0DbH~d~0jPhT4tT1Q__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "R",
-      "genres": [
-        "Drama",
-        "Romance",
-        "Science Fiction"
-      ],
-      "overview": "Her follows Theodore Twombly, a complex, soulful man who makes his living writing touching, personal letters for other people.  Heartbroken after the end of a long relationship, he becomes intrigue...",
-      "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/her/umc.cmc.4ky5qbtddgx232de23d3bqr6i?playableId=tvs.sbd.9001%3A810314926",
-          "quality": "hd",
-          "price": "5.99 USD"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0M294Z1YCVFW2A0NQEBMX2ILS5/ref=atv_dp",
-          "quality": "hd",
-          "price": "5.99 USD"
-        }
-      },
-      "last_checked": "2026-05-09T07:48:21.559938+00:00",
-      "runtime": 125,
-      "release_date": "2014-01-10"
-    },
-    {
       "title": "Black Bag",
       "year": 2025,
       "type": "movie",
@@ -837,7 +676,7 @@
         "dad"
       ],
       "priority": {
-        "dad-movie": 28
+        "dad-movie": 17
       },
       "poster": "https://cdn.movieofthenight.com/show/14625489/poster/vertical/en/240.jpg?Expires=1794932419&Signature=KCp1vlTs3qAB2gM-CtgcSDEpdHCFcFqWd-eduwdAj79RNp7-SOhQ3Vw5YwagVC9hym5FLhEM~q4Orm0RO1t0CkuOQUjOYfNqaWgvvGmpeCl07l02Qv5II7nc3hM2oN6xV3hCLGDeRvBcBr7XdNuZi6rv28fc1vAGOfG-vNYaDmrov9HxDLi~aS8-SdvKigAViDwrn~c54TrfkPDXP0-w82Cgp8kohbfScAJxU--dn~ioKjnnRZWhlSLinvLapOB0vAY-HjfO-zciG3SrjstnATSqa7Cm7CuNpt~LomXeN23GV8YdWnB2MEUHD-4X2Irc06orxVyTu0OI-eL7i2p7pA__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
@@ -860,115 +699,6 @@
       "release_date": "2025-03-14"
     },
     {
-      "title": "Jules",
-      "year": 2023,
-      "type": "movie",
-      "tmdb_id": "movie/1072371",
-      "lists": [
-        "dad"
-      ],
-      "priority": {
-        "dad-movie": 23
-      },
-      "poster": "https://cdn.movieofthenight.com/show/1689619/poster/vertical/en/240.jpg?Expires=1803183787&Signature=PrhhgWKeScHrgovuDl9ulvTgqPVWObj5Kj7Lw2KN~2sUvnUjGfKqFQZDdPxy7sbw6d3zwidWaY8KAM5EEu32V1cUTragP4OBp4pZbvjwEpnPQ277fj3g7Ok3Vra~2lhV9ExYszvMtx-boajJxwolYz1rgkjkecOGZROsRRExZ2VprgdmRRVbrgUYLoK~sPaJbO-5iCdgu5magU72v-07BFzfiwCyFDE8ucnw35R-hVUXyEqadEedh1hbqsBboF8E-H38jUhjL8TKmiyOBmxErSR~Mf7fpc~-9uTvKT3-coZxnScdZXPEN0D2zUbYPAtnfQwmAWremKatxyPk0gpd8Q__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "PG-13",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Science Fiction"
-      ],
-      "overview": "An unusual and unexpected visitor from out of this world brings together several people living in a small city in rural Western Pennsylvania.",
-      "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/B0CC5LK2BQ/ref=atv_dp",
-          "quality": "uhd",
-          "price": "3.99 USD"
-        },
-        "tubi": {
-          "service": "tubi",
-          "serviceName": "Tubi",
-          "type": "free",
-          "link": "https://tubitv.com/movies/100046059/jules",
-          "quality": "hd"
-        }
-      },
-      "last_checked": "2026-05-09T07:48:22.586819+00:00",
-      "runtime": 87,
-      "release_date": "2023-08-11"
-    },
-    {
-      "title": "Dear Evan Hansen",
-      "year": 2021,
-      "type": "movie",
-      "tmdb_id": "movie/567690",
-      "lists": [
-        "dad"
-      ],
-      "priority": {
-        "dad-movie": 30
-      },
-      "poster": "https://cdn.movieofthenight.com/show/16889/poster/vertical/en/240.jpg?Expires=1800472668&Signature=ISJfKweCztEcvmvqzkB-~VYYbYCyUlPUPgUYPZRugDtlrFeUZ-XQLq9uPggbKxeEvlKjKsA6dS-Ucu1e7rpvbRd3y69u7ud8-PW4a65qW1VGERcjX~b6hWiCQvLAadp3nAoKSCgise-GK8SEvW9iElCQmtJopdXaJwNW0Ej5D-egG2ZLJN0Ijzs916X54G3ACV-n4F30S~YoiJGP2DKDnydwgZSTsle0azfYiTGIQJhUrqgJK3Woprk2YyJFwwFciFkMaa3BVb3S0gYD0R9oP8W6rxlXsoerJGw0bLTun-K4~e8Ow3LYlQSb4Vc72cBptalAbTF5fCZgf6UvfyGQew__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "PG-13",
-      "genres": [
-        "Drama"
-      ],
-      "overview": "Evan Hansen, an anxious and isolated teen aching for understanding and belonging, embarks on a journey of self-discovery when a letter he wrote for a writing exercise falls into the hands of a coup...",
-      "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "free",
-          "link": "https://www.amazon.com/gp/video/detail/0PLUV8TKWGX0RV6OUCWWDZ9OHH/ref=atv_dp",
-          "quality": "uhd"
-        },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/dear-evan-hansen/umc.cmc.2cx48pp35txxoecn7bkyvcme6?playableId=tvs.sbd.9001%3A1588512819",
-          "quality": "hd",
-          "price": "3.99 USD"
-        }
-      },
-      "last_checked": "2026-05-09T07:48:23.096269+00:00",
-      "runtime": 137,
-      "release_date": "2021-09-24"
-    },
-    {
-      "title": "Hamilton",
-      "year": 2020,
-      "type": "movie",
-      "tmdb_id": "movie/556574",
-      "lists": [
-        "dad"
-      ],
-      "priority": {
-        "dad-movie": 31
-      },
-      "poster": "https://cdn.movieofthenight.com/show/4744/poster/vertical/en/240.jpg?Expires=1800357889&Signature=hl7xdVopcYG8qoYOj7wqJbl1USRo-o2iBfWwuVn0oAKagJUl6U0SfmOw3wWn-WfljwGYJ2ZDNOnt3X0BwUL-OOe0Qzdv9nUrArw2szc3NYH~LmzLRcClPOdh~McFWEQf2TZqspusv0aXNeuy~OshA-4uWDHhANCaf0woM2MRbbKJ0Jpr4EhiP5bN3R4xS4dyHoqUeXz2qKGaW2aCxHnhcU5Q7r3fxP3OqLUYSnwHqES~HS1LmaQCQZ8HrCNVgV2u-qexm7JhpmAranMrMvc9~xV-eGOICo9YzHed2XsAyc3z9UBVwv07GcBqNdJmpMO5jLBhZByfvcxDkXurW1x5QA__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "PG-13",
-      "genres": [
-        "Drama",
-        "History"
-      ],
-      "overview": "The filmed version of Broadway original “Hamilton” that soars in music and tale.",
-      "streaming": {
-        "disney": {
-          "service": "disney",
-          "serviceName": "disney",
-          "type": "subscription",
-          "link": "",
-          "manual": true
-        }
-      },
-      "last_checked": "2026-05-06T08:14:21.947931+00:00",
-      "runtime": 160,
-      "release_date": "2025-09-05"
-    },
-    {
       "title": "Real Genius",
       "year": 1985,
       "type": "movie",
@@ -976,7 +706,9 @@
       "lists": [
         "dad"
       ],
-      "priority": {},
+      "priority": {
+        "dad-movie": 24
+      },
       "poster": "https://cdn.movieofthenight.com/show/10085/poster/vertical/en/240.jpg?Expires=1801793021&Signature=EmSDo9C-x6UO-teFJ8BMorJNXabCcyQz0~tI8iFgEqw3BB1shMLU4ygxWmHWwacUrbR2hrP64Mu5WP5UXrjsEfB4rWHw54-OP6~RdN0EqGrgvj7C~mxURBjn95qyzgg-gsBHCenq~IvbzxwLbtp-fnZX9BgAyQxQe1jbwdf6cT16HJwHDHlwWBA0ZdQUjOf8mPMzTUg3NCwoICX~2IoIMpbh~Cr9Hl4aFY-2OE7A5dYUsblrnmki7IQVAy~sH7zln3s8E8uJqcBkUquLjN4mwcoqtwlFzzVpKUyod1~rLJbHBUcxwUi1P7pig-HUNxZYxQdMufdbftgedS8sPm8adQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
@@ -1083,7 +815,7 @@
         "mom"
       ],
       "priority": {
-        "dad-series": 3
+        "dad-series": 6
       },
       "poster": "https://image.tmdb.org/t/p/w300/khZqmwHQicTYoS7Flreb9EddFZC.jpg",
       "rating": "TV-14",
@@ -1117,7 +849,7 @@
         "mom"
       ],
       "priority": {
-        "dad-series": 4
+        "dad-series": 7
       },
       "poster": "https://image.tmdb.org/t/p/w300/ckmEgQdbSAw0jiJFJT1a1W1LEFy.jpg",
       "rating": "TV-14",
@@ -1149,7 +881,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 5
+        "dad-series": 10
       },
       "poster": "https://image.tmdb.org/t/p/w300/66peZcEggw4xJHLQeBqvIsKG87s.jpg",
       "rating": "TV-MA",
@@ -1179,7 +911,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 6
+        "dad-series": 4
       },
       "poster": "https://image.tmdb.org/t/p/w300/tPBHObrHaJiX86vgVJMWBDTx6DZ.jpg",
       "rating": "",
@@ -1210,7 +942,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 7
+        "dad-series": 11
       },
       "poster": "https://image.tmdb.org/t/p/w300/uAYwC1jnIgwjaIAhy4SE9nnRgwN.jpg",
       "rating": "TV-MA",
@@ -1239,7 +971,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 8
+        "dad-series": 14
       },
       "poster": "https://image.tmdb.org/t/p/w300/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg",
       "rating": "TV-14",
@@ -1312,7 +1044,7 @@
         "mom"
       ],
       "priority": {
-        "dad-series": 11
+        "dad-series": 5
       },
       "poster": "https://image.tmdb.org/t/p/w300/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg",
       "rating": "TV-MA",
@@ -1344,7 +1076,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 11
+        "dad-series": 13
       },
       "poster": "https://image.tmdb.org/t/p/w300/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
       "rating": "TV-PG",
@@ -1374,37 +1106,6 @@
       "episode_count": 30
     },
     {
-      "title": "Long Story Short",
-      "year": 2025,
-      "type": "series",
-      "tmdb_id": "tv/262375",
-      "lists": [
-        "dad"
-      ],
-      "priority": {
-        "dad-series": 13
-      },
-      "poster": "https://image.tmdb.org/t/p/w300/22nh2kTuFpitrqTxxixhWjxEqFa.jpg",
-      "rating": "TV-14",
-      "genres": [
-        "Animation",
-        "Comedy"
-      ],
-      "overview": "Sometimes you love your family. Sometimes you hate your family. Sometimes… it's complicated. An animated comedy from the creator of \"BoJack Horseman.\"",
-      "streaming": {
-        "netflix": {
-          "service": "netflix",
-          "serviceName": "Netflix",
-          "type": "subscription",
-          "link": "https://www.netflix.com/title/81686879/",
-          "quality": "hd"
-        }
-      },
-      "last_checked": "2026-05-10T08:01:11.689163+00:00",
-      "season_count": 1,
-      "episode_count": 10
-    },
-    {
       "title": "Star Trek: Picard",
       "year": 2020,
       "type": "series",
@@ -1413,7 +1114,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 14
+        "dad-series": 18
       },
       "poster": "https://image.tmdb.org/t/p/w300/nIlAKIrLKxOeoEnc0Urb65yNCp.jpg",
       "rating": "TV-MA",
@@ -1459,7 +1160,7 @@
         "mom"
       ],
       "priority": {
-        "dad-series": 15
+        "dad-series": 12
       },
       "poster": "https://image.tmdb.org/t/p/w300/mIKfKo2uDk3itzAPYIcSeYr4KtF.jpg",
       "rating": "TV-MA",
@@ -1484,106 +1185,6 @@
       "watched_seasons": 1
     },
     {
-      "title": "Agents of S.H.I.E.L.D.",
-      "year": 2013,
-      "type": "series",
-      "tmdb_id": "tv/1403",
-      "lists": [
-        "dad"
-      ],
-      "priority": {
-        "dad-series": 16
-      },
-      "poster": "https://image.tmdb.org/t/p/w300/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg",
-      "rating": "TV-14",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
-      "overview": "Agents investigate strange occurrences around the globe.",
-      "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0JT9JC2VPVS0N8PM89QKR1X4KZ",
-          "quality": "sd"
-        },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/show/marvels-agents-of-shield/umc.cmc.26uur8iqo7k2psyp5l6em6xo0",
-          "quality": "hd"
-        },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-63516dff-91f8-4deb-b110-d22552f329cb",
-          "quality": "hd"
-        }
-      },
-      "last_checked": "2026-05-11T11:09:46.297952+00:00",
-      "season_count": 7,
-      "episode_count": 136
-    },
-    {
-      "title": "New Girl",
-      "year": 2011,
-      "type": "series",
-      "tmdb_id": "tv/1420",
-      "lists": [
-        "dad",
-        "mom"
-      ],
-      "priority": {
-        "dad-series": 17
-      },
-      "poster": "https://image.tmdb.org/t/p/w300/8oCqMlKKomCArVtyOjRzMN6g40Z.jpg",
-      "rating": "TV-14",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "overview": "NEW GIRL follows five friends as they find their own places in the world.",
-      "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0P8RSNTMDGG2TKL8BMA9T3NQTV",
-          "quality": "hd"
-        },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/show/new-girl/umc.cmc.486dsp4md8ge3a5mx2128nnau",
-          "quality": "hd"
-        },
-        "hulu": {
-          "service": "hulu",
-          "serviceName": "Hulu",
-          "type": "subscription",
-          "link": "https://www.hulu.com/series/new-girl-42850dbc-0f98-4d8a-a09a-3427ee8085e5",
-          "quality": "hd"
-        },
-        "peacock": {
-          "service": "peacock",
-          "serviceName": "Peacock",
-          "type": "subscription",
-          "link": "https://www.peacocktv.com/watch/asset/tv/new-girl/7602787974345717112",
-          "quality": "hd"
-        }
-      },
-      "last_checked": "2026-05-10T08:01:15.143795+00:00",
-      "season_count": 7,
-      "episode_count": 146,
-      "watched_seasons": 2
-    },
-    {
       "title": "The Expanse",
       "year": 2015,
       "type": "series",
@@ -1592,7 +1193,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 18
+        "dad-series": 20
       },
       "poster": "https://image.tmdb.org/t/p/w300/5vQlVWkIMPhZ88OWchJsgwGEK9.jpg",
       "rating": "TV-14",
@@ -1631,7 +1232,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 19
+        "dad-series": 15
       },
       "poster": "https://image.tmdb.org/t/p/w300/3KCAZaKHmoMIN9dHutqaMtubQqD.jpg",
       "rating": "TV-MA",
@@ -1676,7 +1277,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 20
+        "dad-series": 22
       },
       "poster": "https://image.tmdb.org/t/p/w300/ySA5MvhoxTdezNUMe0ifPmhxH4w.jpg",
       "rating": "TV-14",
@@ -1757,7 +1358,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 23
+        "dad-series": 24
       },
       "poster": "https://image.tmdb.org/t/p/w300/htSwFYOyepCbLUUuyCtvC0uCQ3b.jpg",
       "rating": "",
@@ -1786,7 +1387,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 24
+        "dad-series": 25
       },
       "poster": "https://image.tmdb.org/t/p/w300/dnpatlJrEPiDSn5fzgzvxtiSnMo.jpg",
       "rating": "TV-MA",
@@ -1817,7 +1418,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 25
+        "dad-series": 17
       },
       "poster": "https://image.tmdb.org/t/p/w300/xhJtYVTsdXQCIlB5hAXkMCPUG9y.jpg",
       "rating": "TV-MA",
@@ -1864,7 +1465,7 @@
         "mom"
       ],
       "priority": {
-        "dad-series": 26
+        "dad-series": 23
       },
       "poster": "https://image.tmdb.org/t/p/w300/kf5Hz70tjNAHg4swGDzOr9BfoZ1.jpg",
       "rating": "TV-14",
@@ -1897,7 +1498,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 27
+        "dad-series": 19
       },
       "poster": "https://image.tmdb.org/t/p/w300/pN5qeqDgCG1Pij7KaEBKLkyjn4A.jpg",
       "rating": "TV-MA",
@@ -1936,7 +1537,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 28
+        "dad-series": 26
       },
       "poster": "https://image.tmdb.org/t/p/w300/4Lok3HBSfbQxibQZBygoVCwKKrZ.jpg",
       "rating": "TV-14",
@@ -1968,7 +1569,7 @@
         "dad"
       ],
       "priority": {
-        "dad-series": 29
+        "dad-series": 16
       },
       "poster": "https://image.tmdb.org/t/p/w300/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
       "rating": "TV-PG",
@@ -2005,43 +1606,15 @@
       "episode_count": 250
     },
     {
-      "title": "Bad Monkey",
-      "year": 2024,
-      "type": "series",
-      "tmdb_id": "tv/130853",
-      "lists": [
-        "dad"
-      ],
-      "priority": {
-        "dad-series": 30
-      },
-      "poster": "https://image.tmdb.org/t/p/w300/lUGG3lxIF3f2N796t4aHmxDhLK5.jpg",
-      "rating": "TV-MA",
-      "genres": [
-        "Comedy"
-      ],
-      "overview": "A detective turned restaurant inspector in Southern Florida is pulled into a world of greed and corruption after a tourist finds a severed arm while fishing. And yes, there’s a monkey.",
-      "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "subscription",
-          "link": "https://tv.apple.com/us/show/bad-monkey/umc.cmc.2qoep59s6qukjonprttysfs8x",
-          "quality": "uhd"
-        }
-      },
-      "last_checked": "2026-05-06T08:14:28.522413+00:00",
-      "season_count": 1,
-      "episode_count": 10
-    },
-    {
       "title": "Harry Potter",
       "year": 2026,
       "type": "series",
       "lists": [
         "dad"
       ],
-      "priority": {},
+      "priority": {
+        "dad-series": 8
+      },
       "poster": "https://image.tmdb.org/t/p/w300/952hocMHvROPw6gNkYblpfnGgkm.jpg",
       "rating": "",
       "genres": [],
@@ -3907,14 +3480,6 @@
       ],
       "overview": "When ace detective Harry Goodman goes mysteriously missing, his son Tim (Justice Smith) embarks on a journey to find out what happened. Aiding in the investigation is Harry’s former Pokémon partner...",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/pokemon-detective-pikachu/umc.cmc.2f3ohdbkpol7ui73lvygtcge2?playableId=tvs.sbd.9001%3A1460331265",
-          "quality": "hd",
-          "price": "4.99 USD"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -3922,9 +3487,17 @@
           "link": "https://www.amazon.com/gp/video/detail/0K1VZNF96GVK06I8KZJ1K738V0/ref=atv_dp",
           "quality": "uhd",
           "price": "4.99 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/pokemon-detective-pikachu/umc.cmc.2f3ohdbkpol7ui73lvygtcge2?playableId=tvs.sbd.9001%3A1460331265",
+          "quality": "hd",
+          "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-05-02T07:24:06.387449+00:00",
+      "last_checked": "2026-05-11T19:32:24.698426+00:00",
       "runtime": 104,
       "release_date": "2019-05-10"
     },
@@ -3946,12 +3519,6 @@
       ],
       "overview": "Gregorio and Ingrid Cortez traded the excitement of espionage for the adventure of parenthood. But when they're sent on a secret mission, they are kidnapped. Luckily, there are two people who can s...",
       "streaming": {
-        "paramount": {
-          "service": "paramount",
-          "serviceName": "Paramount+",
-          "type": "subscription",
-          "link": "https://www.paramountplus.com/movies/video/jroofODh1y9e5vKKyC6NFGJXnn_aLjCo/"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -3960,6 +3527,12 @@
           "quality": "hd",
           "price": "3.99 USD"
         },
+        "paramount": {
+          "service": "paramount",
+          "serviceName": "Paramount+",
+          "type": "subscription",
+          "link": "https://www.paramountplus.com/movies/video/jroofODh1y9e5vKKyC6NFGJXnn_aLjCo/"
+        },
         "showtime": {
           "service": "showtime",
           "serviceName": "Showtime",
@@ -3967,7 +3540,7 @@
           "link": "https://www.hulu.com/movie/spy-kids-f875376e-19e8-4f2b-8176-7fba8fff73d7"
         }
       },
-      "last_checked": "2026-05-02T07:24:06.819499+00:00",
+      "last_checked": "2026-05-11T19:32:25.573181+00:00",
       "runtime": 88,
       "release_date": "2001-03-18"
     },
@@ -4006,7 +3579,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-02T07:24:07.269879+00:00",
+      "last_checked": "2026-05-11T19:32:26.479245+00:00",
       "runtime": 87,
       "release_date": "2019-05-03"
     },
@@ -4042,7 +3615,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-02T07:24:09.416691+00:00",
+      "last_checked": "2026-05-11T19:32:27.291204+00:00",
       "runtime": 137,
       "release_date": "2025-04-18"
     },
@@ -4071,7 +3644,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-02T07:24:11.557351+00:00",
+      "last_checked": "2026-05-11T19:32:29.123728+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -4079,36 +3652,192 @@
       "title": "Spaceballs: The New One",
       "year": 2027,
       "type": "movie",
-      "tmdb_id": "movie/1279189",
+      "tmdb_id": "movie/1306322",
       "lists": [
         "dad"
       ],
-      "priority": {},
+      "priority": {
+        "dad-movie": 15
+      },
       "poster": "https://image.tmdb.org/t/p/w300/9NDQsPSPxDLIqlvJIbZLFYDenYt.jpg",
       "rating": "",
       "genres": [
-        "Documentary"
+        "Comedy",
+        "Science Fiction"
       ],
       "overview": "Described as \"a non-prequel non-reboot sequel part two but with reboot elements franchise expansion film\". Plot TBA.",
       "streaming": {},
-      "last_checked": "2026-05-02T07:24:12.751172+00:00",
+      "last_checked": "2026-05-11T19:32:30.135067+00:00",
       "release_date": "2027-04-23"
     },
     {
       "title": "Remarkably Bright Creatures",
       "year": 2027,
       "type": "movie",
+      "tmdb_id": "movie/1330021",
       "lists": [
         "dad"
       ],
-      "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/A475wjszW2O8ORYjylEfz9bqlMe.jpg",
+      "priority": {
+        "dad-movie": 8
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
       "rating": "PG-13",
-      "genres": [],
-      "overview": "A lonely elderly widow named Tova forms an unlikely friendship with a curmudgeonly cephalopod octopus named Marcellus, but unbeknownst to her, Marcellus is on a mission to solve a mystery that will...",
-      "streaming": {},
-      "last_checked": "2026-05-02T07:24:14.169439+00:00",
-      "release_date": "2026-05-08"
+      "genres": [
+        "Drama"
+      ],
+      "overview": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
+      "streaming": {
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/81911351/",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-05-11T19:32:31.125383+00:00",
+      "release_date": "2026-05-08",
+      "runtime": 114
+    },
+    {
+      "title": "Ted Lasso",
+      "year": 2020,
+      "type": "series",
+      "tmdb_id": "tv/97546",
+      "lists": [
+        "dad"
+      ],
+      "priority": {
+        "dad-series": 3
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",
+      "rating": "TV-MA",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "overview": "In this Emmy®-winning comedy, American football coach Ted Lasso (Jason Sudeikis) leads AFC Richmond with optimism.",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "subscription",
+          "link": "https://tv.apple.com/us/show/ted-lasso/umc.cmc.vtoh0mn0xn7t3c643xqonfzy",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-05-11T19:32:33.097208+00:00",
+      "season_count": 3,
+      "episode_count": 34,
+      "watched_seasons": 3
+    },
+    {
+      "title": "Before Sunrise",
+      "year": 1995,
+      "type": "movie",
+      "tmdb_id": "movie/76",
+      "lists": [
+        "dad",
+        "mom"
+      ],
+      "priority": {
+        "dad-movie": 5
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg",
+      "rating": "R",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "overview": "Two students, one French, one American, meet on a train to Vienna and fall in love.",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0NU6XEYK4WK7T4L6O704WEBV7S/ref=atv_dp",
+          "quality": "hd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-05-11T19:32:34.137866+00:00",
+      "runtime": 96,
+      "release_date": "1995-01-27"
+    },
+    {
+      "title": "Before Sunset",
+      "year": 2004,
+      "type": "movie",
+      "tmdb_id": "movie/80",
+      "lists": [
+        "dad",
+        "mom"
+      ],
+      "priority": {
+        "dad-movie": 6
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/4sW5XH9ZfYXpvFzev00S1IGAEbg.jpg",
+      "rating": "R",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "overview": "Nine years ago, Jesse and Celine met on a train from Budapest to Vienna. They had a magical night, and then never saw each other again until now. Jesse is an American writer on a book tour through ...",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/before-sunset/umc.cmc.6ybvbqfmbxp9upda7hzyvf03z?playableId=tvs.sbd.9001%3A295621095",
+          "quality": "hd",
+          "price": "4.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0Q7FZBU04NNPFZ83QGUG9UX9MM/ref=atv_dp",
+          "quality": "hd",
+          "price": "4.99 USD"
+        }
+      },
+      "last_checked": "2026-05-11T19:32:35.162671+00:00",
+      "runtime": 80,
+      "release_date": "2004-07-30"
+    },
+    {
+      "title": "Before Midnight",
+      "year": 2013,
+      "type": "movie",
+      "tmdb_id": "movie/132344",
+      "lists": [
+        "dad",
+        "mom"
+      ],
+      "priority": {
+        "dad-movie": 7
+      },
+      "poster": "https://image.tmdb.org/t/p/w300/qbGKJmNUroDz75kh5Oafoall89e.jpg",
+      "rating": "R",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "overview": "On an idyllic Greek vacation, longtime couple Jesse and Celine reminisce about their lives together - and what different choices might have brought since their first meeting nearly 20 years earlier.",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/before-midnight/umc.cmc.5a1k15u705gddv7913ds29kgg?playableId=tvs.sbd.9001%3A699047582",
+          "quality": "hd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-05-11T19:32:36.157129+00:00",
+      "runtime": 104,
+      "release_date": "2013-06-14"
     }
   ]
 }

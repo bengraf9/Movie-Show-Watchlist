@@ -854,20 +854,6 @@
     "release_date": "2022-12-09"
   },
   {
-    "title": "Finding ʻOhana",
-    "year": 2021,
-    "type": "movie",
-    "lists": [
-      "family"
-    ],
-    "priority": {
-      "family-movie": 6
-    },
-    "tmdb_id": "movie/644092",
-    "rating": "PG",
-    "release_date": "2021-01-29"
-  },
-  {
     "title": "Up",
     "year": 2009,
     "type": "movie",
@@ -1493,6 +1479,6 @@
     "lists": [
       "dad"
     ],
-    "watched_seasons": 3,
+    "watched_seasons": 3
   }
 ]

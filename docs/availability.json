@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T08:01:24.981986+00:00",
+  "last_updated": "2026-05-11T11:09:56.615758+00:00",
   "country": "us",
   "items": [
     {
@@ -22,7 +22,7 @@
       ],
       "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
       "streaming": {},
-      "last_checked": "2026-05-04T08:22:30.574072+00:00",
+      "last_checked": "2026-05-11T11:09:33.341415+00:00",
       "release_date": "2026-12-18"
     },
     {
@@ -46,7 +46,7 @@
       ],
       "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep ...",
       "streaming": {},
-      "last_checked": "2026-05-04T08:22:31.201900+00:00",
+      "last_checked": "2026-05-11T11:09:34.196586+00:00",
       "release_date": "2026-05-08",
       "runtime": 109
     },
@@ -146,7 +146,7 @@
       "priority": {
         "dad-movie": 6
       },
-      "poster": "https://image.tmdb.org/t/p/w300/b4wekkUaxExzOeGe7hKXzhnyXHt.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/4mTXkCtz75P4VjbaxRJzTVZkUxK.jpg",
       "rating": "PG-13",
       "genres": [
         "Action",
@@ -154,40 +154,8 @@
       ],
       "overview": "As Emperor, Paul Atreides grapples with the consequences of his rise to power as political conspiracies and a galaxy-spanning holy war threaten the future he alone can foresee.",
       "streaming": {},
-      "last_checked": "2026-05-04T08:22:31.829360+00:00",
+      "last_checked": "2026-05-11T11:09:34.856596+00:00",
       "release_date": "2026-12-18"
-    },
-    {
-      "title": "Roxanne",
-      "year": 1987,
-      "type": "movie",
-      "tmdb_id": "movie/11584",
-      "lists": [
-        "dad"
-      ],
-      "priority": {
-        "dad-movie": 8
-      },
-      "poster": "https://cdn.movieofthenight.com/show/8467/poster/vertical/en/240.jpg?Expires=1801784997&Signature=JBaYFvbDPKVgR6p8HLhV70Ic2pqB-yyHibkPU4zUV6XR3QHhQz0WOE64vS-L~fb76XWpbM0dG~4GYrugJZv5~H9n1uTHPH4yANnqp2y8kBEyyh~0-PGiyeEGGMbJIpCSZPs3U70lKUGLQQEufgl0hk92KMx5NZ4rmar3VPq3-NwTwSLYWDlG9-9TkXinAeU4EbQElFLUdiblcWlIh5-Q1PfMERd-gBehoPfn4j8NLRG5UbNayf-H~H00W51liI4UnIEY38gVUU5Bz7FtIW7dNfb5D0-pbL-Wp2DNwtAgSL90o4WMrLu8y69hbaTvT~Is3-1BT8Nei3TxHO61LoH8Qg__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "PG",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "overview": "The large-nosed C.D. Bales is in love with the beautiful Roxanne; she falls for his personality but another man's looks.",
-      "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0LXZOOZRI8NWJ31FG6XD85PTJD/ref=atv_dp",
-          "quality": "hd",
-          "price": "3.99 USD"
-        }
-      },
-      "last_checked": "2026-05-09T07:48:12.370450+00:00",
-      "runtime": 106,
-      "release_date": "1987-06-19"
     },
     {
       "title": "Spider-Man: Brand New Day",
@@ -209,7 +177,7 @@
       ],
       "overview": "Four years have passed since the events of No Way Home, and Peter is now an adult living entirely alone, having voluntarily erased himself from the lives and memories of those he loves. Crime-fight...",
       "streaming": {},
-      "last_checked": "2026-05-04T08:22:32.399351+00:00",
+      "last_checked": "2026-05-11T11:09:35.520142+00:00",
       "release_date": "2026-07-31"
     },
     {
@@ -326,7 +294,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-05-04T08:22:32.958221+00:00",
+      "last_checked": "2026-05-11T11:09:36.200834+00:00",
       "runtime": 111,
       "release_date": "1992-09-25"
     },
@@ -440,67 +408,6 @@
       "last_checked": "2026-05-09T07:48:15.244397+00:00",
       "runtime": 124,
       "release_date": "1979-12-19"
-    },
-    {
-      "title": "Boyhood",
-      "year": 2014,
-      "type": "movie",
-      "tmdb_id": "movie/85350",
-      "lists": [
-        "dad",
-        "mom"
-      ],
-      "priority": {
-        "dad-movie": 16
-      },
-      "poster": "https://cdn.movieofthenight.com/show/1041/poster/vertical/en/240.jpg?Expires=1800311153&Signature=idxDTkX6Ix-fFkYOJbZNzaaEFkC~YrtuCxiAI3Tp8ghKJNmYvfsaT2VOJLeAsTZW1WVJQWG~Ydle7M1p39tIbnrxWIuH8wuOC6FL756dH15wior3RnWdJdp-2hADfLjhfFYwT4ENa5J-n3vOdmZ47GH-NB3kughqTU0kHk0XlBup06tpJG5tBh2rVnllsLwNXjCY-Fs7Of~7FkgaIcK-e4yeQAprDQHOWjEMx2cKtYIgBjAYnmFbbfiNDOtZZAsPUm70~LMS3qC7aLGDQC1HRpZvblX53JQFBVglhzfDTXppWg~UWRUAF4c4PBw2lhoQqdk6LLArY32yRGm4YLm3xg__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "R",
-      "genres": [
-        "Drama"
-      ],
-      "overview": "Filmed over 12 years using the same cast, Boyhood is a ground-breaking story of growing up and a unique film experiment. Ethan Hawke and Patricia Arquette lead the cast as the parents of Mason (Ell...",
-      "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0LB2Z0BNEYCIX0UFEIG70283NI/ref=atv_dp",
-          "quality": "hd",
-          "price": "5.99 USD"
-        },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/boyhood/umc.cmc.4axgvzn6bs6yn40r5z8sn6t2e?playableId=tvs.sbd.9001%3A1820241182",
-          "quality": "hd",
-          "price": "3.99 USD"
-        },
-        "mubi": {
-          "service": "mubi",
-          "serviceName": "MUBI",
-          "type": "subscription",
-          "link": "https://mubi.com/films/boyhood-2014",
-          "quality": "hd"
-        },
-        "hulu": {
-          "service": "hulu",
-          "serviceName": "Hulu",
-          "type": "subscription",
-          "link": "https://www.hulu.com/movie/boyhood-ecae6ffb-db5d-4035-9bc2-d2992dc33c3a",
-          "quality": "hd"
-        },
-        "netflix": {
-          "service": "netflix",
-          "serviceName": "Netflix",
-          "type": "subscription",
-          "link": "https://www.netflix.com/title/70301281/",
-          "quality": "hd"
-        }
-      },
-      "last_checked": "2026-05-09T07:48:15.838949+00:00",
-      "runtime": 165,
-      "release_date": "2014-08-15"
     },
     {
       "title": "Napoleon",
@@ -780,7 +687,7 @@
         "dad-movie": 24
       },
       "poster": "https://image.tmdb.org/t/p/w300/nm2ianYVp7OXElUZVeeAbNTqBLr.jpg",
-      "rating": "",
+      "rating": "PG-13",
       "genres": [
         "Action",
         "Adventure",
@@ -788,9 +695,9 @@
       ],
       "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world...",
       "streaming": {},
-      "last_checked": "2026-05-04T08:22:33.336224+00:00",
+      "last_checked": "2026-05-11T11:09:36.649152+00:00",
       "release_date": "2026-06-05",
-      "runtime": 140
+      "runtime": 132
     },
     {
       "title": "The Secret Life of Walter Mitty",
@@ -1088,7 +995,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-04T08:22:33.921484+00:00",
+      "last_checked": "2026-05-11T11:09:37.327956+00:00",
       "runtime": 105,
       "release_date": "1985-08-07"
     },
@@ -1121,7 +1028,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-04T08:22:34.811191+00:00",
+      "last_checked": "2026-05-11T11:09:38.529085+00:00",
       "season_count": 2,
       "episode_count": 19,
       "watched_seasons": 2
@@ -1161,7 +1068,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-04T08:22:35.981503+00:00",
+      "last_checked": "2026-05-11T11:09:40.348590+00:00",
       "season_count": 5,
       "episode_count": 50,
       "watched_seasons": 5
@@ -1289,7 +1196,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-04T08:22:37.139851+00:00",
+      "last_checked": "2026-05-11T11:09:41.775857+00:00",
       "season_count": 1,
       "episode_count": 6,
       "watched_seasons": 1
@@ -1571,7 +1478,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-04T08:22:39.409099+00:00",
+      "last_checked": "2026-05-11T11:09:44.633556+00:00",
       "season_count": 1,
       "episode_count": 10,
       "watched_seasons": 1
@@ -1618,7 +1525,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-04T08:22:40.718323+00:00",
+      "last_checked": "2026-05-11T11:09:46.297952+00:00",
       "season_count": 7,
       "episode_count": 136
     },
@@ -1711,7 +1618,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-04T08:22:41.819192+00:00",
+      "last_checked": "2026-05-11T11:09:47.688200+00:00",
       "season_count": 6,
       "episode_count": 62
     },
@@ -1943,7 +1850,7 @@
           "quality": "sd"
         }
       },
-      "last_checked": "2026-05-04T08:22:42.941282+00:00",
+      "last_checked": "2026-05-11T11:09:49.331295+00:00",
       "season_count": 3,
       "episode_count": 27
     },
@@ -1976,7 +1883,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-04T08:22:44.103010+00:00",
+      "last_checked": "2026-05-11T11:09:50.760297+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 1
@@ -2016,7 +1923,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-04T08:22:45.340350+00:00",
+      "last_checked": "2026-05-11T11:09:52.242648+00:00",
       "season_count": 1,
       "episode_count": 7
     },
@@ -2038,7 +1945,7 @@
         "Adventure",
         "Science Fiction"
       ],
-      "overview": "During the reign of the Empire, Obi-Wan Kenobi embarks on a crucial mission.",
+      "overview": "During the reign of the Empire, Obi-Wan Kenobi embarks on a crucial mission. \n\nThere are certain scenes in this fictional series that some viewers may find upsetting.\n\nSome flashing lights sequence...",
       "streaming": {
         "disney": {
           "service": "disney",
@@ -2048,7 +1955,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-04T08:22:46.372839+00:00",
+      "last_checked": "2026-05-11T11:09:53.539084+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -2071,6 +1978,13 @@
       ],
       "overview": "Today's American families come in all shapes and sizes. The cookie cutter mold of man + wife + 2.5 kids is a thing of the past, as it becomes quickly apparent in the bird's eye view of ABC's half-h...",
       "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0IV5WZ6TUSCYEZLQCQFKSN3Z8B",
+          "quality": "sd"
+        },
         "hulu": {
           "service": "hulu",
           "serviceName": "Hulu",
@@ -2084,16 +1998,9 @@
           "type": "subscription",
           "link": "https://www.peacocktv.com/watch/asset/tv/modern-family/6158438733133910112",
           "quality": "hd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0IV5WZ6TUSCYEZLQCQFKSN3Z8B",
-          "quality": "sd"
         }
       },
-      "last_checked": "2026-05-04T08:22:48.219811+00:00",
+      "last_checked": "2026-05-11T11:09:55.885537+00:00",
       "season_count": 11,
       "episode_count": 250
     },
@@ -2281,38 +2188,6 @@
       "last_checked": "2026-05-06T08:14:34.555460+00:00",
       "runtime": 122,
       "release_date": "2022-12-09"
-    },
-    {
-      "title": "Finding ʻOhana",
-      "year": 2021,
-      "type": "movie",
-      "tmdb_id": "movie/644092",
-      "lists": [
-        "family"
-      ],
-      "priority": {
-        "family-movie": 6
-      },
-      "poster": "https://cdn.movieofthenight.com/show/21177/poster/vertical/en/240.jpg?Expires=1800289425&Signature=hsIpqc6yjjKUmifEx5C2qx966A5WYSf5jOaQ9GZ4Zz5OhSVuvGOjuny7CuBHD5uFzPAHG1B1h2wMDnkhq25-vII-4DEMPwzXox9QLWTXBKEMNW207jIlcaDn~~SmAO0NRGaK0ToTaZxf~QSpRxwnYmcH0MzG~msuLwuQriL-F3XVwUBMC0hl4tF0Klhrcp3FwMkDezwSGoWNRP5YVGa2ncu1-u-E8zFwLHMSZl2YAEbJT4FtsgRuDNyZe-koVdlhQjzRxfj3WstXDsgAlrC0ipGCVwRTDSngXtvesENzKZonhmS9e1twXqwyaij0YXKTUWFpcKgOf~5BhFesSIDy~w__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "PG",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy"
-      ],
-      "overview": "On Oʻahu for the summer, two siblings from Brooklyn connect with their Hawaiian heritage — and their family — on a daring quest for long-lost treasure.",
-      "streaming": {
-        "netflix": {
-          "service": "netflix",
-          "serviceName": "Netflix",
-          "type": "subscription",
-          "link": "https://www.netflix.com/title/81023618/",
-          "quality": "uhd"
-        }
-      },
-      "last_checked": "2026-05-07T08:24:50.142073+00:00",
-      "runtime": 123,
-      "release_date": "2021-01-29"
     },
     {
       "title": "Up",
@@ -3386,41 +3261,6 @@
       "episode_count": 26
     },
     {
-      "title": "Shaun the Sheep",
-      "year": 2007,
-      "type": "series",
-      "tmdb_id": "tv/3902",
-      "lists": [
-        "kids"
-      ],
-      "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/z2gPfTQd3I0JLWOAEdKYMQRLoun.jpg",
-      "rating": "TV-G",
-      "genres": [
-        "Animation",
-        "Comedy"
-      ],
-      "overview": "Follows a dim-witted farmer, a sheep named Shaun, a dog named Bitzer, and the rest of their flock as they navigate life at Mossy Bottom Farm.",
-      "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0RMLEWCAFDEWCXZ74RGLN7XBOX"
-        },
-        "tubi": {
-          "service": "tubi",
-          "serviceName": "Tubi",
-          "type": "free",
-          "link": "https://tubitv.com/series/300004056/shaun-the-sheep",
-          "quality": "hd"
-        }
-      },
-      "last_checked": "2026-05-07T08:25:06.832018+00:00",
-      "season_count": 6,
-      "episode_count": 170
-    },
-    {
       "title": "Big Beasts",
       "year": 2023,
       "type": "series",
@@ -3853,34 +3693,6 @@
       "release_date": "2020-02-14"
     },
     {
-      "title": "The Secret Lives of Animals",
-      "year": 2024,
-      "type": "series",
-      "tmdb_id": "tv/276501",
-      "lists": [
-        "kids"
-      ],
-      "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/dogBVvVM6JCkiq25LoSjHJQ7pcY.jpg",
-      "rating": "TV-G",
-      "genres": [
-        "Documentary"
-      ],
-      "overview": "Discover the clever and creative ways animals navigate life’s most extraordinary challenges, from leaving home to finding a partner. Narrated by Hugh Bonneville.",
-      "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "subscription",
-          "link": "https://tv.apple.com/us/show/the-secret-lives-of-animals/umc.cmc.2o8al5w2z01dnm4f9aw11d2w7",
-          "quality": "uhd"
-        }
-      },
-      "last_checked": "2026-05-09T07:48:25.710279+00:00",
-      "season_count": 1,
-      "episode_count": 10
-    },
-    {
       "title": "Timmy Failure: Mistakes Were Made",
       "year": 2020,
       "type": "movie",
@@ -4050,20 +3862,20 @@
       ],
       "overview": "Walt Disney Animation Studios’ “Raya and the Last Dragon” travels to the fantasy world of Kumandra, where humans and dragons lived together in harmony long ago. But when an evil force threatened th...",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/raya-and-the-last-dragon/umc.cmc.13yhvlcnjgixwpl8hy62kuppp?playableId=tvs.sbd.9001%3A1557711427",
-          "quality": "hd",
-          "price": "3.99 USD"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0FBFRB46ZO50J8MEMCJK7TWOGM/ref=atv_dp",
           "quality": "uhd",
+          "price": "3.99 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/raya-and-the-last-dragon/umc.cmc.13yhvlcnjgixwpl8hy62kuppp?playableId=tvs.sbd.9001%3A1557711427",
+          "quality": "hd",
           "price": "3.99 USD"
         },
         "disney": {
@@ -4074,7 +3886,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-02T07:24:05.842428+00:00",
+      "last_checked": "2026-05-11T11:09:56.615266+00:00",
       "runtime": 107,
       "release_date": "2021-03-05"
     },
@@ -4199,35 +4011,6 @@
       "release_date": "2019-05-03"
     },
     {
-      "title": "The Dinosaurs",
-      "year": 2026,
-      "type": "series",
-      "tmdb_id": "tv/313298",
-      "lists": [
-        "kids"
-      ],
-      "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/x37IK9WWhuzi7tgyMT4ff3kiT5X.jpg",
-      "rating": "TV-PG",
-      "genres": [
-        "Documentary",
-        "History"
-      ],
-      "overview": "From the first dinosaurs to the last, this epic documentary series examines their 165 million years on Earth and the forces that shaped their evolution.",
-      "streaming": {
-        "netflix": {
-          "service": "netflix",
-          "serviceName": "Netflix",
-          "type": "subscription",
-          "link": "https://www.netflix.com/title/81612719/",
-          "quality": "uhd"
-        }
-      },
-      "last_checked": "2026-05-02T07:24:08.580853+00:00",
-      "season_count": 1,
-      "episode_count": 4
-    },
-    {
       "title": "Sinners",
       "year": 2025,
       "type": "movie",
@@ -4262,36 +4045,6 @@
       "last_checked": "2026-05-02T07:24:09.416691+00:00",
       "runtime": 137,
       "release_date": "2025-04-18"
-    },
-    {
-      "title": "I, Jack Wright",
-      "year": 2025,
-      "type": "series",
-      "tmdb_id": "tv/262899",
-      "lists": [
-        "mom"
-      ],
-      "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/yWo8QNGADcVRFiWFn0vDE8u9BQS.jpg",
-      "rating": "",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ],
-      "overview": "A death in the family. A bombshell will. A murderer in their ranks? The apparent death by suicide of high-powered businessman Jack Wright sends a shockwave through his family. As his wives and chil...",
-      "streaming": {
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-7abad622-6bb4-4343-8550-933b9e361e71",
-          "quality": "hd"
-        }
-      },
-      "last_checked": "2026-05-02T07:24:10.370664+00:00",
-      "season_count": 1,
-      "episode_count": 6
     },
     {
       "title": "Heated Rivalry",

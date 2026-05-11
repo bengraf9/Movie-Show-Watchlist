@@ -7,7 +7,7 @@
       "dad"
     ],
     "priority": {
-      "dad-movie": 2
+      "dad-movie": 1
     },
     "tmdb_id": "movie/1003596",
     "release_date": "2026-12-18"
@@ -21,7 +21,7 @@
       "mom"
     ],
     "priority": {
-      "dad-movie": 3
+      "dad-movie": 2
     },
     "tmdb_id": "movie/1301421",
     "rating": "PG",
@@ -34,7 +34,7 @@
       "dad"
     ],
     "priority": {
-      "dad-movie": 4
+      "dad-movie": 11
     },
     "tmdb_id": "movie/347031",
     "year": 2016,
@@ -48,7 +48,7 @@
       "dad"
     ],
     "priority": {
-      "dad-movie": 5
+      "dad-movie": 3
     },
     "tmdb_id": "movie/378",
     "year": 1987,
@@ -57,31 +57,31 @@
   },
   {
     "title": "Dune: Part Three",
-    "year": 2026,
+    "year": 20,
     "type": "movie",
     "lists": [
       "dad",
       "mom"
     ],
     "priority": {
-      "dad-movie": 6
+      "dad-movie": 9
     },
     "tmdb_id": "movie/1170608",
-    "release_date": "2026-12-18",
+    "release_date": "20-12-18",
     "rating": "PG-13"
   },
   {
     "title": "Spider-Man: Brand New Day",
-    "year": 2026,
+    "year": 20,
     "type": "movie",
     "lists": [
       "dad"
     ],
     "priority": {
-      "dad-movie": 9
+      "dad-movie": 4
     },
     "tmdb_id": "movie/969681",
-    "release_date": "2026-07-31"
+    "release_date": "20-07-31"
   },
   {
     "title": "The Life of Chuck",
@@ -104,7 +104,7 @@
       "dad"
     ],
     "priority": {
-      "dad-movie": 11
+      "dad-movie": 14
     },
     "tmdb_id": "movie/804095",
     "year": 2022,
@@ -118,7 +118,7 @@
       "dad"
     ],
     "priority": {
-      "dad-movie": 12
+      "dad-movie": 16
     },
     "tmdb_id": "movie/9361",
     "year": 1992,
@@ -132,26 +132,12 @@
       "dad"
     ],
     "priority": {
-      "dad-movie": 13
+      "dad-movie": 19
     },
     "tmdb_id": "movie/2107",
     "year": 1991,
     "rating": "PG-13",
     "release_date": "1991-02-08"
-  },
-  {
-    "title": "Tropic Thunder",
-    "type": "movie",
-    "lists": [
-      "dad"
-    ],
-    "priority": {
-      "dad-movie": 14
-    },
-    "tmdb_id": "movie/7446",
-    "year": 2008,
-    "rating": "R",
-    "release_date": "2008-08-13"
   },
   {
     "title": "Being There",
@@ -160,7 +146,7 @@
       "dad"
     ],
     "priority": {
-      "dad-movie": 15
+      "dad-movie": 13
     },
     "tmdb_id": "movie/10322",
     "year": 1979,
@@ -175,7 +161,7 @@
       "dad"
     ],
     "priority": {
-      "dad-movie": 17
+      "dad-movie": 21
     },
     "tmdb_id": "movie/753342",
     "rating": "R",
@@ -188,7 +174,7 @@
       "dad"
     ],
     "priority": {
-      "dad-movie": 18
+      "dad-movie": 12
     },
     "tmdb_id": "movie/1155828",
     "year": 2024,
@@ -202,26 +188,12 @@
       "dad"
     ],
     "priority": {
-      "dad-movie": 19
+      "dad-movie": 22
     },
     "tmdb_id": "movie/975225",
     "year": 2025,
     "rating": "R",
     "release_date": "2025-09-12"
-  },
-  {
-    "title": "The Shape of Things",
-    "year": 2003,
-    "type": "movie",
-    "lists": [
-      "dad"
-    ],
-    "priority": {
-      "dad-movie": 20
-    },
-    "tmdb_id": "movie/22958",
-    "rating": "R",
-    "release_date": "2003-01-18"
   },
   {
     "title": "To Kill a Mockingbird",
@@ -231,7 +203,7 @@
       "dad"
     ],
     "priority": {
-      "dad-movie": 21
+      "dad-movie": 26
     },
     "tmdb_id": "movie/595",
     "rating": "NR",
@@ -244,7 +216,7 @@
       "dad"
     ],
     "priority": {
-      "dad-movie": 22
+      "dad-movie": 25
     },
     "tmdb_id": "movie/17450",
     "year": 1981,
@@ -259,7 +231,7 @@
       "dad"
     ],
     "priority": {
-      "dad-movie": 23
+      "dad-movie": 18
     },
     "tmdb_id": "movie/1051891",
     "rating": "PG-13",
@@ -267,16 +239,16 @@
   },
   {
     "title": "Masters of the Universe",
-    "year": 2026,
+    "year": 20,
     "type": "movie",
     "lists": [
       "dad"
     ],
     "priority": {
-      "dad-movie": 24
+      "dad-movie": 20
     },
     "tmdb_id": "movie/454639",
-    "release_date": "2026-06-05",
+    "release_date": "20-06-05",
     "rating": "PG-13"
   },
   {
@@ -287,39 +259,11 @@
       "dad"
     ],
     "priority": {
-      "dad-movie": 25
+      "dad-movie": 23
     },
     "tmdb_id": "movie/116745",
     "rating": "PG",
     "release_date": "2013-12-25"
-  },
-  {
-    "title": "Finch",
-    "type": "movie",
-    "lists": [
-      "dad"
-    ],
-    "priority": {
-      "dad-movie": 26
-    },
-    "tmdb_id": "movie/522402",
-    "year": 2021,
-    "rating": "PG-13",
-    "release_date": "2021-11-04"
-  },
-  {
-    "title": "Her",
-    "year": 2013,
-    "type": "movie",
-    "lists": [
-      "dad"
-    ],
-    "priority": {
-      "dad-movie": 27
-    },
-    "tmdb_id": "movie/152601",
-    "rating": "R",
-    "release_date": "2014-01-10"
   },
   {
     "title": "Black Bag",
@@ -329,59 +273,11 @@
       "dad"
     ],
     "priority": {
-      "dad-movie": 28
+      "dad-movie": 17
     },
     "tmdb_id": "movie/1233575",
     "rating": "R",
     "release_date": "2025-03-14"
-  },
-  {
-    "title": "Jules",
-    "year": 2023,
-    "type": "movie",
-    "lists": [
-      "dad"
-    ],
-    "priority": {
-      "dad-movie": 23
-    },
-    "tmdb_id": "movie/1072371",
-    "rating": "PG-13",
-    "release_date": "2023-08-11"
-  },
-  {
-    "title": "Dear Evan Hansen",
-    "type": "movie",
-    "lists": [
-      "dad"
-    ],
-    "priority": {
-      "dad-movie": 30
-    },
-    "tmdb_id": "movie/567690",
-    "year": 2021,
-    "rating": "PG-13",
-    "release_date": "2021-09-24"
-  },
-  {
-    "title": "Hamilton",
-    "year": 2020,
-    "type": "movie",
-    "lists": [
-      "dad"
-    ],
-    "priority": {
-      "dad-movie": 31
-    },
-    "tmdb_id": "movie/556574",
-    "rating": "PG-13",
-    "release_date": "2025-09-05",
-    "manual_streaming": [
-      {
-        "service": "disney",
-        "type": "subscription"
-      }
-    ]
   },
   {
     "title": "Real Genius",
@@ -390,6 +286,9 @@
     "lists": [
       "dad"
     ],
+    "priority": {
+      "dad-movie": 24
+    },
     "tmdb_id": "movie/14370",
     "rating": "PG",
     "release_date": "1985-08-07"
@@ -1409,6 +1308,9 @@
     "lists": [
       "dad"
     ],
+    "priority": {
+      "dad-movie": 15
+    },
     "tmdb_id": "movie/1306322",
     "release_date": "2027-04-23"
   },
@@ -1419,6 +1321,9 @@
     "lists": [
       "dad"
     ],
+    "priority": {
+      "dad-movie": 8
+    },
     "tmdb_id": "movie/1330021",
     "release_date": "2026-05-08",
     "rating": "PG-13"
@@ -1442,6 +1347,9 @@
     "lists": [
       "dad", "mom"
     ],
+    "priority": {
+      "dad-movie": 5
+    },
     "tmdb_id": "movie/76"
   },  
   {
@@ -1450,6 +1358,9 @@
     "lists": [
       "dad", "mom"
     ],
+    "priority": {
+      "dad-movie": 6
+    },
     "tmdb_id": "movie/80"
   },  
   {
@@ -1458,6 +1369,9 @@
     "lists": [
       "dad", "mom"
     ],
+    "priority": {
+      "dad-movie": 7
+    },
     "tmdb_id": "movie/132344"
   }
 ]

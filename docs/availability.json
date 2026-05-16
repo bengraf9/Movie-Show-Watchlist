@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T08:41:53.171440+00:00",
+  "last_updated": "2026-05-16T07:55:32.215212+00:00",
   "country": "us",
   "items": [
     {
@@ -70,6 +70,12 @@
       ],
       "overview": "Hank is stranded on a deserted island when a corpse washes ashore and the two go on an epic adventure to bring Hank back to the woman of his dreams.",
       "streaming": {
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/movie/f2127e58-1c4e-4855-a310-538a8acc91e1"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -78,12 +84,6 @@
           "quality": "sd",
           "price": "2.99 USD"
         },
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://play.hbomax.com/movie/f2127e58-1c4e-4855-a310-538a8acc91e1"
-        },
         "tubi": {
           "service": "tubi",
           "serviceName": "Tubi",
@@ -91,7 +91,7 @@
           "link": "https://tubitv.com/movies/100046625/swiss-army-man"
         }
       },
-      "last_checked": "2026-05-09T07:48:11.014418+00:00",
+      "last_checked": "2026-05-16T07:55:22.994127+00:00",
       "runtime": 93,
       "release_date": "2016-07-01"
     },
@@ -130,7 +130,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-09T07:48:11.682394+00:00",
+      "last_checked": "2026-05-16T07:55:23.421361+00:00",
       "runtime": 94,
       "release_date": "1987-04-17"
     },
@@ -216,7 +216,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-09T07:48:12.931559+00:00",
+      "last_checked": "2026-05-16T07:55:23.816124+00:00",
       "runtime": 110,
       "release_date": "2025-06-13"
     },
@@ -262,7 +262,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-09T07:48:13.621344+00:00",
+      "last_checked": "2026-05-16T07:55:24.240817+00:00",
       "runtime": 150,
       "release_date": "2022-11-23"
     },
@@ -326,7 +326,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-09T07:48:14.094764+00:00",
+      "last_checked": "2026-05-16T07:55:24.717564+00:00",
       "runtime": 91,
       "release_date": "1991-02-08"
     },
@@ -358,7 +358,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-09T07:48:15.244397+00:00",
+      "last_checked": "2026-05-16T07:55:25.115264+00:00",
       "runtime": 124,
       "release_date": "1979-12-19"
     },
@@ -397,7 +397,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-09T07:48:16.342400+00:00",
+      "last_checked": "2026-05-16T07:55:25.636498+00:00",
       "runtime": 157,
       "release_date": "2023-11-22"
     },
@@ -419,13 +419,6 @@
       ],
       "overview": "Academy Award® nominee Colman Domingo shines in this true story of a man who found hope through the arts while wrongfully imprisoned.",
       "streaming": {
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://play.hbomax.com/movie/5e4fb59a-fbe8-4be8-ba4f-eccc4005f169",
-          "quality": "uhd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -433,9 +426,16 @@
           "link": "https://www.amazon.com/gp/video/detail/0H5E4XHCIMNB81SGDZ09LNQ6K6/ref=atv_dp",
           "quality": "uhd",
           "price": "4.99 USD"
+        },
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/movie/5e4fb59a-fbe8-4be8-ba4f-eccc4005f169",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-09T07:48:16.966331+00:00",
+      "last_checked": "2026-05-16T07:55:26.037575+00:00",
       "runtime": 106,
       "release_date": "2024-03-08"
     },
@@ -458,12 +458,6 @@
       ],
       "overview": "Forty-one years after the release of the groundbreaking mockumentary This Is Spinal Tap, the now estranged bandmates David St. Hubbins, Nigel Tufnel, and Derek Smalls (Michael McKean, Christopher G...",
       "streaming": {
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://play.hbomax.com/movie/f3bf7c8f-1c44-4a35-9bb2-8f583c5e90bb"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -471,9 +465,15 @@
           "link": "https://www.amazon.com/gp/video/detail/0QX9MSTQ5UTFHCQBXO7E8AX24M/ref=atv_dp",
           "quality": "uhd",
           "price": "5.99 USD"
+        },
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/movie/f3bf7c8f-1c44-4a35-9bb2-8f583c5e90bb"
         }
       },
-      "last_checked": "2026-05-09T07:48:17.541321+00:00",
+      "last_checked": "2026-05-16T07:55:26.521067+00:00",
       "runtime": 84,
       "release_date": "2025-09-12"
     },
@@ -505,7 +505,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-09T07:48:18.529808+00:00",
+      "last_checked": "2026-05-16T07:55:26.964161+00:00",
       "runtime": 129,
       "release_date": "1963-03-16"
     },
@@ -552,7 +552,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-09T07:48:19.111363+00:00",
+      "last_checked": "2026-05-16T07:55:27.338208+00:00",
       "runtime": 107,
       "release_date": "1982-01-01"
     },
@@ -591,7 +591,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-09T07:48:19.813280+00:00",
+      "last_checked": "2026-05-16T07:55:27.728984+00:00",
       "runtime": 98,
       "release_date": "2024-06-21"
     },
@@ -646,14 +646,6 @@
           "link": "https://www.disneyplus.com/browse/entity-bbb4074c-5d7e-4528-aa21-7fd6fca7f41b",
           "quality": "hd"
         },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/the-secret-life-of-walter-mitty/umc.cmc.pw6qkwfo6ppbm0q2zkp07a3f?playableId=tvs.sbd.9001%3A772093232",
-          "quality": "hd",
-          "price": "3.99 USD"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -661,9 +653,17 @@
           "link": "https://www.amazon.com/gp/video/detail/0HOJDZS6BE7QKBMLF6VHTJUBEO/ref=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/the-secret-life-of-walter-mitty/umc.cmc.pw6qkwfo6ppbm0q2zkp07a3f?playableId=tvs.sbd.9001%3A772093232",
+          "quality": "hd",
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-09T07:48:20.524834+00:00",
+      "last_checked": "2026-05-16T07:55:28.212844+00:00",
       "runtime": 114,
       "release_date": "2013-12-25"
     },
@@ -694,7 +694,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-09T07:48:22.037700+00:00",
+      "last_checked": "2026-05-16T07:55:28.609843+00:00",
       "runtime": 90,
       "release_date": "2025-03-14"
     },
@@ -3143,7 +3143,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-09T07:48:23.636005+00:00",
+      "last_checked": "2026-05-16T07:55:29.074895+00:00",
       "runtime": 89,
       "release_date": "2024-04-22"
     },
@@ -3237,6 +3237,14 @@
       ],
       "overview": "SONIC THE HEDGEHOG tells the story of the world's speediest hedgehog as he embraces his new home on Earth. Sonic and his new best friend Tom team up to defend the planet from the evil genius Dr. Ro...",
       "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0IX0SYSTLGMA5ZUWRKVJNLWBZ0/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        },
         "paramount": {
           "service": "paramount",
           "serviceName": "Paramount+",
@@ -3251,14 +3259,6 @@
           "quality": "hd",
           "price": "3.99 USD"
         },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0IX0SYSTLGMA5ZUWRKVJNLWBZ0/ref=atv_dp",
-          "quality": "uhd",
-          "price": "3.99 USD"
-        },
         "hulu": {
           "service": "hulu",
           "serviceName": "Hulu",
@@ -3266,7 +3266,7 @@
           "link": "https://www.disneyplus.com/browse/entity-f6104eae-6c27-44c1-a5b2-967187d0e046"
         }
       },
-      "last_checked": "2026-05-09T07:48:24.171271+00:00",
+      "last_checked": "2026-05-16T07:55:29.579860+00:00",
       "runtime": 98,
       "release_date": "2020-02-14"
     },
@@ -3296,7 +3296,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-09T07:48:26.498784+00:00",
+      "last_checked": "2026-05-16T07:55:29.989956+00:00",
       "runtime": 102,
       "release_date": "2020-01-25"
     },
@@ -3338,7 +3338,7 @@
           "quality": "sd"
         }
       },
-      "last_checked": "2026-05-09T07:48:27.760665+00:00",
+      "last_checked": "2026-05-16T07:55:31.275370+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -3367,7 +3367,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-09T07:48:28.531383+00:00",
+      "last_checked": "2026-05-16T07:55:32.025796+00:00",
       "runtime": 73
     },
     {

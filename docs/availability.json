@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T07:55:32.215212+00:00",
+  "last_updated": "2026-05-17T08:14:06.253646+00:00",
   "country": "us",
   "items": [
     {
@@ -834,7 +834,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-10T08:01:02.325360+00:00",
+      "last_checked": "2026-05-17T08:13:36.363073+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1
@@ -898,7 +898,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-10T08:01:03.615995+00:00",
+      "last_checked": "2026-05-17T08:13:38.409019+00:00",
       "season_count": 1,
       "episode_count": 3
     },
@@ -958,7 +958,7 @@
           "link": "https://play.hbomax.com/show/576e149d-8211-46dd-be88-e97fa9e01ac4"
         }
       },
-      "last_checked": "2026-05-10T08:01:05.475154+00:00",
+      "last_checked": "2026-05-17T08:13:40.763796+00:00",
       "season_count": 6,
       "episode_count": 90
     },
@@ -982,22 +982,22 @@
       ],
       "overview": "From J.J. Abrams (\"Lost\"), Roberto Orci and Alex Kurtzman, the team behind \"Star Trek,\" \"Mission: Impossible III\" and \"Alias,\" comes a drama that will thrill, terrify and explore the blurring line ...",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0KZW29L9Y0POR6UT6HNAY2EQ53",
-          "quality": "hd"
-        },
         "hulu": {
           "service": "hulu",
           "serviceName": "Hulu",
           "type": "subscription",
           "link": "https://www.hulu.com/series/fringe-0e1b3070-9fdd-466b-aaa6-0a181e1303b9",
           "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0KZW29L9Y0POR6UT6HNAY2EQ53",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-05-10T08:01:07.008065+00:00",
+      "last_checked": "2026-05-17T08:13:43.024556+00:00",
       "season_count": 5,
       "episode_count": 100
     },
@@ -1029,7 +1029,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-10T08:01:08.775755+00:00",
+      "last_checked": "2026-05-17T08:13:46.205881+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -1101,7 +1101,7 @@
           "link": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/"
         }
       },
-      "last_checked": "2026-05-10T08:01:10.317703+00:00",
+      "last_checked": "2026-05-17T08:13:48.555579+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1125,13 +1125,6 @@
       ],
       "overview": "Sir Patrick Stewart reprises his iconic role as Jean-Luc Picard. The retired admiral enters the next chapter of his life, while dealing with pain from the past.",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0S4PHJ50UWJJMEE08SOKDCOI6E",
-          "quality": "hd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -1144,9 +1137,16 @@
           "serviceName": "Paramount+",
           "type": "subscription",
           "link": "https://www.paramountplus.com/shows/star-trek-picard/"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0S4PHJ50UWJJMEE08SOKDCOI6E",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-10T08:01:13.339513+00:00",
+      "last_checked": "2026-05-17T08:13:51.075125+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1264,7 +1264,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-10T08:01:17.131132+00:00",
+      "last_checked": "2026-05-17T08:13:54.178937+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1301,7 +1301,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-10T08:01:19.207810+00:00",
+      "last_checked": "2026-05-17T08:13:57.419993+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -1345,7 +1345,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-10T08:01:21.003467+00:00",
+      "last_checked": "2026-05-17T08:14:00.072445+00:00",
       "season_count": 6,
       "episode_count": 110
     },
@@ -1374,7 +1374,7 @@
           "link": "https://play.hbomax.com/show/c967b1a4-d0e2-491e-967e-ae09f88fef62"
         }
       },
-      "last_checked": "2026-05-10T08:01:22.454615+00:00",
+      "last_checked": "2026-05-17T08:14:02.214370+00:00",
       "season_count": 1,
       "episode_count": 2
     },
@@ -1405,7 +1405,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-10T08:01:23.651884+00:00",
+      "last_checked": "2026-05-17T08:14:04.220005+00:00",
       "season_count": 5,
       "episode_count": 30
     },
@@ -3387,7 +3387,7 @@
       ],
       "overview": "Young Michael, shipwrecked on a remote island, must adapt to life alone. Over time, he feels another presence, learning that this world is home to both unimaginable danger and beauty.",
       "streaming": {},
-      "last_checked": "2026-05-10T08:01:24.318746+00:00",
+      "last_checked": "2026-05-17T08:14:05.232609+00:00",
       "runtime": 84,
       "release_date": "2024-10-18"
     },
@@ -3418,7 +3418,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-05-10T08:01:24.981884+00:00",
+      "last_checked": "2026-05-17T08:14:06.253538+00:00",
       "runtime": 83,
       "release_date": "2024-02-02"
     },

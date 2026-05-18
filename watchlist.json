@@ -399,19 +399,6 @@
     "rating": "TV-MA"
   },
   {
-    "title": "Fringe",
-    "type": "series",
-    "lists": [
-      "dad"
-    ],
-    "priority": {
-      "dad-series": 14
-    },
-    "tmdb_id": "tv/1705",
-    "year": 2008,
-    "rating": "TV-14"
-  },
-  {
     "title": "A Man on the Inside",
     "type": "series",
     "lists": [
@@ -557,19 +544,6 @@
     },
     "tmdb_id": "tv/95480",
     "year": 2022,
-    "rating": "TV-MA"
-  },
-  {
-    "title": "Legion",
-    "type": "series",
-    "lists": [
-      "dad"
-    ],
-    "priority": {
-      "dad-series": 17
-    },
-    "tmdb_id": "tv/67195",
-    "year": 2017,
     "rating": "TV-MA"
   },
   {

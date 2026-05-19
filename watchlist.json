@@ -1360,5 +1360,14 @@
     "year": 2013,
     "rating": "R",
     "release_date": "2013-06-14"
+  },
+  {
+    "title": "Rooster",
+    "type": "series",
+    "lists": [
+      "dad"
+    ],
+    "tmdb_id": "tv/254953",
+    "year": 2026
   }
 ]

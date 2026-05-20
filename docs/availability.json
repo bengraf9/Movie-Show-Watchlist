@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T09:32:42.396663+00:00",
+  "last_updated": "2026-05-20T08:57:35.215988+00:00",
   "country": "us",
   "items": [
     {
@@ -867,7 +867,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-13T08:37:20.626037+00:00",
+      "last_checked": "2026-05-20T08:57:18.377543+00:00",
       "season_count": 3,
       "episode_count": 39,
       "watched_seasons": 2
@@ -1023,7 +1023,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-13T08:37:22.061513+00:00",
+      "last_checked": "2026-05-20T08:57:20.204765+00:00",
       "season_count": 3,
       "episode_count": 33,
       "watched_seasons": 3
@@ -1539,7 +1539,7 @@
       ],
       "overview": "There is nothing special about Harry Potter - at least that's what his Aunt Petunia always says. On his 11th birthday, a letter of admittance to Hogwarts School of Witchcraft and Wizardry opens up ...",
       "streaming": {},
-      "last_checked": "2026-05-13T08:37:23.310912+00:00",
+      "last_checked": "2026-05-20T08:57:22.074498+00:00",
       "season_count": 1,
       "episode_count": 1
     },
@@ -1557,17 +1557,17 @@
       "genres": [
         "Comedy"
       ],
-      "overview": "Jury Duty is a documentary-style comedy series that shares the inner workings of an American jury trial through the eyes of one particular juror. The Exclusive Cast Commentary includes secrets from...",
+      "overview": "Jury Duty Presents: Company Retreat is now streaming! An unsuspecting person navigates scripted scenarios with actors, unaware they're the star of an uplifting experiment.",
       "streaming": {
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0PHVBBBNLOS0UDCDQH3FI3YSL4",
+          "link": "https://www.amazon.com/gp/video/detail/0M763I7P42FU9YUUPJ8K905RPK",
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-13T08:37:24.620192+00:00",
+      "last_checked": "2026-05-20T08:57:23.504601+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -1615,7 +1615,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-13T08:37:25.226823+00:00",
+      "last_checked": "2026-05-20T08:57:24.179570+00:00",
       "runtime": 107,
       "release_date": "2021-10-22"
     },
@@ -1647,7 +1647,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-13T08:37:25.622088+00:00",
+      "last_checked": "2026-05-20T08:57:24.646549+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1678,7 +1678,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-13T08:37:26.021938+00:00",
+      "last_checked": "2026-05-20T08:57:25.132838+00:00",
       "runtime": 122,
       "release_date": "2022-12-09"
     },
@@ -1702,14 +1702,6 @@
       ],
       "overview": "High flying animated comedy adventure from Pixar Studios. 70-something retired balloon salesman Carl Fredricksen (voiced by Edward Asner) decides to use his twilight years to fulfil his lifelong dr...",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0KIU948OY9VO8VMM4DJ5GFL95J/ref=atv_dp",
-          "quality": "uhd",
-          "price": "2.99 USD"
-        },
         "disney": {
           "service": "disney",
           "serviceName": "Disney+",
@@ -1724,9 +1716,17 @@
           "link": "https://tv.apple.com/us/movie/up/umc.cmc.7hyl1e1p1ihe8aiij3fzjwwyc?playableId=tvs.sbd.9001%3A322447599",
           "quality": "hd",
           "price": "4.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0KIU948OY9VO8VMM4DJ5GFL95J/ref=atv_dp",
+          "quality": "uhd",
+          "price": "2.99 USD"
         }
       },
-      "last_checked": "2026-05-13T08:37:26.442624+00:00",
+      "last_checked": "2026-05-20T08:57:25.595572+00:00",
       "runtime": 96,
       "release_date": "2009-05-29"
     },
@@ -1788,7 +1788,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-13T08:37:26.876615+00:00",
+      "last_checked": "2026-05-20T08:57:26.174138+00:00",
       "runtime": 97,
       "release_date": "2014-12-19"
     },
@@ -1828,7 +1828,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-13T08:37:27.365132+00:00",
+      "last_checked": "2026-05-20T08:57:26.666359+00:00",
       "runtime": 102,
       "release_date": "2025-06-20"
     },
@@ -1860,7 +1860,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-13T08:37:27.865889+00:00",
+      "last_checked": "2026-05-20T08:57:27.131529+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1892,7 +1892,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-13T08:37:28.365701+00:00",
+      "last_checked": "2026-05-20T08:57:27.606497+00:00",
       "runtime": 110,
       "release_date": "2024-11-11"
     },
@@ -1916,7 +1916,7 @@
       ],
       "overview": "Molly Mahoney is the awkward and insecure manager of Mr. Magorium's Wonder Emporium, the strangest, most fantastic, most wonderful toy store in the world. But when Mr. Magorium, the 243 year-old ec...",
       "streaming": {},
-      "last_checked": "2026-05-13T08:37:28.756378+00:00",
+      "last_checked": "2026-05-20T08:57:28.073252+00:00",
       "runtime": 93,
       "release_date": "2007-11-16"
     },
@@ -1964,7 +1964,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-13T08:37:29.183960+00:00",
+      "last_checked": "2026-05-20T08:57:28.669376+00:00",
       "runtime": 98,
       "release_date": "1981-06-26"
     },
@@ -2012,7 +2012,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-13T08:37:29.703358+00:00",
+      "last_checked": "2026-05-20T08:57:29.145934+00:00",
       "runtime": 134,
       "release_date": "2018-05-25"
     },
@@ -2060,7 +2060,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-13T08:37:30.117763+00:00",
+      "last_checked": "2026-05-20T08:57:29.613028+00:00",
       "runtime": 97,
       "release_date": "2019-09-27"
     },
@@ -2084,6 +2084,13 @@
       ],
       "overview": "Prepare to be dazzled by the spectacular adaptation of Louis SacharÂ's acclaimed teen adventure Holes, featuring an all star cast including Sigourney Weaver, Jon Voight and Patricia Arquette. Wrong...",
       "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-43fe9e3c-abbf-436b-b8af-9741bd8f732c",
+          "quality": "hd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -2092,13 +2099,6 @@
           "quality": "hd",
           "price": "3.99 USD"
         },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-ecc93033-1f5a-4832-8845-458561c3d21e",
-          "quality": "hd"
-        },
         "paramount": {
           "service": "paramount",
           "serviceName": "Paramount+",
@@ -2106,7 +2106,7 @@
           "link": "https://www.paramountplus.com/movies/video/ALVE01KKW70XBNE65AQQ9DFGR14HVZ/"
         }
       },
-      "last_checked": "2026-05-13T08:37:30.523848+00:00",
+      "last_checked": "2026-05-20T08:57:30.230374+00:00",
       "runtime": 118,
       "release_date": "2003-04-18"
     },
@@ -2130,22 +2130,22 @@
       ],
       "overview": "Following an intrepid cat on a heart-stopping journey through an animated world of wonder and peril, Gints Zilbalodis’s Oscar®-winner is a moving ode to friendship. With delightfully expressive ani...",
       "streaming": {
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://play.hbomax.com/movie/83df1c2b-db9d-49cd-bf83-9ddbaa7e5e30"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0O4ID4HQRWTX3ANR58042XXJY7/ref=atv_dp",
-          "quality": "uhd",
+          "quality": "sd",
           "price": "2.99 USD"
+        },
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/movie/83df1c2b-db9d-49cd-bf83-9ddbaa7e5e30"
         }
       },
-      "last_checked": "2026-05-13T08:37:30.972042+00:00",
+      "last_checked": "2026-05-20T08:57:30.697196+00:00",
       "runtime": 85,
       "release_date": "2024-12-06"
     },
@@ -2177,6 +2177,13 @@
           "quality": "uhd",
           "price": "3.99 USD"
         },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-2854a94d-3702-40bd-97a4-12d55a809188",
+          "quality": "uhd"
+        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -2184,17 +2191,10 @@
           "link": "https://tv.apple.com/us/movie/star-wars-the-force-awakens/umc.cmc.61i3yveu7xby4chfkqved19ka?playableId=tvs.sbd.9001%3A1063466898",
           "quality": "hd",
           "price": "3.99 USD"
-        },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-2854a94d-3702-40bd-97a4-12d55a809188",
-          "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-13T08:37:31.371922+00:00",
-      "runtime": 136,
+      "last_checked": "2026-05-20T08:57:31.171230+00:00",
+      "runtime": 138,
       "release_date": "2015-12-18"
     },
     {
@@ -2225,6 +2225,13 @@
           "quality": "uhd",
           "price": "5.66 USD"
         },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-50c1aff5-3051-4839-9ebf-e332c635e216",
+          "quality": "uhd"
+        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -2232,16 +2239,9 @@
           "link": "https://tv.apple.com/us/movie/star-wars-the-last-jedi/umc.cmc.7f19yhpg0i8vk8of1ydhs7g1v?playableId=tvs.sbd.9001%3A1316280891",
           "quality": "hd",
           "price": "3.99 USD"
-        },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-50c1aff5-3051-4839-9ebf-e332c635e216",
-          "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-13T08:37:31.789616+00:00",
+      "last_checked": "2026-05-20T08:57:31.628960+00:00",
       "runtime": 152,
       "release_date": "2017-12-15"
     },
@@ -2265,6 +2265,13 @@
       ],
       "overview": "In STAR WARS: THE RISE OF SKYWALKER, the riveting conclusion of the landmark Skywalker saga, new legends will be born—and the final battle for freedom is yet to come. WARNING: SOME FLASHING-LIGHTS ...",
       "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-43f9c275-e7e8-4ab3-802d-00d06a8ad841",
+          "quality": "uhd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -2280,16 +2287,9 @@
           "link": "https://tv.apple.com/us/movie/star-wars-the-rise-of-skywalker/umc.cmc.71hlilqgd8utz8c4nlpl6ol7m?playableId=tvs.sbd.9001%3A1490359713",
           "quality": "hd",
           "price": "3.99 USD"
-        },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-43f9c275-e7e8-4ab3-802d-00d06a8ad841",
-          "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-13T08:37:32.196824+00:00",
+      "last_checked": "2026-05-20T08:57:32.092008+00:00",
       "runtime": 142,
       "release_date": "2019-12-20"
     },
@@ -2337,7 +2337,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-05-13T08:37:32.633168+00:00",
+      "last_checked": "2026-05-20T08:57:32.600857+00:00",
       "runtime": 95,
       "release_date": "2015-06-19"
     },
@@ -2376,7 +2376,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-13T08:37:33.146890+00:00",
+      "last_checked": "2026-05-20T08:57:33.048316+00:00",
       "runtime": 84,
       "release_date": "1993-02-12"
     },
@@ -3554,7 +3554,7 @@
         "Drama",
         "Romance"
       ],
-      "overview": "Heated Rivalry tells the epic story of hockey’s steamiest secret - from a tangled, confusing connection to an undeniable, all-consuming bond - culminating in a powerful love story. Canada’s golden ...",
+      "overview": "Shane Hollander and Ilya Rozanov are hockey stars drawn together by rivalry and desire. What starts as a secret fling becomes a years-long journey of love, denial and growth as they chase glory on ...",
       "streaming": {
         "hbo": {
           "service": "hbo",
@@ -3564,7 +3564,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-11T19:32:29.123728+00:00",
+      "last_checked": "2026-05-20T08:57:34.199863+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -3587,7 +3587,7 @@
       ],
       "overview": "Described as \"a non-prequel non-reboot sequel part two but with reboot elements franchise expansion film\". Plot TBA.",
       "streaming": {},
-      "last_checked": "2026-05-11T19:32:30.135067+00:00",
+      "last_checked": "2026-05-20T08:57:35.007288+00:00",
       "release_date": "2027-04-23"
     },
     {

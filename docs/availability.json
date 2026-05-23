@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T08:52:39.545387+00:00",
+  "last_updated": "2026-05-23T08:10:04.551588+00:00",
   "country": "us",
   "items": [
     {
@@ -76,22 +76,22 @@
           "type": "subscription",
           "link": "https://play.hbomax.com/movie/f2127e58-1c4e-4855-a310-538a8acc91e1"
         },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0HSTAZCXT1LESCOWRV9WPJKFCS/ref=atv_dp",
-          "quality": "sd",
-          "price": "2.99 USD"
-        },
         "tubi": {
           "service": "tubi",
           "serviceName": "Tubi",
           "type": "free",
           "link": "https://tubitv.com/movies/100046625/swiss-army-man"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0HSTAZCXT1LESCOWRV9WPJKFCS/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-16T07:55:22.994127+00:00",
+      "last_checked": "2026-05-23T08:09:56.022483+00:00",
       "runtime": 93,
       "release_date": "2016-07-01"
     },
@@ -130,7 +130,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-16T07:55:23.421361+00:00",
+      "last_checked": "2026-05-23T08:09:56.406518+00:00",
       "runtime": 94,
       "release_date": "1987-04-17"
     },
@@ -198,7 +198,7 @@
         "Fantasy",
         "Science Fiction"
       ],
-      "overview": "A life-affirming, genre-bending story based on Stephen King's novella about three chapters in the life of an ordinary man named Charles Krantz.",
+      "overview": "From the hearts and minds of Stephen King and directed by Mike Flanagan comes THE LIFE OF CHUCK, a genre-bending tale celebrating the life of Charles 'Chuck' Krantz (Tom Hiddleston) as he experienc...",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -216,7 +216,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-16T07:55:23.816124+00:00",
+      "last_checked": "2026-05-23T08:09:56.851237+00:00",
       "runtime": 110,
       "release_date": "2025-06-13"
     },
@@ -262,7 +262,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-16T07:55:24.240817+00:00",
+      "last_checked": "2026-05-23T08:09:57.346836+00:00",
       "runtime": 150,
       "release_date": "2022-11-23"
     },
@@ -326,7 +326,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-16T07:55:24.717564+00:00",
+      "last_checked": "2026-05-23T08:09:57.729350+00:00",
       "runtime": 91,
       "release_date": "1991-02-08"
     },
@@ -358,7 +358,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-16T07:55:25.115264+00:00",
+      "last_checked": "2026-05-23T08:09:58.118227+00:00",
       "runtime": 124,
       "release_date": "1979-12-19"
     },
@@ -397,7 +397,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-16T07:55:25.636498+00:00",
+      "last_checked": "2026-05-23T08:09:58.537228+00:00",
       "runtime": 157,
       "release_date": "2023-11-22"
     },
@@ -435,7 +435,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-16T07:55:26.037575+00:00",
+      "last_checked": "2026-05-23T08:09:58.947890+00:00",
       "runtime": 106,
       "release_date": "2024-03-08"
     },
@@ -473,8 +473,8 @@
           "link": "https://play.hbomax.com/movie/f3bf7c8f-1c44-4a35-9bb2-8f583c5e90bb"
         }
       },
-      "last_checked": "2026-05-16T07:55:26.521067+00:00",
-      "runtime": 84,
+      "last_checked": "2026-05-23T08:09:59.353722+00:00",
+      "runtime": 83,
       "release_date": "2025-09-12"
     },
     {
@@ -505,7 +505,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-16T07:55:26.964161+00:00",
+      "last_checked": "2026-05-23T08:09:59.790717+00:00",
       "runtime": 129,
       "release_date": "1963-03-16"
     },
@@ -552,7 +552,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-16T07:55:27.338208+00:00",
+      "last_checked": "2026-05-23T08:10:00.161096+00:00",
       "runtime": 107,
       "release_date": "1982-01-01"
     },
@@ -573,7 +573,7 @@
         "Action",
         "Comedy"
       ],
-      "overview": "Thelma isn’t your average 93-year-old grandmother – she’s tenacious, determined, and on a mission. After getting conned by a scammer, she teams up with a friend and his motorized scooter on a wild ...",
+      "overview": "Now In Theaters. Thelma isn’t your average 93-year-old grandmother - she’s tenacious, determined, and on a mission. After getting conned by a scammer, she teams up with a friend and his motorized s...",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -591,7 +591,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-16T07:55:27.728984+00:00",
+      "last_checked": "2026-05-23T08:10:00.565529+00:00",
       "runtime": 98,
       "release_date": "2024-06-21"
     },
@@ -663,7 +663,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-16T07:55:28.212844+00:00",
+      "last_checked": "2026-05-23T08:10:01.024562+00:00",
       "runtime": 114,
       "release_date": "2013-12-25"
     },
@@ -678,7 +678,7 @@
       "priority": {
         "dad-movie": 17
       },
-      "poster": "https://cdn.movieofthenight.com/show/14625489/poster/vertical/en/240.jpg?Expires=1794932419&Signature=KCp1vlTs3qAB2gM-CtgcSDEpdHCFcFqWd-eduwdAj79RNp7-SOhQ3Vw5YwagVC9hym5FLhEM~q4Orm0RO1t0CkuOQUjOYfNqaWgvvGmpeCl07l02Qv5II7nc3hM2oN6xV3hCLGDeRvBcBr7XdNuZi6rv28fc1vAGOfG-vNYaDmrov9HxDLi~aS8-SdvKigAViDwrn~c54TrfkPDXP0-w82Cgp8kohbfScAJxU--dn~ioKjnnRZWhlSLinvLapOB0vAY-HjfO-zciG3SrjstnATSqa7Cm7CuNpt~LomXeN23GV8YdWnB2MEUHD-4X2Irc06orxVyTu0OI-eL7i2p7pA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/14625489/poster/vertical/en/240.jpg?Expires=1810896396&Signature=StNHxE-G9lVdJhcoctIu9UB5LwBHr~ah~VqTVUx9dpUIuNJXK~JnoIEpk5Vy8yn-sCbgZhSzMcfmZg3zA2NUo2z72jk544eoRixQH8I9iyRcn3gq8W910jrZblFu~~wg9slbxq-HGcvSMhROYSEArkiviKR~tYSzcKlnVFQ~5pe1NfeBjJzSPb43g~RKEwiCY2pKzO7K2ewNjFzqhbJdg9AioFLwG~OQO8MercVVIlNSDZHov0rPtvI8E8hT~NOvRfKCYnCqe3S7~cHa4DHZXpmQFkbjzqrBFzmv1No8t6oAlDrvSkQGEQ5jQd4far4Y4A8vr8R3YJQm8aBNAxsyZg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
       "genres": [
         "Drama",
@@ -694,7 +694,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-16T07:55:28.609843+00:00",
+      "last_checked": "2026-05-23T08:10:01.478965+00:00",
       "runtime": 90,
       "release_date": "2025-03-14"
     },
@@ -3058,7 +3058,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-16T07:55:29.074895+00:00",
+      "last_checked": "2026-05-23T08:10:01.922682+00:00",
       "runtime": 89,
       "release_date": "2024-04-22"
     },
@@ -3181,7 +3181,7 @@
           "link": "https://www.disneyplus.com/browse/entity-f6104eae-6c27-44c1-a5b2-967187d0e046"
         }
       },
-      "last_checked": "2026-05-16T07:55:29.579860+00:00",
+      "last_checked": "2026-05-23T08:10:02.310219+00:00",
       "runtime": 98,
       "release_date": "2020-02-14"
     },
@@ -3211,7 +3211,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-16T07:55:29.989956+00:00",
+      "last_checked": "2026-05-23T08:10:02.671188+00:00",
       "runtime": 102,
       "release_date": "2020-01-25"
     },
@@ -3231,18 +3231,18 @@
       ],
       "overview": "National Geographic, acclaimed filmmaker Darren Aronofsky and award-winning producer Jane Root present a cinematic event series hosted by Will Smith. One Strange Rock reveals the magical twists of ...",
       "streaming": {
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-2a608e05-e6b0-42f1-b5fd-acb28ee5cc7c",
-          "quality": "hd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
           "type": "buy",
           "link": "https://tv.apple.com/us/show/one-strange-rock/umc.cmc.5041h6ycj7s76wi1tjdoodjws",
+          "quality": "hd"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-2a608e05-e6b0-42f1-b5fd-acb28ee5cc7c",
           "quality": "hd"
         },
         "prime": {
@@ -3253,7 +3253,7 @@
           "quality": "sd"
         }
       },
-      "last_checked": "2026-05-16T07:55:31.275370+00:00",
+      "last_checked": "2026-05-23T08:10:03.651761+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -3282,7 +3282,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-16T07:55:32.025796+00:00",
+      "last_checked": "2026-05-23T08:10:04.355186+00:00",
       "runtime": 73
     },
     {

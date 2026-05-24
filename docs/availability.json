@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T08:10:04.551588+00:00",
+  "last_updated": "2026-05-24T08:21:50.122439+00:00",
   "country": "us",
   "items": [
     {
@@ -834,7 +834,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-17T08:13:36.363073+00:00",
+      "last_checked": "2026-05-24T08:21:25.522302+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1
@@ -898,7 +898,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-17T08:13:38.409019+00:00",
+      "last_checked": "2026-05-24T08:21:27.415285+00:00",
       "season_count": 1,
       "episode_count": 3
     },
@@ -958,7 +958,7 @@
           "link": "https://play.hbomax.com/show/576e149d-8211-46dd-be88-e97fa9e01ac4"
         }
       },
-      "last_checked": "2026-05-17T08:13:40.763796+00:00",
+      "last_checked": "2026-05-24T08:21:30.194125+00:00",
       "season_count": 6,
       "episode_count": 90
     },
@@ -990,7 +990,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-17T08:13:46.205881+00:00",
+      "last_checked": "2026-05-24T08:21:32.875122+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -1052,8 +1052,15 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/B0CKJMNRS9",
-          "quality": "hd"
+          "link": "https://www.amazon.com/gp/video/detail/0SB08CJZ5A96ONX5IFCDKNE59C",
+          "quality": "uhd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/star-trek-strange-new-worlds/umc.cmc.1o10sclnk0t945h2mtuolocip",
+          "quality": "sd"
         },
         "paramount": {
           "service": "paramount",
@@ -1062,7 +1069,7 @@
           "link": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/"
         }
       },
-      "last_checked": "2026-05-17T08:13:48.555579+00:00",
+      "last_checked": "2026-05-24T08:21:34.794184+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1086,6 +1093,13 @@
       ],
       "overview": "Sir Patrick Stewart reprises his iconic role as Jean-Luc Picard. The retired admiral enters the next chapter of his life, while dealing with pain from the past.",
       "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0S4PHJ50UWJJMEE08SOKDCOI6E",
+          "quality": "uhd"
+        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -1098,16 +1112,9 @@
           "serviceName": "Paramount+",
           "type": "subscription",
           "link": "https://www.paramountplus.com/shows/star-trek-picard/"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0S4PHJ50UWJJMEE08SOKDCOI6E",
-          "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-17T08:13:51.075125+00:00",
+      "last_checked": "2026-05-24T08:21:36.573163+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1225,7 +1232,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-17T08:13:54.178937+00:00",
+      "last_checked": "2026-05-24T08:21:39.397007+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1262,7 +1269,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-17T08:13:57.419993+00:00",
+      "last_checked": "2026-05-24T08:21:43.246543+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -1306,7 +1313,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-17T08:14:00.072445+00:00",
+      "last_checked": "2026-05-24T08:21:45.241506+00:00",
       "season_count": 6,
       "episode_count": 110
     },
@@ -1335,7 +1342,7 @@
           "link": "https://play.hbomax.com/show/c967b1a4-d0e2-491e-967e-ae09f88fef62"
         }
       },
-      "last_checked": "2026-05-17T08:14:02.214370+00:00",
+      "last_checked": "2026-05-24T08:21:46.821300+00:00",
       "season_count": 1,
       "episode_count": 2
     },
@@ -1366,7 +1373,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-17T08:14:04.220005+00:00",
+      "last_checked": "2026-05-24T08:21:48.413761+00:00",
       "season_count": 5,
       "episode_count": 30
     },
@@ -3302,7 +3309,7 @@
       ],
       "overview": "Young Michael, shipwrecked on a remote island, must adapt to life alone. Over time, he feels another presence, learning that this world is home to both unimaginable danger and beauty.",
       "streaming": {},
-      "last_checked": "2026-05-17T08:14:05.232609+00:00",
+      "last_checked": "2026-05-24T08:21:49.260349+00:00",
       "runtime": 84,
       "release_date": "2024-10-18"
     },
@@ -3333,7 +3340,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-05-17T08:14:06.253538+00:00",
+      "last_checked": "2026-05-24T08:21:50.122331+00:00",
       "runtime": 83,
       "release_date": "2024-02-02"
     },

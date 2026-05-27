@@ -1370,5 +1370,14 @@
     "tmdb_id": "tv/254953",
     "year": 2026,
     "rating": "TV-MA"
+  },
+  {
+    "title": "How to Get to Heaven from Belfast",
+    "type": "series",
+    "lists": [
+      "dad"
+    ],
+    "tmdb_id": "tv/233079",
+    "year": 2026
   }
 ]

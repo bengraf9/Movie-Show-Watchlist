@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T09:41:54.426925+00:00",
+  "last_updated": "2026-05-27T09:35:41.801294+00:00",
   "country": "us",
   "items": [
     {
@@ -867,7 +867,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-20T08:57:18.377543+00:00",
+      "last_checked": "2026-05-27T09:35:14.297257+00:00",
       "season_count": 3,
       "episode_count": 39,
       "watched_seasons": 2
@@ -1023,7 +1023,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-20T08:57:20.204765+00:00",
+      "last_checked": "2026-05-27T09:35:17.408166+00:00",
       "season_count": 3,
       "episode_count": 33,
       "watched_seasons": 3
@@ -1545,8 +1545,15 @@
         "Fantasy"
       ],
       "overview": "There is nothing special about Harry Potter - at least that's what his Aunt Petunia always says. On his 11th birthday, a letter of admittance to Hogwarts School of Witchcraft and Wizardry opens up ...",
-      "streaming": {},
-      "last_checked": "2026-05-20T08:57:22.074498+00:00",
+      "streaming": {
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/show/2f5ff1ff-9885-462b-aded-329e421b5f59"
+        }
+      },
+      "last_checked": "2026-05-27T09:35:20.094695+00:00",
       "season_count": 1,
       "episode_count": 1
     },
@@ -1574,7 +1581,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-20T08:57:23.504601+00:00",
+      "last_checked": "2026-05-27T09:35:22.147461+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -1622,7 +1629,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-20T08:57:24.179570+00:00",
+      "last_checked": "2026-05-27T09:35:23.233915+00:00",
       "runtime": 107,
       "release_date": "2021-10-22"
     },
@@ -1654,7 +1661,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-20T08:57:24.646549+00:00",
+      "last_checked": "2026-05-27T09:35:24.041225+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1685,7 +1692,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-20T08:57:25.132838+00:00",
+      "last_checked": "2026-05-27T09:35:24.824666+00:00",
       "runtime": 122,
       "release_date": "2022-12-09"
     },
@@ -1730,10 +1737,10 @@
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0KIU948OY9VO8VMM4DJ5GFL95J/ref=atv_dp",
           "quality": "uhd",
-          "price": "2.99 USD"
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-20T08:57:25.595572+00:00",
+      "last_checked": "2026-05-27T09:35:25.653036+00:00",
       "runtime": 96,
       "release_date": "2009-05-29"
     },
@@ -1780,13 +1787,6 @@
           "quality": "hd",
           "price": "3.99 USD"
         },
-        "netflix": {
-          "service": "netflix",
-          "serviceName": "Netflix",
-          "type": "subscription",
-          "link": "https://www.netflix.com/title/70305932/",
-          "quality": "hd"
-        },
         "hulu": {
           "service": "hulu",
           "serviceName": "Hulu",
@@ -1795,7 +1795,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-20T08:57:26.174138+00:00",
+      "last_checked": "2026-05-27T09:35:26.506257+00:00",
       "runtime": 97,
       "release_date": "2014-12-19"
     },
@@ -1835,7 +1835,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-20T08:57:26.666359+00:00",
+      "last_checked": "2026-05-27T09:35:27.271413+00:00",
       "runtime": 102,
       "release_date": "2025-06-20"
     },
@@ -1867,7 +1867,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-20T08:57:27.131529+00:00",
+      "last_checked": "2026-05-27T09:35:28.107885+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1899,7 +1899,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-20T08:57:27.606497+00:00",
+      "last_checked": "2026-05-27T09:35:28.876042+00:00",
       "runtime": 110,
       "release_date": "2024-11-11"
     },
@@ -1923,7 +1923,7 @@
       ],
       "overview": "Molly Mahoney is the awkward and insecure manager of Mr. Magorium's Wonder Emporium, the strangest, most fantastic, most wonderful toy store in the world. But when Mr. Magorium, the 243 year-old ec...",
       "streaming": {},
-      "last_checked": "2026-05-20T08:57:28.073252+00:00",
+      "last_checked": "2026-05-27T09:35:29.665055+00:00",
       "runtime": 93,
       "release_date": "2007-11-16"
     },
@@ -1971,7 +1971,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-20T08:57:28.669376+00:00",
+      "last_checked": "2026-05-27T09:35:30.523560+00:00",
       "runtime": 98,
       "release_date": "1981-06-26"
     },
@@ -2019,7 +2019,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-20T08:57:29.145934+00:00",
+      "last_checked": "2026-05-27T09:35:31.432016+00:00",
       "runtime": 134,
       "release_date": "2018-05-25"
     },
@@ -2067,7 +2067,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-20T08:57:29.613028+00:00",
+      "last_checked": "2026-05-27T09:35:32.255742+00:00",
       "runtime": 97,
       "release_date": "2019-09-27"
     },
@@ -2091,13 +2091,6 @@
       ],
       "overview": "Prepare to be dazzled by the spectacular adaptation of Louis SacharÂ's acclaimed teen adventure Holes, featuring an all star cast including Sigourney Weaver, Jon Voight and Patricia Arquette. Wrong...",
       "streaming": {
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-43fe9e3c-abbf-436b-b8af-9741bd8f732c",
-          "quality": "hd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -2106,6 +2099,20 @@
           "quality": "hd",
           "price": "3.99 USD"
         },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/movie/holes-ecc93033-1f5a-4832-8845-458561c3d21e",
+          "quality": "hd"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-43fe9e3c-abbf-436b-b8af-9741bd8f732c",
+          "quality": "hd"
+        },
         "paramount": {
           "service": "paramount",
           "serviceName": "Paramount+",
@@ -2113,7 +2120,7 @@
           "link": "https://www.paramountplus.com/movies/video/ALVE01KKW70XBNE65AQQ9DFGR14HVZ/"
         }
       },
-      "last_checked": "2026-05-20T08:57:30.230374+00:00",
+      "last_checked": "2026-05-27T09:35:33.108048+00:00",
       "runtime": 118,
       "release_date": "2003-04-18"
     },
@@ -2152,7 +2159,7 @@
           "link": "https://play.hbomax.com/movie/83df1c2b-db9d-49cd-bf83-9ddbaa7e5e30"
         }
       },
-      "last_checked": "2026-05-20T08:57:30.697196+00:00",
+      "last_checked": "2026-05-27T09:35:33.954068+00:00",
       "runtime": 85,
       "release_date": "2024-12-06"
     },
@@ -2184,13 +2191,6 @@
           "quality": "uhd",
           "price": "3.99 USD"
         },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-2854a94d-3702-40bd-97a4-12d55a809188",
-          "quality": "uhd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -2198,9 +2198,16 @@
           "link": "https://tv.apple.com/us/movie/star-wars-the-force-awakens/umc.cmc.61i3yveu7xby4chfkqved19ka?playableId=tvs.sbd.9001%3A1063466898",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-2854a94d-3702-40bd-97a4-12d55a809188",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-20T08:57:31.171230+00:00",
+      "last_checked": "2026-05-27T09:35:34.847938+00:00",
       "runtime": 138,
       "release_date": "2015-12-18"
     },
@@ -2248,7 +2255,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-20T08:57:31.628960+00:00",
+      "last_checked": "2026-05-27T09:35:35.730641+00:00",
       "runtime": 152,
       "release_date": "2017-12-15"
     },
@@ -2272,13 +2279,6 @@
       ],
       "overview": "In STAR WARS: THE RISE OF SKYWALKER, the riveting conclusion of the landmark Skywalker saga, new legends will be born—and the final battle for freedom is yet to come. WARNING: SOME FLASHING-LIGHTS ...",
       "streaming": {
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-43f9c275-e7e8-4ab3-802d-00d06a8ad841",
-          "quality": "uhd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -2294,9 +2294,16 @@
           "link": "https://tv.apple.com/us/movie/star-wars-the-rise-of-skywalker/umc.cmc.71hlilqgd8utz8c4nlpl6ol7m?playableId=tvs.sbd.9001%3A1490359713",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-43f9c275-e7e8-4ab3-802d-00d06a8ad841",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-20T08:57:32.092008+00:00",
+      "last_checked": "2026-05-27T09:35:36.647752+00:00",
       "runtime": 142,
       "release_date": "2019-12-20"
     },
@@ -2326,7 +2333,7 @@
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0J3OTK57KK6RCCPICSS1JWRNR7/ref=atv_dp",
           "quality": "uhd",
-          "price": "2.99 USD"
+          "price": "3.99 USD"
         },
         "disney": {
           "service": "disney",
@@ -2344,7 +2351,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-05-20T08:57:32.600857+00:00",
+      "last_checked": "2026-05-27T09:35:37.484569+00:00",
       "runtime": 95,
       "release_date": "2015-06-19"
     },
@@ -2375,6 +2382,14 @@
           "quality": "hd",
           "price": "4.29 USD"
         },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/homeward-bound-the-incredible-journey/umc.cmc.qtsc50kb7iyr90syqw31ttu?playableId=tvs.sbd.9001%3A203292924",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
         "disney": {
           "service": "disney",
           "serviceName": "Disney+",
@@ -2383,7 +2398,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-20T08:57:33.048316+00:00",
+      "last_checked": "2026-05-27T09:35:38.342096+00:00",
       "runtime": 84,
       "release_date": "1993-02-12"
     },
@@ -3565,7 +3580,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-20T08:57:34.199863+00:00",
+      "last_checked": "2026-05-27T09:35:40.514502+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -3580,7 +3595,7 @@
       "priority": {
         "dad-movie": 15
       },
-      "poster": "https://image.tmdb.org/t/p/w300/9NDQsPSPxDLIqlvJIbZLFYDenYt.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/cb9y8JiwXoC1iss4yUjuspJcpsJ.jpg",
       "rating": "",
       "genres": [
         "Comedy",
@@ -3588,7 +3603,7 @@
       ],
       "overview": "Described as \"a non-prequel non-reboot sequel part two but with reboot elements franchise expansion film\". Plot TBA.",
       "streaming": {},
-      "last_checked": "2026-05-20T08:57:35.007288+00:00",
+      "last_checked": "2026-05-27T09:35:41.533544+00:00",
       "release_date": "2027-04-23"
     },
     {

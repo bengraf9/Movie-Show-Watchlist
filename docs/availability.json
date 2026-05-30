@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T09:41:59.249696+00:00",
+  "last_updated": "2026-05-30T08:21:23.509702+00:00",
   "country": "us",
   "items": [
     {
@@ -76,12 +76,6 @@
           "type": "subscription",
           "link": "https://play.hbomax.com/movie/f2127e58-1c4e-4855-a310-538a8acc91e1"
         },
-        "tubi": {
-          "service": "tubi",
-          "serviceName": "Tubi",
-          "type": "free",
-          "link": "https://tubitv.com/movies/100046625/swiss-army-man"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -89,9 +83,15 @@
           "link": "https://www.amazon.com/gp/video/detail/0HSTAZCXT1LESCOWRV9WPJKFCS/ref=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
+        },
+        "tubi": {
+          "service": "tubi",
+          "serviceName": "Tubi",
+          "type": "free",
+          "link": "https://tubitv.com/movies/100046625/swiss-army-man"
         }
       },
-      "last_checked": "2026-05-23T08:09:56.022483+00:00",
+      "last_checked": "2026-05-30T08:21:14.765376+00:00",
       "runtime": 93,
       "release_date": "2016-07-01"
     },
@@ -130,7 +130,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-23T08:09:56.406518+00:00",
+      "last_checked": "2026-05-30T08:21:15.166477+00:00",
       "runtime": 94,
       "release_date": "1987-04-17"
     },
@@ -216,7 +216,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-23T08:09:56.851237+00:00",
+      "last_checked": "2026-05-30T08:21:15.580441+00:00",
       "runtime": 110,
       "release_date": "2025-06-13"
     },
@@ -262,7 +262,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-23T08:09:57.346836+00:00",
+      "last_checked": "2026-05-30T08:21:16.017180+00:00",
       "runtime": 150,
       "release_date": "2022-11-23"
     },
@@ -326,7 +326,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-23T08:09:57.729350+00:00",
+      "last_checked": "2026-05-30T08:21:16.464910+00:00",
       "runtime": 91,
       "release_date": "1991-02-08"
     },
@@ -358,7 +358,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-23T08:09:58.118227+00:00",
+      "last_checked": "2026-05-30T08:21:16.911039+00:00",
       "runtime": 124,
       "release_date": "1979-12-19"
     },
@@ -381,6 +381,13 @@
       ],
       "overview": "A personal look at the French military leader's origins and swift, ruthless climb to emperor. The story is viewed through the prism of Napoleon's addictive, volatile relationship with his wife and ...",
       "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "subscription",
+          "link": "https://tv.apple.com/us/movie/napoleon/umc.cmc.25k80oxl3vo69c8rimk8v81s1?playableId=tvs.sbd.4000%3AA0064201001",
+          "quality": "uhd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -388,16 +395,9 @@
           "link": "https://www.amazon.com/gp/video/detail/0GKJ06SJM9QAGM8UCSBTK6N4BH/ref=atv_dp",
           "quality": "uhd",
           "price": "14.99 USD"
-        },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "subscription",
-          "link": "https://tv.apple.com/us/movie/napoleon/umc.cmc.25k80oxl3vo69c8rimk8v81s1?playableId=tvs.sbd.4000%3AA0064201001",
-          "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-23T08:09:58.537228+00:00",
+      "last_checked": "2026-05-30T08:21:17.336802+00:00",
       "runtime": 157,
       "release_date": "2023-11-22"
     },
@@ -435,7 +435,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-23T08:09:58.947890+00:00",
+      "last_checked": "2026-05-30T08:21:17.745727+00:00",
       "runtime": 106,
       "release_date": "2024-03-08"
     },
@@ -450,7 +450,7 @@
       "priority": {
         "dad-movie": 22
       },
-      "poster": "https://cdn.movieofthenight.com/show/17337939/poster/vertical/en/240.jpg?Expires=1795808849&Signature=gsNmyYw9RHH71dr2Fda1tg0QN93Ng948rNfoXI32adbLY4ZnKrsUmMK4p7j7cmjjmHygT817XroVdlTPOgkTRFaUKmAOQYfJdzOA1wOHhtB0ambMf96TqXV~Wqydesn3dct2LPG-t17PborkcGBJXga2NAw7Gzl6~ClHIS8M0Vipcayhmxis-KCIqPQpNME~zqBa2wiXXtzKqG3B7hGmNirI2enxXqPteAiEwZd3JJQkdn~2O0H-KyUv-S6~ZmPePrnSLQjpFeBv4EiIPQVBEn4r0~GcGtBjHww2rTDZ0etyCO5NCmHH6FCGdaKwIddXh1Ua39kr2bosfgmLEiXn3Q__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/17337939/poster/vertical/en/240.jpg?Expires=1811747422&Signature=M7D1VdZKugZ63AFQms952FEgDjTmF8DJeycHGfS950MVshF6htcqa2GckDcGx2duAW2xzp2lY8-39L9dA8WWdhhko3SZ2MKUyw8P9WUDpY59bWJ7Je85M61-MVr1uK7Iq4jhP3G4GJKt3wMjbL4QI6SyXPKtGMAtruGJV6EYh8qWUI12R3N0LtYIkjlm4aDZuZ7NseqBe7yb7TKnV6ezXVS~9kX67-3YFckl6T6dxPyhazQ2H3Bqm8sjWUn5sTSS7NHZLLuqeqQcT2-MwKKAtuvsBIuGc1HMJt8~pdLQgDBGTJzV17rrQq00Bt8~J~nBhD8JRRsz27zMYjP4KkbNCw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
       "genres": [
         "Comedy",
@@ -473,7 +473,7 @@
           "link": "https://play.hbomax.com/movie/f3bf7c8f-1c44-4a35-9bb2-8f583c5e90bb"
         }
       },
-      "last_checked": "2026-05-23T08:09:59.353722+00:00",
+      "last_checked": "2026-05-30T08:21:18.154850+00:00",
       "runtime": 83,
       "release_date": "2025-09-12"
     },
@@ -503,9 +503,17 @@
           "link": "https://www.amazon.com/gp/video/detail/0Q7FZC1JL1C5VNIW2WV2Q82TQ4/ref=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/to-kill-a-mockingbird/umc.cmc.4gv4yhd3qrt6e4vdg7whlq3n4?playableId=tvs.sbd.9001%3A283068031",
+          "quality": "hd",
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-23T08:09:59.790717+00:00",
+      "last_checked": "2026-05-30T08:21:18.573739+00:00",
       "runtime": 129,
       "release_date": "1963-03-16"
     },
@@ -528,14 +536,6 @@
       ],
       "overview": "A struggling salesman and lonely teacher escape into a fantasy world of Depression-era music, only to be confronted by the crushing weight of reality.",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/pennies-from-heaven/umc.cmc.1kbmm9ry9lh89xb7k4rglas5o",
-          "quality": "hd",
-          "price": "2.99 USD"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -552,7 +552,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-23T08:10:00.161096+00:00",
+      "last_checked": "2026-05-30T08:21:18.958166+00:00",
       "runtime": 107,
       "release_date": "1982-01-01"
     },
@@ -591,7 +591,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-23T08:10:00.565529+00:00",
+      "last_checked": "2026-05-30T08:21:19.336454+00:00",
       "runtime": 98,
       "release_date": "2024-06-21"
     },
@@ -639,12 +639,13 @@
       ],
       "overview": "Ben Stiller directs and stars in this inspiring story about an ordinary man who finds the courage to discover his destiny and leap into the extraordinary adventure that is life.",
       "streaming": {
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-bbb4074c-5d7e-4528-aa21-7fd6fca7f41b",
-          "quality": "hd"
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/the-secret-life-of-walter-mitty/umc.cmc.pw6qkwfo6ppbm0q2zkp07a3f?playableId=tvs.sbd.9001%3A772093232",
+          "quality": "hd",
+          "price": "3.99 USD"
         },
         "prime": {
           "service": "prime",
@@ -653,17 +654,9 @@
           "link": "https://www.amazon.com/gp/video/detail/0HOJDZS6BE7QKBMLF6VHTJUBEO/ref=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
-        },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/the-secret-life-of-walter-mitty/umc.cmc.pw6qkwfo6ppbm0q2zkp07a3f?playableId=tvs.sbd.9001%3A772093232",
-          "quality": "hd",
-          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-23T08:10:01.024562+00:00",
+      "last_checked": "2026-05-30T08:21:19.810771+00:00",
       "runtime": 114,
       "release_date": "2013-12-25"
     },
@@ -694,7 +687,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-23T08:10:01.478965+00:00",
+      "last_checked": "2026-05-30T08:21:20.220622+00:00",
       "runtime": 90,
       "release_date": "2025-03-14"
     },
@@ -3080,7 +3073,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-23T08:10:01.922682+00:00",
+      "last_checked": "2026-05-30T08:21:20.608857+00:00",
       "runtime": 89,
       "release_date": "2024-04-22"
     },
@@ -3176,28 +3169,22 @@
           "quality": "uhd",
           "price": "3.99 USD"
         },
-        "paramount": {
-          "service": "paramount",
-          "serviceName": "Paramount+",
-          "type": "subscription",
-          "link": "https://www.paramountplus.com/movies/video/5EKDXPOzdVf9voUqW6oRuocyAEeJGbEc/"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/sonic-the-hedgehog/umc.cmc.6gkyrgaoool7s2u24tratknbi?playableId=tvs.sbd.9001%3A1496058930",
           "quality": "hd",
-          "price": "3.99 USD"
+          "price": "4.99 USD"
         },
-        "hulu": {
-          "service": "hulu",
-          "serviceName": "Hulu",
+        "paramount": {
+          "service": "paramount",
+          "serviceName": "Paramount+",
           "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-f6104eae-6c27-44c1-a5b2-967187d0e046"
+          "link": "https://www.paramountplus.com/movies/video/5EKDXPOzdVf9voUqW6oRuocyAEeJGbEc/"
         }
       },
-      "last_checked": "2026-05-23T08:10:02.310219+00:00",
+      "last_checked": "2026-05-30T08:21:20.993413+00:00",
       "runtime": 98,
       "release_date": "2020-02-14"
     },
@@ -3227,7 +3214,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-23T08:10:02.671188+00:00",
+      "last_checked": "2026-05-30T08:21:21.420251+00:00",
       "runtime": 102,
       "release_date": "2020-01-25"
     },
@@ -3254,22 +3241,22 @@
           "link": "https://tv.apple.com/us/show/one-strange-rock/umc.cmc.5041h6ycj7s76wi1tjdoodjws",
           "quality": "hd"
         },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-2a608e05-e6b0-42f1-b5fd-acb28ee5cc7c",
-          "quality": "hd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0MJD27WAGFAZTAAIYNSAC75PR9",
           "quality": "sd"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-2a608e05-e6b0-42f1-b5fd-acb28ee5cc7c",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-05-23T08:10:03.651761+00:00",
+      "last_checked": "2026-05-30T08:21:22.529222+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -3298,7 +3285,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-23T08:10:04.355186+00:00",
+      "last_checked": "2026-05-30T08:21:23.319941+00:00",
       "runtime": 73
     },
     {

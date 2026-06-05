@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T09:47:39.025082+00:00",
+  "last_updated": "2026-06-05T09:36:44.854437+00:00",
   "country": "us",
   "items": [
     {
@@ -2425,7 +2425,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-28T09:52:06.251240+00:00",
+      "last_checked": "2026-06-05T09:36:11.322260+00:00",
       "runtime": 107,
       "release_date": "2022-11-23"
     },
@@ -2457,7 +2457,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-28T09:52:07.233105+00:00",
+      "last_checked": "2026-06-05T09:36:12.117897+00:00",
       "runtime": 90,
       "release_date": "1984-07-13"
     },
@@ -2490,7 +2490,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-28T09:52:08.085652+00:00",
+      "last_checked": "2026-06-05T09:36:12.875602+00:00",
       "runtime": 84,
       "release_date": "1999-07-14"
     },
@@ -2517,9 +2517,9 @@
           "service": "apple",
           "serviceName": "Apple TV+",
           "type": "rent",
-          "link": "https://tv.apple.com/us/movie/8-bit-christmas/umc.cmc.73z3l84b8o1irv4b7rqtjwkgp",
-          "quality": "uhd",
-          "price": "3.99 USD"
+          "link": "https://tv.apple.com/us/movie/8-bit-christmas/umc.cmc.73z3l84b8o1irv4b7rqtjwkgp?playableId=tvs.sbd.9001%3A1594733564",
+          "quality": "hd",
+          "price": "4.99 USD"
         },
         "prime": {
           "service": "prime",
@@ -2537,7 +2537,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-28T09:52:08.939589+00:00",
+      "last_checked": "2026-06-05T09:36:13.693385+00:00",
       "runtime": 97,
       "release_date": "2021-11-24"
     },
@@ -2585,7 +2585,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-28T09:52:09.773557+00:00",
+      "last_checked": "2026-06-05T09:36:14.482041+00:00",
       "runtime": 135,
       "release_date": "2023-05-26"
     },
@@ -2614,7 +2614,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-28T09:52:10.543108+00:00",
+      "last_checked": "2026-06-05T09:36:15.213375+00:00",
       "runtime": 89,
       "release_date": "2020-03-14"
     },
@@ -2643,7 +2643,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-28T09:52:11.385886+00:00",
+      "last_checked": "2026-06-05T09:36:16.060740+00:00",
       "runtime": 38,
       "release_date": "2022-04-14"
     },
@@ -2672,7 +2672,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-28T09:52:13.677329+00:00",
+      "last_checked": "2026-06-05T09:36:18.171087+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2693,7 +2693,7 @@
       ],
       "overview": "It's the land we love and the land we think we know. We see America's breathtaking landscapes and wildlife as timeless, but the truth is very different. Its unique geography drives the forces of na...",
       "streaming": {},
-      "last_checked": "2026-05-28T09:52:18.992446+00:00",
+      "last_checked": "2026-06-05T09:36:21.704425+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -2723,7 +2723,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-28T09:52:21.902381+00:00",
+      "last_checked": "2026-06-05T09:36:24.104276+00:00",
       "season_count": 1,
       "episode_count": 4
     },
@@ -2758,7 +2758,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-28T09:52:24.206278+00:00",
+      "last_checked": "2026-06-05T09:36:26.017583+00:00",
       "season_count": 1,
       "episode_count": 26
     },
@@ -2786,7 +2786,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-28T09:52:27.112933+00:00",
+      "last_checked": "2026-06-05T09:36:28.594792+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2808,19 +2808,19 @@
       ],
       "overview": "Odd Squad is a live-action media property designed to help kids ages 5-8 learn math. The show focuses on two young agents, Olive and Otto, who are part of the Odd Squad, an agency whose mission is ...",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/B075RN88S1",
-          "quality": "sd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
           "type": "buy",
           "link": "https://tv.apple.com/us/show/odd-squad/umc.cmc.2t9yt69s366yhgkkttjk8cl83",
           "quality": "sd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0P9DYKYFE8ITEOJLHIPNBWI6PB",
+          "quality": "hd"
         },
         "netflix": {
           "service": "netflix",
@@ -2830,7 +2830,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-28T09:52:31.672967+00:00",
+      "last_checked": "2026-06-05T09:36:35.993620+00:00",
       "season_count": 6,
       "episode_count": 177
     },
@@ -2860,7 +2860,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-28T09:52:32.753443+00:00",
+      "last_checked": "2026-06-05T09:36:36.947997+00:00",
       "runtime": 88,
       "release_date": "2023-11-17"
     },
@@ -2889,7 +2889,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-28T09:52:34.418905+00:00",
+      "last_checked": "2026-06-05T09:36:37.696377+00:00",
       "runtime": 59,
       "release_date": "2021-10-01"
     },
@@ -2920,7 +2920,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-28T09:52:35.341071+00:00",
+      "last_checked": "2026-06-05T09:36:38.383976+00:00",
       "runtime": 96,
       "release_date": "2020-08-21"
     },
@@ -2941,14 +2941,6 @@
       ],
       "overview": "Steve the penguin embarks on an epic quest to find love and start a family.",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/movie/disneynature-penguins/umc.cmc.4rx0tndy5tv6xxl1oo2xsifej",
-          "quality": "hd",
-          "price": "19.99 USD"
-        },
         "disney": {
           "service": "disney",
           "serviceName": "Disney+",
@@ -2957,7 +2949,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-28T09:52:36.907636+00:00",
+      "last_checked": "2026-06-05T09:36:39.048919+00:00",
       "runtime": 76,
       "release_date": "2019-04-17"
     },
@@ -2979,14 +2971,6 @@
       ],
       "overview": "From the beloved children's story comes this live-action/animated musical about a little boy who is befriended by a singing crocodile. Javier Bardem, Constance Wu, and Shawn Mendes star in this \"wa...",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/lyle-lyle-crocodile/umc.cmc.6kky7ogmpd0213u43c1zd7asm?playableId=tvs.sbd.9001%3A1646645635",
-          "quality": "hd",
-          "price": "3.99 USD"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -3001,9 +2985,17 @@
           "type": "subscription",
           "link": "https://www.hulu.com/movie/lyle%2C-lyle%2C-crocodile-7e467918-4899-4c0e-b2d1-b4200db6924a",
           "quality": "uhd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/lyle-lyle-crocodile/umc.cmc.6kky7ogmpd0213u43c1zd7asm?playableId=tvs.sbd.9001%3A1646645635",
+          "quality": "hd",
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-28T09:52:37.711495+00:00",
+      "last_checked": "2026-06-05T09:36:39.810485+00:00",
       "runtime": 106,
       "release_date": "2022-10-07"
     },
@@ -3028,8 +3020,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/B0C549RJ6G/ref=atv_dp",
-          "quality": "sd"
+          "link": "https://www.amazon.com/gp/video/detail/0H12ALPB3TRBFO6N2CK2SN5PT4/ref=atv_dp"
         },
         "tubi": {
           "service": "tubi",
@@ -3039,7 +3030,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-05-28T09:52:38.575493+00:00",
+      "last_checked": "2026-06-05T09:36:40.577212+00:00",
       "runtime": 93,
       "release_date": "2023-03-24"
     },
@@ -3095,7 +3086,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-28T09:52:39.587352+00:00",
+      "last_checked": "2026-06-05T09:36:41.511057+00:00",
       "runtime": 77,
       "release_date": "2024-04-22"
     },
@@ -3133,7 +3124,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-05-28T09:52:40.421358+00:00",
+      "last_checked": "2026-06-05T09:36:42.254795+00:00",
       "runtime": 88,
       "release_date": "2024-08-02"
     },
@@ -3606,7 +3597,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-28T09:52:41.183226+00:00",
+      "last_checked": "2026-06-05T09:36:42.891304+00:00",
       "runtime": 113,
       "release_date": "2026-05-08"
     },
@@ -3637,7 +3628,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-05-28T09:52:43.249576+00:00",
+      "last_checked": "2026-06-05T09:36:44.597026+00:00",
       "season_count": 3,
       "episode_count": 34,
       "watched_seasons": 3

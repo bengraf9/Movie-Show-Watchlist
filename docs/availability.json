@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T09:44:43.934217+00:00",
+  "last_updated": "2026-06-11T10:13:20.523660+00:00",
   "country": "us",
   "items": [
     {
@@ -847,7 +847,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-03T10:48:08.536942+00:00",
+      "last_checked": "2026-06-11T10:13:07.378849+00:00",
       "season_count": 3,
       "episode_count": 39,
       "watched_seasons": 2
@@ -1010,7 +1010,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-03T10:48:10.991370+00:00",
+      "last_checked": "2026-06-11T10:13:08.858899+00:00",
       "season_count": 3,
       "episode_count": 33,
       "watched_seasons": 3
@@ -1540,7 +1540,7 @@
           "link": "https://play.hbomax.com/show/2f5ff1ff-9885-462b-aded-329e421b5f59"
         }
       },
-      "last_checked": "2026-06-03T10:48:13.338521+00:00",
+      "last_checked": "2026-06-11T10:13:10.000272+00:00",
       "season_count": 1,
       "episode_count": 1
     },
@@ -1556,7 +1556,8 @@
       "poster": "https://image.tmdb.org/t/p/w300/ipiqT5uHeJudWy9ICSvuCby7NeI.jpg",
       "rating": "TV-MA",
       "genres": [
-        "Comedy"
+        "Comedy",
+        "Reality"
       ],
       "overview": "Jury Duty Presents: Company Retreat is now streaming! An unsuspecting person navigates scripted scenarios with actors, unaware they're the star of an uplifting experiment.",
       "streaming": {
@@ -1568,7 +1569,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-03T10:48:15.656805+00:00",
+      "last_checked": "2026-06-11T10:13:11.131073+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -1592,13 +1593,20 @@
       ],
       "overview": "The story of a middle-schooler and his “best friend out of the box” robot.",
       "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-46e6268f-beb7-496c-86ef-9af4980d62c7",
+          "quality": "uhd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0M7LUXB0DEQU6O21LZ0WTWJX07/ref=atv_dp",
           "quality": "uhd",
-          "price": "4.99 USD"
+          "price": "3.99 USD"
         },
         "apple": {
           "service": "apple",
@@ -1607,16 +1615,9 @@
           "link": "https://tv.apple.com/us/movie/rons-gone-wrong/umc.cmc.75t5f0e7lid2rslfho07lgbrx?playableId=tvs.sbd.9001%3A1592488379",
           "quality": "hd",
           "price": "3.99 USD"
-        },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-46e6268f-beb7-496c-86ef-9af4980d62c7",
-          "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-03T10:48:16.678095+00:00",
+      "last_checked": "2026-06-11T10:13:11.760835+00:00",
       "runtime": 107,
       "release_date": "2021-10-22"
     },
@@ -1648,7 +1649,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-03T10:48:17.425414+00:00",
+      "last_checked": "2026-06-11T10:13:12.183840+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1679,7 +1680,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-03T10:48:18.116454+00:00",
+      "last_checked": "2026-06-11T10:13:12.552592+00:00",
       "runtime": 122,
       "release_date": "2022-12-09"
     },
@@ -1703,13 +1704,6 @@
       ],
       "overview": "High flying animated comedy adventure from Pixar Studios. 70-something retired balloon salesman Carl Fredricksen (voiced by Edward Asner) decides to use his twilight years to fulfil his lifelong dr...",
       "streaming": {
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-f820c0a3-e646-4b75-8dd1-87f6d776c32b",
-          "quality": "uhd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -1717,6 +1711,13 @@
           "link": "https://tv.apple.com/us/movie/up/umc.cmc.7hyl1e1p1ihe8aiij3fzjwwyc?playableId=tvs.sbd.9001%3A322447599",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-f820c0a3-e646-4b75-8dd1-87f6d776c32b",
+          "quality": "uhd"
         },
         "prime": {
           "service": "prime",
@@ -1727,7 +1728,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-03T10:48:18.888958+00:00",
+      "last_checked": "2026-06-11T10:13:12.920506+00:00",
       "runtime": 96,
       "release_date": "2009-05-29"
     },
@@ -1755,14 +1756,14 @@
           "service": "disney",
           "serviceName": "Disney+",
           "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-eefd84d7-01a2-419e-941c-631efaad118a",
+          "link": "https://www.disneyplus.com/browse/entity-3c5d5a63-0e64-4f47-91da-5c1e435c958e",
           "quality": "uhd"
         },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0TADTQPFUVM9H8ZI5WPDZEYXML/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0KN3PE7QYR41JRV8IAJSM9E10E/ref=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
         },
@@ -1782,7 +1783,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-03T10:48:19.646244+00:00",
+      "last_checked": "2026-06-11T10:13:13.314187+00:00",
       "runtime": 97,
       "release_date": "2014-12-19"
     },
@@ -1806,6 +1807,13 @@
       ],
       "overview": "In this fun-filled, action-packed cosmic misadventure, Elio, a space fanatic with an active imagination, is beamed up to an interplanetary organization with members from galaxies far and wide. Mist...",
       "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-367ee1b6-1a50-413a-96f6-655175166f38",
+          "quality": "uhd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -1813,16 +1821,9 @@
           "link": "https://www.amazon.com/gp/video/detail/0O7NE3VI07XP9B35NDN2HXZS7Q/ref=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
-        },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-367ee1b6-1a50-413a-96f6-655175166f38",
-          "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-03T10:48:20.352972+00:00",
+      "last_checked": "2026-06-11T10:13:13.771836+00:00",
       "runtime": 102,
       "release_date": "2025-06-20"
     },
@@ -1854,7 +1855,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-03T10:48:21.041712+00:00",
+      "last_checked": "2026-06-11T10:13:14.148304+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1886,7 +1887,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-03T10:48:21.747252+00:00",
+      "last_checked": "2026-06-11T10:13:14.527205+00:00",
       "runtime": 110,
       "release_date": "2024-11-11"
     },
@@ -1909,8 +1910,17 @@
         "Fantasy"
       ],
       "overview": "Molly Mahoney is the awkward and insecure manager of Mr. Magorium's Wonder Emporium, the strangest, most fantastic, most wonderful toy store in the world. But when Mr. Magorium, the 243 year-old ec...",
-      "streaming": {},
-      "last_checked": "2026-06-03T10:48:22.445739+00:00",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/movie/mr-magoriums-wonder-emporium/umc.cmc.1at1u1vhlwry5g2juqggte6lr?playableId=tvs.sbd.9001%3A274970684",
+          "quality": "hd",
+          "price": "14.99 USD"
+        }
+      },
+      "last_checked": "2026-06-11T10:13:14.894042+00:00",
       "runtime": 93,
       "release_date": "2007-11-16"
     },
@@ -1942,6 +1952,13 @@
           "quality": "hd",
           "price": "3.99 USD"
         },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-abee744b-d8e6-4f7d-a9d2-1f3934877171",
+          "quality": "uhd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -1949,16 +1966,9 @@
           "link": "https://www.amazon.com/gp/video/detail/0NLT1F7A9RLKCFXCO4CXY7LIKW/ref=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
-        },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-abee744b-d8e6-4f7d-a9d2-1f3934877171",
-          "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-03T10:48:23.213457+00:00",
+      "last_checked": "2026-06-11T10:13:15.274492+00:00",
       "runtime": 98,
       "release_date": "1981-06-26"
     },
@@ -2006,7 +2016,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-03T10:48:23.999884+00:00",
+      "last_checked": "2026-06-11T10:13:15.678457+00:00",
       "runtime": 134,
       "release_date": "2018-05-25"
     },
@@ -2047,7 +2057,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-03T10:48:24.794920+00:00",
+      "last_checked": "2026-06-11T10:13:16.071467+00:00",
       "runtime": 97,
       "release_date": "2019-09-27"
     },
@@ -2071,6 +2081,13 @@
       ],
       "overview": "Prepare to be dazzled by the spectacular adaptation of Louis SacharÂ's acclaimed teen adventure Holes, featuring an all star cast including Sigourney Weaver, Jon Voight and Patricia Arquette. Wrong...",
       "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-43fe9e3c-abbf-436b-b8af-9741bd8f732c",
+          "quality": "hd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -2085,16 +2102,9 @@
           "type": "subscription",
           "link": "https://www.hulu.com/movie/holes-ecc93033-1f5a-4832-8845-458561c3d21e",
           "quality": "hd"
-        },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-43fe9e3c-abbf-436b-b8af-9741bd8f732c",
-          "quality": "hd"
         }
       },
-      "last_checked": "2026-06-03T10:48:25.567914+00:00",
+      "last_checked": "2026-06-11T10:13:16.462808+00:00",
       "runtime": 118,
       "release_date": "2003-04-18"
     },
@@ -2133,7 +2143,7 @@
           "link": "https://play.hbomax.com/movie/83df1c2b-db9d-49cd-bf83-9ddbaa7e5e30"
         }
       },
-      "last_checked": "2026-06-03T10:48:26.370607+00:00",
+      "last_checked": "2026-06-11T10:13:16.847669+00:00",
       "runtime": 85,
       "release_date": "2024-12-06"
     },
@@ -2181,7 +2191,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-03T10:48:27.192606+00:00",
+      "last_checked": "2026-06-11T10:13:17.253498+00:00",
       "runtime": 138,
       "release_date": "2015-12-18"
     },
@@ -2205,6 +2215,13 @@
       ],
       "overview": "Luke Skywalker comes to a crossroad when he meets a woman who wants to learn the ways of the Jedi.",
       "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-50c1aff5-3051-4839-9ebf-e332c635e216",
+          "quality": "uhd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -2212,13 +2229,6 @@
           "link": "https://www.amazon.com/gp/video/detail/0PM8SZIAJ1D6NYOBOXPRL92WZZ/ref=atv_dp",
           "quality": "uhd",
           "price": "5.66 USD"
-        },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-50c1aff5-3051-4839-9ebf-e332c635e216",
-          "quality": "uhd"
         },
         "apple": {
           "service": "apple",
@@ -2229,7 +2239,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-03T10:48:27.951581+00:00",
+      "last_checked": "2026-06-11T10:13:17.710220+00:00",
       "runtime": 152,
       "release_date": "2017-12-15"
     },
@@ -2277,7 +2287,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-03T10:48:28.722667+00:00",
+      "last_checked": "2026-06-11T10:13:18.121081+00:00",
       "runtime": 142,
       "release_date": "2019-12-20"
     },
@@ -2322,10 +2332,10 @@
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/inside-out/umc.cmc.e8rnwzv7klnnt9d5gq9m45nv?playableId=tvs.sbd.9001%3A999607190",
           "quality": "hd",
-          "price": "5.99 USD"
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-03T10:48:29.504249+00:00",
+      "last_checked": "2026-06-11T10:13:18.501968+00:00",
       "runtime": 95,
       "release_date": "2015-06-19"
     },
@@ -2372,7 +2382,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-03T10:48:30.200087+00:00",
+      "last_checked": "2026-06-11T10:13:18.890930+00:00",
       "runtime": 84,
       "release_date": "1993-02-12"
     },
@@ -3537,7 +3547,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-03T10:48:32.424250+00:00",
+      "last_checked": "2026-06-11T10:13:19.745999+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -3560,7 +3570,7 @@
       ],
       "overview": "Described as \"a non-prequel non-reboot sequel part two but with reboot elements franchise expansion film\". Plot TBA.",
       "streaming": {},
-      "last_checked": "2026-06-03T10:48:33.369755+00:00",
+      "last_checked": "2026-06-11T10:13:20.323140+00:00",
       "release_date": "2027-04-23"
     },
     {

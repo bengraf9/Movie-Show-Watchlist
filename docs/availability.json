@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T10:13:20.523660+00:00",
+  "last_updated": "2026-06-12T10:01:12.211644+00:00",
   "country": "us",
   "items": [
     {
@@ -2422,7 +2422,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-05T09:36:11.322260+00:00",
+      "last_checked": "2026-06-12T10:00:43.393486+00:00",
       "runtime": 107,
       "release_date": "2022-11-23"
     },
@@ -2454,7 +2454,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-05T09:36:12.117897+00:00",
+      "last_checked": "2026-06-12T10:00:43.927094+00:00",
       "runtime": 90,
       "release_date": "1984-07-13"
     },
@@ -2487,7 +2487,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-05T09:36:12.875602+00:00",
+      "last_checked": "2026-06-12T10:00:44.386358+00:00",
       "runtime": 84,
       "release_date": "1999-07-14"
     },
@@ -2534,7 +2534,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-05T09:36:13.693385+00:00",
+      "last_checked": "2026-06-12T10:00:44.914357+00:00",
       "runtime": 97,
       "release_date": "2021-11-24"
     },
@@ -2566,13 +2566,6 @@
           "quality": "hd",
           "price": "3.99 USD"
         },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-50d2a9c6-3c88-4329-8ba8-29f87d8ee3b1",
-          "quality": "uhd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -2580,9 +2573,16 @@
           "link": "https://www.amazon.com/gp/video/detail/0RM0H61GS3T6PEGQ1RNMZP9X1F/ref=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-50d2a9c6-3c88-4329-8ba8-29f87d8ee3b1",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-05T09:36:14.482041+00:00",
+      "last_checked": "2026-06-12T10:00:45.408872+00:00",
       "runtime": 135,
       "release_date": "2023-05-26"
     },
@@ -2611,7 +2611,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-05T09:36:15.213375+00:00",
+      "last_checked": "2026-06-12T10:00:45.872171+00:00",
       "runtime": 89,
       "release_date": "2020-03-14"
     },
@@ -2640,7 +2640,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-05T09:36:16.060740+00:00",
+      "last_checked": "2026-06-12T10:00:46.443696+00:00",
       "runtime": 38,
       "release_date": "2022-04-14"
     },
@@ -2669,7 +2669,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-05T09:36:18.171087+00:00",
+      "last_checked": "2026-06-12T10:00:49.646174+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2690,7 +2690,7 @@
       ],
       "overview": "It's the land we love and the land we think we know. We see America's breathtaking landscapes and wildlife as timeless, but the truth is very different. Its unique geography drives the forces of na...",
       "streaming": {},
-      "last_checked": "2026-06-05T09:36:21.704425+00:00",
+      "last_checked": "2026-06-12T10:00:55.298783+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -2720,7 +2720,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-05T09:36:24.104276+00:00",
+      "last_checked": "2026-06-12T10:00:57.898914+00:00",
       "season_count": 1,
       "episode_count": 4
     },
@@ -2755,7 +2755,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-05T09:36:26.017583+00:00",
+      "last_checked": "2026-06-12T10:00:59.536079+00:00",
       "season_count": 1,
       "episode_count": 26
     },
@@ -2783,7 +2783,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-05T09:36:28.594792+00:00",
+      "last_checked": "2026-06-12T10:01:02.380262+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2816,7 +2816,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0P9DYKYFE8ITEOJLHIPNBWI6PB",
+          "link": "https://www.amazon.com/gp/video/detail/0SBU747XHVK1V2D8YXCBS6N9TI",
           "quality": "hd"
         },
         "netflix": {
@@ -2827,7 +2827,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-05T09:36:35.993620+00:00",
+      "last_checked": "2026-06-12T10:01:05.936578+00:00",
       "season_count": 6,
       "episode_count": 177
     },
@@ -2857,7 +2857,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-05T09:36:36.947997+00:00",
+      "last_checked": "2026-06-12T10:01:06.674312+00:00",
       "runtime": 88,
       "release_date": "2023-11-17"
     },
@@ -2886,7 +2886,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-05T09:36:37.696377+00:00",
+      "last_checked": "2026-06-12T10:01:07.108141+00:00",
       "runtime": 59,
       "release_date": "2021-10-01"
     },
@@ -2917,7 +2917,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-05T09:36:38.383976+00:00",
+      "last_checked": "2026-06-12T10:01:07.624217+00:00",
       "runtime": 96,
       "release_date": "2020-08-21"
     },
@@ -2946,7 +2946,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-05T09:36:39.048919+00:00",
+      "last_checked": "2026-06-12T10:01:08.030357+00:00",
       "runtime": 76,
       "release_date": "2019-04-17"
     },
@@ -2971,10 +2971,9 @@
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
-          "type": "rent",
+          "type": "subscription",
           "link": "https://www.amazon.com/gp/video/detail/0R9UQ35EMA87NYVNEOP7H2DVUY/ref=atv_dp",
-          "quality": "uhd",
-          "price": "3.99 USD"
+          "quality": "uhd"
         },
         "hulu": {
           "service": "hulu",
@@ -2992,7 +2991,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-05T09:36:39.810485+00:00",
+      "last_checked": "2026-06-12T10:01:08.513270+00:00",
       "runtime": 106,
       "release_date": "2022-10-07"
     },
@@ -3019,6 +3018,13 @@
           "type": "subscription",
           "link": "https://www.amazon.com/gp/video/detail/0H12ALPB3TRBFO6N2CK2SN5PT4/ref=atv_dp"
         },
+        "roku": {
+          "service": "roku",
+          "serviceName": "Roku",
+          "type": "free",
+          "link": "https://therokuchannel.roku.com/details/85c45a8e011a5968aff315c7dcd53017",
+          "quality": "hd"
+        },
         "tubi": {
           "service": "tubi",
           "serviceName": "Tubi",
@@ -3027,7 +3033,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-05T09:36:40.577212+00:00",
+      "last_checked": "2026-06-12T10:01:08.949975+00:00",
       "runtime": 93,
       "release_date": "2023-03-24"
     },
@@ -3083,7 +3089,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-05T09:36:41.511057+00:00",
+      "last_checked": "2026-06-12T10:01:09.555843+00:00",
       "runtime": 77,
       "release_date": "2024-04-22"
     },
@@ -3105,13 +3111,6 @@
       ],
       "overview": "Harold must use his creativity to save the world from unleashed imagination in the wrong hands.",
       "streaming": {
-        "hulu": {
-          "service": "hulu",
-          "serviceName": "Hulu",
-          "type": "subscription",
-          "link": "https://www.hulu.com/movie/harold-and-the-purple-crayon-cae0a85a-0f85-4116-9f71-9aaef9b00c80",
-          "quality": "uhd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -3119,9 +3118,16 @@
           "link": "https://www.amazon.com/gp/video/detail/0NB8QGC6DG5QQHZ5J3DQN13H4W/ref=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/movie/harold-and-the-purple-crayon-cae0a85a-0f85-4116-9f71-9aaef9b00c80",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-05T09:36:42.254795+00:00",
+      "last_checked": "2026-06-12T10:01:10.148312+00:00",
       "runtime": 88,
       "release_date": "2024-08-02"
     },
@@ -3599,7 +3605,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-05T09:36:42.891304+00:00",
+      "last_checked": "2026-06-12T10:01:10.652101+00:00",
       "runtime": 113,
       "release_date": "2026-05-08"
     },
@@ -3630,7 +3636,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-05T09:36:44.597026+00:00",
+      "last_checked": "2026-06-12T10:01:12.015802+00:00",
       "season_count": 3,
       "episode_count": 34,
       "watched_seasons": 3

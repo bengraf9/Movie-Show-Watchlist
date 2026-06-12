@@ -386,19 +386,6 @@
     "year": 2025
   },
   {
-    "title": "The Larry Sanders Show",
-    "type": "series",
-    "lists": [
-      "dad"
-    ],
-    "priority": {
-      "dad-series": 11
-    },
-    "tmdb_id": "tv/1915",
-    "year": 1992,
-    "rating": "TV-MA"
-  },
-  {
     "title": "A Man on the Inside",
     "type": "series",
     "lists": [
@@ -1380,5 +1367,23 @@
     "tmdb_id": "tv/233079",
     "year": 2026,
     "rating": "TV-MA"
+  },
+  {
+    "title": "Spider-Noir",
+    "type": "series",
+    "lists": [
+      "dad"
+    ],
+    "tmdb_id": "tv/220102",
+    "year": 2026
+  },
+  {
+    "title": "Disclosure Day",
+    "type": "movie",
+    "lists": [
+      "dad"
+    ],
+    "tmdb_id": "movie/1275779",
+    "year": 2026
   }
 ]

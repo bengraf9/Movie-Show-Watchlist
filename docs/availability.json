@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T10:01:12.211644+00:00",
+  "last_updated": "2026-06-12T21:32:42.277655+00:00",
   "country": "us",
   "items": [
     {
@@ -912,42 +912,6 @@
       "season_count": 1,
       "episode_count": 6,
       "watched_seasons": 1
-    },
-    {
-      "title": "The Larry Sanders Show",
-      "year": 1992,
-      "type": "series",
-      "tmdb_id": "tv/1915",
-      "lists": [
-        "dad"
-      ],
-      "priority": {
-        "dad-series": 11
-      },
-      "poster": "https://image.tmdb.org/t/p/w300/uAYwC1jnIgwjaIAhy4SE9nnRgwN.jpg",
-      "rating": "TV-MA",
-      "genres": [
-        "Comedy"
-      ],
-      "overview": "You'll never look at late-night TV the same way again! This classic HBO comedy series starring, co-written and co-executive produced by Garry Shandling focuses on the on- and off-camera activities ...",
-      "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/show/the-larry-sanders-show/umc.cmc.3w4wp4iasdpolyr0ph98cyiav",
-          "quality": "sd"
-        },
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://play.hbomax.com/show/576e149d-8211-46dd-be88-e97fa9e01ac4"
-        }
-      },
-      "last_checked": "2026-06-07T08:48:22.150521+00:00",
-      "season_count": 6,
-      "episode_count": 90
     },
     {
       "title": "A Man on the Inside",
@@ -3795,6 +3759,65 @@
       "last_checked": "2026-06-06T08:27:24.678942+00:00",
       "season_count": 1,
       "episode_count": 8
+    },
+    {
+      "title": "Spider-Noir",
+      "year": 2026,
+      "type": "series",
+      "tmdb_id": "tv/220102",
+      "lists": [
+        "dad"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
+      "rating": "TV-14",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "overview": "Ben Reilly, an aging and down on his luck private investigator in 1930s New York, is forced to grapple with his past life as the city's one and only superhero.",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "subscription",
+          "link": "https://www.amazon.com/gp/video/detail/0TPA7F48GEJVGD8KKM1NC6QQ9Q"
+        }
+      },
+      "last_checked": "2026-06-12T21:32:40.742382+00:00",
+      "season_count": 1,
+      "episode_count": 8
+    },
+    {
+      "title": "Disclosure Day",
+      "year": 2026,
+      "type": "movie",
+      "tmdb_id": "movie/1275779",
+      "lists": [
+        "dad"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
+      "rating": "PG-13",
+      "genres": [
+        "Science Fiction",
+        "Thriller"
+      ],
+      "overview": "If you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you?",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0KAHR6BLR6JVHDZVO755MJ7057/ref=atv_dp",
+          "quality": "uhd",
+          "price": "29.99 USD"
+        }
+      },
+      "last_checked": "2026-06-12T21:32:42.006077+00:00",
+      "release_date": "2026-06-12",
+      "runtime": 145
     }
   ]
 }

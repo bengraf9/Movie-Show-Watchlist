@@ -1375,7 +1375,8 @@
       "dad"
     ],
     "tmdb_id": "tv/220102",
-    "year": 2026
+    "year": 2026,
+    "rating": "TV-14"
   },
   {
     "title": "Disclosure Day",
@@ -1384,6 +1385,8 @@
       "dad"
     ],
     "tmdb_id": "movie/1275779",
-    "year": 2026
+    "year": 2026,
+    "rating": "PG-13",
+    "release_date": "2026-06-12"
   }
 ]

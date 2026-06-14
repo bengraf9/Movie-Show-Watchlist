@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T08:50:23.617153+00:00",
+  "last_updated": "2026-06-14T09:23:39.007952+00:00",
   "country": "us",
   "items": [
     {
@@ -821,7 +821,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-07T08:48:18.283376+00:00",
+      "last_checked": "2026-06-14T09:23:11.685588+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1
@@ -885,7 +885,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-07T08:48:19.902121+00:00",
+      "last_checked": "2026-06-14T09:23:13.679904+00:00",
       "season_count": 1,
       "episode_count": 3
     },
@@ -948,7 +948,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-07T08:48:24.662704+00:00",
+      "last_checked": "2026-06-14T09:23:17.094306+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -1006,19 +1006,19 @@
       ],
       "overview": "Venture into the unknown with Captain Pike, Spock, Number One and the U.S.S. Enterprise crew a decade before Captain Kirk's legendary five-year mission.",
       "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0SB08CJZ5A96ONX5IFCDKNE59C",
+          "quality": "hd"
+        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
           "type": "buy",
           "link": "https://tv.apple.com/us/show/star-trek-strange-new-worlds/umc.cmc.1o10sclnk0t945h2mtuolocip",
           "quality": "sd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0SB08CJZ5A96ONX5IFCDKNE59C",
-          "quality": "uhd"
         },
         "paramount": {
           "service": "paramount",
@@ -1027,7 +1027,7 @@
           "link": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/"
         }
       },
-      "last_checked": "2026-06-07T08:48:26.434069+00:00",
+      "last_checked": "2026-06-14T09:23:19.700283+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1051,12 +1051,18 @@
       ],
       "overview": "Sir Patrick Stewart reprises his iconic role as Jean-Luc Picard. The retired admiral enters the next chapter of his life, while dealing with pain from the past.",
       "streaming": {
+        "paramount": {
+          "service": "paramount",
+          "serviceName": "Paramount+",
+          "type": "subscription",
+          "link": "https://www.paramountplus.com/shows/star-trek-picard/"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0S4PHJ50UWJJMEE08SOKDCOI6E",
-          "quality": "sd"
+          "quality": "hd"
         },
         "apple": {
           "service": "apple",
@@ -1064,15 +1070,9 @@
           "type": "buy",
           "link": "https://tv.apple.com/us/show/star-trek-picard/umc.cmc.2tqufhly635jf1fnuonxojax",
           "quality": "hd"
-        },
-        "paramount": {
-          "service": "paramount",
-          "serviceName": "Paramount+",
-          "type": "subscription",
-          "link": "https://www.paramountplus.com/shows/star-trek-picard/"
         }
       },
-      "last_checked": "2026-06-07T08:48:28.044339+00:00",
+      "last_checked": "2026-06-14T09:23:22.097400+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1188,9 +1188,16 @@
           "type": "buy",
           "link": "https://tv.apple.com/us/show/american-gods/umc.cmc.4o7hf0qe1ezickgfxxeppolqr",
           "quality": "hd"
+        },
+        "roku": {
+          "service": "roku",
+          "serviceName": "Roku",
+          "type": "free",
+          "link": "https://therokuchannel.roku.com/details/61c636a6f9c959adbdcc0053c6e18597",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-06-07T08:48:33.673669+00:00",
+      "last_checked": "2026-06-14T09:23:25.745602+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1227,7 +1234,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-07T08:48:37.466675+00:00",
+      "last_checked": "2026-06-14T09:23:30.346582+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -1249,13 +1256,6 @@
       ],
       "overview": "When his college degree is challenged as a fake, lawyer and schemer Jeff Winger is forced to return to school and reluctantly becomes the leader of a misfit collection of fellow students.",
       "streaming": {
-        "peacock": {
-          "service": "peacock",
-          "serviceName": "Peacock",
-          "type": "subscription",
-          "link": "https://www.peacocktv.com/watch/asset/tv/community/8700597605358573112",
-          "quality": "uhd"
-        },
         "hulu": {
           "service": "hulu",
           "serviceName": "Hulu",
@@ -1263,15 +1263,15 @@
           "link": "https://www.hulu.com/series/community-200c56d4-124c-41a1-b7d2-688f86f432bf",
           "quality": "hd"
         },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0RZDRR4YJ51TRS4ISXB1JC1KTR",
-          "quality": "hd"
+        "peacock": {
+          "service": "peacock",
+          "serviceName": "Peacock",
+          "type": "subscription",
+          "link": "https://www.peacocktv.com/watch/asset/tv/community/8700597605358573112",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-07T08:48:39.211699+00:00",
+      "last_checked": "2026-06-14T09:23:32.962249+00:00",
       "season_count": 6,
       "episode_count": 110
     },
@@ -1300,7 +1300,7 @@
           "link": "https://play.hbomax.com/show/c967b1a4-d0e2-491e-967e-ae09f88fef62"
         }
       },
-      "last_checked": "2026-06-07T08:48:40.725278+00:00",
+      "last_checked": "2026-06-14T09:23:35.152864+00:00",
       "season_count": 1,
       "episode_count": 2
     },
@@ -1331,7 +1331,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-07T08:48:41.958829+00:00",
+      "last_checked": "2026-06-14T09:23:37.124644+00:00",
       "season_count": 5,
       "episode_count": 30
     },
@@ -3263,8 +3263,16 @@
         "Animation"
       ],
       "overview": "Young Michael, shipwrecked on a remote island, must adapt to life alone. Over time, he feels another presence, learning that this world is home to both unimaginable danger and beauty.",
-      "streaming": {},
-      "last_checked": "2026-06-07T08:48:42.559608+00:00",
+      "streaming": {
+        "roku": {
+          "service": "roku",
+          "serviceName": "Roku",
+          "type": "free",
+          "link": "https://therokuchannel.roku.com/details/c5e604d90fe95155bb68f0337408fcb1",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-06-14T09:23:38.073263+00:00",
       "runtime": 84,
       "release_date": "2024-10-18"
     },
@@ -3295,7 +3303,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-07T08:48:43.182886+00:00",
+      "last_checked": "2026-06-14T09:23:39.007767+00:00",
       "runtime": 83,
       "release_date": "2024-02-02"
     },

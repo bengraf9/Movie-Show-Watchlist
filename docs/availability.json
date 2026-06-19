@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T10:11:58.300826+00:00",
+  "last_updated": "2026-06-19T10:17:34.279594+00:00",
   "country": "us",
   "items": [
     {
@@ -854,7 +854,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-11T10:13:07.378849+00:00",
+      "last_checked": "2026-06-19T10:17:07.833827+00:00",
       "season_count": 3,
       "episode_count": 39,
       "watched_seasons": 2
@@ -981,7 +981,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-11T10:13:08.858899+00:00",
+      "last_checked": "2026-06-19T10:17:10.606640+00:00",
       "season_count": 3,
       "episode_count": 33,
       "watched_seasons": 3
@@ -1511,7 +1511,7 @@
           "link": "https://play.hbomax.com/show/2f5ff1ff-9885-462b-aded-329e421b5f59"
         }
       },
-      "last_checked": "2026-06-11T10:13:10.000272+00:00",
+      "last_checked": "2026-06-19T10:17:13.202149+00:00",
       "season_count": 1,
       "episode_count": 1
     },
@@ -1540,7 +1540,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-11T10:13:11.131073+00:00",
+      "last_checked": "2026-06-19T10:17:15.392483+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -1564,13 +1564,6 @@
       ],
       "overview": "The story of a middle-schooler and his “best friend out of the box” robot.",
       "streaming": {
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-46e6268f-beb7-496c-86ef-9af4980d62c7",
-          "quality": "uhd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -1586,9 +1579,16 @@
           "link": "https://tv.apple.com/us/movie/rons-gone-wrong/umc.cmc.75t5f0e7lid2rslfho07lgbrx?playableId=tvs.sbd.9001%3A1592488379",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-46e6268f-beb7-496c-86ef-9af4980d62c7",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-11T10:13:11.760835+00:00",
+      "last_checked": "2026-06-19T10:17:16.604027+00:00",
       "runtime": 107,
       "release_date": "2021-10-22"
     },
@@ -1620,7 +1620,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-11T10:13:12.183840+00:00",
+      "last_checked": "2026-06-19T10:17:17.442087+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1651,7 +1651,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-11T10:13:12.552592+00:00",
+      "last_checked": "2026-06-19T10:17:18.225130+00:00",
       "runtime": 122,
       "release_date": "2022-12-09"
     },
@@ -1699,7 +1699,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-11T10:13:12.920506+00:00",
+      "last_checked": "2026-06-19T10:17:19.060345+00:00",
       "runtime": 96,
       "release_date": "2009-05-29"
     },
@@ -1727,7 +1727,7 @@
           "service": "disney",
           "serviceName": "Disney+",
           "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-3c5d5a63-0e64-4f47-91da-5c1e435c958e",
+          "link": "https://www.disneyplus.com/browse/entity-eefd84d7-01a2-419e-941c-631efaad118a",
           "quality": "uhd"
         },
         "prime": {
@@ -1754,7 +1754,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-11T10:13:13.314187+00:00",
+      "last_checked": "2026-06-19T10:17:19.957119+00:00",
       "runtime": 97,
       "release_date": "2014-12-19"
     },
@@ -1794,7 +1794,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-11T10:13:13.771836+00:00",
+      "last_checked": "2026-06-19T10:17:20.712949+00:00",
       "runtime": 102,
       "release_date": "2025-06-20"
     },
@@ -1826,7 +1826,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-11T10:13:14.148304+00:00",
+      "last_checked": "2026-06-19T10:17:21.476947+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1858,7 +1858,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-11T10:13:14.527205+00:00",
+      "last_checked": "2026-06-19T10:17:22.285696+00:00",
       "runtime": 110,
       "release_date": "2024-11-11"
     },
@@ -1891,7 +1891,7 @@
           "price": "14.99 USD"
         }
       },
-      "last_checked": "2026-06-11T10:13:14.894042+00:00",
+      "last_checked": "2026-06-19T10:17:23.118974+00:00",
       "runtime": 93,
       "release_date": "2007-11-16"
     },
@@ -1939,7 +1939,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-11T10:13:15.274492+00:00",
+      "last_checked": "2026-06-19T10:17:24.033378+00:00",
       "runtime": 98,
       "release_date": "1981-06-26"
     },
@@ -1971,13 +1971,6 @@
           "quality": "hd",
           "price": "3.99 USD"
         },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-791bc772-d930-40c9-83ec-5ef85923573e",
-          "quality": "uhd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -1985,9 +1978,16 @@
           "link": "https://www.amazon.com/gp/video/detail/0FSEHO8AO4JCQ58Y4IUU3PMCA9/ref=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-791bc772-d930-40c9-83ec-5ef85923573e",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-11T10:13:15.678457+00:00",
+      "last_checked": "2026-06-19T10:17:24.928104+00:00",
       "runtime": 134,
       "release_date": "2018-05-25"
     },
@@ -2028,7 +2028,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-11T10:13:16.071467+00:00",
+      "last_checked": "2026-06-19T10:17:25.703712+00:00",
       "runtime": 97,
       "release_date": "2019-09-27"
     },
@@ -2052,13 +2052,6 @@
       ],
       "overview": "Prepare to be dazzled by the spectacular adaptation of Louis SacharÂ's acclaimed teen adventure Holes, featuring an all star cast including Sigourney Weaver, Jon Voight and Patricia Arquette. Wrong...",
       "streaming": {
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-43fe9e3c-abbf-436b-b8af-9741bd8f732c",
-          "quality": "hd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -2073,9 +2066,16 @@
           "type": "subscription",
           "link": "https://www.hulu.com/movie/holes-ecc93033-1f5a-4832-8845-458561c3d21e",
           "quality": "hd"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-43fe9e3c-abbf-436b-b8af-9741bd8f732c",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-06-11T10:13:16.462808+00:00",
+      "last_checked": "2026-06-19T10:17:26.597032+00:00",
       "runtime": 118,
       "release_date": "2003-04-18"
     },
@@ -2114,7 +2114,7 @@
           "link": "https://play.hbomax.com/movie/83df1c2b-db9d-49cd-bf83-9ddbaa7e5e30"
         }
       },
-      "last_checked": "2026-06-11T10:13:16.847669+00:00",
+      "last_checked": "2026-06-19T10:17:27.467941+00:00",
       "runtime": 85,
       "release_date": "2024-12-06"
     },
@@ -2162,7 +2162,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-11T10:13:17.253498+00:00",
+      "last_checked": "2026-06-19T10:17:28.343475+00:00",
       "runtime": 138,
       "release_date": "2015-12-18"
     },
@@ -2210,7 +2210,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-11T10:13:17.710220+00:00",
+      "last_checked": "2026-06-19T10:17:29.190532+00:00",
       "runtime": 152,
       "release_date": "2017-12-15"
     },
@@ -2258,7 +2258,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-11T10:13:18.121081+00:00",
+      "last_checked": "2026-06-19T10:17:30.101148+00:00",
       "runtime": 142,
       "release_date": "2019-12-20"
     },
@@ -2290,13 +2290,6 @@
           "quality": "uhd",
           "price": "3.99 USD"
         },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-d4b87168-7d0b-49bc-b138-457ab7723feb",
-          "quality": "uhd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -2304,9 +2297,16 @@
           "link": "https://tv.apple.com/us/movie/inside-out/umc.cmc.e8rnwzv7klnnt9d5gq9m45nv?playableId=tvs.sbd.9001%3A999607190",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-d4b87168-7d0b-49bc-b138-457ab7723feb",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-11T10:13:18.501968+00:00",
+      "last_checked": "2026-06-19T10:17:30.943099+00:00",
       "runtime": 95,
       "release_date": "2015-06-19"
     },
@@ -2353,7 +2353,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-11T10:13:18.890930+00:00",
+      "last_checked": "2026-06-19T10:17:31.767735+00:00",
       "runtime": 84,
       "release_date": "1993-02-12"
     },
@@ -2393,7 +2393,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-12T10:00:43.393486+00:00",
+      "last_checked": "2026-06-19T10:17:32.608251+00:00",
       "runtime": 107,
       "release_date": "2022-11-23"
     },
@@ -2425,7 +2425,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-12T10:00:43.927094+00:00",
+      "last_checked": "2026-06-19T10:17:33.432812+00:00",
       "runtime": 90,
       "release_date": "1984-07-13"
     },
@@ -2458,7 +2458,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-12T10:00:44.386358+00:00",
+      "last_checked": "2026-06-19T10:17:34.278910+00:00",
       "runtime": 84,
       "release_date": "1999-07-14"
     },

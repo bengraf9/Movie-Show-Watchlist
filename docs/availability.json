@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T08:45:37.826787+00:00",
+  "last_updated": "2026-06-21T09:41:22.344070+00:00",
   "country": "us",
   "items": [
     {
@@ -92,7 +92,7 @@
           "link": "https://tubitv.com/movies/100046625/swiss-army-man"
         }
       },
-      "last_checked": "2026-06-13T08:50:09.054990+00:00",
+      "last_checked": "2026-06-21T09:40:58.535146+00:00",
       "runtime": 93,
       "release_date": "2016-07-01"
     },
@@ -124,7 +124,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-13T08:50:09.522498+00:00",
+      "last_checked": "2026-06-21T09:40:59.002719+00:00",
       "runtime": 94,
       "release_date": "1987-04-17"
     },
@@ -210,7 +210,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-13T08:50:09.970300+00:00",
+      "last_checked": "2026-06-21T09:40:59.465996+00:00",
       "runtime": 110,
       "release_date": "2025-06-13"
     },
@@ -239,14 +239,6 @@
           "link": "https://www.peacocktv.com/watch/asset/movies/the-fabelmans/2a5217ac-bb12-3e04-8867-f88ae97c4660",
           "quality": "uhd"
         },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0R5M89EX4U1ZPCJKFMDYU4SFEF/ref=atv_dp",
-          "quality": "uhd",
-          "price": "3.99 USD"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -254,9 +246,17 @@
           "link": "https://tv.apple.com/us/movie/the-fabelmans/umc.cmc.4lgvd75jcuqp79fuar3e9p9zh?playableId=tvs.sbd.9001%3A1655490626",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0R5M89EX4U1ZPCJKFMDYU4SFEF/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-13T08:50:10.434827+00:00",
+      "last_checked": "2026-06-21T09:40:59.922964+00:00",
       "runtime": 150,
       "release_date": "2022-11-23"
     },
@@ -320,7 +320,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-13T08:50:10.850268+00:00",
+      "last_checked": "2026-06-21T09:41:00.506214+00:00",
       "runtime": 91,
       "release_date": "1991-02-08"
     },
@@ -352,7 +352,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-13T08:50:11.381239+00:00",
+      "last_checked": "2026-06-21T09:41:01.002679+00:00",
       "runtime": 124,
       "release_date": "1979-12-19"
     },
@@ -391,7 +391,7 @@
           "price": "14.99 USD"
         }
       },
-      "last_checked": "2026-06-13T08:50:11.774414+00:00",
+      "last_checked": "2026-06-21T09:41:01.442200+00:00",
       "runtime": 157,
       "release_date": "2023-11-22"
     },
@@ -429,7 +429,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-13T08:50:12.210103+00:00",
+      "last_checked": "2026-06-21T09:41:01.876157+00:00",
       "runtime": 106,
       "release_date": "2024-03-08"
     },
@@ -467,7 +467,7 @@
           "link": "https://play.hbomax.com/movie/f3bf7c8f-1c44-4a35-9bb2-8f583c5e90bb"
         }
       },
-      "last_checked": "2026-06-13T08:50:12.655158+00:00",
+      "last_checked": "2026-06-21T09:41:02.468353+00:00",
       "runtime": 83,
       "release_date": "2025-09-12"
     },
@@ -507,7 +507,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-13T08:50:13.076266+00:00",
+      "last_checked": "2026-06-21T09:41:02.929486+00:00",
       "runtime": 129,
       "release_date": "1963-03-16"
     },
@@ -546,7 +546,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-13T08:50:13.483947+00:00",
+      "last_checked": "2026-06-21T09:41:03.468853+00:00",
       "runtime": 107,
       "release_date": "1982-01-01"
     },
@@ -585,7 +585,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-13T08:50:13.994310+00:00",
+      "last_checked": "2026-06-21T09:41:03.930550+00:00",
       "runtime": 98,
       "release_date": "2024-06-21"
     },
@@ -650,7 +650,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-13T08:50:14.511398+00:00",
+      "last_checked": "2026-06-21T09:41:04.374678+00:00",
       "runtime": 114,
       "release_date": "2013-12-25"
     },
@@ -681,7 +681,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-13T08:50:15.027894+00:00",
+      "last_checked": "2026-06-21T09:41:04.863965+00:00",
       "runtime": 90,
       "release_date": "2025-03-14"
     },
@@ -821,7 +821,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-14T09:23:11.685588+00:00",
+      "last_checked": "2026-06-21T09:41:06.823105+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1
@@ -885,7 +885,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-14T09:23:13.679904+00:00",
+      "last_checked": "2026-06-21T09:41:08.201468+00:00",
       "season_count": 1,
       "episode_count": 3
     },
@@ -948,7 +948,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-14T09:23:17.094306+00:00",
+      "last_checked": "2026-06-21T09:41:11.270085+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -1010,7 +1010,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0SB08CJZ5A96ONX5IFCDKNE59C",
+          "link": "https://www.amazon.com/gp/video/detail/0OFDHJ8GO2XCV8RG7UGC87MAXF",
           "quality": "hd"
         },
         "apple": {
@@ -1027,7 +1027,7 @@
           "link": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/"
         }
       },
-      "last_checked": "2026-06-14T09:23:19.700283+00:00",
+      "last_checked": "2026-06-21T09:41:12.870219+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1061,7 +1061,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0S4PHJ50UWJJMEE08SOKDCOI6E",
+          "link": "https://www.amazon.com/gp/video/detail/0IPFH7LZM86DGI45AU1AN74NZV",
           "quality": "hd"
         },
         "apple": {
@@ -1072,7 +1072,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-14T09:23:22.097400+00:00",
+      "last_checked": "2026-06-21T09:41:14.528220+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1180,7 +1180,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "free",
-          "link": "https://www.amazon.com/gp/video/detail/0U5LPGLHIBYAA24ISAM352994E"
+          "link": "https://www.amazon.com/gp/video/detail/0U5LPGLHIBYAA24ISAM352994E?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_me_new_c_utZ62u_brws_6_9"
         },
         "apple": {
           "service": "apple",
@@ -1197,7 +1197,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-14T09:23:25.745602+00:00",
+      "last_checked": "2026-06-21T09:41:16.872623+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1223,7 +1223,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0H2URYUURJKC88N1JCAAJKOHJ0",
+          "link": "https://www.amazon.com/gp/video/detail/0U41UH674GU5A94PSQ75PF9M9M",
           "quality": "hd"
         },
         "peacock": {
@@ -1234,7 +1234,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-14T09:23:30.346582+00:00",
+      "last_checked": "2026-06-21T09:41:20.286719+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -1256,22 +1256,29 @@
       ],
       "overview": "When his college degree is challenged as a fake, lawyer and schemer Jeff Winger is forced to return to school and reluctantly becomes the leader of a misfit collection of fellow students.",
       "streaming": {
-        "hulu": {
-          "service": "hulu",
-          "serviceName": "Hulu",
-          "type": "subscription",
-          "link": "https://www.hulu.com/series/community-200c56d4-124c-41a1-b7d2-688f86f432bf",
-          "quality": "hd"
-        },
         "peacock": {
           "service": "peacock",
           "serviceName": "Peacock",
           "type": "subscription",
           "link": "https://www.peacocktv.com/watch/asset/tv/community/8700597605358573112",
           "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0RZDRR4YJ51TRS4ISXB1JC1KTR",
+          "quality": "hd"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/series/community-200c56d4-124c-41a1-b7d2-688f86f432bf",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-06-14T09:23:32.962249+00:00",
+      "last_checked": "2026-06-21T09:41:22.101710+00:00",
       "season_count": 6,
       "episode_count": 110
     },

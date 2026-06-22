@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T09:41:22.344070+00:00",
+  "last_updated": "2026-06-22T11:41:43.158189+00:00",
   "country": "us",
   "items": [
     {
@@ -1307,7 +1307,7 @@
           "link": "https://play.hbomax.com/show/c967b1a4-d0e2-491e-967e-ae09f88fef62"
         }
       },
-      "last_checked": "2026-06-14T09:23:35.152864+00:00",
+      "last_checked": "2026-06-22T11:41:25.104782+00:00",
       "season_count": 1,
       "episode_count": 2
     },
@@ -1338,7 +1338,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-14T09:23:37.124644+00:00",
+      "last_checked": "2026-06-22T11:41:26.967381+00:00",
       "season_count": 5,
       "episode_count": 30
     },
@@ -3039,7 +3039,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-13T08:50:15.431232+00:00",
+      "last_checked": "2026-06-22T11:41:27.915539+00:00",
       "runtime": 89,
       "release_date": "2024-04-22"
     },
@@ -3133,7 +3133,7 @@
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0IX0SYSTLGMA5ZUWRKVJNLWBZ0/ref=atv_dp",
           "quality": "uhd",
-          "price": "3.99 USD"
+          "price": "4.99 USD"
         },
         "paramount": {
           "service": "paramount",
@@ -3150,7 +3150,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-06-13T08:50:15.867459+00:00",
+      "last_checked": "2026-06-22T11:41:28.725379+00:00",
       "runtime": 98,
       "release_date": "2020-02-14"
     },
@@ -3180,7 +3180,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-13T08:50:16.266661+00:00",
+      "last_checked": "2026-06-22T11:41:29.429775+00:00",
       "runtime": 102,
       "release_date": "2020-01-25"
     },
@@ -3222,7 +3222,7 @@
           "quality": "sd"
         }
       },
-      "last_checked": "2026-06-13T08:50:17.645056+00:00",
+      "last_checked": "2026-06-22T11:41:31.019683+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -3246,12 +3246,12 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0LE7SV6ZZITV5AO096WZ3CFL2H/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0LE7SV6ZZITV5AO096WZ3CFL2H?ref_=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-13T08:50:18.519582+00:00",
+      "last_checked": "2026-06-22T11:41:31.963286+00:00",
       "runtime": 73
     },
     {
@@ -3279,7 +3279,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-14T09:23:38.073263+00:00",
+      "last_checked": "2026-06-22T11:41:32.907314+00:00",
       "runtime": 84,
       "release_date": "2024-10-18"
     },
@@ -3310,7 +3310,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-14T09:23:39.007767+00:00",
+      "last_checked": "2026-06-22T11:41:33.857173+00:00",
       "runtime": 83,
       "release_date": "2024-02-02"
     },
@@ -3669,7 +3669,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-13T08:50:19.147150+00:00",
+      "last_checked": "2026-06-22T11:41:34.562919+00:00",
       "runtime": 96,
       "release_date": "1995-01-27"
     },
@@ -3685,7 +3685,7 @@
       "priority": {
         "dad-movie": 6
       },
-      "poster": "https://cdn.movieofthenight.com/show/1546/poster/vertical/en/240.jpg?Expires=1798053458&Signature=Ym3Ljsrgl3K2FqDHo62FlHMmJ8NnP~b2R9KrTX13Kw9jqfDMyKs7WYY-H8vpRogkB1DyWmUerRt9Yi~z74iEWAT8XAnkwA0JKoh6aF8Mrc37qhlApzc28rB51~9q4ilYT8qKEOklMEq8TEzMtoOUwkt8Jk2rg0PR-liwPpPYXR1zRW0yURHpFVxCdBZyMP6MaRKE2vSnuhwZPjABXfWjVMs7Lh3zUnFZcxnXi9UejC0517AakxtgdYd8tohHIF5HZtW-o8kCi7bUECk19z5xl-VeJcuMN8adqp~zmMja~A~i0M-iX6y080-~HL-zfyvE8s7MuFqzpfI7DDAWL6Ia5Q__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/1546/poster/vertical/en/240.jpg?Expires=1813732142&Signature=Z~OFbR7P~7HRjxjUv2k9UcKv1ZFsQ4UfYuCU8hL31YTOIigLPXz2-MqSS94DNlO-H5y28cDD3uSuo2pWQCHRn6FZDadRwW8zr8njSBho0WI0KOhKy4No27iGCPAIs8q1f~lW2bn2u-Xvc6~IrRo57cwiFCN12FLikQtV2Rg2Ox0qbt4H1zbKHLu4i1m83v5I8Ge0Z--j6X7stSUrwULNP~z38Jy4iQzlG61BPTy~4o1BmCk0sfiiYB1KblYD8R2LpiWhei~XY27CsHYcOJgfyl8ixKof58QUfE3jkJj2~y9fwNFii9316lH6-2hCRgyspOTNXRiB0G5vMvinrY8Rbg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
       "genres": [
         "Drama",
@@ -3717,7 +3717,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-06-13T08:50:19.561458+00:00",
+      "last_checked": "2026-06-22T11:41:35.349895+00:00",
       "runtime": 80,
       "release_date": "2004-07-30"
     },
@@ -3741,13 +3741,6 @@
       ],
       "overview": "On an idyllic Greek vacation, longtime couple Jesse and Celine reminisce about their lives together - and what different choices might have brought since their first meeting nearly 20 years earlier.",
       "streaming": {
-        "roku": {
-          "service": "roku",
-          "serviceName": "Roku",
-          "type": "free",
-          "link": "https://therokuchannel.roku.com/details/3879c9329fc1589091d39fbe75a25d62",
-          "quality": "hd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -3755,9 +3748,16 @@
           "link": "https://tv.apple.com/us/movie/before-midnight/umc.cmc.5a1k15u705gddv7913ds29kgg?playableId=tvs.sbd.9001%3A699047582",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "roku": {
+          "service": "roku",
+          "serviceName": "Roku",
+          "type": "free",
+          "link": "https://therokuchannel.roku.com/details/3879c9329fc1589091d39fbe75a25d62",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-06-13T08:50:19.970983+00:00",
+      "last_checked": "2026-06-22T11:41:36.067690+00:00",
       "runtime": 104,
       "release_date": "2013-06-14"
     },
@@ -3788,11 +3788,11 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0HHK0IZHHNXN9OKTM071KVICX0",
+          "link": "https://www.amazon.com/gp/video/detail/B0GVJGNN1D",
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-13T08:50:21.514185+00:00",
+      "last_checked": "2026-06-22T11:41:38.169585+00:00",
       "season_count": 1,
       "episode_count": 10,
       "watched_seasons": 1
@@ -3822,7 +3822,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-13T08:50:23.420061+00:00",
+      "last_checked": "2026-06-22T11:41:40.268239+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -3848,10 +3848,10 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0TPA7F48GEJVGD8KKM1NC6QQ9Q"
+          "link": "https://www.amazon.com/gp/video/detail/0TPA7F48GEJVGD8KKM1NC6QQ9Q?jic=8%7CEgRzdm9k&ref_=atv_tv_hom_c_furGo3_brws_2_3"
         }
       },
-      "last_checked": "2026-06-12T21:32:40.742382+00:00",
+      "last_checked": "2026-06-22T11:41:41.941625+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -3870,18 +3870,18 @@
         "Science Fiction",
         "Thriller"
       ],
-      "overview": "If you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you?",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forc...",
       "streaming": {
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0KAHR6BLR6JVHDZVO755MJ7057/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0KAHR6BLR6JVHDZVO755MJ7057?ref_=atv_dp",
           "quality": "uhd",
           "price": "29.99 USD"
         }
       },
-      "last_checked": "2026-06-12T21:32:42.006077+00:00",
+      "last_checked": "2026-06-22T11:41:42.896575+00:00",
       "release_date": "2026-06-12",
       "runtime": 145
     }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T08:54:07.677808+00:00",
+  "last_updated": "2026-06-27T08:29:35.268191+00:00",
   "country": "us",
   "items": [
     {
@@ -854,7 +854,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-19T10:17:07.833827+00:00",
+      "last_checked": "2026-06-27T08:29:11.715955+00:00",
       "season_count": 3,
       "episode_count": 39,
       "watched_seasons": 2
@@ -981,7 +981,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-19T10:17:10.606640+00:00",
+      "last_checked": "2026-06-27T08:29:14.365013+00:00",
       "season_count": 3,
       "episode_count": 33,
       "watched_seasons": 3
@@ -1507,7 +1507,7 @@
       "rating": "",
       "genres": [
         "Adventure",
-        "Fantasy"
+        "Family"
       ],
       "overview": "There is nothing special about Harry Potter - at least that's what his Aunt Petunia always says. On his 11th birthday, a letter of admittance to Hogwarts School of Witchcraft and Wizardry opens up ...",
       "streaming": {
@@ -1518,7 +1518,7 @@
           "link": "https://play.hbomax.com/show/2f5ff1ff-9885-462b-aded-329e421b5f59"
         }
       },
-      "last_checked": "2026-06-19T10:17:13.202149+00:00",
+      "last_checked": "2026-06-27T08:29:16.691019+00:00",
       "season_count": 1,
       "episode_count": 1
     },
@@ -1547,7 +1547,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-19T10:17:15.392483+00:00",
+      "last_checked": "2026-06-27T08:29:18.613225+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -1595,7 +1595,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-19T10:17:16.604027+00:00",
+      "last_checked": "2026-06-27T08:29:19.640642+00:00",
       "runtime": 107,
       "release_date": "2021-10-22"
     },
@@ -1627,7 +1627,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-19T10:17:17.442087+00:00",
+      "last_checked": "2026-06-27T08:29:20.340999+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1658,7 +1658,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-19T10:17:18.225130+00:00",
+      "last_checked": "2026-06-27T08:29:21.078066+00:00",
       "runtime": 122,
       "release_date": "2022-12-09"
     },
@@ -1706,7 +1706,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-19T10:17:19.060345+00:00",
+      "last_checked": "2026-06-27T08:29:21.843423+00:00",
       "runtime": 96,
       "release_date": "2009-05-29"
     },
@@ -1730,13 +1730,6 @@
       ],
       "overview": "Larry Daley embarks on an adventure to save the magic that brings the museum exhibits to life!",
       "streaming": {
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-eefd84d7-01a2-419e-941c-631efaad118a",
-          "quality": "uhd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -1744,6 +1737,13 @@
           "link": "https://www.amazon.com/gp/video/detail/0KN3PE7QYR41JRV8IAJSM9E10E/ref=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-3c5d5a63-0e64-4f47-91da-5c1e435c958e",
+          "quality": "uhd"
         },
         "apple": {
           "service": "apple",
@@ -1761,7 +1761,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-19T10:17:19.957119+00:00",
+      "last_checked": "2026-06-27T08:29:22.600691+00:00",
       "runtime": 97,
       "release_date": "2014-12-19"
     },
@@ -1801,7 +1801,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-19T10:17:20.712949+00:00",
+      "last_checked": "2026-06-27T08:29:23.368453+00:00",
       "runtime": 102,
       "release_date": "2025-06-20"
     },
@@ -1833,7 +1833,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-19T10:17:21.476947+00:00",
+      "last_checked": "2026-06-27T08:29:24.054615+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1865,7 +1865,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-19T10:17:22.285696+00:00",
+      "last_checked": "2026-06-27T08:29:24.737467+00:00",
       "runtime": 110,
       "release_date": "2024-11-11"
     },
@@ -1898,7 +1898,7 @@
           "price": "14.99 USD"
         }
       },
-      "last_checked": "2026-06-19T10:17:23.118974+00:00",
+      "last_checked": "2026-06-27T08:29:25.419669+00:00",
       "runtime": 93,
       "release_date": "2007-11-16"
     },
@@ -1946,7 +1946,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-19T10:17:24.033378+00:00",
+      "last_checked": "2026-06-27T08:29:26.170726+00:00",
       "runtime": 98,
       "release_date": "1981-06-26"
     },
@@ -1994,7 +1994,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-19T10:17:24.928104+00:00",
+      "last_checked": "2026-06-27T08:29:26.940716+00:00",
       "runtime": 134,
       "release_date": "2018-05-25"
     },
@@ -2035,7 +2035,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-19T10:17:25.703712+00:00",
+      "last_checked": "2026-06-27T08:29:27.706659+00:00",
       "runtime": 97,
       "release_date": "2019-09-27"
     },
@@ -2082,7 +2082,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-19T10:17:26.597032+00:00",
+      "last_checked": "2026-06-27T08:29:28.458142+00:00",
       "runtime": 118,
       "release_date": "2003-04-18"
     },
@@ -2121,7 +2121,7 @@
           "link": "https://play.hbomax.com/movie/83df1c2b-db9d-49cd-bf83-9ddbaa7e5e30"
         }
       },
-      "last_checked": "2026-06-19T10:17:27.467941+00:00",
+      "last_checked": "2026-06-27T08:29:29.222551+00:00",
       "runtime": 85,
       "release_date": "2024-12-06"
     },
@@ -2169,7 +2169,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-19T10:17:28.343475+00:00",
+      "last_checked": "2026-06-27T08:29:29.990486+00:00",
       "runtime": 138,
       "release_date": "2015-12-18"
     },
@@ -2200,14 +2200,6 @@
           "link": "https://www.disneyplus.com/browse/entity-50c1aff5-3051-4839-9ebf-e332c635e216",
           "quality": "uhd"
         },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0PM8SZIAJ1D6NYOBOXPRL92WZZ/ref=atv_dp",
-          "quality": "uhd",
-          "price": "5.66 USD"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -2215,9 +2207,17 @@
           "link": "https://tv.apple.com/us/movie/star-wars-the-last-jedi/umc.cmc.7f19yhpg0i8vk8of1ydhs7g1v?playableId=tvs.sbd.9001%3A1316280891",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0QBR8Y3K0L7SUWP97IA24D282P/ref=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-19T10:17:29.190532+00:00",
+      "last_checked": "2026-06-27T08:29:30.764051+00:00",
       "runtime": 152,
       "release_date": "2017-12-15"
     },
@@ -2265,7 +2265,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-19T10:17:30.101148+00:00",
+      "last_checked": "2026-06-27T08:29:31.520561+00:00",
       "runtime": 142,
       "release_date": "2019-12-20"
     },
@@ -2313,7 +2313,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-19T10:17:30.943099+00:00",
+      "last_checked": "2026-06-27T08:29:32.265466+00:00",
       "runtime": 95,
       "release_date": "2015-06-19"
     },
@@ -2360,7 +2360,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-19T10:17:31.767735+00:00",
+      "last_checked": "2026-06-27T08:29:32.942484+00:00",
       "runtime": 84,
       "release_date": "1993-02-12"
     },
@@ -2400,7 +2400,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-19T10:17:32.608251+00:00",
+      "last_checked": "2026-06-27T08:29:33.759931+00:00",
       "runtime": 107,
       "release_date": "2022-11-23"
     },
@@ -2432,7 +2432,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-19T10:17:33.432812+00:00",
+      "last_checked": "2026-06-27T08:29:34.499877+00:00",
       "runtime": 90,
       "release_date": "1984-07-13"
     },
@@ -2465,7 +2465,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-19T10:17:34.278910+00:00",
+      "last_checked": "2026-06-27T08:29:35.267490+00:00",
       "runtime": 84,
       "release_date": "1999-07-14"
     },

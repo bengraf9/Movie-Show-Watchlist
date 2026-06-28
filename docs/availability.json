@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T08:29:35.268191+00:00",
+  "last_updated": "2026-06-28T08:44:21.527229+00:00",
   "country": "us",
   "items": [
     {
@@ -2512,7 +2512,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-20T08:45:18.203917+00:00",
+      "last_checked": "2026-06-28T08:44:00.766159+00:00",
       "runtime": 97,
       "release_date": "2021-11-24"
     },
@@ -2560,7 +2560,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-20T08:45:18.639402+00:00",
+      "last_checked": "2026-06-28T08:44:01.161262+00:00",
       "runtime": 135,
       "release_date": "2023-05-26"
     },
@@ -2589,7 +2589,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-20T08:45:19.086847+00:00",
+      "last_checked": "2026-06-28T08:44:01.580876+00:00",
       "runtime": 89,
       "release_date": "2020-03-14"
     },
@@ -2618,7 +2618,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-20T08:45:19.498584+00:00",
+      "last_checked": "2026-06-28T08:44:02.001261+00:00",
       "runtime": 38,
       "release_date": "2022-04-14"
     },
@@ -2647,7 +2647,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-20T08:45:20.869484+00:00",
+      "last_checked": "2026-06-28T08:44:03.508844+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2668,7 +2668,7 @@
       ],
       "overview": "It's the land we love and the land we think we know. We see America's breathtaking landscapes and wildlife as timeless, but the truth is very different. Its unique geography drives the forces of na...",
       "streaming": {},
-      "last_checked": "2026-06-20T08:45:23.557075+00:00",
+      "last_checked": "2026-06-28T08:44:06.904596+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -2698,7 +2698,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-20T08:45:25.011899+00:00",
+      "last_checked": "2026-06-28T08:44:08.733892+00:00",
       "season_count": 1,
       "episode_count": 4
     },
@@ -2733,7 +2733,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-20T08:45:26.415509+00:00",
+      "last_checked": "2026-06-28T08:44:10.295494+00:00",
       "season_count": 1,
       "episode_count": 26
     },
@@ -2761,7 +2761,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-20T08:45:28.162279+00:00",
+      "last_checked": "2026-06-28T08:44:12.091681+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2783,19 +2783,19 @@
       ],
       "overview": "Odd Squad is a live-action media property designed to help kids ages 5-8 learn math. The show focuses on two young agents, Olive and Otto, who are part of the Odd Squad, an agency whose mission is ...",
       "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0RW3XGBN3BZEN0YQOWIBBXR07Y?jic=32%7CCgdwYnNraWRzEgxzdWJzY3JpcHRpb24%3D&ref_=atv_3p_amz_c_CycmF8_brws_9_9",
+          "quality": "sd"
+        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
           "type": "buy",
           "link": "https://tv.apple.com/us/show/odd-squad/umc.cmc.2t9yt69s366yhgkkttjk8cl83",
           "quality": "sd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0SBU747XHVK1V2D8YXCBS6N9TI",
-          "quality": "hd"
         },
         "netflix": {
           "service": "netflix",
@@ -2805,7 +2805,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-20T08:45:30.347643+00:00",
+      "last_checked": "2026-06-28T08:44:14.368171+00:00",
       "season_count": 6,
       "episode_count": 177
     },
@@ -2835,7 +2835,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-20T08:45:30.946826+00:00",
+      "last_checked": "2026-06-28T08:44:14.968328+00:00",
       "runtime": 88,
       "release_date": "2023-11-17"
     },
@@ -2864,7 +2864,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-20T08:45:31.356622+00:00",
+      "last_checked": "2026-06-28T08:44:15.505072+00:00",
       "runtime": 59,
       "release_date": "2021-10-01"
     },
@@ -2895,7 +2895,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-20T08:45:31.856535+00:00",
+      "last_checked": "2026-06-28T08:44:15.884163+00:00",
       "runtime": 96,
       "release_date": "2020-08-21"
     },
@@ -2924,7 +2924,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-20T08:45:32.287496+00:00",
+      "last_checked": "2026-06-28T08:44:16.269088+00:00",
       "runtime": 76,
       "release_date": "2019-04-17"
     },
@@ -2969,7 +2969,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-20T08:45:32.706632+00:00",
+      "last_checked": "2026-06-28T08:44:16.653281+00:00",
       "runtime": 106,
       "release_date": "2022-10-07"
     },
@@ -3011,7 +3011,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-20T08:45:33.133496+00:00",
+      "last_checked": "2026-06-28T08:44:17.032440+00:00",
       "runtime": 93,
       "release_date": "2023-03-24"
     },
@@ -3067,7 +3067,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-20T08:45:33.771112+00:00",
+      "last_checked": "2026-06-28T08:44:17.629435+00:00",
       "runtime": 77,
       "release_date": "2024-04-22"
     },
@@ -3105,7 +3105,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-20T08:45:34.163315+00:00",
+      "last_checked": "2026-06-28T08:44:18.088007+00:00",
       "runtime": 88,
       "release_date": "2024-08-02"
     },
@@ -3553,7 +3553,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-20T08:45:35.425250+00:00",
+      "last_checked": "2026-06-28T08:44:19.178448+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -3576,7 +3576,7 @@
       ],
       "overview": "Described as \"a non-prequel non-reboot sequel part two but with reboot elements franchise expansion film\". Plot TBA.",
       "streaming": {},
-      "last_checked": "2026-06-20T08:45:36.050308+00:00",
+      "last_checked": "2026-06-28T08:44:19.746472+00:00",
       "release_date": "2027-04-23"
     },
     {
@@ -3605,7 +3605,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-20T08:45:36.649069+00:00",
+      "last_checked": "2026-06-28T08:44:20.344410+00:00",
       "runtime": 113,
       "release_date": "2026-05-08"
     },
@@ -3636,7 +3636,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-20T08:45:37.631323+00:00",
+      "last_checked": "2026-06-28T08:44:21.340316+00:00",
       "season_count": 3,
       "episode_count": 34,
       "watched_seasons": 3

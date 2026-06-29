@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T08:44:21.527229+00:00",
+  "last_updated": "2026-06-29T10:45:28.363843+00:00",
   "country": "us",
   "items": [
     {
@@ -92,7 +92,7 @@
           "link": "https://tubitv.com/movies/100046625/swiss-army-man"
         }
       },
-      "last_checked": "2026-06-21T09:40:58.535146+00:00",
+      "last_checked": "2026-06-29T10:45:05.083532+00:00",
       "runtime": 93,
       "release_date": "2016-07-01"
     },
@@ -124,7 +124,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-21T09:40:59.002719+00:00",
+      "last_checked": "2026-06-29T10:45:05.605565+00:00",
       "runtime": 94,
       "release_date": "1987-04-17"
     },
@@ -210,7 +210,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-21T09:40:59.465996+00:00",
+      "last_checked": "2026-06-29T10:45:06.085448+00:00",
       "runtime": 110,
       "release_date": "2025-06-13"
     },
@@ -256,7 +256,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-21T09:40:59.922964+00:00",
+      "last_checked": "2026-06-29T10:45:06.497794+00:00",
       "runtime": 150,
       "release_date": "2022-11-23"
     },
@@ -317,10 +317,10 @@
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0IMN0EAZL047C4MTV9C2BUUCD5/ref=atv_dp",
           "quality": "hd",
-          "price": "3.99 USD"
+          "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-06-21T09:41:00.506214+00:00",
+      "last_checked": "2026-06-29T10:45:06.924012+00:00",
       "runtime": 91,
       "release_date": "1991-02-08"
     },
@@ -352,7 +352,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-21T09:41:01.002679+00:00",
+      "last_checked": "2026-06-29T10:45:07.326068+00:00",
       "runtime": 124,
       "release_date": "1979-12-19"
     },
@@ -391,7 +391,7 @@
           "price": "14.99 USD"
         }
       },
-      "last_checked": "2026-06-21T09:41:01.442200+00:00",
+      "last_checked": "2026-06-29T10:45:07.806294+00:00",
       "runtime": 157,
       "release_date": "2023-11-22"
     },
@@ -429,7 +429,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-21T09:41:01.876157+00:00",
+      "last_checked": "2026-06-29T10:45:08.237803+00:00",
       "runtime": 106,
       "release_date": "2024-03-08"
     },
@@ -467,7 +467,7 @@
           "link": "https://play.hbomax.com/movie/f3bf7c8f-1c44-4a35-9bb2-8f583c5e90bb"
         }
       },
-      "last_checked": "2026-06-21T09:41:02.468353+00:00",
+      "last_checked": "2026-06-29T10:45:08.773716+00:00",
       "runtime": 83,
       "release_date": "2025-09-12"
     },
@@ -507,7 +507,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-21T09:41:02.929486+00:00",
+      "last_checked": "2026-06-29T10:45:09.154810+00:00",
       "runtime": 129,
       "release_date": "1963-03-16"
     },
@@ -546,7 +546,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-21T09:41:03.468853+00:00",
+      "last_checked": "2026-06-29T10:45:09.685681+00:00",
       "runtime": 107,
       "release_date": "1982-01-01"
     },
@@ -585,7 +585,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-21T09:41:03.930550+00:00",
+      "last_checked": "2026-06-29T10:45:10.101210+00:00",
       "runtime": 98,
       "release_date": "2024-06-21"
     },
@@ -633,14 +633,6 @@
       ],
       "overview": "Ben Stiller directs and stars in this inspiring story about an ordinary man who finds the courage to discover his destiny and leap into the extraordinary adventure that is life.",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/the-secret-life-of-walter-mitty/umc.cmc.pw6qkwfo6ppbm0q2zkp07a3f?playableId=tvs.sbd.9001%3A772093232",
-          "quality": "hd",
-          "price": "3.99 USD"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -648,9 +640,17 @@
           "link": "https://www.amazon.com/gp/video/detail/0HOJDZS6BE7QKBMLF6VHTJUBEO/ref=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/the-secret-life-of-walter-mitty/umc.cmc.pw6qkwfo6ppbm0q2zkp07a3f?playableId=tvs.sbd.9001%3A772093232",
+          "quality": "hd",
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-21T09:41:04.374678+00:00",
+      "last_checked": "2026-06-29T10:45:10.580461+00:00",
       "runtime": 114,
       "release_date": "2013-12-25"
     },
@@ -681,7 +681,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-21T09:41:04.863965+00:00",
+      "last_checked": "2026-06-29T10:45:11.067947+00:00",
       "runtime": 90,
       "release_date": "2025-03-14"
     },
@@ -821,7 +821,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-21T09:41:06.823105+00:00",
+      "last_checked": "2026-06-29T10:45:12.785397+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1
@@ -885,7 +885,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-21T09:41:08.201468+00:00",
+      "last_checked": "2026-06-29T10:45:14.362070+00:00",
       "season_count": 1,
       "episode_count": 3
     },
@@ -948,7 +948,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-21T09:41:11.270085+00:00",
+      "last_checked": "2026-06-29T10:45:16.932042+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -1010,7 +1010,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0OFDHJ8GO2XCV8RG7UGC87MAXF",
+          "link": "https://www.amazon.com/gp/video/detail/0SB08CJZ5A96ONX5IFCDKNE59C",
           "quality": "hd"
         },
         "apple": {
@@ -1027,7 +1027,7 @@
           "link": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/"
         }
       },
-      "last_checked": "2026-06-21T09:41:12.870219+00:00",
+      "last_checked": "2026-06-29T10:45:18.716597+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1061,7 +1061,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0IPFH7LZM86DGI45AU1AN74NZV",
+          "link": "https://www.amazon.com/gp/video/detail/0S4PHJ50UWJJMEE08SOKDCOI6E",
           "quality": "hd"
         },
         "apple": {
@@ -1072,7 +1072,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-21T09:41:14.528220+00:00",
+      "last_checked": "2026-06-29T10:45:20.260195+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1176,11 +1176,12 @@
           "link": "https://tubitv.com/series/300017904/american-gods",
           "quality": "hd"
         },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
+        "roku": {
+          "service": "roku",
+          "serviceName": "Roku",
           "type": "free",
-          "link": "https://www.amazon.com/gp/video/detail/0U5LPGLHIBYAA24ISAM352994E?jic=36%7CCgtmcmVld2l0aGFkcxIMc3Vic2NyaXB0aW9u&ref_=atv_me_new_c_utZ62u_brws_6_9"
+          "link": "https://therokuchannel.roku.com/details/61c636a6f9c959adbdcc0053c6e18597",
+          "quality": "hd"
         },
         "apple": {
           "service": "apple",
@@ -1189,15 +1190,14 @@
           "link": "https://tv.apple.com/us/show/american-gods/umc.cmc.4o7hf0qe1ezickgfxxeppolqr",
           "quality": "hd"
         },
-        "roku": {
-          "service": "roku",
-          "serviceName": "Roku",
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
           "type": "free",
-          "link": "https://therokuchannel.roku.com/details/61c636a6f9c959adbdcc0053c6e18597",
-          "quality": "hd"
+          "link": "https://www.amazon.com/gp/video/detail/0U5LPGLHIBYAA24ISAM352994E"
         }
       },
-      "last_checked": "2026-06-21T09:41:16.872623+00:00",
+      "last_checked": "2026-06-29T10:45:22.798210+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1234,7 +1234,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-21T09:41:20.286719+00:00",
+      "last_checked": "2026-06-29T10:45:26.250496+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -1263,22 +1263,22 @@
           "link": "https://www.peacocktv.com/watch/asset/tv/community/8700597605358573112",
           "quality": "uhd"
         },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0RZDRR4YJ51TRS4ISXB1JC1KTR",
-          "quality": "hd"
-        },
         "hulu": {
           "service": "hulu",
           "serviceName": "Hulu",
           "type": "subscription",
           "link": "https://www.hulu.com/series/community-200c56d4-124c-41a1-b7d2-688f86f432bf",
           "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0RZDRR4YJ51TRS4ISXB1JC1KTR",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-06-21T09:41:22.101710+00:00",
+      "last_checked": "2026-06-29T10:45:28.177411+00:00",
       "season_count": 6,
       "episode_count": 110
     },

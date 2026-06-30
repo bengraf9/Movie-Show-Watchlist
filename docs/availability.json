@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T10:45:28.363843+00:00",
+  "last_updated": "2026-06-30T09:22:55.880904+00:00",
   "country": "us",
   "items": [
     {
@@ -1307,7 +1307,7 @@
           "link": "https://play.hbomax.com/show/c967b1a4-d0e2-491e-967e-ae09f88fef62"
         }
       },
-      "last_checked": "2026-06-22T11:41:25.104782+00:00",
+      "last_checked": "2026-06-30T09:22:25.471299+00:00",
       "season_count": 1,
       "episode_count": 2
     },
@@ -1328,7 +1328,7 @@
         "Drama",
         "Thriller"
       ],
-      "overview": "This quick-witted spy drama follows a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb (Gary Oldman)—as they navigate the espionage world’s smoke and mirrors to...",
+      "overview": "A dysfunctional team of MI5 agents and their obnoxious boss, the notorious Jackson Lamb, navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
       "streaming": {
         "apple": {
           "service": "apple",
@@ -1338,7 +1338,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-22T11:41:26.967381+00:00",
+      "last_checked": "2026-06-30T09:22:27.518792+00:00",
       "season_count": 5,
       "episode_count": 30
     },
@@ -3039,7 +3039,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-22T11:41:27.915539+00:00",
+      "last_checked": "2026-06-30T09:22:30.553608+00:00",
       "runtime": 89,
       "release_date": "2024-04-22"
     },
@@ -3131,9 +3131,9 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0IX0SYSTLGMA5ZUWRKVJNLWBZ0/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0JJYKWC5WGOTODCJCPD18CKZEJ/ref=atv_dp",
           "quality": "uhd",
-          "price": "4.99 USD"
+          "price": "3.99 USD"
         },
         "paramount": {
           "service": "paramount",
@@ -3150,7 +3150,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-06-22T11:41:28.725379+00:00",
+      "last_checked": "2026-06-30T09:22:32.625519+00:00",
       "runtime": 98,
       "release_date": "2020-02-14"
     },
@@ -3180,7 +3180,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-22T11:41:29.429775+00:00",
+      "last_checked": "2026-06-30T09:22:34.842738+00:00",
       "runtime": 102,
       "release_date": "2020-01-25"
     },
@@ -3222,7 +3222,7 @@
           "quality": "sd"
         }
       },
-      "last_checked": "2026-06-22T11:41:31.019683+00:00",
+      "last_checked": "2026-06-30T09:22:36.870277+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -3246,12 +3246,12 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0LE7SV6ZZITV5AO096WZ3CFL2H?ref_=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0LE7SV6ZZITV5AO096WZ3CFL2H/ref=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-22T11:41:31.963286+00:00",
+      "last_checked": "2026-06-30T09:22:39.181702+00:00",
       "runtime": 73
     },
     {
@@ -3279,7 +3279,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-22T11:41:32.907314+00:00",
+      "last_checked": "2026-06-30T09:22:41.079366+00:00",
       "runtime": 84,
       "release_date": "2024-10-18"
     },
@@ -3310,7 +3310,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-22T11:41:33.857173+00:00",
+      "last_checked": "2026-06-30T09:22:43.630857+00:00",
       "runtime": 83,
       "release_date": "2024-02-02"
     },
@@ -3659,7 +3659,7 @@
         "Drama",
         "Romance"
       ],
-      "overview": "An American backpacker strikes up a conversation with a woman on the train to Vienna and persuades her to spend his last day in Europe with him.",
+      "overview": "An American (Ethan Hawke) finds love with a Frenchwoman (Julie Delpy) in Vienna.",
       "streaming": {
         "roku": {
           "service": "roku",
@@ -3669,8 +3669,8 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-22T11:41:34.562919+00:00",
-      "runtime": 96,
+      "last_checked": "2026-06-30T09:22:45.545990+00:00",
+      "runtime": 100,
       "release_date": "1995-01-27"
     },
     {
@@ -3691,7 +3691,7 @@
         "Drama",
         "Romance"
       ],
-      "overview": "Nine years ago, Jesse and Celine met on a train from Budapest to Vienna. They had a magical night, and then never saw each other again until now. Jesse is an American writer on a book tour through ...",
+      "overview": "Two people (Ethan Hawke, Julie Delpy) reunite in Paris after nine years.",
       "streaming": {
         "roku": {
           "service": "roku",
@@ -3717,7 +3717,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-06-22T11:41:35.349895+00:00",
+      "last_checked": "2026-06-30T09:22:47.213912+00:00",
       "runtime": 80,
       "release_date": "2004-07-30"
     },
@@ -3757,7 +3757,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-22T11:41:36.067690+00:00",
+      "last_checked": "2026-06-30T09:22:49.276219+00:00",
       "runtime": 104,
       "release_date": "2013-06-14"
     },
@@ -3777,22 +3777,22 @@
       ],
       "overview": "​From Bill Lawrence (Shrinking, HBO Max's Clone High) and Matt Tarses (Scrubs, The Goldbergs), this comedy series centers on successful author Greg Russo (Steve Carell) as he arrives at Ludlow Coll...",
       "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0HHK0IZHHNXN9OKTM071KVICX0",
+          "quality": "hd"
+        },
         "hbo": {
           "service": "hbo",
           "serviceName": "HBO Max",
           "type": "subscription",
           "link": "https://play.hbomax.com/show/c775cd23-a526-4c5f-a34c-30e831edf6e4",
           "quality": "uhd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/B0GVJGNN1D",
-          "quality": "hd"
         }
       },
-      "last_checked": "2026-06-22T11:41:38.169585+00:00",
+      "last_checked": "2026-06-30T09:22:51.591990+00:00",
       "season_count": 1,
       "episode_count": 10,
       "watched_seasons": 1
@@ -3822,7 +3822,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-22T11:41:40.268239+00:00",
+      "last_checked": "2026-06-30T09:22:53.710249+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -3848,10 +3848,10 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0TPA7F48GEJVGD8KKM1NC6QQ9Q?jic=8%7CEgRzdm9k&ref_=atv_tv_hom_c_furGo3_brws_2_3"
+          "link": "https://www.amazon.com/gp/video/detail/0TPA7F48GEJVGD8KKM1NC6QQ9Q"
         }
       },
-      "last_checked": "2026-06-22T11:41:41.941625+00:00",
+      "last_checked": "2026-06-30T09:22:55.613092+00:00",
       "season_count": 1,
       "episode_count": 8
     },

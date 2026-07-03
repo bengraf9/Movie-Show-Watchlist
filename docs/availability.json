@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T08:45:31.999165+00:00",
+  "last_updated": "2026-07-03T08:53:55.359874+00:00",
   "country": "us",
   "items": [
     {
@@ -22,7 +22,7 @@
       ],
       "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
       "streaming": {},
-      "last_checked": "2026-06-25T08:51:40.571754+00:00",
+      "last_checked": "2026-07-03T08:53:21.198898+00:00",
       "release_date": "2026-12-18"
     },
     {
@@ -37,18 +37,26 @@
       "priority": {
         "dad-movie": 2
       },
-      "poster": "https://image.tmdb.org/t/p/w300/6QtL9rl3Zb4d8qW6EJ4qO5hSSfU.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/24601188/poster/vertical/en/240.jpg?Expires=1805825585&Signature=c~dDKv8isa3Ay0SPkH1cwlf1v6QOf6nprfISgROBYnHAZqmyr5pWnA4Nh3vz94BC1AaB2KBmQ8RKbfaLjji~Ucvc4bX0ya3k4J3LZiUsBoxoQtLWq0Wb2R8ke8exUgfTchHh8QuGdj4QNx24yy~AYqWERcRTSE8Uqu0VMobgf-p2R16UGJaqTPrs3bHhROUXn6M1cfrxfJql8u2US5lkMMFAwhP1o5FlWLK6HP5RJlyQMagiTxS54qa40qUb34FCKuREQZBljZ-pB2IJk6LnXuuThJC9euQPo8PKG0PvDDaOvi0R~XR19jwJTbtFvF~1~MLTaK6zA1EyzsPvOAMB5A__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Comedy",
         "Family",
         "Mystery"
       ],
-      "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep ...",
-      "streaming": {},
-      "last_checked": "2026-06-25T08:51:41.629023+00:00",
-      "release_date": "2026-05-08",
-      "runtime": 115
+      "overview": "When their beloved farmer is found dead under mysterious circumstances, a flock of the sheep conclude they will have to solve the murder themselves, even if it means leaving their meadow for the fi...",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "subscription",
+          "link": "https://www.amazon.com/gp/video/detail/0QYW7PZS87HQG6LRN4XMD1AJIH/ref=atv_dp",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-07-03T08:53:23.900218+00:00",
+      "runtime": 114,
+      "release_date": "2026-05-08"
     },
     {
       "title": "Swiss Army Man",
@@ -148,7 +156,7 @@
       ],
       "overview": "As Emperor, Paul Atreides grapples with the consequences of his rise to power as political conspiracies and a galaxy-spanning holy war threaten the future he alone can foresee.",
       "streaming": {},
-      "last_checked": "2026-06-25T08:51:42.643193+00:00",
+      "last_checked": "2026-07-03T08:53:26.231174+00:00",
       "release_date": "20-12-18"
     },
     {
@@ -171,7 +179,7 @@
       ],
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power ...",
       "streaming": {},
-      "last_checked": "2026-06-25T08:51:43.657806+00:00",
+      "last_checked": "2026-07-03T08:53:28.732010+00:00",
       "release_date": "20-07-31"
     },
     {
@@ -286,9 +294,15 @@
           "link": "https://tv.apple.com/us/movie/the-last-of-the-mohicans/umc.cmc.6mq477wgqfw9hac6ay3nn8rra?playableId=tvs.sbd.9001%3A553357676",
           "quality": "hd",
           "price": "4.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "subscription",
+          "link": "https://www.amazon.com/gp/video/detail/0R1A5F5BXOECP5HX4RNYEV433P/ref=atv_dp"
         }
       },
-      "last_checked": "2026-06-25T08:51:44.677691+00:00",
+      "last_checked": "2026-07-03T08:53:31.333779+00:00",
       "runtime": 111,
       "release_date": "1992-09-25"
     },
@@ -609,7 +623,7 @@
       ],
       "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world...",
       "streaming": {},
-      "last_checked": "2026-06-25T08:51:45.483598+00:00",
+      "last_checked": "2026-07-03T08:53:33.763399+00:00",
       "release_date": "20-06-05",
       "runtime": 141
     },
@@ -714,7 +728,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-25T08:51:46.480118+00:00",
+      "last_checked": "2026-07-03T08:53:35.673856+00:00",
       "runtime": 105,
       "release_date": "1985-08-07"
     },
@@ -747,7 +761,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-25T08:51:48.242574+00:00",
+      "last_checked": "2026-07-03T08:53:37.507772+00:00",
       "season_count": 2,
       "episode_count": 19,
       "watched_seasons": 2
@@ -787,7 +801,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-25T08:51:50.268483+00:00",
+      "last_checked": "2026-07-03T08:53:39.702534+00:00",
       "season_count": 5,
       "episode_count": 50,
       "watched_seasons": 5
@@ -915,7 +929,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-25T08:51:52.537670+00:00",
+      "last_checked": "2026-07-03T08:53:42.375314+00:00",
       "season_count": 1,
       "episode_count": 6,
       "watched_seasons": 1
@@ -1105,7 +1119,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-25T08:51:55.908915+00:00",
+      "last_checked": "2026-07-03T08:53:46.910924+00:00",
       "season_count": 1,
       "episode_count": 10,
       "watched_seasons": 1
@@ -1145,7 +1159,7 @@
           "quality": "sd"
         }
       },
-      "last_checked": "2026-06-25T08:51:57.886483+00:00",
+      "last_checked": "2026-07-03T08:53:48.893547+00:00",
       "season_count": 6,
       "episode_count": 62
     },
@@ -1371,7 +1385,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-25T08:51:59.908784+00:00",
+      "last_checked": "2026-07-03T08:53:50.926806+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 1
@@ -1411,7 +1425,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-25T08:52:02.388990+00:00",
+      "last_checked": "2026-07-03T08:53:53.269852+00:00",
       "season_count": 1,
       "episode_count": 7
     },
@@ -1443,7 +1457,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-25T08:52:04.166245+00:00",
+      "last_checked": "2026-07-03T08:53:55.100063+00:00",
       "season_count": 1,
       "episode_count": 6
     },

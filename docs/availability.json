@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T08:53:55.359874+00:00",
+  "last_updated": "2026-07-04T08:28:27.349002+00:00",
   "country": "us",
   "items": [
     {
@@ -1480,18 +1480,18 @@
       ],
       "overview": "An honest, often hilarious window into the everyday life of a 21st-century American family -- gay, straight, multicultural and multigenerational.",
       "streaming": {
-        "hulu": {
-          "service": "hulu",
-          "serviceName": "Hulu",
-          "type": "subscription",
-          "link": "https://www.hulu.com/series/modern-family-883c414c-34a3-4fcc-b50a-0ad5a184c977",
-          "quality": "hd"
-        },
         "peacock": {
           "service": "peacock",
           "serviceName": "Peacock",
           "type": "subscription",
           "link": "https://www.peacocktv.com/watch/asset/tv/modern-family/6158438733133910112",
+          "quality": "hd"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/series/modern-family-883c414c-34a3-4fcc-b50a-0ad5a184c977",
           "quality": "hd"
         },
         "prime": {
@@ -1502,7 +1502,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-25T08:52:06.803704+00:00",
+      "last_checked": "2026-07-04T08:28:17.646830+00:00",
       "season_count": 11,
       "episode_count": 250
     },
@@ -3350,7 +3350,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0FBFRB46ZO50J8MEMCJK7TWOGM?ref_=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0FBFRB46ZO50J8MEMCJK7TWOGM/ref=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
         },
@@ -3370,7 +3370,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-25T08:52:07.975447+00:00",
+      "last_checked": "2026-07-04T08:28:20.134894+00:00",
       "runtime": 107,
       "release_date": "2021-03-05"
     },
@@ -3395,7 +3395,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0K1VZNF96GVK06I8KZJ1K738V0?ref_=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0K1VZNF96GVK06I8KZJ1K738V0/ref=atv_dp",
           "quality": "uhd",
           "price": "4.99 USD"
         },
@@ -3408,7 +3408,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-06-25T08:52:08.834860+00:00",
+      "last_checked": "2026-07-04T08:28:21.904614+00:00",
       "runtime": 104,
       "release_date": "2019-05-10"
     },
@@ -3434,15 +3434,9 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0MUFNHGYPORAR6RYTFGMZLHHNQ?ref_=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0MUFNHGYPORAR6RYTFGMZLHHNQ/ref=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
-        },
-        "paramount": {
-          "service": "paramount",
-          "serviceName": "Paramount+",
-          "type": "subscription",
-          "link": "https://therokuchannel.roku.com/details/071ecc591fe65f39adb008f1f7af6793"
         },
         "showtime": {
           "service": "showtime",
@@ -3451,7 +3445,7 @@
           "link": "https://www.hulu.com/movie/spy-kids-f875376e-19e8-4f2b-8176-7fba8fff73d7"
         }
       },
-      "last_checked": "2026-06-25T08:52:09.653918+00:00",
+      "last_checked": "2026-07-04T08:28:23.889756+00:00",
       "runtime": 88,
       "release_date": "2001-03-18"
     },
@@ -3477,7 +3471,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "free",
-          "link": "https://www.amazon.com/gp/video/detail/0PSQZFAAEEHJWNCMP787GHHEZT?ref_=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0PSQZFAAEEHJWNCMP787GHHEZT/ref=atv_dp",
           "quality": "uhd"
         },
         "apple": {
@@ -3489,7 +3483,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-25T08:52:10.472443+00:00",
+      "last_checked": "2026-07-04T08:28:25.363032+00:00",
       "runtime": 87,
       "release_date": "2019-05-03"
     },
@@ -3502,12 +3496,12 @@
         "mom"
       ],
       "priority": {},
-      "poster": "https://cdn.movieofthenight.com/show/14625266/poster/vertical/en/240.jpg?Expires=1798050509&Signature=lb-GUmjBntjPcqoVLHrKlC3SVtcO93vw6~svNOetetoDczuDLK73UoWpVLfDZeUpklvhOGsJs2pbRJ0cFF5CzW8JEPwneXVOgJtJpThuGSfu2jotEJDuJEpedC6ySux6V3-hvS~sPI3-A-oQn6qYFWEF~z29MU4oLh~IMgwT-NRU7ebxs2eFrVGFOycd6N8Rc0DLvebe8dfOYRcjdxTX-lDYtGd5PWUbYeGi2hAM8SqUonYoEX3M2ak8It4s8UcTb7cgh7weQ3ep2rHX22Y2GAvVQVtlbFu5RzSBAUp68MwzHMzGY9Ccfy4yBpuWWn5GQLYTjp3bofMQIV4LTS3vqA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/14625266/poster/vertical/en/240.jpg?Expires=1814012521&Signature=QwKmSklfaE-hL9hcxDcnnk3sNkqAL-2gxxsHZC-9gkjBlrdDawr6X-9qQFBife4QrHixPxNBRG1PQr2JnGzuHvE-ErDq9rezPcoF78TSwSX5Fxdv0boDd-9FAwmhbOLR4QylWIq6yHpl2OVV-YtNjV9AvA-9nxqBotYwVnuVvCAcnd6AYU3MU~YMtPZmUwmsx611pDYMawQVmeUmux~IfOrtS7c7aYwtlQ1HWBJey5Z5bmaBgWCpRknJVeievWpNyoTHrGd-3DdoDAo4vMlk8rF7whjs2zaRnaHluzFCJfm06d8LewAb4nYTIqh5-GaK0xEOYy8ZoFF0O6wZufm2Zw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
       "genres": [
         "Horror"
       ],
-      "overview": "From writer/director Ryan Coogler and starring Michael B. Jordan comes a new vision of fear. Trying to leave their troubled lives behind, twin brothers (Jordan) return home, only to discover an eve...",
+      "overview": "Twin brothers return to their hometown only to discover a great evil is waiting to welcome them.",
       "streaming": {
         "hbo": {
           "service": "hbo",
@@ -3519,12 +3513,13 @@
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
-          "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0J21M9AM4CY8XJ74W902BIHZYM?ref_=atv_dp",
-          "quality": "uhd"
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0J21M9AM4CY8XJ74W902BIHZYM/ref=atv_dp",
+          "quality": "uhd",
+          "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-06-25T08:52:11.276296+00:00",
+      "last_checked": "2026-07-04T08:28:27.348899+00:00",
       "runtime": 137,
       "release_date": "2025-04-18"
     },

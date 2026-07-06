@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T08:45:21.729729+00:00",
+  "last_updated": "2026-07-06T10:04:09.882360+00:00",
   "country": "us",
   "items": [
     {
@@ -24,39 +24,6 @@
       "streaming": {},
       "last_checked": "2026-07-03T08:53:21.198898+00:00",
       "release_date": "2026-12-18"
-    },
-    {
-      "title": "The Sheep Detectives",
-      "year": 2026,
-      "type": "movie",
-      "tmdb_id": "movie/1301421",
-      "lists": [
-        "dad",
-        "mom"
-      ],
-      "priority": {
-        "dad-movie": 2
-      },
-      "poster": "https://cdn.movieofthenight.com/show/24601188/poster/vertical/en/240.jpg?Expires=1805825585&Signature=c~dDKv8isa3Ay0SPkH1cwlf1v6QOf6nprfISgROBYnHAZqmyr5pWnA4Nh3vz94BC1AaB2KBmQ8RKbfaLjji~Ucvc4bX0ya3k4J3LZiUsBoxoQtLWq0Wb2R8ke8exUgfTchHh8QuGdj4QNx24yy~AYqWERcRTSE8Uqu0VMobgf-p2R16UGJaqTPrs3bHhROUXn6M1cfrxfJql8u2US5lkMMFAwhP1o5FlWLK6HP5RJlyQMagiTxS54qa40qUb34FCKuREQZBljZ-pB2IJk6LnXuuThJC9euQPo8PKG0PvDDaOvi0R~XR19jwJTbtFvF~1~MLTaK6zA1EyzsPvOAMB5A__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "PG",
-      "genres": [
-        "Comedy",
-        "Family",
-        "Mystery"
-      ],
-      "overview": "When their beloved farmer is found dead under mysterious circumstances, a flock of the sheep conclude they will have to solve the murder themselves, even if it means leaving their meadow for the fi...",
-      "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0QYW7PZS87HQG6LRN4XMD1AJIH/ref=atv_dp",
-          "quality": "uhd"
-        }
-      },
-      "last_checked": "2026-07-03T08:53:23.900218+00:00",
-      "runtime": 114,
-      "release_date": "2026-05-08"
     },
     {
       "title": "Swiss Army Man",
@@ -1646,36 +1613,6 @@
       "release_date": "1990-04-07"
     },
     {
-      "title": "Matilda the Musical",
-      "year": 2022,
-      "type": "movie",
-      "tmdb_id": "movie/668482",
-      "lists": [
-        "family"
-      ],
-      "priority": {
-        "family-movie": 5
-      },
-      "poster": "https://cdn.movieofthenight.com/show/15873/poster/vertical/en/240.jpg?Expires=1800405588&Signature=ivh0C~M64mA-BW1Gu3WKInZkOoXLVUuDBeCoyb0jLMIGf5FICDRDXdaS7d6QUk2jol4SrBd4w-49VkAE7vEfZ68xy3GV6yHfDAZdIksZ5rxeyfig8vbOKN8wJisosWl315M9Xiux9xHaNJ7IJNw~hOLHy1se3nUbXjTwjjALUvmc2Z94RtC1FtpKj5Ocf~QWBQukzcoro5LGnEboiwMMC7WGFKiw-0qK7HQu22xbIQ0S4SL9ROrcowdHH9Fjdwvudu3wOVSZkQ-mzN77s4LeW3WJmjTUVwh83Zh11j8X6KAVf-kwGq4aWbxgIgDccKeroHEav8u3PnGzWe4OyztBdg__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "PG",
-      "genres": [
-        "Comedy",
-        "Family"
-      ],
-      "overview": "An extraordinary girl with a sharp mind and a vivid imagination takes a daring stand to change her story — with miraculous results. Meet Matilda.",
-      "streaming": {
-        "netflix": {
-          "service": "netflix",
-          "serviceName": "Netflix",
-          "type": "subscription",
-          "link": "https://www.netflix.com/title/80993016"
-        }
-      },
-      "last_checked": "2026-07-05T08:45:10.538117+00:00",
-      "runtime": 122,
-      "release_date": "2022-12-09"
-    },
-    {
       "title": "Up",
       "year": 2009,
       "type": "movie",
@@ -2046,7 +1983,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-27T08:29:27.706659+00:00",
+      "last_checked": "2026-07-06T10:03:48.757617+00:00",
       "runtime": 97,
       "release_date": "2019-09-27"
     },
@@ -2061,14 +1998,14 @@
       "priority": {
         "family-movie": 16
       },
-      "poster": "https://cdn.movieofthenight.com/show/4987/poster/vertical/en/240.jpg?Expires=1798310352&Signature=BI-7xn8mDgJHnBtZ2fsjSriR61uPBbvXR~700FyHENKHlTqJII2fyjovqGmsA8fJchVQjV68OmlAdOmYnHBjgN015Gya0IOfMEGFbtvjqbOKg2BMhcsRcBqO4a7UAdcZ0Xw3KsGjf7BCNOhVcHmsqRPgW71C64kW3~Yx4YgpaeOEyXB7NVdukILsuWZaf0B2Wiy38E-HCBQJSCZZ~cDF5LzQLn1QYGH2WpqN0cr~xz6Mftfpa9fT~vDaj~IBCwLdJCja-y-N1UPYaN4Ne2u7C18KmtgoMMiQPdSZOzElaR8KHJ8QS-UDcNKISQ3xNsJLGiKicmC-Xzn1O2mnVner8A__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/4987/poster/vertical/en/240.jpg?Expires=1814479375&Signature=faCOCPislMxXuYR8KCAi41ObV17T5OYGSFOb2XEAK4oOdRfzkzjtkvKM~9oo97k4c4tcpkqx~lreqJuIIRyjM64UrD-cCNguKEzr7EbjZ3C6ZOuwWWc~9LQNkLWoWaZPHUhAdv~QsheJu85aJid~EncxiWMmdMyTBVTRUftkoQHWNYT1XTCpcjkyLr54FSfVkF8vaBUJ2gfkgo~YvszwhnNlip6Y1cCSSgVwMHHpFt4dL78H92BZ3RpoHI8v-gMxelDvv4hOu2tVJ4PaaFlcmPPNmxDDOxKBbOM20gbFssD~74TWFg6hIiLid6GbF~O9Ue-6vrHXL5ZwnAJlroUdSQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
         "Comedy",
         "Drama"
       ],
-      "overview": "Prepare to be dazzled by the spectacular adaptation of Louis SacharÂ's acclaimed teen adventure Holes, featuring an all star cast including Sigourney Weaver, Jon Voight and Patricia Arquette. Wrong...",
+      "overview": "A boy and his friends question the motives of a woman (Sigourney Weaver) who forces them to dig holes at a detention camp.",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -2089,11 +2026,18 @@
           "service": "disney",
           "serviceName": "Disney+",
           "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-43fe9e3c-abbf-436b-b8af-9741bd8f732c",
+          "link": "https://www.disneyplus.com/browse/entity-ecc93033-1f5a-4832-8845-458561c3d21e",
+          "quality": "hd"
+        },
+        "peacock": {
+          "service": "peacock",
+          "serviceName": "Peacock",
+          "type": "subscription",
+          "link": "https://www.peacocktv.com/watch/asset/movies/holes/be9fc8d3-49cc-3fa4-98f5-156a26b3fe5b",
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-27T08:29:28.458142+00:00",
+      "last_checked": "2026-07-06T10:03:50.591340+00:00",
       "runtime": 118,
       "release_date": "2003-04-18"
     },
@@ -2122,8 +2066,8 @@
           "serviceName": "Prime Video",
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0O4ID4HQRWTX3ANR58042XXJY7/ref=atv_dp",
-          "quality": "sd",
-          "price": "2.99 USD"
+          "quality": "uhd",
+          "price": "3.99 USD"
         },
         "hbo": {
           "service": "hbo",
@@ -2132,7 +2076,7 @@
           "link": "https://play.hbomax.com/movie/83df1c2b-db9d-49cd-bf83-9ddbaa7e5e30"
         }
       },
-      "last_checked": "2026-06-27T08:29:29.222551+00:00",
+      "last_checked": "2026-07-06T10:03:52.462536+00:00",
       "runtime": 85,
       "release_date": "2024-12-06"
     },
@@ -2180,7 +2124,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-27T08:29:29.990486+00:00",
+      "last_checked": "2026-07-06T10:03:53.949605+00:00",
       "runtime": 138,
       "release_date": "2015-12-18"
     },
@@ -2228,7 +2172,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-27T08:29:30.764051+00:00",
+      "last_checked": "2026-07-06T10:03:55.192724+00:00",
       "runtime": 152,
       "release_date": "2017-12-15"
     },
@@ -2276,7 +2220,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-27T08:29:31.520561+00:00",
+      "last_checked": "2026-07-06T10:03:56.474938+00:00",
       "runtime": 142,
       "release_date": "2019-12-20"
     },
@@ -2324,7 +2268,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-27T08:29:32.265466+00:00",
+      "last_checked": "2026-07-06T10:03:58.014009+00:00",
       "runtime": 95,
       "release_date": "2015-06-19"
     },
@@ -2371,7 +2315,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-27T08:29:32.942484+00:00",
+      "last_checked": "2026-07-06T10:03:59.782150+00:00",
       "runtime": 84,
       "release_date": "1993-02-12"
     },
@@ -2411,7 +2355,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-27T08:29:33.759931+00:00",
+      "last_checked": "2026-07-06T10:04:00.981508+00:00",
       "runtime": 107,
       "release_date": "2022-11-23"
     },
@@ -2443,7 +2387,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-27T08:29:34.499877+00:00",
+      "last_checked": "2026-07-06T10:04:02.106220+00:00",
       "runtime": 90,
       "release_date": "1984-07-13"
     },
@@ -2476,7 +2420,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-27T08:29:35.267490+00:00",
+      "last_checked": "2026-07-06T10:04:03.067087+00:00",
       "runtime": 84,
       "release_date": "1999-07-14"
     },
@@ -2523,7 +2467,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-28T08:44:00.766159+00:00",
+      "last_checked": "2026-07-06T10:04:05.635079+00:00",
       "runtime": 97,
       "release_date": "2021-11-24"
     },
@@ -2571,7 +2515,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-28T08:44:01.161262+00:00",
+      "last_checked": "2026-07-06T10:04:07.141515+00:00",
       "runtime": 135,
       "release_date": "2023-05-26"
     },
@@ -2600,7 +2544,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-28T08:44:01.580876+00:00",
+      "last_checked": "2026-07-06T10:04:08.313890+00:00",
       "runtime": 89,
       "release_date": "2020-03-14"
     },
@@ -2629,7 +2573,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-28T08:44:02.001261+00:00",
+      "last_checked": "2026-07-06T10:04:09.881646+00:00",
       "runtime": 38,
       "release_date": "2022-04-14"
     },
@@ -2775,50 +2719,6 @@
       "last_checked": "2026-06-28T08:44:12.091681+00:00",
       "season_count": 1,
       "episode_count": 10
-    },
-    {
-      "title": "Odd Squad",
-      "year": 2014,
-      "type": "series",
-      "tmdb_id": "tv/73549",
-      "lists": [
-        "kids"
-      ],
-      "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/yRVaHKUbUF7e97po0fulgG4yM3h.jpg",
-      "rating": "TV-G",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy"
-      ],
-      "overview": "Odd Squad is a live-action media property designed to help kids ages 5-8 learn math. The show focuses on two young agents, Olive and Otto, who are part of the Odd Squad, an agency whose mission is ...",
-      "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0RW3XGBN3BZEN0YQOWIBBXR07Y?jic=32%7CCgdwYnNraWRzEgxzdWJzY3JpcHRpb24%3D&ref_=atv_3p_amz_c_CycmF8_brws_9_9",
-          "quality": "sd"
-        },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/show/odd-squad/umc.cmc.2t9yt69s366yhgkkttjk8cl83",
-          "quality": "sd"
-        },
-        "netflix": {
-          "service": "netflix",
-          "serviceName": "Netflix",
-          "type": "subscription",
-          "link": "https://www.netflix.com/title/80062985/",
-          "quality": "hd"
-        }
-      },
-      "last_checked": "2026-06-28T08:44:14.368171+00:00",
-      "season_count": 6,
-      "episode_count": 177
     },
     {
       "title": "Trolls Band Together",

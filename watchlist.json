@@ -13,21 +13,6 @@
     "release_date": "2026-12-18"
   },
   {
-    "title": "The Sheep Detectives",
-    "year": 2026,
-    "type": "movie",
-    "lists": [
-      "dad",
-      "mom"
-    ],
-    "priority": {
-      "dad-movie": 2
-    },
-    "tmdb_id": "movie/1301421",
-    "rating": "PG",
-    "release_date": "2026-05-08"
-  },
-  {
     "title": "Swiss Army Man",
     "type": "movie",
     "lists": [
@@ -651,20 +636,6 @@
     "release_date": "1990-04-07"
   },
   {
-    "title": "Matilda the Musical",
-    "year": 2022,
-    "type": "movie",
-    "lists": [
-      "family"
-    ],
-    "priority": {
-      "family-movie": 5
-    },
-    "tmdb_id": "movie/668482",
-    "rating": "PG",
-    "release_date": "2022-12-09"
-  },
-  {
     "title": "Up",
     "year": 2009,
     "type": "movie",
@@ -1029,16 +1000,6 @@
     "rating": "TV-PG"
   },
   {
-    "title": "Odd Squad",
-    "year": 2014,
-    "type": "series",
-    "lists": [
-      "kids"
-    ],
-    "tmdb_id": "tv/73549",
-    "rating": "TV-G"
-  },
-  {
     "title": "Trolls Band Together",
     "year": 2023,
     "type": "movie",
@@ -1390,5 +1351,14 @@
     "year": 2026,
     "rating": "PG-13",
     "release_date": "2026-06-12"
+  },
+{
+    "title": "John Adams",
+    "type": "series",
+    "lists": [
+      "dad"
+    ],
+    "tmdb_id": "tv/15114",
+    "year": 2008
   }
 ]

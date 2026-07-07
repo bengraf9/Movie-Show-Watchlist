@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T10:04:09.882360+00:00",
+  "last_updated": "2026-07-07T09:30:31.274512+00:00",
   "country": "us",
   "items": [
     {
@@ -45,13 +45,6 @@
       ],
       "overview": "Hank is stranded on a deserted island when a corpse washes ashore and the two go on an epic adventure to bring Hank back to the woman of his dreams.",
       "streaming": {
-        "roku": {
-          "service": "roku",
-          "serviceName": "Roku",
-          "type": "free",
-          "link": "https://therokuchannel.roku.com/details/be5460c7712b5b539334617844157092",
-          "quality": "hd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -67,7 +60,7 @@
           "link": "https://tubitv.com/movies/100046625/swiss-army-man"
         }
       },
-      "last_checked": "2026-06-29T10:45:05.083532+00:00",
+      "last_checked": "2026-07-07T09:30:07.825003+00:00",
       "runtime": 93,
       "release_date": "2016-07-01"
     },
@@ -99,7 +92,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-29T10:45:05.605565+00:00",
+      "last_checked": "2026-07-07T09:30:09.054124+00:00",
       "runtime": 94,
       "release_date": "1987-04-17"
     },
@@ -185,7 +178,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-29T10:45:06.085448+00:00",
+      "last_checked": "2026-07-07T09:30:10.979112+00:00",
       "runtime": 110,
       "release_date": "2025-06-13"
     },
@@ -231,7 +224,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-29T10:45:06.497794+00:00",
+      "last_checked": "2026-07-07T09:30:12.006349+00:00",
       "runtime": 150,
       "release_date": "2022-11-23"
     },
@@ -301,7 +294,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-06-29T10:45:06.924012+00:00",
+      "last_checked": "2026-07-07T09:30:14.913249+00:00",
       "runtime": 91,
       "release_date": "1991-02-08"
     },
@@ -333,7 +326,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-29T10:45:07.326068+00:00",
+      "last_checked": "2026-07-07T09:30:16.700569+00:00",
       "runtime": 124,
       "release_date": "1979-12-19"
     },
@@ -354,7 +347,7 @@
         "Action",
         "Adventure"
       ],
-      "overview": "A personal look at the French military leader's origins and swift, ruthless climb to emperor. The story is viewed through the prism of Napoleon's addictive, volatile relationship with his wife and ...",
+      "overview": "A look at the military commander's origins and his swift, ruthless climb to emperor, viewed through the prism of his addictive and often volatile relationship with his wife and one true love, Josep...",
       "streaming": {
         "apple": {
           "service": "apple",
@@ -372,7 +365,7 @@
           "price": "14.99 USD"
         }
       },
-      "last_checked": "2026-06-29T10:45:07.806294+00:00",
+      "last_checked": "2026-07-07T09:30:18.216369+00:00",
       "runtime": 157,
       "release_date": "2023-11-22"
     },
@@ -410,7 +403,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-29T10:45:08.237803+00:00",
+      "last_checked": "2026-07-07T09:30:21.865762+00:00",
       "runtime": 106,
       "release_date": "2024-03-08"
     },
@@ -439,7 +432,7 @@
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0QX9MSTQ5UTFHCQBXO7E8AX24M/ref=atv_dp",
           "quality": "uhd",
-          "price": "5.99 USD"
+          "price": "2.49 USD"
         },
         "hbo": {
           "service": "hbo",
@@ -448,7 +441,7 @@
           "link": "https://play.hbomax.com/movie/f3bf7c8f-1c44-4a35-9bb2-8f583c5e90bb"
         }
       },
-      "last_checked": "2026-06-29T10:45:08.773716+00:00",
+      "last_checked": "2026-07-07T09:30:23.437945+00:00",
       "runtime": 83,
       "release_date": "2025-09-12"
     },
@@ -469,7 +462,7 @@
         "Crime",
         "Drama"
       ],
-      "overview": "Gregory Peck won an Oscar® for his brilliant portrayal of a Southern lawyer who compassionately defends a black man accused of rape in this film version of the Pulitzer Prize-winning novel.",
+      "overview": "Gregory Peck won an Oscar® for his brilliant performance as the Southern lawyer who defends a black man accused of rape in this film version of the Pulitzer Prize-winning novel. The way in which it...",
       "streaming": {
         "apple": {
           "service": "apple",
@@ -488,7 +481,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-29T10:45:09.154810+00:00",
+      "last_checked": "2026-07-07T09:30:24.647631+00:00",
       "runtime": 129,
       "release_date": "1963-03-16"
     },
@@ -527,7 +520,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-29T10:45:09.685681+00:00",
+      "last_checked": "2026-07-07T09:30:26.023717+00:00",
       "runtime": 107,
       "release_date": "1982-01-01"
     },
@@ -566,7 +559,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-29T10:45:10.101210+00:00",
+      "last_checked": "2026-07-07T09:30:27.132274+00:00",
       "runtime": 98,
       "release_date": "2024-06-21"
     },
@@ -612,7 +605,7 @@
         "Comedy",
         "Drama"
       ],
-      "overview": "Ben Stiller directs and stars in this inspiring story about an ordinary man who finds the courage to discover his destiny and leap into the extraordinary adventure that is life.",
+      "overview": "An inspiring story about an ordinary man who leaps into the extraordinary adventure that is life.",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -631,7 +624,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-29T10:45:10.580461+00:00",
+      "last_checked": "2026-07-07T09:30:28.432930+00:00",
       "runtime": 114,
       "release_date": "2013-12-25"
     },
@@ -654,15 +647,23 @@
       ],
       "overview": "From Director Steven Soderbergh, BLACK BAG is a gripping spy drama about legendary intelligence agents George Woodhouse and his beloved wife Kathryn. When she is suspected of betraying the nation, ...",
       "streaming": {
+        "peacock": {
+          "service": "peacock",
+          "serviceName": "Peacock",
+          "type": "subscription",
+          "link": "https://www.peacocktv.com/watch/asset/movies/black-bag/d2bc869a-ca30-343f-878f-7eaa7c09902b",
+          "quality": "uhd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
-          "type": "subscription",
+          "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0M5MTLMDHHYL8N4NTSF94IQ691/ref=atv_dp",
-          "quality": "uhd"
+          "quality": "uhd",
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-29T10:45:11.067947+00:00",
+      "last_checked": "2026-07-07T09:30:29.686388+00:00",
       "runtime": 90,
       "release_date": "2025-03-14"
     },
@@ -802,7 +803,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-29T10:45:12.785397+00:00",
+      "last_checked": "2026-07-07T09:30:31.034996+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1

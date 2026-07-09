@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T08:14:57.049799+00:00",
+  "last_updated": "2026-07-09T09:32:27.395513+00:00",
   "country": "us",
   "items": [
     {
@@ -2767,11 +2767,10 @@
           "service": "netflix",
           "serviceName": "Netflix",
           "type": "subscription",
-          "link": "https://www.netflix.com/title/81276049/",
-          "quality": "uhd"
+          "link": "https://www.netflix.com/title/81276049"
         }
       },
-      "last_checked": "2026-06-28T08:44:15.505072+00:00",
+      "last_checked": "2026-07-09T09:32:09.096926+00:00",
       "runtime": 59,
       "release_date": "2021-10-01"
     },
@@ -2802,7 +2801,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-28T08:44:15.884163+00:00",
+      "last_checked": "2026-07-09T09:32:10.810025+00:00",
       "runtime": 96,
       "release_date": "2020-08-21"
     },
@@ -2831,7 +2830,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-28T08:44:16.269088+00:00",
+      "last_checked": "2026-07-09T09:32:11.977360+00:00",
       "runtime": 76,
       "release_date": "2019-04-17"
     },
@@ -2876,7 +2875,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-28T08:44:16.653281+00:00",
+      "last_checked": "2026-07-09T09:32:13.130405+00:00",
       "runtime": 106,
       "release_date": "2022-10-07"
     },
@@ -2897,18 +2896,18 @@
       ],
       "overview": "When her family moves, Ida transfers to a new school where the students are given magical animal companions and learn about the power of friendship.",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0H12ALPB3TRBFO6N2CK2SN5PT4/ref=atv_dp"
-        },
         "roku": {
           "service": "roku",
           "serviceName": "Roku",
           "type": "free",
           "link": "https://therokuchannel.roku.com/details/85c45a8e011a5968aff315c7dcd53017",
           "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "subscription",
+          "link": "https://www.amazon.com/gp/video/detail/0H12ALPB3TRBFO6N2CK2SN5PT4/ref=atv_dp"
         },
         "tubi": {
           "service": "tubi",
@@ -2918,7 +2917,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-28T08:44:17.032440+00:00",
+      "last_checked": "2026-07-09T09:32:14.425978+00:00",
       "runtime": 93,
       "release_date": "2023-03-24"
     },
@@ -2946,7 +2945,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-30T09:22:30.553608+00:00",
+      "last_checked": "2026-07-09T09:32:16.254277+00:00",
       "runtime": 89,
       "release_date": "2024-04-22"
     },
@@ -2974,7 +2973,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-28T08:44:17.629435+00:00",
+      "last_checked": "2026-07-09T09:32:17.590748+00:00",
       "runtime": 77,
       "release_date": "2024-04-22"
     },
@@ -3012,7 +3011,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-28T08:44:18.088007+00:00",
+      "last_checked": "2026-07-09T09:32:18.831941+00:00",
       "runtime": 88,
       "release_date": "2024-08-02"
     },
@@ -3057,7 +3056,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-06-30T09:22:32.625519+00:00",
+      "last_checked": "2026-07-09T09:32:19.963252+00:00",
       "runtime": 98,
       "release_date": "2020-02-14"
     },
@@ -3087,7 +3086,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-30T09:22:34.842738+00:00",
+      "last_checked": "2026-07-09T09:32:21.148404+00:00",
       "runtime": 102,
       "release_date": "2020-01-25"
     },
@@ -3107,18 +3106,18 @@
       ],
       "overview": "National Geographic, acclaimed filmmaker Darren Aronofsky and award-winning producer Jane Root present a cinematic event series hosted by Will Smith. One Strange Rock reveals the magical twists of ...",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/show/one-strange-rock/umc.cmc.5041h6ycj7s76wi1tjdoodjws",
-          "quality": "hd"
-        },
         "disney": {
           "service": "disney",
           "serviceName": "Disney+",
           "type": "subscription",
           "link": "https://www.disneyplus.com/browse/entity-2a608e05-e6b0-42f1-b5fd-acb28ee5cc7c",
+          "quality": "hd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/one-strange-rock/umc.cmc.5041h6ycj7s76wi1tjdoodjws",
           "quality": "hd"
         },
         "prime": {
@@ -3129,7 +3128,7 @@
           "quality": "sd"
         }
       },
-      "last_checked": "2026-06-30T09:22:36.870277+00:00",
+      "last_checked": "2026-07-09T09:32:22.188190+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -3158,7 +3157,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-06-30T09:22:39.181702+00:00",
+      "last_checked": "2026-07-09T09:32:23.611743+00:00",
       "runtime": 73
     },
     {
@@ -3186,7 +3185,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-30T09:22:41.079366+00:00",
+      "last_checked": "2026-07-09T09:32:24.749751+00:00",
       "runtime": 84,
       "release_date": "2024-10-18"
     },
@@ -3214,10 +3213,10 @@
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0NT3DVDEZPPXIBVU2DUYI4ZLZ9/ref=atv_dp",
           "quality": "uhd",
-          "price": "3.99 USD"
+          "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-06-30T09:22:43.630857+00:00",
+      "last_checked": "2026-07-09T09:32:26.232321+00:00",
       "runtime": 83,
       "release_date": "2024-02-02"
     },
@@ -3431,21 +3430,21 @@
         "Drama",
         "Romance"
       ],
-      "overview": "Shane Hollander and Ilya Rozanov are hockey stars drawn together by rivalry and desire. What starts as a secret fling becomes a years-long journey of love, denial and growth as they chase glory on ...",
+      "overview": "Two hockey stars bound by ambition, rivalry, and a magnetic pull neither of them fully understands.",
       "streaming": {
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://play.hbomax.com/show/50cd4e99-04ee-427b-a3b4-da721ed05d9c",
-          "quality": "uhd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0OBESIZVH5XAJ1QDEPGKSUAVGH",
           "quality": "hd"
+        },
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/show/50cd4e99-04ee-427b-a3b4-da721ed05d9c",
+          "quality": "uhd"
         },
         "apple": {
           "service": "apple",
@@ -3455,7 +3454,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-28T08:44:19.178448+00:00",
+      "last_checked": "2026-07-09T09:32:27.203602+00:00",
       "season_count": 1,
       "episode_count": 6
     },

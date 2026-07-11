@@ -1352,13 +1352,14 @@
     "rating": "PG-13",
     "release_date": "2026-06-12"
   },
-{
+  {
     "title": "John Adams",
     "type": "series",
     "lists": [
       "dad"
     ],
     "tmdb_id": "tv/15114",
-    "year": 2008
+    "year": 2008,
+    "rating": "TV-14"
   }
 ]

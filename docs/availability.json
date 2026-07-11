@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T09:24:18.566893+00:00",
+  "last_updated": "2026-07-11T07:45:04.902185+00:00",
   "country": "us",
   "items": [
     {
@@ -3504,11 +3504,10 @@
           "service": "netflix",
           "serviceName": "Netflix",
           "type": "subscription",
-          "link": "https://www.netflix.com/title/81911351/",
-          "quality": "uhd"
+          "link": "https://www.netflix.com/title/81911351"
         }
       },
-      "last_checked": "2026-06-28T08:44:20.344410+00:00",
+      "last_checked": "2026-07-11T07:44:53.218046+00:00",
       "runtime": 113,
       "release_date": "2026-05-08"
     },
@@ -3529,7 +3528,7 @@
         "Comedy",
         "Drama"
       ],
-      "overview": "In this Emmy®-winning comedy, American football coach Ted Lasso (Jason Sudeikis) leads AFC Richmond with optimism.",
+      "overview": "An American football coach is hired to manage a British soccer team; what he lacks in knowledge, he makes up for in optimism, determination and biscuits.",
       "streaming": {
         "apple": {
           "service": "apple",
@@ -3539,7 +3538,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-28T08:44:21.340316+00:00",
+      "last_checked": "2026-07-11T07:44:54.401807+00:00",
       "season_count": 3,
       "episode_count": 34,
       "watched_seasons": 3
@@ -3572,7 +3571,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-06-30T09:22:45.545990+00:00",
+      "last_checked": "2026-07-11T07:44:55.878446+00:00",
       "runtime": 100,
       "release_date": "1995-01-27"
     },
@@ -3617,10 +3616,10 @@
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/before-sunset/umc.cmc.6ybvbqfmbxp9upda7hzyvf03z?playableId=tvs.sbd.9001%3A295621095",
           "quality": "hd",
-          "price": "4.99 USD"
+          "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-06-30T09:22:47.213912+00:00",
+      "last_checked": "2026-07-11T07:44:56.824849+00:00",
       "runtime": 80,
       "release_date": "2004-07-30"
     },
@@ -3651,16 +3650,9 @@
           "link": "https://tv.apple.com/us/movie/before-midnight/umc.cmc.5a1k15u705gddv7913ds29kgg?playableId=tvs.sbd.9001%3A699047582",
           "quality": "hd",
           "price": "3.99 USD"
-        },
-        "roku": {
-          "service": "roku",
-          "serviceName": "Roku",
-          "type": "free",
-          "link": "https://therokuchannel.roku.com/details/3879c9329fc1589091d39fbe75a25d62",
-          "quality": "hd"
         }
       },
-      "last_checked": "2026-06-30T09:22:49.276219+00:00",
+      "last_checked": "2026-07-11T07:44:57.932611+00:00",
       "runtime": 104,
       "release_date": "2013-06-14"
     },
@@ -3695,7 +3687,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-06-30T09:22:51.591990+00:00",
+      "last_checked": "2026-07-11T07:44:59.457554+00:00",
       "season_count": 1,
       "episode_count": 10,
       "watched_seasons": 1
@@ -3721,11 +3713,10 @@
           "service": "netflix",
           "serviceName": "Netflix",
           "type": "subscription",
-          "link": "https://www.netflix.com/title/81758849/",
-          "quality": "uhd"
+          "link": "https://www.netflix.com/title/81758849"
         }
       },
-      "last_checked": "2026-06-30T09:22:53.710249+00:00",
+      "last_checked": "2026-07-11T07:45:01.026083+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -3751,10 +3742,10 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0TPA7F48GEJVGD8KKM1NC6QQ9Q"
+          "link": "https://www.amazon.com/gp/video/detail/0TPA7F48GEJVGD8KKM1NC6QQ9Q?jic=8%7CEgRzdm9k&ref_=atv_tv_hom_c_furGo3_brws_2_4"
         }
       },
-      "last_checked": "2026-06-30T09:22:55.613092+00:00",
+      "last_checked": "2026-07-11T07:45:02.210526+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -3767,7 +3758,7 @@
         "dad"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/259wnijEJoJLPuZuscxDTqwnypw.jpg",
       "rating": "PG-13",
       "genres": [
         "Action",
@@ -3779,14 +3770,49 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0KAHR6BLR6JVHDZVO755MJ7057/ref=atv_dp",
-          "quality": "uhd",
-          "price": "29.99 USD"
+          "link": "https://www.amazon.com/gp/video/detail/0KAHR6BLR6JVHDZVO755MJ7057?ref_=atv_dp",
+          "quality": "hd",
+          "price": "24.99 USD"
         }
       },
-      "last_checked": "2026-07-01T09:34:58.184710+00:00",
+      "last_checked": "2026-07-11T07:45:03.554497+00:00",
       "release_date": "2026-06-12",
-      "runtime": 145
+      "runtime": 146
+    },
+    {
+      "title": "John Adams",
+      "year": 2008,
+      "type": "series",
+      "tmdb_id": "tv/15114",
+      "lists": [
+        "dad"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/34qRIcLKkTpmM9x9gzm9nKvo5pW.jpg",
+      "rating": "TV-14",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "overview": "Executive produced by Tom Hanks and Gary Goetzman, this epic miniseries event profiles one of America’s Founding Fathers as he guides his country through the uncertainty of its first tumultuous years.",
+      "streaming": {
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/show/6437fc79-b0cf-4a1f-8fc0-f214c8c060d7"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0MF1HVP4J9JM25RQGP3AWDH6ZN",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-07-11T07:45:04.708702+00:00",
+      "season_count": 1,
+      "episode_count": 7
     }
   ]
 }

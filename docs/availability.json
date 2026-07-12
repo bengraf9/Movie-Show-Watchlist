@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T07:45:04.902185+00:00",
+  "last_updated": "2026-07-12T08:06:09.374251+00:00",
   "country": "us",
   "items": [
     {
@@ -1470,7 +1470,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-04T08:28:17.646830+00:00",
+      "last_checked": "2026-07-12T08:06:05.365226+00:00",
       "season_count": 11,
       "episode_count": 250
     },
@@ -3248,6 +3248,13 @@
           "quality": "uhd",
           "price": "3.99 USD"
         },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-72aceacd-23df-4fc2-89fb-0b9595a764ca",
+          "quality": "uhd"
+        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -3255,16 +3262,9 @@
           "link": "https://tv.apple.com/us/movie/raya-and-the-last-dragon/umc.cmc.13yhvlcnjgixwpl8hy62kuppp?playableId=tvs.sbd.9001%3A1557711427",
           "quality": "hd",
           "price": "3.99 USD"
-        },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-72aceacd-23df-4fc2-89fb-0b9595a764ca",
-          "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-04T08:28:20.134894+00:00",
+      "last_checked": "2026-07-12T08:06:06.431699+00:00",
       "runtime": 107,
       "release_date": "2021-03-05"
     },
@@ -3302,7 +3302,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-07-04T08:28:21.904614+00:00",
+      "last_checked": "2026-07-12T08:06:07.187176+00:00",
       "runtime": 104,
       "release_date": "2019-05-10"
     },
@@ -3339,7 +3339,7 @@
           "link": "https://www.hulu.com/movie/spy-kids-f875376e-19e8-4f2b-8176-7fba8fff73d7"
         }
       },
-      "last_checked": "2026-07-04T08:28:23.889756+00:00",
+      "last_checked": "2026-07-12T08:06:07.856383+00:00",
       "runtime": 88,
       "release_date": "2001-03-18"
     },
@@ -3377,7 +3377,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-04T08:28:25.363032+00:00",
+      "last_checked": "2026-07-12T08:06:08.621883+00:00",
       "runtime": 87,
       "release_date": "2019-05-03"
     },
@@ -3413,7 +3413,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-07-04T08:28:27.348899+00:00",
+      "last_checked": "2026-07-12T08:06:09.373774+00:00",
       "runtime": 137,
       "release_date": "2025-04-18"
     },

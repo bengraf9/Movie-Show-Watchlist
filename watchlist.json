@@ -608,20 +608,6 @@
     ]
   },
   {
-    "title": "Ron's Gone Wrong",
-    "year": 2021,
-    "type": "movie",
-    "lists": [
-      "family"
-    ],
-    "priority": {
-      "family-movie": 3
-    },
-    "tmdb_id": "movie/482321",
-    "rating": "PG",
-    "release_date": "2021-10-22"
-  },
-  {
     "title": "Caravan of Courage: An Ewok Adventure",
     "year": 1984,
     "type": "movie",

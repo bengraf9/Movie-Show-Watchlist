@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T08:06:09.374251+00:00",
+  "last_updated": "2026-07-13T08:56:10.773696+00:00",
   "country": "us",
   "items": [
     {
@@ -838,7 +838,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-05T08:45:01.117678+00:00",
+      "last_checked": "2026-07-13T08:55:58.023262+00:00",
       "season_count": 3,
       "episode_count": 39,
       "watched_seasons": 2
@@ -963,7 +963,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-05T08:45:02.888229+00:00",
+      "last_checked": "2026-07-13T08:56:00.355643+00:00",
       "season_count": 3,
       "episode_count": 33,
       "watched_seasons": 3
@@ -1500,7 +1500,7 @@
           "link": "https://play.hbomax.com/show/2f5ff1ff-9885-462b-aded-329e421b5f59"
         }
       },
-      "last_checked": "2026-07-05T08:45:04.156384+00:00",
+      "last_checked": "2026-07-13T08:56:02.294307+00:00",
       "season_count": 1,
       "episode_count": 1
     },
@@ -1529,57 +1529,9 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-05T08:45:05.432265+00:00",
+      "last_checked": "2026-07-13T08:56:04.105565+00:00",
       "season_count": 1,
       "episode_count": 8
-    },
-    {
-      "title": "Ron's Gone Wrong",
-      "year": 2021,
-      "type": "movie",
-      "tmdb_id": "movie/482321",
-      "lists": [
-        "family"
-      ],
-      "priority": {
-        "family-movie": 3
-      },
-      "poster": "https://cdn.movieofthenight.com/show/10225/poster/vertical/en/240.jpg?Expires=1801661731&Signature=WMTXNY-FNCIf0OD7Qx10L30tNkIp4gh7T-c0oDt8O5lEg2mWKO3CXllBFEA-jgISo3SI0SDG~Z18Jva5pgWd3qXVhqu7kEvIiAhAXYWvsIVmyBvuM8a0cOeaBS6WQsVYYQB1s7J-Kk0KvxcyZWMcSLPuAG5MwSEKt3ZcQ9SmBABY5vufUAHLGpxg6PklY6FV6m-J3pJeKGOcLtoNnWwnurnqIAaR6s-1j3KainqwAvdUtsBaZ1u1~S0V4QxhsFzbxsD0egIWPPWgwG6IDsqgNQhAiF4tTYUqyMfehjlAC0NvEFv0a-aJxM-j~IJodqpPBcnPLEC4HDF1jH04zVKsPw__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "PG",
-      "genres": [
-        "Adventure",
-        "Animation",
-        "Comedy"
-      ],
-      "overview": "The story of a middle-schooler and his “best friend out of the box” robot.",
-      "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0M7LUXB0DEQU6O21LZ0WTWJX07/ref=atv_dp",
-          "quality": "uhd",
-          "price": "3.99 USD"
-        },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/rons-gone-wrong/umc.cmc.75t5f0e7lid2rslfho07lgbrx?playableId=tvs.sbd.9001%3A1592488379",
-          "quality": "hd",
-          "price": "3.99 USD"
-        },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-46e6268f-beb7-496c-86ef-9af4980d62c7",
-          "quality": "uhd"
-        }
-      },
-      "last_checked": "2026-07-05T08:45:07.178868+00:00",
-      "runtime": 107,
-      "release_date": "2021-10-22"
     },
     {
       "title": "Caravan of Courage: An Ewok Adventure",
@@ -1609,7 +1561,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-05T08:45:08.978359+00:00",
+      "last_checked": "2026-07-13T08:56:05.055280+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1633,6 +1585,13 @@
       ],
       "overview": "High flying animated comedy adventure from Pixar Studios. 70-something retired balloon salesman Carl Fredricksen (voiced by Edward Asner) decides to use his twilight years to fulfil his lifelong dr...",
       "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-f820c0a3-e646-4b75-8dd1-87f6d776c32b",
+          "quality": "uhd"
+        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -1640,13 +1599,6 @@
           "link": "https://tv.apple.com/us/movie/up/umc.cmc.7hyl1e1p1ihe8aiij3fzjwwyc?playableId=tvs.sbd.9001%3A322447599",
           "quality": "hd",
           "price": "3.99 USD"
-        },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-f820c0a3-e646-4b75-8dd1-87f6d776c32b",
-          "quality": "uhd"
         },
         "prime": {
           "service": "prime",
@@ -1657,7 +1609,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-05T08:45:12.687059+00:00",
+      "last_checked": "2026-07-13T08:56:05.806139+00:00",
       "runtime": 96,
       "release_date": "2009-05-29"
     },
@@ -1712,7 +1664,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-05T08:45:13.958397+00:00",
+      "last_checked": "2026-07-13T08:56:06.559521+00:00",
       "runtime": 97,
       "release_date": "2014-12-19"
     },
@@ -1751,7 +1703,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-05T08:45:15.711819+00:00",
+      "last_checked": "2026-07-13T08:56:07.222700+00:00",
       "runtime": 102,
       "release_date": "2025-06-20"
     },
@@ -1783,7 +1735,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-05T08:45:17.213620+00:00",
+      "last_checked": "2026-07-13T08:56:07.956442+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1814,7 +1766,7 @@
           "link": "https://www.netflix.com/title/81745658"
         }
       },
-      "last_checked": "2026-07-05T08:45:18.260957+00:00",
+      "last_checked": "2026-07-13T08:56:08.618389+00:00",
       "runtime": 110,
       "release_date": "2024-11-11"
     },
@@ -1847,7 +1799,7 @@
           "price": "14.99 USD"
         }
       },
-      "last_checked": "2026-07-05T08:45:19.377915+00:00",
+      "last_checked": "2026-07-13T08:56:09.284422+00:00",
       "runtime": 93,
       "release_date": "2007-11-16"
     },
@@ -1895,7 +1847,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-05T08:45:20.313907+00:00",
+      "last_checked": "2026-07-13T08:56:10.038246+00:00",
       "runtime": 98,
       "release_date": "1981-06-26"
     },
@@ -1943,7 +1895,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-05T08:45:21.729252+00:00",
+      "last_checked": "2026-07-13T08:56:10.773416+00:00",
       "runtime": 134,
       "release_date": "2018-05-25"
     },

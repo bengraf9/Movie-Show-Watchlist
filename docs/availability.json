@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T08:56:10.773696+00:00",
+  "last_updated": "2026-07-14T07:51:54.090286+00:00",
   "country": "us",
   "items": [
     {
@@ -1936,7 +1936,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-06T10:03:48.757617+00:00",
+      "last_checked": "2026-07-14T07:51:47.344089+00:00",
       "runtime": 97,
       "release_date": "2019-09-27"
     },
@@ -1990,7 +1990,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-06T10:03:50.591340+00:00",
+      "last_checked": "2026-07-14T07:51:47.810594+00:00",
       "runtime": 118,
       "release_date": "2003-04-18"
     },
@@ -2027,9 +2027,17 @@
           "serviceName": "HBO Max",
           "type": "subscription",
           "link": "https://play.hbomax.com/movie/83df1c2b-db9d-49cd-bf83-9ddbaa7e5e30"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/flow/umc.cmc.22galt2spi1jlic15bdjvf1mz?playableId=tvs.sbd.9001%3A1783709215",
+          "quality": "hd",
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-06T10:03:52.462536+00:00",
+      "last_checked": "2026-07-14T07:51:48.381182+00:00",
       "runtime": 85,
       "release_date": "2024-12-06"
     },
@@ -2077,7 +2085,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-06T10:03:53.949605+00:00",
+      "last_checked": "2026-07-14T07:51:48.859179+00:00",
       "runtime": 138,
       "release_date": "2015-12-18"
     },
@@ -2125,7 +2133,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-06T10:03:55.192724+00:00",
+      "last_checked": "2026-07-14T07:51:49.350080+00:00",
       "runtime": 152,
       "release_date": "2017-12-15"
     },
@@ -2173,7 +2181,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-06T10:03:56.474938+00:00",
+      "last_checked": "2026-07-14T07:51:49.799493+00:00",
       "runtime": 142,
       "release_date": "2019-12-20"
     },
@@ -2221,7 +2229,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-06T10:03:58.014009+00:00",
+      "last_checked": "2026-07-14T07:51:50.369012+00:00",
       "runtime": 95,
       "release_date": "2015-06-19"
     },
@@ -2268,7 +2276,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-06T10:03:59.782150+00:00",
+      "last_checked": "2026-07-14T07:51:50.806074+00:00",
       "runtime": 84,
       "release_date": "1993-02-12"
     },
@@ -2308,7 +2316,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-06T10:04:00.981508+00:00",
+      "last_checked": "2026-07-14T07:51:51.304780+00:00",
       "runtime": 107,
       "release_date": "2022-11-23"
     },
@@ -2340,7 +2348,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-06T10:04:02.106220+00:00",
+      "last_checked": "2026-07-14T07:51:51.765978+00:00",
       "runtime": 90,
       "release_date": "1984-07-13"
     },
@@ -2373,7 +2381,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-06T10:04:03.067087+00:00",
+      "last_checked": "2026-07-14T07:51:52.217540+00:00",
       "runtime": 84,
       "release_date": "1999-07-14"
     },
@@ -2404,6 +2412,13 @@
           "quality": "hd",
           "price": "4.99 USD"
         },
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/movie/01d3fe24-a0ec-432f-bdd5-4c513472b528",
+          "quality": "uhd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -2411,16 +2426,9 @@
           "link": "https://www.amazon.com/gp/video/detail/0FCO4Z9G8KI4R1CXC5E3Y3F46Z/ref=atv_dp",
           "quality": "uhd",
           "price": "4.99 USD"
-        },
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://play.hbomax.com/movie/01d3fe24-a0ec-432f-bdd5-4c513472b528",
-          "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-06T10:04:05.635079+00:00",
+      "last_checked": "2026-07-14T07:51:52.714176+00:00",
       "runtime": 97,
       "release_date": "2021-11-24"
     },
@@ -2468,7 +2476,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-06T10:04:07.141515+00:00",
+      "last_checked": "2026-07-14T07:51:53.207674+00:00",
       "runtime": 135,
       "release_date": "2023-05-26"
     },
@@ -2497,7 +2505,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-06T10:04:08.313890+00:00",
+      "last_checked": "2026-07-14T07:51:53.658379+00:00",
       "runtime": 89,
       "release_date": "2020-03-14"
     },
@@ -2510,11 +2518,10 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://cdn.movieofthenight.com/show/151050/poster/vertical/en/240.jpg?Expires=1799534823&Signature=IeyVkNvw5WylUOG0dvGUiILRbaOSp1A8yRpVi~mOitPvfKXTYsRVR6ebVTubyc8A7t7nEBzZe8PdDEhxwg82FXG~7s-oC70PYvnLfDKQRoGW5QT1p5VlSQzer5kHOWIg2N6GLPDTW~EW7lbJa5fT9dnHNFR7CKsznyYpiWCyCbr94nfyH9037anuFEaU0FFMdBHmxd8AteSJXIIz9vfXxuIELpE88fGgQFb~d4xOJPXUFdB-C1Z7wmBNnUoCbsFI6tP4aLhbBJTYw6DYFX2uNhOzUTo3a9rRYeR8kXQi3UKiQvDxFEvFZ5Ee1h-Gng51gPfVsMJBiJP51oslllAJuA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/151050/poster/vertical/en/240.jpg?Expires=1815187226&Signature=PAzLAkAJqnolAWGgLeWZYjilUCwwNfrUD04lZ7LDcGMdsTIyK2-eU2Kk~bZYwkBWosTZEIQycenTYVvRCce5t7uIKT7k23VcDC5PsoAMxi1vPSxOUFLKYjMW-TuOzbZKVk0iEStkXFBBBxBPb~T6r6gRWw9r3wk~uwdIYu8KdqJQs6lQZSzwOocOAAcAuaKqir-s5RVngsjfuJBKsSJVVCVHd8YJIITWyrgeDL-StS4bxwGhLMKkGFB8yZWezYda1SFNSi-3tOQU0zYSrcEjK53XLDRFYFu2V4knZq8wgMKe5GRkN2h7R8QXYkEnmitXf45XjJ4K7~tDKdJ4ZiCD7A__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "G",
       "genres": [
-        "Animation",
-        "Family"
+        "Animation"
       ],
       "overview": "Charlie Brown is determined to win the big baseball game. But things turn into a fiasco right before the matchup, when Sally bonds with a little flower on the pitcher’s mound and vows to protect it...",
       "streaming": {
@@ -2526,7 +2533,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-06T10:04:09.881646+00:00",
+      "last_checked": "2026-07-14T07:51:54.089683+00:00",
       "runtime": 38,
       "release_date": "2022-04-14"
     },

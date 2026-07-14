@@ -1347,5 +1347,14 @@
     "tmdb_id": "tv/15114",
     "year": 2008,
     "rating": "TV-14"
+  },
+  {
+    "title": "Percy Jackson and the Olympians",
+    "type": "series",
+    "lists": [
+      "family"
+    ],
+    "tmdb_id": "tv/103540",
+    "year": 2023
   }
 ]

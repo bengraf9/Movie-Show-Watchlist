@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T07:51:54.090286+00:00",
+  "last_updated": "2026-07-15T07:55:50.550327+00:00",
   "country": "us",
   "items": [
     {
@@ -60,7 +60,7 @@
           "link": "https://tubitv.com/movies/100046625/swiss-army-man"
         }
       },
-      "last_checked": "2026-07-07T09:30:07.825003+00:00",
+      "last_checked": "2026-07-15T07:55:35.248705+00:00",
       "runtime": 93,
       "release_date": "2016-07-01"
     },
@@ -92,7 +92,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-07T09:30:09.054124+00:00",
+      "last_checked": "2026-07-15T07:55:35.931759+00:00",
       "runtime": 94,
       "release_date": "1987-04-17"
     },
@@ -179,7 +179,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-07T09:30:10.979112+00:00",
+      "last_checked": "2026-07-15T07:55:36.591032+00:00",
       "runtime": 110,
       "release_date": "2025-06-13"
     },
@@ -225,7 +225,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-07T09:30:12.006349+00:00",
+      "last_checked": "2026-07-15T07:55:37.349620+00:00",
       "runtime": 150,
       "release_date": "2022-11-23"
     },
@@ -296,7 +296,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-07-07T09:30:14.913249+00:00",
+      "last_checked": "2026-07-15T07:55:38.021000+00:00",
       "runtime": 91,
       "release_date": "1991-02-08"
     },
@@ -328,7 +328,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-07T09:30:16.700569+00:00",
+      "last_checked": "2026-07-15T07:55:38.699794+00:00",
       "runtime": 124,
       "release_date": "1979-12-19"
     },
@@ -362,12 +362,12 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0GKJ06SJM9QAGM8UCSBTK6N4BH/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0GKJ06SJM9QAGM8UCSBTK6N4BH?ref_=atv_dp",
           "quality": "uhd",
           "price": "14.99 USD"
         }
       },
-      "last_checked": "2026-07-07T09:30:18.216369+00:00",
+      "last_checked": "2026-07-15T07:55:39.484843+00:00",
       "runtime": 157,
       "release_date": "2023-11-22"
     },
@@ -405,7 +405,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-07T09:30:21.865762+00:00",
+      "last_checked": "2026-07-15T07:55:40.226517+00:00",
       "runtime": 106,
       "release_date": "2024-03-08"
     },
@@ -443,7 +443,7 @@
           "link": "https://play.hbomax.com/movie/f3bf7c8f-1c44-4a35-9bb2-8f583c5e90bb"
         }
       },
-      "last_checked": "2026-07-07T09:30:23.437945+00:00",
+      "last_checked": "2026-07-15T07:55:40.976016+00:00",
       "runtime": 83,
       "release_date": "2025-09-12"
     },
@@ -483,7 +483,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-07T09:30:24.647631+00:00",
+      "last_checked": "2026-07-15T07:55:41.656213+00:00",
       "runtime": 129,
       "release_date": "1963-03-16"
     },
@@ -522,7 +522,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-07T09:30:26.023717+00:00",
+      "last_checked": "2026-07-15T07:55:42.329764+00:00",
       "runtime": 107,
       "release_date": "1982-01-01"
     },
@@ -561,7 +561,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-07T09:30:27.132274+00:00",
+      "last_checked": "2026-07-15T07:55:43.000833+00:00",
       "runtime": 98,
       "release_date": "2024-06-21"
     },
@@ -626,7 +626,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-07T09:30:28.432930+00:00",
+      "last_checked": "2026-07-15T07:55:43.709172+00:00",
       "runtime": 114,
       "release_date": "2013-12-25"
     },
@@ -660,12 +660,12 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0M5MTLMDHHYL8N4NTSF94IQ691/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0M5MTLMDHHYL8N4NTSF94IQ691?ref_=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-07T09:30:29.686388+00:00",
+      "last_checked": "2026-07-15T07:55:44.449496+00:00",
       "runtime": 90,
       "release_date": "2025-03-14"
     },
@@ -805,7 +805,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-07T09:30:31.034996+00:00",
+      "last_checked": "2026-07-15T07:55:48.415429+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1
@@ -3772,6 +3772,36 @@
       "last_checked": "2026-07-11T07:45:04.708702+00:00",
       "season_count": 1,
       "episode_count": 7
+    },
+    {
+      "title": "Percy Jackson and the Olympians",
+      "year": 2023,
+      "type": "series",
+      "tmdb_id": "tv/103540",
+      "lists": [
+        "family"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/40eFcTzZier3DWLqldsP5VHxeoD.jpg",
+      "rating": "TV-PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Family"
+      ],
+      "overview": "Percy Jackson sails to the Sea of Monsters to rescue his friend Grover and save Camp Half-Blood.",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-f1c31566-ec05-4d30-b23f-3177442233f4",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-07-15T07:55:50.284118+00:00",
+      "season_count": 2,
+      "episode_count": 16
     }
   ]
 }

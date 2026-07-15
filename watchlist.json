@@ -1357,5 +1357,41 @@
     "tmdb_id": "tv/103540",
     "year": 2023,
     "rating": "TV-PG"
+  },
+  {
+    "title": "Toy Story 5",
+    "type": "movie",
+    "lists": [
+      "family"
+    ],
+    "tmdb_id": "movie/1084244",
+    "year": 2026
+  },
+  {
+    "title": "Klara and the Sun",
+    "type": "movie",
+    "lists": [
+      "dad"
+    ],
+    "tmdb_id": "movie/858035",
+    "year": 2026
+  },
+  {
+    "title": "Hexed",
+    "type": "movie",
+    "lists": [
+      "family"
+    ],
+    "tmdb_id": "movie/1538497",
+    "year": 2026
+  },
+  {
+    "title": "Gatto",
+    "type": "movie",
+    "lists": [
+      "family"
+    ],
+    "tmdb_id": "movie/1497464",
+    "year": 2027
   }
 ]

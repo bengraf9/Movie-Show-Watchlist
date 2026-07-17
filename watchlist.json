@@ -1122,7 +1122,8 @@
     "lists": [
       "kids"
     ],
-    "tmdb_id": "movie/1016208"
+    "tmdb_id": "movie/1016208",
+    "release_date": "2024-02-21"
   },
   {
     "title": "Kensuke's Kingdom",
@@ -1374,7 +1375,9 @@
       "dad"
     ],
     "tmdb_id": "movie/858035",
-    "year": 2026
+    "year": 2026,
+    "rating": "PG-13",
+    "release_date": "2026-10-23"
   },
   {
     "title": "Hexed",
@@ -1383,7 +1386,8 @@
       "family"
     ],
     "tmdb_id": "movie/1538497",
-    "year": 2026
+    "year": 2026,
+    "release_date": "2026-11-25"
   },
   {
     "title": "Gatto",
@@ -1392,6 +1396,7 @@
       "family"
     ],
     "tmdb_id": "movie/1497464",
-    "year": 2027
+    "year": 2027,
+    "release_date": "2027-03-05"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T07:58:33.213272+00:00",
+  "last_updated": "2026-07-18T07:39:12.819041+00:00",
   "country": "us",
   "items": [
     {
@@ -22,8 +22,9 @@
       ],
       "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
       "streaming": {},
-      "last_checked": "2026-07-10T09:23:39.836662+00:00",
-      "release_date": "2026-12-18"
+      "last_checked": "2026-07-18T07:38:47.577002+00:00",
+      "release_date": "2026-12-18",
+      "runtime": 165
     },
     {
       "title": "Swiss Army Man",
@@ -116,7 +117,7 @@
       ],
       "overview": "As Emperor, Paul Atreides grapples with the consequences of his rise to power as political conspiracies and a galaxy-spanning holy war threaten the future he alone can foresee.",
       "streaming": {},
-      "last_checked": "2026-07-10T09:23:42.375562+00:00",
+      "last_checked": "2026-07-18T07:38:48.608642+00:00",
       "release_date": "20-12-18",
       "runtime": 140
     },
@@ -140,8 +141,9 @@
       ],
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power ...",
       "streaming": {},
-      "last_checked": "2026-07-10T09:23:45.080075+00:00",
-      "release_date": "20-07-31"
+      "last_checked": "2026-07-18T07:38:49.587205+00:00",
+      "release_date": "20-07-31",
+      "runtime": 145
     },
     {
       "title": "The Life of Chuck",
@@ -264,7 +266,7 @@
           "link": "https://www.amazon.com/gp/video/detail/0R1A5F5BXOECP5HX4RNYEV433P/ref=atv_dp"
         }
       },
-      "last_checked": "2026-07-10T09:23:47.863166+00:00",
+      "last_checked": "2026-07-18T07:38:50.606648+00:00",
       "runtime": 111,
       "release_date": "1992-09-25"
     },
@@ -585,7 +587,7 @@
       ],
       "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world...",
       "streaming": {},
-      "last_checked": "2026-07-10T09:23:50.520852+00:00",
+      "last_checked": "2026-07-18T07:38:51.314408+00:00",
       "release_date": "20-06-05",
       "runtime": 141
     },
@@ -698,7 +700,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-10T09:23:52.549989+00:00",
+      "last_checked": "2026-07-18T07:38:52.286031+00:00",
       "runtime": 105,
       "release_date": "1985-08-07"
     },
@@ -731,7 +733,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-10T09:23:54.654642+00:00",
+      "last_checked": "2026-07-18T07:38:54.144880+00:00",
       "season_count": 2,
       "episode_count": 19,
       "watched_seasons": 2
@@ -771,7 +773,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-10T09:23:57.142365+00:00",
+      "last_checked": "2026-07-18T07:38:56.494274+00:00",
       "season_count": 5,
       "episode_count": 50,
       "watched_seasons": 5
@@ -898,7 +900,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-10T09:23:59.821052+00:00",
+      "last_checked": "2026-07-18T07:38:58.856177+00:00",
       "season_count": 1,
       "episode_count": 6,
       "watched_seasons": 1
@@ -1087,7 +1089,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-10T09:24:07.529350+00:00",
+      "last_checked": "2026-07-18T07:39:03.024246+00:00",
       "season_count": 1,
       "episode_count": 10,
       "watched_seasons": 1
@@ -1127,7 +1129,7 @@
           "quality": "sd"
         }
       },
-      "last_checked": "2026-07-10T09:24:09.611137+00:00",
+      "last_checked": "2026-07-18T07:39:04.916955+00:00",
       "season_count": 6,
       "episode_count": 62
     },
@@ -1353,7 +1355,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-10T09:24:11.874654+00:00",
+      "last_checked": "2026-07-18T07:39:07.114374+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 1
@@ -1393,7 +1395,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-10T09:24:14.444477+00:00",
+      "last_checked": "2026-07-18T07:39:09.808407+00:00",
       "season_count": 1,
       "episode_count": 7
     },
@@ -1425,7 +1427,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-10T09:24:16.335585+00:00",
+      "last_checked": "2026-07-18T07:39:11.576747+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -3438,15 +3440,15 @@
       "priority": {
         "dad-movie": 15
       },
-      "poster": "https://image.tmdb.org/t/p/w300/cb9y8JiwXoC1iss4yUjuspJcpsJ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/9usPcpMm8GhzkHIXqiklhPrflY3.jpg",
       "rating": "",
       "genres": [
         "Comedy",
         "Science Fiction"
       ],
-      "overview": "Described as \"a non-prequel non-reboot sequel part two but with reboot elements franchise expansion film\". Plot TBA.",
+      "overview": "Forty years after the events of the first Spaceballs, the galaxy is once again under threat. A threat so evil, so unstoppable, so completely lacking in any original ideas, that it has vowed to brin...",
       "streaming": {},
-      "last_checked": "2026-07-10T09:24:18.295167+00:00",
+      "last_checked": "2026-07-18T07:39:12.558111+00:00",
       "release_date": "2027-04-23"
     },
     {

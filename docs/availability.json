@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T08:05:33.670412+00:00",
+  "last_updated": "2026-07-20T08:46:49.945671+00:00",
   "country": "us",
   "items": [
     {
@@ -1472,7 +1472,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-12T08:06:05.365226+00:00",
+      "last_checked": "2026-07-20T08:46:46.925245+00:00",
       "season_count": 11,
       "episode_count": 250
     },
@@ -3200,7 +3200,7 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://cdn.movieofthenight.com/show/2998/poster/vertical/en/240.jpg?Expires=1798315077&Signature=IThiagnDB~P0CZBoSQeeGMyJXXqk1PyE9uh0ylC~NeLs8Lp2mcExZZ9tzkRKt4PfgLdbtwy0jUFtir6WhNRrKEQr1~NOp8hs20jYxsJJvL5c2alyBxTzXFWrj7ZzG4B42wEKP8AeEN2fsMRVMFdvVIkZBfoNTajCWGw4L6BWMDhW4nTHSYKr9RBaUGze08kzGa7efRlnhs84mrnt1ejqXNrR4MTKnaa~~H3tWgmZ259NMiIOFgmDEsBPT7Nj9CzmzG5OWmTo~7bsnl2S3PORU8t1B8dERIWZYqO~Ebf~CO5wbdKxgUhNPlxQAMw-c0Mourhk--7LZgC3SVJfms0jNw__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/2998/poster/vertical/en/240.jpg?Expires=1815779883&Signature=J78yHjYBMTMP4NdtTytK1WHd5iiZ-onhcu-7dyKxhf5TSDTkVTMupN44ynUA9O9mMZDOWmi4j4JLeNg351C-EP~kD0W8aYk4Z0dYF5nDXq0G~T42ik-agtyn93f8WgkvUiycTWvS9vtX0N6ISfcryyzATpCfYVeB0zUi7qM-t56OqqZ9ZJeVOwj7fXlxLf6OyCuLONZvpGxQKRaes1OGtRfoavoony5zwSTsd5xIUZZwVeaxB8dP~0s1w6IDuronGJofV5odHsWx6gKjJBBXvFq9G1FJRoylWnr6k0k81soTg4W-F6Me1sMVRf3v~MyMJiNEs-DFIBYe~aSzItlXKQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Action",
@@ -3233,7 +3233,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-12T08:06:06.431699+00:00",
+      "last_checked": "2026-07-20T08:46:47.774730+00:00",
       "runtime": 107,
       "release_date": "2021-03-05"
     },
@@ -3271,7 +3271,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-07-12T08:06:07.187176+00:00",
+      "last_checked": "2026-07-20T08:46:48.288154+00:00",
       "runtime": 104,
       "release_date": "2019-05-10"
     },
@@ -3308,7 +3308,7 @@
           "link": "https://www.hulu.com/movie/spy-kids-f875376e-19e8-4f2b-8176-7fba8fff73d7"
         }
       },
-      "last_checked": "2026-07-12T08:06:07.856383+00:00",
+      "last_checked": "2026-07-20T08:46:48.746316+00:00",
       "runtime": 88,
       "release_date": "2001-03-18"
     },
@@ -3346,7 +3346,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-12T08:06:08.621883+00:00",
+      "last_checked": "2026-07-20T08:46:49.365752+00:00",
       "runtime": 87,
       "release_date": "2019-05-03"
     },
@@ -3382,7 +3382,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-07-12T08:06:09.373774+00:00",
+      "last_checked": "2026-07-20T08:46:49.945014+00:00",
       "runtime": 137,
       "release_date": "2025-04-18"
     },

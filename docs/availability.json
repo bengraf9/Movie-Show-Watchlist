@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T08:14:16.871300+00:00",
+  "last_updated": "2026-07-22T08:14:46.586175+00:00",
   "country": "us",
   "items": [
     {
@@ -61,7 +61,7 @@
           "link": "https://tubitv.com/movies/100046625/swiss-army-man"
         }
       },
-      "last_checked": "2026-07-15T07:55:35.248705+00:00",
+      "last_checked": "2026-07-22T08:14:30.737920+00:00",
       "runtime": 93,
       "release_date": "2016-07-01"
     },
@@ -93,7 +93,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-15T07:55:35.931759+00:00",
+      "last_checked": "2026-07-22T08:14:31.424761+00:00",
       "runtime": 94,
       "release_date": "1987-04-17"
     },
@@ -181,7 +181,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-15T07:55:36.591032+00:00",
+      "last_checked": "2026-07-22T08:14:32.102751+00:00",
       "runtime": 110,
       "release_date": "2025-06-13"
     },
@@ -196,7 +196,7 @@
       "priority": {
         "dad-movie": 14
       },
-      "poster": "https://cdn.movieofthenight.com/show/10397/poster/vertical/en/240.jpg?Expires=1800304889&Signature=ivfk3A24YUZQ6FABXzljfwqWkGppGnOK8xEjRD0I3CRTnh~BRFuUsshrlZJ-O8Y-MzW1-HT~VhEaP9h19qnlc9pcjDaCQ1zSHNgFsu4VQLImrBLcBxF2l4s8o8wFUnhYWvH0tIS85GT6teH3tfAESy~0q2UX53pR5HAbUfnTLHs2yFEcUAQwpnDXa3ZlDenOZz-sdYz49hJCjQBbpMAN8g9aTBRsI91iaiDGSOx-EpybDekg~eyd4WSP3iiVsvmTU~KHzRait9TtB4acnGrWbPiv7y7-Iv-yhH58LTfoeuqJda~ZxXxsMjLNrlZVeXZH8dErJWFaegRUOMsLCu7mBA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/10397/poster/vertical/en/240.jpg?Expires=1816082435&Signature=Xc90A0FofK-1DxKdSs8ewsl4vapYuySWdrhQSimPrUht2pvbEcwqMYrbFsYjivBesCYEZM-sndtkwp-bCAGSC~ts5qY-S~NLzKr-VKOuKYKR-~xF8162TLsOYq1DV9bNNFJBfmdIJhAyvg44OGw16d0W3NlklWLu4BnRXcVpBwTkT2tnPSVO2Y3xGxBRDL9553buxmAGVl1oYo8RQJ7v0IRRZE8RIGySECXcvPSTnZuczdquZaBWI19I1r9IEbbnrSHEgQ5pBrVQFp-Eut857FLh0jpyUVB~xFg~TjJDTa9Jzo55nPjmlnHIecNaXdZYM02iIxiFmlc8Wd7zUXGCkw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG-13",
       "genres": [
         "Drama"
@@ -227,7 +227,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-15T07:55:37.349620+00:00",
+      "last_checked": "2026-07-22T08:14:32.874264+00:00",
       "runtime": 150,
       "release_date": "2022-11-23"
     },
@@ -298,7 +298,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-07-15T07:55:38.021000+00:00",
+      "last_checked": "2026-07-22T08:14:33.565712+00:00",
       "runtime": 91,
       "release_date": "1991-02-08"
     },
@@ -330,7 +330,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-15T07:55:38.699794+00:00",
+      "last_checked": "2026-07-22T08:14:34.281197+00:00",
       "runtime": 124,
       "release_date": "1979-12-19"
     },
@@ -369,7 +369,7 @@
           "price": "14.99 USD"
         }
       },
-      "last_checked": "2026-07-15T07:55:39.484843+00:00",
+      "last_checked": "2026-07-22T08:14:35.035580+00:00",
       "runtime": 157,
       "release_date": "2023-11-22"
     },
@@ -407,7 +407,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-15T07:55:40.226517+00:00",
+      "last_checked": "2026-07-22T08:14:35.846213+00:00",
       "runtime": 106,
       "release_date": "2024-03-08"
     },
@@ -430,6 +430,12 @@
       ],
       "overview": "Forty-one years after the release of the groundbreaking mockumentary This Is Spinal Tap, the now estranged bandmates David St. Hubbins, Nigel Tufnel, and Derek Smalls (Michael McKean, Christopher G...",
       "streaming": {
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/movie/f3bf7c8f-1c44-4a35-9bb2-8f583c5e90bb"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -437,15 +443,9 @@
           "link": "https://www.amazon.com/gp/video/detail/0QX9MSTQ5UTFHCQBXO7E8AX24M/ref=atv_dp",
           "quality": "uhd",
           "price": "2.49 USD"
-        },
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://play.hbomax.com/movie/f3bf7c8f-1c44-4a35-9bb2-8f583c5e90bb"
         }
       },
-      "last_checked": "2026-07-15T07:55:40.976016+00:00",
+      "last_checked": "2026-07-22T08:14:36.628267+00:00",
       "runtime": 83,
       "release_date": "2025-09-12"
     },
@@ -460,7 +460,7 @@
       "priority": {
         "dad-movie": 26
       },
-      "poster": "https://cdn.movieofthenight.com/show/1208/poster/vertical/en/240.jpg?Expires=1800292554&Signature=ZP6yW~42YVd0bxbl8V0mijsJ78nY1QrgoUudARGL4ACqURzqQ3FNotCQEZwpVN4hd2wG32QXoW-jM3qU53j-ja5oAKpQPlC8PBtOS~deb04t~ISZCh3aAb07ax5JYO6jAUTZUxYjVA-7PiqWceKBEoJI1PlRdaINRHUcgRO5QblG8QmbUMmPhievTkQdbN1~Vg0~ZU6rbpF2vKRPlBUGnwFq13-29Jumrhv-8fOYrm2J5-QmNmPVfE-v4-LjmMBiDCtW7CpvHCkDFBY2I2mXl8E1KcqRBOXJ3up4VjsWTaKB4uMAJHtKUtG3WCxe-mAcFhaOeNSckmq-5D2JFHiLpA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/1208/poster/vertical/en/240.jpg?Expires=1815908894&Signature=PVFw0OM1xK73KwN2992ghAQ44FNSq0PlovzDpfZDs6s7vpjOMK6LokCXx44BlXLarOx0n81toiVCNi7peL3LO~32SlYE6X38hSeoXrNEffqpWXDR-bWjw8UIieWH8cOqRiLzUMTudT5Z46TyCS4NLEKN8fdniK96O3DO3Klgzr9vrdMif8aC8pZaXjUehx3h1D3aJ9gGbxFF5e-OF7lo36fa61fexHwTj8uaIRRMMBgr2IYjac7bB72ge-Z~H~4AMWIOUijQUt2LMOMZx1TbXH4--NQMTMbWmUbv5m6TFYvYJNTre2MZWJ58VEPfBW7bvTqbXXBt8WkGeJxh1yhRfw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "NR",
       "genres": [
         "Crime",
@@ -485,7 +485,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-15T07:55:41.656213+00:00",
+      "last_checked": "2026-07-22T08:14:37.295973+00:00",
       "runtime": 129,
       "release_date": "1963-03-16"
     },
@@ -524,7 +524,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-15T07:55:42.329764+00:00",
+      "last_checked": "2026-07-22T08:14:38.014956+00:00",
       "runtime": 107,
       "release_date": "1982-01-01"
     },
@@ -563,7 +563,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-15T07:55:43.000833+00:00",
+      "last_checked": "2026-07-22T08:14:38.720934+00:00",
       "runtime": 98,
       "release_date": "2024-06-21"
     },
@@ -602,7 +602,7 @@
       "priority": {
         "dad-movie": 23
       },
-      "poster": "https://cdn.movieofthenight.com/show/1198/poster/vertical/en/240.jpg?Expires=1800307177&Signature=dfX149a9BBdf08Gpf-RbB9czFodpI~oweeeG5rMShhdV3vqYXyXdiWvKKVtzi3Mav9iw7iBc8R1EoyOtuUB9MEYPJvx0~rd1w-iVOrN5ZGbq8ZYod0m7tQ7U~f9Ld~ni3Fxfo0Le8cBzEv4wEnXWq6pEhX6j8Iazg07PC1ZNcs4OuBy-7BETv4hFrpoiAjY2TJpm6vNgHP-ur7cbkSMlmSCgW6LZbDZLgdgrlLNAztaHXSZHMuhWk3WIVhsGzAozU8UHyN0BEY4d8TChX8O5vjW9frQlH2IvnRXzqSuGu3IBXWnKyzYlmHouOngm5emTdbamgokTontW5xqiPxNZ2Q__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/1198/poster/vertical/en/240.jpg?Expires=1815909805&Signature=KdrfVBPSu5Ek2pfe8g74hC1HdKYRGyWn1MZYetl71qu1lmM-gTNnG2HbuKg3J6QX1UP29G25aD4fLyJJd2mIPcCfbHR003TrDBIOtlEthCNr2js3cyI4knyAQMNhZRQ5-UR9tUHFWqe9QG6UM~W-YqiScHarPESJ8xIcN3oLtmZ-NkGThz1GrF8UNhYuI3muhXcfkIjaT6ZPdIdv~nQaIVA94WNAx0QxzjTeTjMv3-sp5RuAd4QDOySaUF~97V5PCD0lzqI4rpwHkKlAfODKTNf28a1chBOHHSkl6B05SHytBQxVzj8yKDMt5m0dqR7RoYo2rvp5gW2HvUQHU3eoig__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -628,7 +628,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-15T07:55:43.709172+00:00",
+      "last_checked": "2026-07-22T08:14:39.402309+00:00",
       "runtime": 114,
       "release_date": "2013-12-25"
     },
@@ -667,7 +667,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-15T07:55:44.449496+00:00",
+      "last_checked": "2026-07-22T08:14:40.143326+00:00",
       "runtime": 90,
       "release_date": "2025-03-14"
     },
@@ -807,7 +807,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-15T07:55:48.415429+00:00",
+      "last_checked": "2026-07-22T08:14:42.446690+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1
@@ -2499,7 +2499,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-14T07:51:53.658379+00:00",
+      "last_checked": "2026-07-22T08:14:43.460099+00:00",
       "runtime": 89,
       "release_date": "2020-03-14"
     },
@@ -2527,7 +2527,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-14T07:51:54.089683+00:00",
+      "last_checked": "2026-07-22T08:14:44.252034+00:00",
       "runtime": 38,
       "release_date": "2022-04-14"
     },
@@ -3801,7 +3801,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-15T07:55:50.284118+00:00",
+      "last_checked": "2026-07-22T08:14:46.318055+00:00",
       "season_count": 2,
       "episode_count": 16
     },

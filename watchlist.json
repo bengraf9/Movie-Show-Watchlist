@@ -1366,7 +1366,9 @@
       "family"
     ],
     "tmdb_id": "movie/1084244",
-    "year": 2026
+    "year": 2026,
+    "rating": "PG",
+    "release_date": "2026-06-19"
   },
   {
     "title": "Klara and the Sun",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T08:14:46.586175+00:00",
+  "last_updated": "2026-07-23T08:19:46.601509+00:00",
   "country": "us",
   "items": [
     {
@@ -856,7 +856,7 @@
       "priority": {
         "dad-series": 10
       },
-      "poster": "https://cdn.movieofthenight.com/show/5880/poster/vertical/en/240.jpg?Expires=1803691214&Signature=TnpZSmfNqU7Fee9qfoecdta~Cvk2nN3N1-XVW7ge1MhwQjFo678x7uLc-3sOijoDmzEBGjhwyi6TMa5iy8~TzFTgOyHxLDAdSizDx2d01iHtjH7NGZ3sAEtV--Zkn-7vwrq7emb6-jSM5k~1ZkljDoV2AfnisoKtrmFDKCpksO6lXsf18li4loRuiTNY5XH30J1KonmhHXfA79z8cKp-88wY5ranoSH8xTWpsRlFyMbXi5BAGz3zwgvzvIOBzZaX0XoHBC7LzgTm2-uUT4giaIflsxsfonlFLhk7Eb-PMyU1CC0Y3708Qxbc58M6b7ktfcQJoCl1ciZwJpq5bjn8lA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/66peZcEggw4xJHLQeBqvIsKG87s.jpg",
       "rating": "TV-MA",
       "genres": [
         "Comedy"
@@ -870,7 +870,7 @@
           "link": "https://www.netflix.com/title/81122572"
         }
       },
-      "last_checked": "2026-07-16T08:01:23.989489+00:00",
+      "last_checked": "2026-07-23T08:19:16.236915+00:00",
       "season_count": 1,
       "episode_count": 3
     },
@@ -917,7 +917,7 @@
       "priority": {
         "dad-series": 9
       },
-      "poster": "https://cdn.movieofthenight.com/show/13401245/poster/vertical/en/240.jpg?Expires=1800295983&Signature=SPHa0~9KBZwhPNQ1jOrYfq9~7oc1XgxbuUWd9YOfF291EKlXg8Ah7sUe8Ue-N0XauCNWvoOwTPepW18RjhJOfkgxHMcUtU6XjS7dT-k09lwBLsT-yiq135gLtarD0jETUqOdcPUyKpvkYnwMuvF7rkTT6Y15FkLKLiSubwpYh2wsgsF4SVdgM9bvMdAfkhEsSnZUZDQuXR9lK-Bl4HQui52bzyxwOfatjxlhn7w5BcMB9GHJNJ3T2lMZ7QJUf660QJDfYmHjHWOfkVFz6N-loH-ZxQ71jIsBcB3pHQVmX2AdIJ04lyKxBQirehauw~7Qf7JNcymLf0YCeGSsIsR0ZA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/c09XdTLpLku2tqHt158NZBgC4hi.jpg",
       "rating": "TV-14",
       "genres": [
         "Comedy",
@@ -932,7 +932,7 @@
           "link": "https://www.netflix.com/title/81677257"
         }
       },
-      "last_checked": "2026-07-16T08:01:37.396572+00:00",
+      "last_checked": "2026-07-23T08:19:19.114510+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -981,7 +981,7 @@
       "priority": {
         "dad-series": 13
       },
-      "poster": "https://cdn.movieofthenight.com/show/1464/poster/vertical/en/240.jpg?Expires=1799428276&Signature=hiDyyL-JYhWNaQ4O29qdssMu8LsGwgREv7xR9jJhQ2WbDlKIGb9azaJFDKBenPWnZOxd1RnxGFbZN3X9d6nXsNqQZV1Vrh81-6E35sBfbD4RG~htFN8~TdRlvmrCOrCC7~bKwsIvQgZBttNdQJgAwxTPRov-A4YNtEYE1ZR~6kX1CDen4rH4Q538Jts-j2Mg5vR6wbLhwH9cPmjbD979520~Z476i7kdhdIYIRqwT33RNCk5MNEOG1ri3XGw29qh-3jXZlro1G8PdSE~a0~lBXdwzP3WTIRZuqdp6fy6lA~KLHTwS6uO1Z6C7u-CAcTo4HYLT~KnrJLacE0q1Xuw~Q__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
       "rating": "TV-PG",
       "genres": [
         "Action",
@@ -1011,7 +1011,7 @@
           "link": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/"
         }
       },
-      "last_checked": "2026-07-16T08:01:49.900366+00:00",
+      "last_checked": "2026-07-23T08:19:21.195137+00:00",
       "season_count": 4,
       "episode_count": 40
     },
@@ -1026,7 +1026,7 @@
       "priority": {
         "dad-series": 18
       },
-      "poster": "https://cdn.movieofthenight.com/show/731/poster/vertical/en/240.jpg?Expires=1805456001&Signature=byomk2536RYCxLH1wH6u~4woyojyK2jc5IS2Bbwj9WCyX8GInrhUr3KeXlYgwue0qwsT-hOsf7FGAm6HAAcnaaafolLp~EFa76yoUqn4lgmKyGpymulxo7POixJbdiBrmEYvspPc6UGMBX2QxcHCr5RYqUZShcCS-ljO~gvvefyplr1rng2GBQnvkZvnqBjTaXuTB2S6Gr0utbDlHhBxdnD0t7jPh3z6BhnH822CxrCmL-MCK7eJYTXLVRitPgm0Ls8d-nPalqDpTrq8ZDjQKJOg7PVV7h5jSMHGXfRge8YbtcN3bSAEZDzu6O7MyxtJeyLELe4PDYJWbJZY1YG66A__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/nIlAKIrLKxOeoEnc0Urb65yNCp.jpg",
       "rating": "TV-MA",
       "genres": [
         "Action",
@@ -1056,7 +1056,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-16T08:02:02.316442+00:00",
+      "last_checked": "2026-07-23T08:19:23.400267+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1144,7 +1144,7 @@
       "priority": {
         "dad-series": 15
       },
-      "poster": "https://cdn.movieofthenight.com/show/607/poster/vertical/en/240.jpg?Expires=1800416638&Signature=JuKrIz74C~gD5qIPPbrvQoxOycyRlk8hEwGAmfzMmwr03acR10y2YqdsOIVpelV-rofO7OXUSAfDz8V5-Ako1UglSoXGr5TUzDPda1e9mDKlt7lv~o9uVJdzflLBVd8D9ss0v2ed8~j~Cv0PxrSMZt4M1oU7MOjHwQITv~XfqaIih~NyCllGyqDSCSOwSIna6WhgyaTu-zztY-yG2S-jpuAi7ft3rS7tlZ55pjLf7IhanZAhOc7LGCVloAtAJxndDozD6Wz~o0eWJbW1DabR2TE6W-OdZip0v8LW2AoSyh6QriK9zyc~giwy9gDz93FNP7vAJjZb3NhovcvX-AHkXg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/3KCAZaKHmoMIN9dHutqaMtubQqD.jpg",
       "rating": "TV-MA",
       "genres": [
         "Drama",
@@ -1181,7 +1181,7 @@
           "link": "https://www.amazon.com/gp/video/detail/0U5LPGLHIBYAA24ISAM352994E"
         }
       },
-      "last_checked": "2026-07-16T08:02:15.638778+00:00",
+      "last_checked": "2026-07-23T08:19:26.236459+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1196,7 +1196,7 @@
       "priority": {
         "dad-series": 22
       },
-      "poster": "https://cdn.movieofthenight.com/show/22008764/poster/vertical/en/240.jpg?Expires=1804156616&Signature=lFLDrpvwEvjhCQe7pUvGJgETlXLc75Qq-X9KWXc~DjDscv79U5rFwnRN0Am~AfXHdKDK98ARkG930A8d4tE9S4vDT~1S6-~ZvttSAQ8Cgmw8r1IwaG1-sttJctrewQuElbVMzYyy0GjjdnyAEPw55mLlzLLFIZroqZQ5fbYVoBbdB~3jhEGxVrD3rg~1-wo4bI2qKb9eDrpuRaEBJbvOUSnzhIqahPReGr32Rkqyo-YKa-inelFMYMeGI6YFTBAxS~ByiisZNQWablTsuOk0Ul6rw~4PW2VHSHgVwK7xMgxIt9w56jopI3AwQu8eS8oo0zV3DjXtNkPEKL6uUdZ9cA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/ySA5MvhoxTdezNUMe0ifPmhxH4w.jpg",
       "rating": "TV-14",
       "genres": [
         "Comedy"
@@ -1216,11 +1216,18 @@
           "type": "subscription",
           "link": "https://www.peacocktv.com/watch/asset/tv/the-paper-nbc-edition/8084467132185715112",
           "quality": "hd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/the-paper/umc.cmc.1maccnluzq1eucu5xvwr345hp",
+          "quality": "sd"
         }
       },
-      "last_checked": "2026-07-16T08:02:31.071792+00:00",
-      "season_count": 2,
-      "episode_count": 20
+      "last_checked": "2026-07-23T08:19:30.105487+00:00",
+      "season_count": 1,
+      "episode_count": 10
     },
     {
       "title": "Community",
@@ -1233,7 +1240,7 @@
       "priority": {
         "dad-series": 21
       },
-      "poster": "https://cdn.movieofthenight.com/show/165/poster/vertical/en/240.jpg?Expires=1800282883&Signature=Pd3y-5Q1H~Lop27pGlmLVk0AUcD6fpBdsWAPjLdo~wk4Rbf-vaC0gyx-sgiDqcPLNihiYeKB4n2Dn8Asjh1Z4-nenBcGPNm9PRdTKCKflp86MCB0mIxasiL55HCHsNWYZ8oPkql3kJyhiJdMFxhgKph5ZwDxLG-XAyn-TVtzqSKIW65D~iWqF-L4nGF6shiy8epdZuw~EnObPPs6LA5V~DzUmN2n4XxvFVUqv6ZjorNGIQOnanaSyYadInW14XAYHrw8aji-OE4Tt~~1I0OaujocMX005S~0WWUdRQx7YVvgeL6uGof4lLbpliaKZMtwJph~xveDBWxEZ9dVf3JDHg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/3KUjDt8XY7w2Ku70UE0SECmv1zP.jpg",
       "rating": "TV-14",
       "genres": [
         "Comedy"
@@ -1262,7 +1269,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-16T08:02:43.829291+00:00",
+      "last_checked": "2026-07-23T08:19:32.405715+00:00",
       "season_count": 6,
       "episode_count": 110
     },
@@ -1277,7 +1284,7 @@
       "priority": {
         "dad-series": 24
       },
-      "poster": "https://cdn.movieofthenight.com/show/24734193/poster/vertical/en/240.jpg?Expires=1801610852&Signature=fsrNO~X4IpUIJAINRIgK0cwJxmCvyJRVbJ7ta5s-h0hfwFRwy79BuTgl1iQIZQNxb2f4lQullUYQy5JHyZG6JYOywB2REnJhY1wTkDcbMXXnsRxvcETrd~B4DChwpukwQG6cMklnNGaW21OWFLdUglJKGQSvrdMY221OeAswAq7Ihw8hYwLBqGFYJA-wGT1~IJt3yNYcwngubgeO3B9~r2GCJv~ZrG4ImVDutetwyP0vuVDKGen6DwFNQfjwcOXSEkLzCAPQMYNluVgaNAs4-N-uQGsD0rcALev2VH-AWT1MkYf03tdSKSCGSTWlFf84USOPcAEqRrDOCcwuJvsBbQ__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/htSwFYOyepCbLUUuyCtvC0uCQ3b.jpg",
       "rating": "",
       "genres": [
         "Documentary"
@@ -1291,7 +1298,7 @@
           "link": "https://play.hbomax.com/show/c967b1a4-d0e2-491e-967e-ae09f88fef62"
         }
       },
-      "last_checked": "2026-07-16T08:02:56.088261+00:00",
+      "last_checked": "2026-07-23T08:19:33.993704+00:00",
       "season_count": 1,
       "episode_count": 2
     },
@@ -1306,7 +1313,7 @@
       "priority": {
         "dad-series": 25
       },
-      "poster": "https://cdn.movieofthenight.com/show/1406/poster/vertical/en/240.jpg?Expires=1810485778&Signature=iktpZiwkNYOAupP2RptcyYp1TXONjsAfzVzsSWtDUP0jPd1IBVH1ZLPHycoSCBXH3m4Jv8p6tyCOapkv4KZQduog8pnrs67JIJ0tkgB9q3RQ9RAibr5GOaK3qoUIIf0zcvy8pA2RLxySU7MLhcKO3YXOYRV32dZWhCWSUpSBVwPFzr3PtZfEx8cgZYFDrVyl08A8ZHwk9l0xuVmj7sUF6TM1piOdZOS-SI1N1iTYvB0fQBPmxhD0tsZi-4yBMTYpi8SifKpccizdByA7TDm9HqSm0HKrJgjLKZE1MrTgUCcMJBdWg36e6vmvynlbmL3iJNwQtM~BFgMjSoBmP9bhSg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/5RuZZIouptatjV96BdPmKmRsnGg.jpg",
       "rating": "TV-MA",
       "genres": [
         "Drama",
@@ -1322,9 +1329,9 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-16T08:03:08.408591+00:00",
-      "season_count": 6,
-      "episode_count": 36
+      "last_checked": "2026-07-23T08:19:35.792251+00:00",
+      "season_count": 5,
+      "episode_count": 30
     },
     {
       "title": "The Lord of the Rings: The Rings of Power",
@@ -2540,7 +2547,7 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://cdn.movieofthenight.com/show/36327/poster/vertical/en/240.jpg?Expires=1801898754&Signature=aw1alCjK3UADkRZYOubZTbeN8h4Pjghe~5WcPyPtnyN4S3hxw6-fTLswJd1jHjnTTFwHY8TWhVo~jmjVqRQcIjW0gyVwnWC9owcqdzhCtqjzoxhJJAPRmnBak8RJBHneiu5ccd71JP-JBI05daaqc7x4RDZtNKQKIfqJqMkejfS4yyHHtckKz6kdtaMJ6-0fdjA0ZDqBpxGXtoP1ECQ5PAsl9OskNzjN7kiOldKR9NzJeSqsWWhACst01dvWcQiNrwaYV6IDBDuY7CEQhbXLKS6Whb2o-ROeynSXqXg-yQnxuDDvjUDzlNBN0-a9XD1VXfWNP6vH8Fw0B57VTz~VDg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/5iEyWTmcOSqmVVzPOAN02g9CrLI.jpg",
       "rating": "",
       "genres": [
         "Family",
@@ -2555,7 +2562,7 @@
           "link": "https://www.netflix.com/title/81128389"
         }
       },
-      "last_checked": "2026-07-16T08:03:20.434097+00:00",
+      "last_checked": "2026-07-23T08:19:37.627340+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2568,15 +2575,15 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://cdn.movieofthenight.com/show/34926/poster/vertical/en/240.jpg?Expires=1805514024&Signature=FPVPKmztYmniwsfDLtXQDbPsXXKvBElthS0HC02FyzytLmMU5x5NRmisaG-NRd5n2S2z77tib39cdGXpkvpB-JyHgbLvlJ9rsG5AwEW8LVIqMbeZuIUMgu1HmWuPL~exmVU-x7P6W~tylVcjvCVuGuhUL5TCLzgpfU0VRGghjGg-wyqxSApByHb3zoAhPBdkKkQZPHVoj~FxVjSi6DZ5GvQX3zAi~cPbo7n0n3D4EYRgNX9VS5VZ9cHgOUGJ-N1OznXGPB~ODlHQrzxAOBSHApJJsThXH40TY1OIHGHB4JsdJfVCbhR6dPy4ZnjUQ9jFrNqwTF1Lst7dA76vRycY9Q__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/dZw42WgYrpW8V8P58WmbXCQ3jG3.jpg",
       "rating": "TV-PG",
       "genres": [
         "Adventure",
         "Documentary"
       ],
-      "overview": "",
+      "overview": "It's the land we love and the land we think we know. We see America's breathtaking landscapes and wildlife as timeless, but the truth is very different. Its unique geography drives the forces of na...",
       "streaming": {},
-      "last_checked": "2026-07-16T08:03:34.163897+00:00",
+      "last_checked": "2026-07-23T08:19:39.985590+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -2589,7 +2596,7 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://cdn.movieofthenight.com/show/18353/poster/vertical/en/240.jpg?Expires=1803162307&Signature=g-p9vt1HPTs7GmB2WPCieCdezLBNP7gDL~9pYu3r1DeS52a3EsSlyXphduALGmsccKeI5Px9lnAdSpHPe5wY5qZmgbnM0a5OPeEGkeAYyaqJsxzZz7UdTKWjS5u73aZJIN1vIslqmR7Ij5WOowe3K4QnubairPc33ZiQEmGsbl-gDpDti9A7foNh1Ogu~9f0gg5yCAeAiWV6SLTTYS3oetvFoT9moBPVz7gf2GgiOqaCYxquv11qEDNvBioan33dD46ztpAXQFhq17qwuBDQt6gVUDYgArlV3tbUHAPBPKWk2w-Kbucik7iojhV7arcNXijp-lsTF8wAifCUGb~ceQ__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/b0WL7vIxEYWeDUnnUm2sDz21l5i.jpg",
       "rating": "TV-Y7",
       "genres": [
         "Action",
@@ -2605,7 +2612,7 @@
           "link": "https://www.netflix.com/title/81028343"
         }
       },
-      "last_checked": "2026-07-16T08:03:46.455443+00:00",
+      "last_checked": "2026-07-23T08:19:41.666011+00:00",
       "season_count": 1,
       "episode_count": 4
     },
@@ -2618,7 +2625,7 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://cdn.movieofthenight.com/show/23559/poster/vertical/en/240.jpg?Expires=1800569081&Signature=erLfoU5-LsBZXKl7OiUtVjbm-p~04-sNiMRpOwru0gDJIAKXAZTs2EyqAugfikWY4OyfPZywcLzlaLYRfcxQDT5OddPRThEZvs68Xe6tyWCfw3moY5xcV190kOFYXd5qSOqPlBEOOxOAqBlQbVtXAEubf6TnKqXM2bUY-gYd14NBJy8537y9dtrKezPutEIqbPH6NmXT9EBNjM~qlPi4EgJt-nCSFuqCq5l8wvmMX8deN~n2golhKpI5~KdZ9NuCj8AW~ct6oFwBt~00fOPUqIic-gVVpobKtqf2yKQ4morfLSipZK8qbiv6Ehdhum3iHjNK1bw1P-FaarxRzCpKuA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/wRzli9V7V63bqm1YnlSEwVDtaJo.jpg",
       "rating": "",
       "genres": [
         "Comedy",
@@ -2639,7 +2646,7 @@
           "link": "https://www.netflix.com/title/80078037"
         }
       },
-      "last_checked": "2026-07-16T08:03:58.592545+00:00",
+      "last_checked": "2026-07-23T08:19:43.094031+00:00",
       "season_count": 1,
       "episode_count": 26
     },
@@ -2652,7 +2659,7 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://cdn.movieofthenight.com/show/2437802/poster/vertical/en/240.jpg?Expires=1805639268&Signature=ALK-bcranCWBOZAiUDl-kBuOC0jHzcJj~hRl1Rn90wAAKQ1aQO3TDeRtHZtqpHbu5YwHx3av~t83N~XVfnRXAXdvMMqa~P8APGXKlPMEixYalXnZq-w0Zm-TpB0Lxxv~9UlvglzqlN8fbql5Hp5UzHF0C1z35kiqMQXzDkKHVoHI-co4kNQwMEgTrgUlRYR~Az3kpc~rPhxSoTjBVPGJYpC3ZbJFKxlKH8kGrXQsqKIqwLKBn9RAjA5kDDXdhLXkL~gVwIxGc4nyAK-~bUtdRXEQKvGhJBQa~pt02EmyUuT2uxI1GZ49im-2adhbCOLDVAEwlfBy8xTZN3WE0~fKUQ__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/66CZm1hKApeFAqAd3CtK0uodetF.jpg",
       "rating": "TV-PG",
       "genres": [
         "Documentary"
@@ -2667,7 +2674,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-16T08:04:11.334275+00:00",
+      "last_checked": "2026-07-23T08:19:44.982125+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2697,7 +2704,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-16T08:04:22.407403+00:00",
+      "last_checked": "2026-07-23T08:19:45.829028+00:00",
       "runtime": 88,
       "release_date": "2023-11-17"
     },
@@ -3814,16 +3821,18 @@
         "family"
       ],
       "priority": {},
-      "poster": "https://cdn.movieofthenight.com/show/24600638/poster/vertical/en/240.jpg?Expires=1805819015&Signature=UFWujZutPTtt~2~UE1RQElCz6OevTPOrzNSu1UucDJXD~q8lQ6~vsdcFfHeCYL9q2FPgu~Vjk~vAIOQlC8bPtz8bRmc7IOVg-Qc21u-p2utdhaa0AwEaA9Z02ZOF5Zr4246wPiGR50-CjoIfR5qOoxDBs7GXpFrMojDExNXf2i79p2vOg00lpid3ruK2AbGy9p4vQVBMhmx-LcGzP~fw5AnuHEO9Fi1~U9A0WD-RA1EuhIJMXkBGlXIfXxCoKfg0BbfHKU1EsbZMpWuPgVVrW7OgMVSLYk5TJUDYt7yiOus8B4x9qIJDUXuU2tFVCShyrt-Js3ppHqFSpHdbac2dew__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "",
+      "poster": "https://image.tmdb.org/t/p/w300/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "rating": "PG",
       "genres": [
         "Adventure",
         "Animation",
         "Comedy"
       ],
-      "overview": "",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-...",
       "streaming": {},
-      "last_checked": "2026-07-16T08:04:23.168355+00:00"
+      "last_checked": "2026-07-23T08:19:46.363334+00:00",
+      "release_date": "2026-06-19",
+      "runtime": 102
     },
     {
       "title": "Klara and the Sun",

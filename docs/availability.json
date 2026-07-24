@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T08:19:46.601509+00:00",
+  "last_updated": "2026-07-24T08:14:09.241765+00:00",
   "country": "us",
   "items": [
     {
@@ -2732,7 +2732,7 @@
           "link": "https://www.netflix.com/title/81276049"
         }
       },
-      "last_checked": "2026-07-17T07:58:15.425845+00:00",
+      "last_checked": "2026-07-24T08:13:53.729567+00:00",
       "runtime": 59,
       "release_date": "2021-10-01"
     },
@@ -2763,7 +2763,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-17T07:58:16.169722+00:00",
+      "last_checked": "2026-07-24T08:13:54.235570+00:00",
       "runtime": 96,
       "release_date": "2020-08-21"
     },
@@ -2792,7 +2792,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-17T07:58:16.908858+00:00",
+      "last_checked": "2026-07-24T08:13:54.749460+00:00",
       "runtime": 76,
       "release_date": "2019-04-17"
     },
@@ -2837,7 +2837,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-17T07:58:17.726773+00:00",
+      "last_checked": "2026-07-24T08:13:55.256840+00:00",
       "runtime": 106,
       "release_date": "2022-10-07"
     },
@@ -2879,7 +2879,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-17T07:58:18.554245+00:00",
+      "last_checked": "2026-07-24T08:13:55.769912+00:00",
       "runtime": 93,
       "release_date": "2023-03-24"
     },
@@ -2907,7 +2907,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-17T07:58:19.697467+00:00",
+      "last_checked": "2026-07-24T08:13:56.523889+00:00",
       "runtime": 89,
       "release_date": "2024-04-22"
     },
@@ -2935,7 +2935,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-17T07:58:20.418110+00:00",
+      "last_checked": "2026-07-24T08:13:56.978796+00:00",
       "runtime": 77,
       "release_date": "2024-04-22"
     },
@@ -2973,7 +2973,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-17T07:58:21.217826+00:00",
+      "last_checked": "2026-07-24T08:13:57.475996+00:00",
       "runtime": 88,
       "release_date": "2024-08-02"
     },
@@ -2995,18 +2995,11 @@
       ],
       "overview": "SONIC THE HEDGEHOG tells the story of the world's speediest hedgehog as he embraces his new home on Earth. Sonic and his new best friend Tom team up to defend the planet from the evil genius Dr. Ro...",
       "streaming": {
-        "roku": {
-          "service": "roku",
-          "serviceName": "Roku",
-          "type": "free",
-          "link": "https://therokuchannel.roku.com/details/5c35009d987e532aa40fadd7f812639b",
-          "quality": "hd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0JJYKWC5WGOTODCJCPD18CKZEJ/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0JJYKWC5WGOTODCJCPD18CKZEJ?ref_=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
         },
@@ -3025,7 +3018,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-07-17T07:58:22.028883+00:00",
+      "last_checked": "2026-07-24T08:13:58.328925+00:00",
       "runtime": 98,
       "release_date": "2020-02-14"
     },
@@ -3055,7 +3048,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-17T07:58:22.755008+00:00",
+      "last_checked": "2026-07-24T08:13:58.808859+00:00",
       "runtime": 102,
       "release_date": "2020-01-25"
     },
@@ -3097,7 +3090,7 @@
           "quality": "sd"
         }
       },
-      "last_checked": "2026-07-17T07:58:25.048193+00:00",
+      "last_checked": "2026-07-24T08:14:02.675444+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -3126,7 +3119,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-17T07:58:26.063216+00:00",
+      "last_checked": "2026-07-24T08:14:03.507945+00:00",
       "runtime": 73,
       "release_date": "2024-02-21"
     },
@@ -3155,7 +3148,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-17T07:58:27.128898+00:00",
+      "last_checked": "2026-07-24T08:14:04.239130+00:00",
       "runtime": 84,
       "release_date": "2024-10-18"
     },
@@ -3186,7 +3179,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-07-17T07:58:28.122994+00:00",
+      "last_checked": "2026-07-24T08:14:05.320625+00:00",
       "runtime": 83,
       "release_date": "2024-02-02"
     },
@@ -3394,7 +3387,7 @@
         "mom"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/epgr7n61vVIniyAghz2GYj22DkC.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
       "rating": "TV-MA",
       "genres": [
         "Drama",
@@ -3424,7 +3417,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-17T07:58:29.900336+00:00",
+      "last_checked": "2026-07-24T08:14:06.888470+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -3851,8 +3844,9 @@
       ],
       "overview": "When Klara, an Artificial Friend who wants nothing more than to find the perfect home, meets Josie, each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her ...",
       "streaming": {},
-      "last_checked": "2026-07-17T07:58:30.899231+00:00",
-      "release_date": "2026-10-23"
+      "last_checked": "2026-07-24T08:14:07.615687+00:00",
+      "release_date": "2026-10-23",
+      "runtime": 116
     },
     {
       "title": "Hexed",
@@ -3871,7 +3865,7 @@
       ],
       "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch ...",
       "streaming": {},
-      "last_checked": "2026-07-17T07:58:31.955901+00:00",
+      "last_checked": "2026-07-24T08:14:08.249760+00:00",
       "release_date": "2026-11-25"
     },
     {
@@ -3891,7 +3885,7 @@
       ],
       "overview": "After years of maneuvering the canal-ridden, superstitious city of Venice, Italy, a scrappy black cat named Nero begins to question whether he’s lived the right lives. Indebted to Rocco, a ruthless...",
       "streaming": {},
-      "last_checked": "2026-07-17T07:58:32.942344+00:00",
+      "last_checked": "2026-07-24T08:14:09.038650+00:00",
       "release_date": "2027-03-05"
     }
   ]

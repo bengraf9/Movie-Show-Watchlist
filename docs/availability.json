@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T08:14:09.241765+00:00",
+  "last_updated": "2026-07-25T07:56:35.252777+00:00",
   "country": "us",
   "items": [
     {
@@ -13,7 +13,7 @@
       "priority": {
         "dad-movie": 1
       },
-      "poster": "https://image.tmdb.org/t/p/w300/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
       "rating": "",
       "genres": [
         "Action",
@@ -22,7 +22,7 @@
       ],
       "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
       "streaming": {},
-      "last_checked": "2026-07-18T07:38:47.577002+00:00",
+      "last_checked": "2026-07-25T07:56:08.519836+00:00",
       "release_date": "2026-12-18",
       "runtime": 165
     },
@@ -117,7 +117,7 @@
       ],
       "overview": "As Emperor, Paul Atreides grapples with the consequences of his rise to power as political conspiracies and a galaxy-spanning holy war threaten the future he alone can foresee.",
       "streaming": {},
-      "last_checked": "2026-07-18T07:38:48.608642+00:00",
+      "last_checked": "2026-07-25T07:56:09.634785+00:00",
       "release_date": "20-12-18",
       "runtime": 140
     },
@@ -132,7 +132,7 @@
       "priority": {
         "dad-movie": 4
       },
-      "poster": "https://image.tmdb.org/t/p/w300/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
       "rating": "PG-13",
       "genres": [
         "Action",
@@ -141,7 +141,7 @@
       ],
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power ...",
       "streaming": {},
-      "last_checked": "2026-07-18T07:38:49.587205+00:00",
+      "last_checked": "2026-07-25T07:56:10.554091+00:00",
       "release_date": "20-07-31",
       "runtime": 145
     },
@@ -266,7 +266,7 @@
           "link": "https://www.amazon.com/gp/video/detail/0R1A5F5BXOECP5HX4RNYEV433P/ref=atv_dp"
         }
       },
-      "last_checked": "2026-07-18T07:38:50.606648+00:00",
+      "last_checked": "2026-07-25T07:56:11.598092+00:00",
       "runtime": 111,
       "release_date": "1992-09-25"
     },
@@ -578,18 +578,26 @@
       "priority": {
         "dad-movie": 20
       },
-      "poster": "https://image.tmdb.org/t/p/w300/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/24600708/poster/vertical/en/240.jpg?Expires=1805819769&Signature=WhcZ-brEf69YCjXnwIvD4auGMYDm0W1ZE3cFgiSHVO-w5uX4kEb2kIQBRhoHfp40DWboAo3zGSBRIfiJ2UYwg3hm2X5eO1fYl5Xcy74XfP1BAhT7gXnSEg20GYAxObWUQsopINuWQKemnkgPcOBt1gsRav4gP0Std9-5K~bjtAV-gnt-OQ5I1ej7G5P5Q6lujyACZBzC4CBXRCDkR5~QQmzE0qfRTfS63q4Y7VtScE0kzKAOquQHumosnEQv9PnpoTJmnSFiFhMyZsbD8l8~gr~ESxQkee04GEZa038hq6hjv9-IxUoPBev~jZ-m~XpkIjGVqyGIMH9OyAfJoQv39Q__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG-13",
       "genres": [
         "Action",
         "Adventure",
         "Fantasy"
       ],
-      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world...",
-      "streaming": {},
-      "last_checked": "2026-07-18T07:38:51.314408+00:00",
-      "release_date": "20-06-05",
-      "runtime": 141
+      "overview": "Fifteen years after tracking down the Sword of Power, Adam is whisked back to his home planet of Eternia, now under Skeletor's rule. With Teela and Duncan at his side, he must unlock his true power...",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "subscription",
+          "link": "https://www.amazon.com/gp/video/detail/0PN0QUSC4GJ66QGSQWBE70ERPU?ref_=atv_dp",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-07-25T07:56:12.350075+00:00",
+      "runtime": 143,
+      "release_date": "20-06-05"
     },
     {
       "title": "The Secret Life of Walter Mitty",
@@ -698,9 +706,15 @@
           "link": "https://www.amazon.com/gp/video/detail/0SYQ17EFL51VTDUNWI5XPTGXWJ/ref=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "tubi": {
+          "service": "tubi",
+          "serviceName": "Tubi",
+          "type": "free",
+          "link": "https://tubitv.com/movies/658062/real-genius"
         }
       },
-      "last_checked": "2026-07-18T07:38:52.286031+00:00",
+      "last_checked": "2026-07-25T07:56:13.002287+00:00",
       "runtime": 105,
       "release_date": "1985-08-07"
     },
@@ -733,7 +747,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-18T07:38:54.144880+00:00",
+      "last_checked": "2026-07-25T07:56:15.200739+00:00",
       "season_count": 2,
       "episode_count": 19,
       "watched_seasons": 2
@@ -758,22 +772,22 @@
       ],
       "overview": "Follows three strangers who share an obsession with true crime and end up wrapped up in one.",
       "streaming": {
-        "hulu": {
-          "service": "hulu",
-          "serviceName": "Hulu",
-          "type": "subscription",
-          "link": "https://www.hulu.com/series/only-murders-in-the-building-ef31c7e1-cd0f-4e07-848d-1cbfedb50ddf",
-          "quality": "uhd"
-        },
         "disney": {
           "service": "disney",
           "serviceName": "Disney+",
           "type": "subscription",
           "link": "https://www.disneyplus.com/browse/entity-ef31c7e1-cd0f-4e07-848d-1cbfedb50ddf",
           "quality": "uhd"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/series/only-murders-in-the-building-ef31c7e1-cd0f-4e07-848d-1cbfedb50ddf",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-18T07:38:56.494274+00:00",
+      "last_checked": "2026-07-25T07:56:18.211720+00:00",
       "season_count": 5,
       "episode_count": 50,
       "watched_seasons": 5
@@ -900,7 +914,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-18T07:38:58.856177+00:00",
+      "last_checked": "2026-07-25T07:56:20.829819+00:00",
       "season_count": 1,
       "episode_count": 6,
       "watched_seasons": 1
@@ -1089,7 +1103,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-18T07:39:03.024246+00:00",
+      "last_checked": "2026-07-25T07:56:25.502289+00:00",
       "season_count": 1,
       "episode_count": 10,
       "watched_seasons": 1
@@ -1129,7 +1143,7 @@
           "quality": "sd"
         }
       },
-      "last_checked": "2026-07-18T07:39:04.916955+00:00",
+      "last_checked": "2026-07-25T07:56:27.425732+00:00",
       "season_count": 6,
       "episode_count": 62
     },
@@ -1362,7 +1376,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-18T07:39:07.114374+00:00",
+      "last_checked": "2026-07-25T07:56:29.806483+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 1
@@ -1402,7 +1416,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-18T07:39:09.808407+00:00",
+      "last_checked": "2026-07-25T07:56:32.238030+00:00",
       "season_count": 1,
       "episode_count": 7
     },
@@ -1434,7 +1448,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-18T07:39:11.576747+00:00",
+      "last_checked": "2026-07-25T07:56:34.074842+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -3440,7 +3454,7 @@
       ],
       "overview": "Forty years after the events of the first Spaceballs, the galaxy is once again under threat. A threat so evil, so unstoppable, so completely lacking in any original ideas, that it has vowed to brin...",
       "streaming": {},
-      "last_checked": "2026-07-18T07:39:12.558111+00:00",
+      "last_checked": "2026-07-25T07:56:34.986006+00:00",
       "release_date": "2027-04-23"
     },
     {

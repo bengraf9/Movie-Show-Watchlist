@@ -1400,5 +1400,23 @@
     "tmdb_id": "movie/1497464",
     "year": 2027,
     "release_date": "2027-03-05"
+  },
+  {
+    "title": "Minions & Monsters",
+    "type": "movie",
+    "lists": [
+      "family"
+    ],
+    "tmdb_id": "movie/1315772",
+    "year": 2026
+  },
+  {
+    "title": "Maximum Pleasure Guaranteed",
+    "type": "series",
+    "lists": [
+      "dad"
+    ],
+    "tmdb_id": "tv/285404",
+    "year": 2026
   }
 ]

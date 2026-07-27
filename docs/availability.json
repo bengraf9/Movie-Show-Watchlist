@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T08:13:52.167438+00:00",
+  "last_updated": "2026-07-27T09:38:01.247805+00:00",
   "country": "us",
   "items": [
     {
@@ -1478,22 +1478,22 @@
           "link": "https://www.peacocktv.com/watch/asset/tv/modern-family/6158438733133910112",
           "quality": "hd"
         },
-        "hulu": {
-          "service": "hulu",
-          "serviceName": "Hulu",
-          "type": "subscription",
-          "link": "https://www.hulu.com/series/modern-family-883c414c-34a3-4fcc-b50a-0ad5a184c977",
-          "quality": "hd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0IV5WZ6TUSCYEZLQCQFKSN3Z8B",
           "quality": "hd"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/series/modern-family-883c414c-34a3-4fcc-b50a-0ad5a184c977",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-07-20T08:46:46.925245+00:00",
+      "last_checked": "2026-07-27T09:37:58.668067+00:00",
       "season_count": 11,
       "episode_count": 250
     },
@@ -3164,7 +3164,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0FBFRB46ZO50J8MEMCJK7TWOGM/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0FBFRB46ZO50J8MEMCJK7TWOGM?ref_=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
         },
@@ -3184,7 +3184,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-20T08:46:47.774730+00:00",
+      "last_checked": "2026-07-27T09:37:59.491348+00:00",
       "runtime": 107,
       "release_date": "2021-03-05"
     },
@@ -3209,7 +3209,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0K1VZNF96GVK06I8KZJ1K738V0/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0K1VZNF96GVK06I8KZJ1K738V0?ref_=atv_dp",
           "quality": "uhd",
           "price": "4.99 USD"
         },
@@ -3222,7 +3222,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-07-20T08:46:48.288154+00:00",
+      "last_checked": "2026-07-27T09:37:59.905769+00:00",
       "runtime": 104,
       "release_date": "2019-05-10"
     },
@@ -3251,15 +3251,9 @@
           "link": "https://www.amazon.com/gp/video/detail/0MUFNHGYPORAR6RYTFGMZLHHNQ/ref=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
-        },
-        "showtime": {
-          "service": "showtime",
-          "serviceName": "Showtime",
-          "type": "subscription",
-          "link": "https://www.hulu.com/movie/spy-kids-f875376e-19e8-4f2b-8176-7fba8fff73d7"
         }
       },
-      "last_checked": "2026-07-20T08:46:48.746316+00:00",
+      "last_checked": "2026-07-27T09:38:00.349936+00:00",
       "runtime": 88,
       "release_date": "2001-03-18"
     },
@@ -3297,7 +3291,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-20T08:46:49.365752+00:00",
+      "last_checked": "2026-07-27T09:38:00.796353+00:00",
       "runtime": 87,
       "release_date": "2019-05-03"
     },
@@ -3328,12 +3322,12 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0J21M9AM4CY8XJ74W902BIHZYM/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0J21M9AM4CY8XJ74W902BIHZYM?ref_=atv_dp",
           "quality": "uhd",
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-07-20T08:46:49.945014+00:00",
+      "last_checked": "2026-07-27T09:38:01.247263+00:00",
       "runtime": 137,
       "release_date": "2025-04-18"
     },

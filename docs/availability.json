@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T09:38:01.247805+00:00",
+  "last_updated": "2026-07-28T08:22:39.954803+00:00",
   "country": "us",
   "items": [
     {
@@ -854,7 +854,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-21T08:14:01.451344+00:00",
+      "last_checked": "2026-07-28T08:22:25.205128+00:00",
       "season_count": 3,
       "episode_count": 39,
       "watched_seasons": 2
@@ -979,7 +979,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-21T08:14:03.192557+00:00",
+      "last_checked": "2026-07-28T08:22:27.200568+00:00",
       "season_count": 3,
       "episode_count": 33,
       "watched_seasons": 3
@@ -1509,7 +1509,7 @@
         "dad-series": 8
       },
       "poster": "https://image.tmdb.org/t/p/w300/SJCnXVBJZh7X7ePLt6XMp6TZAj.jpg",
-      "rating": "",
+      "rating": "TV-14",
       "genres": [
         "Adventure",
         "Family"
@@ -1523,7 +1523,7 @@
           "link": "https://play.hbomax.com/show/2f5ff1ff-9885-462b-aded-329e421b5f59"
         }
       },
-      "last_checked": "2026-07-21T08:14:05.209471+00:00",
+      "last_checked": "2026-07-28T08:22:28.751085+00:00",
       "season_count": 1,
       "episode_count": 1
     },
@@ -1548,11 +1548,11 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0M763I7P42FU9YUUPJ8K905RPK",
+          "link": "https://www.amazon.com/gp/video/detail/0PHVBBBNLOS0UDCDQH3FI3YSL4",
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-21T08:14:06.519076+00:00",
+      "last_checked": "2026-07-28T08:22:30.057314+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -1584,7 +1584,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-21T08:14:07.152542+00:00",
+      "last_checked": "2026-07-28T08:22:30.769021+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1606,7 +1606,7 @@
         "Animation",
         "Comedy"
       ],
-      "overview": "High flying animated comedy adventure from Pixar Studios. 70-something retired balloon salesman Carl Fredricksen (voiced by Edward Asner) decides to use his twilight years to fulfil his lifelong dr...",
+      "overview": "Carl, a retired balloon salesman, tying thousands of balloons to his house, sets off to the lost world of his childhood dreams. Unbeknownst to Carl, 8-year old Russell is on his front porch! Winner...",
       "streaming": {
         "disney": {
           "service": "disney",
@@ -1627,12 +1627,12 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0KIU948OY9VO8VMM4DJ5GFL95J/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0KIU948OY9VO8VMM4DJ5GFL95J?ref_=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-21T08:14:07.596413+00:00",
+      "last_checked": "2026-07-28T08:22:31.289541+00:00",
       "runtime": 96,
       "release_date": "2009-05-29"
     },
@@ -1663,6 +1663,14 @@
           "quality": "uhd",
           "price": "3.99 USD"
         },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/elio/umc.cmc.2pwi96m6gp3ir1vvusjzyc0p4?playableId=tvs.sbd.9001%3A1829021601",
+          "quality": "hd",
+          "price": "5.99 USD"
+        },
         "disney": {
           "service": "disney",
           "serviceName": "Disney+",
@@ -1671,7 +1679,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-21T08:14:08.566954+00:00",
+      "last_checked": "2026-07-28T08:22:31.680768+00:00",
       "runtime": 102,
       "release_date": "2025-06-20"
     },
@@ -1703,7 +1711,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-21T08:14:09.025104+00:00",
+      "last_checked": "2026-07-28T08:22:32.086822+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1734,7 +1742,7 @@
           "link": "https://www.netflix.com/title/81745658"
         }
       },
-      "last_checked": "2026-07-21T08:14:09.465248+00:00",
+      "last_checked": "2026-07-28T08:22:32.703548+00:00",
       "runtime": 110,
       "release_date": "2024-11-11"
     },
@@ -1767,7 +1775,7 @@
           "price": "14.99 USD"
         }
       },
-      "last_checked": "2026-07-21T08:14:09.993652+00:00",
+      "last_checked": "2026-07-28T08:22:33.134785+00:00",
       "runtime": 93,
       "release_date": "2007-11-16"
     },
@@ -1815,7 +1823,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-21T08:14:10.399359+00:00",
+      "last_checked": "2026-07-28T08:22:33.606842+00:00",
       "runtime": 98,
       "release_date": "1981-06-26"
     },
@@ -1851,7 +1859,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0FSEHO8AO4JCQ58Y4IUU3PMCA9/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0FSEHO8AO4JCQ58Y4IUU3PMCA9?ref_=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
         },
@@ -1863,7 +1871,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-21T08:14:10.825841+00:00",
+      "last_checked": "2026-07-28T08:22:34.010641+00:00",
       "runtime": 134,
       "release_date": "2018-05-25"
     },
@@ -1904,7 +1912,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-21T08:14:11.351848+00:00",
+      "last_checked": "2026-07-28T08:22:34.420832+00:00",
       "runtime": 97,
       "release_date": "2019-09-27"
     },
@@ -1932,7 +1940,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0QX4QE1CG8MO5AND9K892CU3E1/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0QX4QE1CG8MO5AND9K892CU3E1?ref_=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
         },
@@ -1958,7 +1966,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-21T08:14:11.775774+00:00",
+      "last_checked": "2026-07-28T08:22:34.856642+00:00",
       "runtime": 118,
       "release_date": "2003-04-18"
     },
@@ -1986,7 +1994,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0O4ID4HQRWTX3ANR58042XXJY7/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0O4ID4HQRWTX3ANR58042XXJY7?ref_=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
         },
@@ -2005,7 +2013,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-21T08:14:12.195861+00:00",
+      "last_checked": "2026-07-28T08:22:35.389104+00:00",
       "runtime": 85,
       "release_date": "2024-12-06"
     },
@@ -2029,11 +2037,18 @@
       ],
       "overview": "As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace. Experience the motion pic...",
       "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-438ec2e9-a05c-4b01-84f4-18960b363868",
+          "quality": "uhd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0HK9XPVWNZ64U1ES6OJKN2P9Z8/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0HK9XPVWNZ64U1ES6OJKN2P9Z8?ref_=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
         },
@@ -2045,15 +2060,14 @@
           "quality": "hd",
           "price": "3.99 USD"
         },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
+        "starz": {
+          "service": "starz",
+          "serviceName": "Starz",
           "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-2854a94d-3702-40bd-97a4-12d55a809188",
-          "quality": "uhd"
+          "link": "https://www.starz.com/us/en/movies/star-wars:-the-force-awakens-26915"
         }
       },
-      "last_checked": "2026-07-21T08:14:12.773620+00:00",
+      "last_checked": "2026-07-28T08:22:35.886714+00:00",
       "runtime": 138,
       "release_date": "2015-12-18"
     },
@@ -2084,6 +2098,14 @@
           "link": "https://www.disneyplus.com/browse/entity-50c1aff5-3051-4839-9ebf-e332c635e216",
           "quality": "uhd"
         },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0QBR8Y3K0L7SUWP97IA24D282P?ref_=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -2091,17 +2113,9 @@
           "link": "https://tv.apple.com/us/movie/star-wars-the-last-jedi/umc.cmc.7f19yhpg0i8vk8of1ydhs7g1v?playableId=tvs.sbd.9001%3A1316280891",
           "quality": "hd",
           "price": "3.99 USD"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0QBR8Y3K0L7SUWP97IA24D282P/ref=atv_dp",
-          "quality": "uhd",
-          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-21T08:14:13.252552+00:00",
+      "last_checked": "2026-07-28T08:22:36.375804+00:00",
       "runtime": 152,
       "release_date": "2017-12-15"
     },
@@ -2149,7 +2163,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-21T08:14:13.659621+00:00",
+      "last_checked": "2026-07-28T08:22:36.825534+00:00",
       "runtime": 142,
       "release_date": "2019-12-20"
     },
@@ -2177,7 +2191,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0J3OTK57KK6RCCPICSS1JWRNR7/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0J3OTK57KK6RCCPICSS1JWRNR7?ref_=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
         },
@@ -2197,7 +2211,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-21T08:14:14.086719+00:00",
+      "last_checked": "2026-07-28T08:22:37.212664+00:00",
       "runtime": 95,
       "release_date": "2015-06-19"
     },
@@ -2236,7 +2250,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-21T08:14:14.504383+00:00",
+      "last_checked": "2026-07-28T08:22:37.669402+00:00",
       "runtime": 84,
       "release_date": "1993-02-12"
     },
@@ -2276,7 +2290,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-21T08:14:14.997126+00:00",
+      "last_checked": "2026-07-28T08:22:38.184811+00:00",
       "runtime": 107,
       "release_date": "2022-11-23"
     },
@@ -2308,7 +2322,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-21T08:14:15.533881+00:00",
+      "last_checked": "2026-07-28T08:22:38.596324+00:00",
       "runtime": 90,
       "release_date": "1984-07-13"
     },
@@ -2341,7 +2355,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-21T08:14:15.973274+00:00",
+      "last_checked": "2026-07-28T08:22:39.070643+00:00",
       "runtime": 84,
       "release_date": "1999-07-14"
     },
@@ -2388,7 +2402,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-21T08:14:16.461732+00:00",
+      "last_checked": "2026-07-28T08:22:39.482956+00:00",
       "runtime": 97,
       "release_date": "2021-11-24"
     },
@@ -2436,7 +2450,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-21T08:14:16.870593+00:00",
+      "last_checked": "2026-07-28T08:22:39.954017+00:00",
       "runtime": 135,
       "release_date": "2023-05-26"
     },

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T08:22:39.954803+00:00",
+  "last_updated": "2026-07-29T08:28:32.606795+00:00",
   "country": "us",
   "items": [
     {
@@ -50,7 +50,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0HSTAZCXT1LESCOWRV9WPJKFCS/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0HSTAZCXT1LESCOWRV9WPJKFCS?ref_=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
         },
@@ -61,7 +61,7 @@
           "link": "https://tubitv.com/movies/100046625/swiss-army-man"
         }
       },
-      "last_checked": "2026-07-22T08:14:30.737920+00:00",
+      "last_checked": "2026-07-29T08:28:17.476259+00:00",
       "runtime": 93,
       "release_date": "2016-07-01"
     },
@@ -93,7 +93,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-22T08:14:31.424761+00:00",
+      "last_checked": "2026-07-29T08:28:18.157877+00:00",
       "runtime": 94,
       "release_date": "1987-04-17"
     },
@@ -181,7 +181,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-22T08:14:32.102751+00:00",
+      "last_checked": "2026-07-29T08:28:18.823116+00:00",
       "runtime": 110,
       "release_date": "2025-06-13"
     },
@@ -201,7 +201,7 @@
       "genres": [
         "Drama"
       ],
-      "overview": "Growing up in post-World War II era Arizona, young Sammy Fabelman aspires to become a filmmaker as he reaches adolescence, but soon discovers a shattering family secret. He discovers how the power ...",
+      "overview": "Young Sammy Fabelman falls in love with filmmaking after watching \"The Greatest Show on Earth.\"",
       "streaming": {
         "peacock": {
           "service": "peacock",
@@ -227,7 +227,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-22T08:14:32.874264+00:00",
+      "last_checked": "2026-07-29T08:28:19.564575+00:00",
       "runtime": 150,
       "release_date": "2022-11-23"
     },
@@ -298,7 +298,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-07-22T08:14:33.565712+00:00",
+      "last_checked": "2026-07-29T08:28:20.305747+00:00",
       "runtime": 91,
       "release_date": "1991-02-08"
     },
@@ -330,7 +330,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-22T08:14:34.281197+00:00",
+      "last_checked": "2026-07-29T08:28:20.991836+00:00",
       "runtime": 124,
       "release_date": "1979-12-19"
     },
@@ -345,13 +345,13 @@
       "priority": {
         "dad-movie": 21
       },
-      "poster": "https://cdn.movieofthenight.com/show/5460020/poster/vertical/en/240.jpg?Expires=1800823556&Signature=C1xpYHB~sGfoXz06k7FO71CmReAuo6yIHREtetyEpb8qlDjwGBvw8MCNMI6WolILapk4S8vSYq~gWl4pKf3cjy7FaPZO~qcqVjhYnTehZciU21DLKcA3haBlEbGawzsG7Nv2zJ46pJ6jdoFJV39SNeMIWpa5HhK~b7D1UvYpNBHWy9TNTrEXZRmKdFp8CxZ1AmvQeXbIIa2DpuQvjC7MmwigqCcpczbGucF5r4Z~8MquSzAw6aKEo93DXKgQOwzclClyefKbCHeDOAmArJ-gmj8if5WGToP2uO4mJQgPQg7HfT51shIKZb55T0WIgK-TugclNz7YmJDXSAwpjqNxOQ__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/5460020/poster/vertical/en/240.jpg?Expires=1816377367&Signature=h80Kt2Y4XvaYGs52AuI~iW3IxStoKNDET-XnTuVf5k5S1ZfQmwJDJb08b-Ql6Y3pInhHkD8OxPJH~QOFwfrJFxx0uiN-LGHp5~5N-nYwY4GgCiV67OF4N7Es6TQfL7dHk3pek3Xp-n3w3~xdELfzPJZRtUSA~TWPMhhsDH0Kp9PtjXHWsCgL9rEW6lNhh66kSOz2VE4sRWvOHEeu4W2EZw5WfymUxsG6aQsjLPe2tRV~HrV5uG833028yB08FK5L1E3ezAmxm~VOjLlzM9-GWjeaonRUwafnK71XLdafWtUP4GP-JFtnZFj9eeKt1fnt~B9JbwZY-0y5sV6RTFPimw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
       "genres": [
         "Action",
         "Adventure"
       ],
-      "overview": "A look at the military commander's origins and his swift, ruthless climb to emperor, viewed through the prism of his addictive and often volatile relationship with his wife and one true love, Josep...",
+      "overview": "A look at the military commander's origins and his swift, ruthless climb to emperor.",
       "streaming": {
         "apple": {
           "service": "apple",
@@ -369,7 +369,7 @@
           "price": "14.99 USD"
         }
       },
-      "last_checked": "2026-07-22T08:14:35.035580+00:00",
+      "last_checked": "2026-07-29T08:28:21.739608+00:00",
       "runtime": 157,
       "release_date": "2023-11-22"
     },
@@ -391,6 +391,14 @@
       ],
       "overview": "Academy Award® nominee Colman Domingo shines in this true story of a man who found hope through the arts while wrongfully imprisoned.",
       "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/sing-sing/umc.cmc.atdj6ejkq02lhmynwhilukm0?playableId=tvs.sbd.9001%3A1758371307",
+          "quality": "hd",
+          "price": "5.99 USD"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -407,7 +415,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-22T08:14:35.846213+00:00",
+      "last_checked": "2026-07-29T08:28:22.498454+00:00",
       "runtime": 106,
       "release_date": "2024-03-08"
     },
@@ -445,7 +453,7 @@
           "price": "2.49 USD"
         }
       },
-      "last_checked": "2026-07-22T08:14:36.628267+00:00",
+      "last_checked": "2026-07-29T08:28:23.243310+00:00",
       "runtime": 83,
       "release_date": "2025-09-12"
     },
@@ -485,7 +493,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-22T08:14:37.295973+00:00",
+      "last_checked": "2026-07-29T08:28:23.997008+00:00",
       "runtime": 129,
       "release_date": "1963-03-16"
     },
@@ -524,7 +532,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-22T08:14:38.014956+00:00",
+      "last_checked": "2026-07-29T08:28:24.671996+00:00",
       "runtime": 107,
       "release_date": "1982-01-01"
     },
@@ -563,7 +571,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-22T08:14:38.720934+00:00",
+      "last_checked": "2026-07-29T08:28:25.345209+00:00",
       "runtime": 98,
       "release_date": "2024-06-21"
     },
@@ -623,7 +631,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0HOJDZS6BE7QKBMLF6VHTJUBEO/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0HOJDZS6BE7QKBMLF6VHTJUBEO?ref_=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
         },
@@ -636,7 +644,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-22T08:14:39.402309+00:00",
+      "last_checked": "2026-07-29T08:28:26.011195+00:00",
       "runtime": 114,
       "release_date": "2013-12-25"
     },
@@ -675,7 +683,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-22T08:14:40.143326+00:00",
+      "last_checked": "2026-07-29T08:28:26.797225+00:00",
       "runtime": 90,
       "release_date": "2025-03-14"
     },
@@ -821,7 +829,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-22T08:14:42.446690+00:00",
+      "last_checked": "2026-07-29T08:28:28.879717+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1
@@ -2479,7 +2487,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-22T08:14:43.460099+00:00",
+      "last_checked": "2026-07-29T08:28:29.957421+00:00",
       "runtime": 89,
       "release_date": "2020-03-14"
     },
@@ -2507,7 +2515,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-22T08:14:44.252034+00:00",
+      "last_checked": "2026-07-29T08:28:30.704662+00:00",
       "runtime": 38,
       "release_date": "2022-04-14"
     },
@@ -3751,7 +3759,7 @@
         "family"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/40eFcTzZier3DWLqldsP5VHxeoD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/bd5ZIqiz1PRiLC7FLexzVBf8qu1.jpg",
       "rating": "TV-PG",
       "genres": [
         "Action",
@@ -3768,7 +3776,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-22T08:14:46.318055+00:00",
+      "last_checked": "2026-07-29T08:28:32.356248+00:00",
       "season_count": 2,
       "episode_count": 16
     },

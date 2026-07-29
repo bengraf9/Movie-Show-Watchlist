@@ -1408,5 +1408,23 @@
     "tmdb_id": "tv/285404",
     "year": 2026,
     "rating": "TV-MA"
+  },
+  {
+    "title": "The Four Seasons",
+    "type": "series",
+    "lists": [
+      "dad", "mom"
+    ],
+    "tmdb_id": "tv/243316",
+    "year": 2025
+  },
+  {
+    "title": "Dark Winds",
+    "type": "series",
+    "lists": [
+      "mom"
+    ],
+    "tmdb_id": "tv/128904",
+    "year": 2022
   }
 ]

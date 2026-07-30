@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T08:28:32.606795+00:00",
+  "last_updated": "2026-07-30T08:12:35.458596+00:00",
   "country": "us",
   "items": [
     {
@@ -3922,6 +3922,78 @@
       "last_checked": "2026-07-26T08:13:51.970263+00:00",
       "season_count": 1,
       "episode_count": 10
+    },
+    {
+      "title": "The Four Seasons",
+      "year": 2025,
+      "type": "series",
+      "tmdb_id": "tv/243316",
+      "lists": [
+        "dad",
+        "mom"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/w09XeYl096pwES8riRMZwEA9rnh.jpg",
+      "rating": "TV-MA",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "overview": "Six friends. Four vacations. A year of humor and heartbreak. Tina Fey, Will Forte and Steve Carell star in this comedic tale of marriage and midlife.",
+      "streaming": {
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/81750702"
+        }
+      },
+      "last_checked": "2026-07-30T08:12:33.544971+00:00",
+      "season_count": 2,
+      "episode_count": 16
+    },
+    {
+      "title": "Dark Winds",
+      "year": 2022,
+      "type": "series",
+      "tmdb_id": "tv/128904",
+      "lists": [
+        "mom"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/kDlrMN0P9ByrEH2GoRbBFeZHbcf.jpg",
+      "rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "overview": "When a string of seemingly unrelated crimes strikes the 1970s Navajo Nation, two tribal police officers dredge up old wounds to uncover the truth.",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/dark-winds/umc.cmc.2re7oa02cr4v3h0yv1j6qymkf",
+          "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0NNVKYT80WZS6NXC2WJIJV885Z",
+          "quality": "sd"
+        },
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/81613903"
+        }
+      },
+      "last_checked": "2026-07-30T08:12:35.270545+00:00",
+      "season_count": 4,
+      "episode_count": 28
     }
   ]
 }

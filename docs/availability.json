@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T08:12:35.458596+00:00",
+  "last_updated": "2026-07-31T08:39:56.141293+00:00",
   "country": "us",
   "items": [
     {
@@ -892,7 +892,7 @@
           "link": "https://www.netflix.com/title/81122572"
         }
       },
-      "last_checked": "2026-07-23T08:19:16.236915+00:00",
+      "last_checked": "2026-07-31T08:39:20.177055+00:00",
       "season_count": 1,
       "episode_count": 3
     },
@@ -954,7 +954,7 @@
           "link": "https://www.netflix.com/title/81677257"
         }
       },
-      "last_checked": "2026-07-23T08:19:19.114510+00:00",
+      "last_checked": "2026-07-31T08:39:23.367983+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -1033,7 +1033,7 @@
           "link": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/"
         }
       },
-      "last_checked": "2026-07-23T08:19:21.195137+00:00",
+      "last_checked": "2026-07-31T08:39:25.540021+00:00",
       "season_count": 4,
       "episode_count": 40
     },
@@ -1055,7 +1055,7 @@
         "Adventure",
         "Drama"
       ],
-      "overview": "Set at the end of the 24th century, 18 years after the events of `Star Trek: Nemesis', with Sir Patrick Stewart reprising his iconic role, `Star Trek: Picard' revolves around retired admiral Jean-L...",
+      "overview": "Star Trek: Picard features Sir Patrick Stewart reprising his iconic role as Jean-Luc Picard, which he played for seven seasons on Star Trek: The Next Generation. The new series will follow this ico...",
       "streaming": {
         "paramount": {
           "service": "paramount",
@@ -1067,18 +1067,19 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0S4PHJ50UWJJMEE08SOKDCOI6E",
-          "quality": "hd"
+          "link": "https://www.amazon.com/gp/video/detail/0S4PHJ50UWJJMEE08SOKDCOI6E?ref_=atv_dp",
+          "quality": "hd",
+          "price": "22.99 USD"
         },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
           "type": "buy",
           "link": "https://tv.apple.com/us/show/star-trek-picard/umc.cmc.2tqufhly635jf1fnuonxojax",
-          "quality": "hd"
+          "quality": "sd"
         }
       },
-      "last_checked": "2026-07-23T08:19:23.400267+00:00",
+      "last_checked": "2026-07-31T08:39:27.652608+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1203,7 +1204,7 @@
           "link": "https://www.amazon.com/gp/video/detail/0U5LPGLHIBYAA24ISAM352994E"
         }
       },
-      "last_checked": "2026-07-23T08:19:26.236459+00:00",
+      "last_checked": "2026-07-31T08:39:30.761239+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1247,7 +1248,7 @@
           "quality": "sd"
         }
       },
-      "last_checked": "2026-07-23T08:19:30.105487+00:00",
+      "last_checked": "2026-07-31T08:39:34.901870+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -1291,7 +1292,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-23T08:19:32.405715+00:00",
+      "last_checked": "2026-07-31T08:39:40.063267+00:00",
       "season_count": 6,
       "episode_count": 110
     },
@@ -1320,7 +1321,7 @@
           "link": "https://play.hbomax.com/show/c967b1a4-d0e2-491e-967e-ae09f88fef62"
         }
       },
-      "last_checked": "2026-07-23T08:19:33.993704+00:00",
+      "last_checked": "2026-07-31T08:39:41.944019+00:00",
       "season_count": 1,
       "episode_count": 2
     },
@@ -1351,7 +1352,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-23T08:19:35.792251+00:00",
+      "last_checked": "2026-07-31T08:39:43.768989+00:00",
       "season_count": 5,
       "episode_count": 30
     },
@@ -2543,7 +2544,7 @@
           "link": "https://www.netflix.com/title/81128389"
         }
       },
-      "last_checked": "2026-07-23T08:19:37.627340+00:00",
+      "last_checked": "2026-07-31T08:39:45.623413+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2564,7 +2565,7 @@
       ],
       "overview": "It's the land we love and the land we think we know. We see America's breathtaking landscapes and wildlife as timeless, but the truth is very different. Its unique geography drives the forces of na...",
       "streaming": {},
-      "last_checked": "2026-07-23T08:19:39.985590+00:00",
+      "last_checked": "2026-07-31T08:39:48.312680+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -2593,7 +2594,7 @@
           "link": "https://www.netflix.com/title/81028343"
         }
       },
-      "last_checked": "2026-07-23T08:19:41.666011+00:00",
+      "last_checked": "2026-07-31T08:39:50.141631+00:00",
       "season_count": 1,
       "episode_count": 4
     },
@@ -2627,7 +2628,7 @@
           "link": "https://www.netflix.com/title/80078037"
         }
       },
-      "last_checked": "2026-07-23T08:19:43.094031+00:00",
+      "last_checked": "2026-07-31T08:39:52.098719+00:00",
       "season_count": 1,
       "episode_count": 26
     },
@@ -2655,7 +2656,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-23T08:19:44.982125+00:00",
+      "last_checked": "2026-07-31T08:39:54.449168+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2685,7 +2686,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-23T08:19:45.829028+00:00",
+      "last_checked": "2026-07-31T08:39:55.454271+00:00",
       "runtime": 88,
       "release_date": "2023-11-17"
     },
@@ -2713,7 +2714,7 @@
           "link": "https://www.netflix.com/title/81276049"
         }
       },
-      "last_checked": "2026-07-24T08:13:53.729567+00:00",
+      "last_checked": "2026-07-31T08:39:56.140658+00:00",
       "runtime": 59,
       "release_date": "2021-10-01"
     },

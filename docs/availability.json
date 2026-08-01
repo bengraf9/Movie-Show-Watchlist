@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T08:39:56.141293+00:00",
+  "last_updated": "2026-08-01T08:09:48.288527+00:00",
   "country": "us",
   "items": [
     {
@@ -22,7 +22,7 @@
       ],
       "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
       "streaming": {},
-      "last_checked": "2026-07-25T07:56:08.519836+00:00",
+      "last_checked": "2026-08-01T08:09:17.871271+00:00",
       "release_date": "2026-12-18",
       "runtime": 165
     },
@@ -115,9 +115,9 @@
         "Action",
         "Adventure"
       ],
-      "overview": "As Emperor, Paul Atreides grapples with the consequences of his rise to power as political conspiracies and a galaxy-spanning holy war threaten the future he alone can foresee.",
+      "overview": "Emperor Paul Atreides faces the fallout from his ascent to power as political plots and a galaxy-wide holy war endanger the future only he can see.",
       "streaming": {},
-      "last_checked": "2026-07-25T07:56:09.634785+00:00",
+      "last_checked": "2026-08-01T08:09:19.013124+00:00",
       "release_date": "20-12-18",
       "runtime": 140
     },
@@ -132,7 +132,7 @@
       "priority": {
         "dad-movie": 4
       },
-      "poster": "https://image.tmdb.org/t/p/w300/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
       "rating": "PG-13",
       "genres": [
         "Action",
@@ -140,8 +140,17 @@
         "Fantasy"
       ],
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power ...",
-      "streaming": {},
-      "last_checked": "2026-07-25T07:56:10.554091+00:00",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0MH84EJKE2M4I598UISANJRS1X?ref_=atv_dp",
+          "quality": "uhd",
+          "price": "29.99 USD"
+        }
+      },
+      "last_checked": "2026-08-01T08:09:19.941509+00:00",
       "release_date": "20-07-31",
       "runtime": 145
     },
@@ -263,10 +272,10 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0R1A5F5BXOECP5HX4RNYEV433P/ref=atv_dp"
+          "link": "https://www.amazon.com/gp/video/detail/0R1A5F5BXOECP5HX4RNYEV433P?ref_=atv_dp"
         }
       },
-      "last_checked": "2026-07-25T07:56:11.598092+00:00",
+      "last_checked": "2026-08-01T08:09:21.016582+00:00",
       "runtime": 111,
       "release_date": "1992-09-25"
     },
@@ -599,11 +608,11 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0PN0QUSC4GJ66QGSQWBE70ERPU?ref_=atv_dp",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b114d3d0-114d-4873-ba9f-71d446cc9fd2",
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-25T07:56:12.350075+00:00",
+      "last_checked": "2026-08-01T08:09:21.707379+00:00",
       "runtime": 143,
       "release_date": "20-06-05"
     },
@@ -722,7 +731,7 @@
           "link": "https://tubitv.com/movies/658062/real-genius"
         }
       },
-      "last_checked": "2026-07-25T07:56:13.002287+00:00",
+      "last_checked": "2026-08-01T08:09:22.409225+00:00",
       "runtime": 105,
       "release_date": "1985-08-07"
     },
@@ -755,7 +764,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-25T07:56:15.200739+00:00",
+      "last_checked": "2026-08-01T08:09:24.458621+00:00",
       "season_count": 2,
       "episode_count": 19,
       "watched_seasons": 2
@@ -795,7 +804,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-25T07:56:18.211720+00:00",
+      "last_checked": "2026-08-01T08:09:26.720926+00:00",
       "season_count": 5,
       "episode_count": 50,
       "watched_seasons": 5
@@ -922,7 +931,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-25T07:56:20.829819+00:00",
+      "last_checked": "2026-08-01T08:09:29.183103+00:00",
       "season_count": 1,
       "episode_count": 6,
       "watched_seasons": 1
@@ -1112,7 +1121,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-25T07:56:25.502289+00:00",
+      "last_checked": "2026-08-01T08:09:33.658143+00:00",
       "season_count": 1,
       "episode_count": 10,
       "watched_seasons": 1
@@ -1149,10 +1158,10 @@
           "serviceName": "Apple TV+",
           "type": "buy",
           "link": "https://tv.apple.com/us/show/the-expanse/umc.cmc.1ixz96nx5fk3uz3huu99vqpbs",
-          "quality": "sd"
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-07-25T07:56:27.425732+00:00",
+      "last_checked": "2026-08-01T08:09:35.670120+00:00",
       "season_count": 6,
       "episode_count": 62
     },
@@ -1381,11 +1390,11 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0TUVXIO58IUNEPNBF8363Z7YGL",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f856462e-f3f0-47d6-99a7-8e7900ffb935",
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-25T07:56:29.806483+00:00",
+      "last_checked": "2026-08-01T08:09:37.902612+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 1
@@ -1425,7 +1434,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-25T07:56:32.238030+00:00",
+      "last_checked": "2026-08-01T08:09:40.296594+00:00",
       "season_count": 1,
       "episode_count": 7
     },
@@ -1457,7 +1466,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-25T07:56:34.074842+00:00",
+      "last_checked": "2026-08-01T08:09:42.061340+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -2745,7 +2754,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-24T08:13:54.235570+00:00",
+      "last_checked": "2026-08-01T08:09:43.014079+00:00",
       "runtime": 96,
       "release_date": "2020-08-21"
     },
@@ -2774,7 +2783,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-24T08:13:54.749460+00:00",
+      "last_checked": "2026-08-01T08:09:43.703736+00:00",
       "runtime": 76,
       "release_date": "2019-04-17"
     },
@@ -2819,7 +2828,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-24T08:13:55.256840+00:00",
+      "last_checked": "2026-08-01T08:09:44.454170+00:00",
       "runtime": 106,
       "release_date": "2022-10-07"
     },
@@ -2861,7 +2870,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-24T08:13:55.769912+00:00",
+      "last_checked": "2026-08-01T08:09:45.191321+00:00",
       "runtime": 93,
       "release_date": "2023-03-24"
     },
@@ -2889,7 +2898,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-24T08:13:56.523889+00:00",
+      "last_checked": "2026-08-01T08:09:46.154237+00:00",
       "runtime": 89,
       "release_date": "2024-04-22"
     },
@@ -2917,7 +2926,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-24T08:13:56.978796+00:00",
+      "last_checked": "2026-08-01T08:09:46.808383+00:00",
       "runtime": 77,
       "release_date": "2024-04-22"
     },
@@ -2937,7 +2946,7 @@
         "Animation",
         "Comedy"
       ],
-      "overview": "Harold must use his creativity to save the world from unleashed imagination in the wrong hands.",
+      "overview": "Inside his book, Harold can make anything come to life simply by drawing it. After he grows up and draws himself off the book's pages and into the real world, he learns his trusty crayon can set of...",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -2955,8 +2964,8 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-24T08:13:57.475996+00:00",
-      "runtime": 88,
+      "last_checked": "2026-08-01T08:09:47.561088+00:00",
+      "runtime": 85,
       "release_date": "2024-08-02"
     },
     {
@@ -2983,7 +2992,7 @@
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0JJYKWC5WGOTODCJCPD18CKZEJ?ref_=atv_dp",
           "quality": "uhd",
-          "price": "3.99 USD"
+          "price": "4.99 USD"
         },
         "paramount": {
           "service": "paramount",
@@ -3000,7 +3009,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-07-24T08:13:58.328925+00:00",
+      "last_checked": "2026-08-01T08:09:48.287846+00:00",
       "runtime": 98,
       "release_date": "2020-02-14"
     },

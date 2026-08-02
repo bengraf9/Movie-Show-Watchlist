@@ -1437,6 +1437,8 @@
       "family"
     ],
     "tmdb_id": "movie/8989",
-    "year": 1987
+    "year": 1987,
+    "rating": "PG",
+    "release_date": "1987-06-05"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T08:09:48.288527+00:00",
+  "last_updated": "2026-08-02T08:11:11.617581+00:00",
   "country": "us",
   "items": [
     {
@@ -3039,7 +3039,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-24T08:13:58.808859+00:00",
+      "last_checked": "2026-08-02T08:11:01.525375+00:00",
       "runtime": 102,
       "release_date": "2020-01-25"
     },
@@ -3081,7 +3081,7 @@
           "quality": "sd"
         }
       },
-      "last_checked": "2026-07-24T08:14:02.675444+00:00",
+      "last_checked": "2026-08-02T08:11:03.036450+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -3105,12 +3105,12 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0LE7SV6ZZITV5AO096WZ3CFL2H/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0LE7SV6ZZITV5AO096WZ3CFL2H?ref_=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-24T08:14:03.507945+00:00",
+      "last_checked": "2026-08-02T08:11:03.999861+00:00",
       "runtime": 73,
       "release_date": "2024-02-21"
     },
@@ -3139,7 +3139,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-24T08:14:04.239130+00:00",
+      "last_checked": "2026-08-02T08:11:04.786508+00:00",
       "runtime": 84,
       "release_date": "2024-10-18"
     },
@@ -3170,7 +3170,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-07-24T08:14:05.320625+00:00",
+      "last_checked": "2026-08-02T08:11:05.610923+00:00",
       "runtime": 83,
       "release_date": "2024-02-02"
     },
@@ -3387,22 +3387,22 @@
           "link": "https://www.amazon.com/gp/video/detail/0OBESIZVH5XAJ1QDEPGKSUAVGH",
           "quality": "hd"
         },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/show/heated-rivalry/umc.cmc.3p4fdqsnpelmkkkdpjbh1fd1q",
-          "quality": "hd"
-        },
         "hbo": {
           "service": "hbo",
           "serviceName": "HBO Max",
           "type": "subscription",
           "link": "https://play.hbomax.com/show/50cd4e99-04ee-427b-a3b4-da721ed05d9c",
           "quality": "uhd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/heated-rivalry/umc.cmc.3p4fdqsnpelmkkkdpjbh1fd1q",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-07-24T08:14:06.888470+00:00",
+      "last_checked": "2026-08-02T08:11:06.816067+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -3425,7 +3425,7 @@
       ],
       "overview": "Forty years after the events of the first Spaceballs, the galaxy is once again under threat. A threat so evil, so unstoppable, so completely lacking in any original ideas, that it has vowed to brin...",
       "streaming": {},
-      "last_checked": "2026-07-25T07:56:34.986006+00:00",
+      "last_checked": "2026-08-02T08:11:07.537447+00:00",
       "release_date": "2027-04-23"
     },
     {
@@ -3808,7 +3808,7 @@
       ],
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-...",
       "streaming": {},
-      "last_checked": "2026-07-23T08:19:46.363334+00:00",
+      "last_checked": "2026-08-02T08:11:08.349305+00:00",
       "release_date": "2026-06-19",
       "runtime": 102
     },
@@ -3829,7 +3829,7 @@
       ],
       "overview": "When Klara, an Artificial Friend who wants nothing more than to find the perfect home, meets Josie, each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her ...",
       "streaming": {},
-      "last_checked": "2026-07-24T08:14:07.615687+00:00",
+      "last_checked": "2026-08-02T08:11:09.126936+00:00",
       "release_date": "2026-10-23",
       "runtime": 116
     },
@@ -3850,7 +3850,7 @@
       ],
       "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch ...",
       "streaming": {},
-      "last_checked": "2026-07-24T08:14:08.249760+00:00",
+      "last_checked": "2026-08-02T08:11:09.842552+00:00",
       "release_date": "2026-11-25"
     },
     {
@@ -3870,7 +3870,7 @@
       ],
       "overview": "After years of maneuvering the canal-ridden, superstitious city of Venice, Italy, a scrappy black cat named Nero begins to question whether he’s lived the right lives. Indebted to Rocco, a ruthless...",
       "streaming": {},
-      "last_checked": "2026-07-24T08:14:09.038650+00:00",
+      "last_checked": "2026-08-02T08:11:10.605228+00:00",
       "release_date": "2027-03-05"
     },
     {
@@ -4004,6 +4004,37 @@
       "last_checked": "2026-07-30T08:12:35.270545+00:00",
       "season_count": 4,
       "episode_count": 28
+    },
+    {
+      "title": "Harry and the Hendersons",
+      "year": 1987,
+      "type": "movie",
+      "tmdb_id": "movie/8989",
+      "lists": [
+        "family"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/5ZNWhOEsuNHIQ1gbtwdTGK7srCr.jpg",
+      "rating": "PG",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "overview": "When the Hendersons accidentally run over a strange Bigfoot-type animal, they decide to take the friendly \"Harry\" home and adopt him as a pet.",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0JC7Q5HLYQX1FZCADG1UZAT39P/ref=atv_dp",
+          "quality": "hd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-08-02T08:11:11.385028+00:00",
+      "runtime": 109,
+      "release_date": "1987-06-05"
     }
   ]
 }

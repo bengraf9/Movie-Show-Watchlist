@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T08:11:11.617581+00:00",
+  "last_updated": "2026-08-03T09:31:23.970130+00:00",
   "country": "us",
   "items": [
     {
@@ -3453,7 +3453,7 @@
           "link": "https://www.netflix.com/title/81911351"
         }
       },
-      "last_checked": "2026-07-26T08:13:41.113223+00:00",
+      "last_checked": "2026-08-03T09:31:06.054464+00:00",
       "runtime": 113,
       "release_date": "2026-05-08"
     },
@@ -3482,9 +3482,16 @@
           "type": "subscription",
           "link": "https://tv.apple.com/us/show/ted-lasso/umc.cmc.vtoh0mn0xn7t3c643xqonfzy",
           "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "subscription",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1b57fe59-dd2b-4706-9439-9c9f75d9db27",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-26T08:13:42.390364+00:00",
+      "last_checked": "2026-08-03T09:31:07.903571+00:00",
       "season_count": 3,
       "episode_count": 34,
       "watched_seasons": 3
@@ -3517,7 +3524,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-26T08:13:43.039064+00:00",
+      "last_checked": "2026-08-03T09:31:09.228747+00:00",
       "runtime": 100,
       "release_date": "1995-01-27"
     },
@@ -3565,7 +3572,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-07-26T08:13:43.522192+00:00",
+      "last_checked": "2026-08-03T09:31:10.072617+00:00",
       "runtime": 80,
       "release_date": "2004-07-30"
     },
@@ -3598,7 +3605,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-26T08:13:44.016758+00:00",
+      "last_checked": "2026-08-03T09:31:10.835430+00:00",
       "runtime": 104,
       "release_date": "2013-06-14"
     },
@@ -3633,7 +3640,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-26T08:13:45.633014+00:00",
+      "last_checked": "2026-08-03T09:31:13.324958+00:00",
       "season_count": 1,
       "episode_count": 10,
       "watched_seasons": 1
@@ -3662,7 +3669,7 @@
           "link": "https://www.netflix.com/title/81758849"
         }
       },
-      "last_checked": "2026-07-26T08:13:47.168071+00:00",
+      "last_checked": "2026-08-03T09:31:15.539220+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -3682,16 +3689,17 @@
         "Adventure",
         "Crime"
       ],
-      "overview": "Ben Reilly, an aging and down on his luck private investigator in 1930s New York, is forced to grapple with his past life as the city's one and only superhero.",
+      "overview": "Private investigator Ben Reilly is hired on a couple of straightforward cases... until mobsters, monsters, and a mysterious femme fatale spin a web that brings him face to face with his former life...",
       "streaming": {
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0TPA7F48GEJVGD8KKM1NC6QQ9Q"
+          "link": "https://www.amazon.com/gp/video/detail/0TPA7F48GEJVGD8KKM1NC6QQ9Q",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-26T08:13:48.451576+00:00",
+      "last_checked": "2026-08-03T09:31:17.540189+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -3721,7 +3729,7 @@
           "price": "19.99 USD"
         }
       },
-      "last_checked": "2026-07-26T08:13:49.054232+00:00",
+      "last_checked": "2026-08-03T09:31:18.552653+00:00",
       "release_date": "2026-06-12",
       "runtime": 146
     },
@@ -3756,7 +3764,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-26T08:13:50.173828+00:00",
+      "last_checked": "2026-08-03T09:31:20.601767+00:00",
       "season_count": 1,
       "episode_count": 7
     },
@@ -3900,7 +3908,7 @@
           "price": "29.99 USD"
         }
       },
-      "last_checked": "2026-07-26T08:13:50.807890+00:00",
+      "last_checked": "2026-08-03T09:31:21.589690+00:00",
       "release_date": "2026-07-01",
       "runtime": 90
     },
@@ -3929,7 +3937,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-26T08:13:51.970263+00:00",
+      "last_checked": "2026-08-03T09:31:23.708797+00:00",
       "season_count": 1,
       "episode_count": 10
     },

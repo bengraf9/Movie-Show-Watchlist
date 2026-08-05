@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T08:26:53.739726+00:00",
+  "last_updated": "2026-08-05T08:24:55.251039+00:00",
   "country": "us",
   "items": [
     {
@@ -2426,7 +2426,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-28T08:22:39.482956+00:00",
+      "last_checked": "2026-08-05T08:24:52.777896+00:00",
       "runtime": 97,
       "release_date": "2021-11-24"
     },
@@ -2462,7 +2462,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0RM0H61GS3T6PEGQ1RNMZP9X1F/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0RM0H61GS3T6PEGQ1RNMZP9X1F?ref_=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
         },
@@ -2474,7 +2474,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-28T08:22:39.954017+00:00",
+      "last_checked": "2026-08-05T08:24:53.180152+00:00",
       "runtime": 135,
       "release_date": "2023-05-26"
     },
@@ -3222,7 +3222,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-27T09:37:59.491348+00:00",
+      "last_checked": "2026-08-05T08:24:53.586406+00:00",
       "runtime": 107,
       "release_date": "2021-03-05"
     },
@@ -3260,7 +3260,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-07-27T09:37:59.905769+00:00",
+      "last_checked": "2026-08-05T08:24:53.975635+00:00",
       "runtime": 104,
       "release_date": "2019-05-10"
     },
@@ -3273,7 +3273,7 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://cdn.movieofthenight.com/show/3891/poster/vertical/en/240.jpg?Expires=1800276232&Signature=UJvCVngQNrJZoyhESPchJdFEu9WwOJIMdPTNOuHAiDtje0oEiM6jnvBsMaNaydG4qYkl~1YpJt2Dr9naaPNZBpytuBCUAjaFJn7dh6Cy31KgIZlNPU2L6Arw7ISKYs~djQby56jxFeZaQDJLL~qH16PmrN3DSc0R5rDMvyQGd3fV-CJOwIuySh96AttEiAFUi9QpzX0PTaOqHWSnpDr05zZiPPpHZDYrMwzVbxljnjZiSfxWLEJXnpy3EjsvCxIYHY91gCf5ObiyTiZEMWyBweexdnzqw4bvJ5-xlb9mzjF229UdXyC~dRCsV5wYKic8OccAMHo1clZDOpkxLKJeWA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/3891/poster/vertical/en/240.jpg?Expires=1817083183&Signature=iWEQNTCvmoYpFckgRCjwZ7be1fj-An0WW2S9AJ96WbVShOKeF21Oy74C5ugxrK3bxiciUVlQGxJOa8OOgdNhX3I8Tll0f1EhJjgzdIKH5Hb24L37bWpLvW5hJzLFlcHelheVlg4ZH-AbknOLe7UtPvZQk-6v4-6EsLdh4zb~Al9gZJORTX0k00VSzSqmCZEUJQ1HnGMn5KDhrZNNuu85NAlwhyk1l6PlI-8Twnr71jeDwU3e6byuAh3n29Y8iDjbr0PWpOz6qFiZSIyQeGLXcXCAnMtPs5vDUrIxNAm4ilwVZpqZqyZHeIlSpxTObZL~WcUbvBoHYHfK8D09LFaFbw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Action",
@@ -3286,12 +3286,12 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0MUFNHGYPORAR6RYTFGMZLHHNQ/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0ILEQPPDG1JVS299OOBAAL5YZT?ref_=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-27T09:38:00.349936+00:00",
+      "last_checked": "2026-08-05T08:24:54.352154+00:00",
       "runtime": 88,
       "release_date": "2001-03-18"
     },
@@ -3317,7 +3317,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "free",
-          "link": "https://www.amazon.com/gp/video/detail/0PSQZFAAEEHJWNCMP787GHHEZT/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0PSQZFAAEEHJWNCMP787GHHEZT?ref_=atv_dp",
           "quality": "uhd"
         },
         "apple": {
@@ -3329,7 +3329,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-27T09:38:00.796353+00:00",
+      "last_checked": "2026-08-05T08:24:54.749272+00:00",
       "runtime": 87,
       "release_date": "2019-05-03"
     },
@@ -3349,23 +3349,23 @@
       ],
       "overview": "Twin brothers return to their hometown only to discover a great evil is waiting to welcome them.",
       "streaming": {
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://play.hbomax.com/movie/25a3be72-9dec-4544-b825-105ef41d6314",
-          "quality": "uhd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0J21M9AM4CY8XJ74W902BIHZYM?ref_=atv_dp",
           "quality": "uhd",
-          "price": "5.99 USD"
+          "price": "2.99 USD"
+        },
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/movie/25a3be72-9dec-4544-b825-105ef41d6314",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-27T09:38:01.247263+00:00",
+      "last_checked": "2026-08-05T08:24:55.250438+00:00",
       "runtime": 137,
       "release_date": "2025-04-18"
     },

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T08:24:55.251039+00:00",
+  "last_updated": "2026-08-06T08:23:14.120457+00:00",
   "country": "us",
   "items": [
     {
@@ -37,7 +37,7 @@
       "priority": {
         "dad-movie": 11
       },
-      "poster": "https://cdn.movieofthenight.com/show/3748/poster/vertical/en/240.jpg?Expires=1800371597&Signature=CGMpdETArmw7DjndCExpyJsJ7ZUD3YNnDy5S3EqS3RKQdOtRVGExaRDa0dEIbmUKYZeM4RehRKYBwbQPyCNLFpkNEDlV723TvFohw3twBbhxEnuKMMkImyqX4C2l3bnd-VgDiPinlHdjf3F1U1ux5Q8AUiC~14EbB~MZvevQKKlS0OlXz-QWn0h2VSxi4sED2t5VlAqVeGutaMUHidpMALRq1Y~60ycJcnS1h-TIs52zWfMlXqan7dXYMK5XY-BSJPu~h67McOjx1MNkqLQuitNeOzy~pz1YCdwYiVLIpOwUeo-rdOo-VK0nPtnawnIVSyyuB6VffG6MOPlttb6lWg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/3748/poster/vertical/en/240.jpg?Expires=1817084262&Signature=AHz9kfOOKbbknI~WQPn33D82bvmjLfFINkndHJCPZzu4tKUh2mh391rR8fVh60u4IKDt4zJXeswRgBnINzMQxzt592PMznaLs-n5dopCm6WV6IV7C3okJZPqrR2BL7uAwuYqxiHNiaHGNE4AvLxWxi5Z5raDTKJIUkcF6HWIGQza20TJb-R5dAM~HMIuZqkUe0lqYfKyK8Y3n~0HSKhCMJe9pwG5YGA2VlcgUwKKeIa0j6Bt4laSp1dj75BSX1BrrExJuv023EUcmSwijCZiCzPM53xK2BZstGfA2hWdb04ziLYnMkmF0k6~Mbmlq0MvYC3JhbuiwSXjlbepFLqX-A__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
       "genres": [
         "Comedy",
@@ -61,7 +61,7 @@
           "link": "https://tubitv.com/movies/100046625/swiss-army-man"
         }
       },
-      "last_checked": "2026-07-29T08:28:17.476259+00:00",
+      "last_checked": "2026-08-06T08:22:53.063418+00:00",
       "runtime": 93,
       "release_date": "2016-07-01"
     },
@@ -76,7 +76,7 @@
       "priority": {
         "dad-movie": 3
       },
-      "poster": "https://cdn.movieofthenight.com/show/3270/poster/vertical/en/240.jpg?Expires=1800300935&Signature=Bj~0KFZ1SKGx362SLepXhYAW9BED17M-2fGAY~jxHQuognehj5TX81h3mp2b8x2zxyKZxMUgn48fEfIsplxFASH6CLFY9Q8yWZZFzGs0vEhNpOEUwrPZ3HcDamIFHhdaJsianxGW9Mukbc4mVBnkWX42a5Y3Kh9j0PuHU11k5Awe6oZbMS5qAxwKGW-sZ4PIdRjNJqgeTFsP-dLVjioRflA2Coi77AJ6zG3adkX4YagbPFkeNGzxQnX9aTfpeV5v0U5M5X5jObZ--oX3QFDu-qxZ17mYqMYEexzjTa08F7qqLtQVELP57DLvyQ3kyQTKB9DjLxkUsd2peFvccur9Xg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/3270/poster/vertical/en/240.jpg?Expires=1817087860&Signature=gi1hl7j1soaOENvcN21rgAMWZcNt7ljQpViksYI1Ynel~iaEtNxJDjUIq5VuHTyxAmD-D7a0qMvBPnIJ2Xyy64dvQi-fj3M-wCtf-Gx4tvil5u9~MNuZ39ET-pxiD-J7H39Y~jmwdt32~s-wh-z1BYB3Xh~xXZAU7286QNULE~nARtZmH0JfydsTlwVfDW4lZgQTp8Fb2GLbqhetl2v64rb4QatNjHu0ngaL5aNt6qfZCkPwQ4uMrFy7RKBMeYMyqBZQ6J2We6nOX0HHFcV5cj4vn7uNUkQr-SQ~R2WZlMlCLnr1AqA~uFuii5xPIzoOiD--PHIkLFTKRwVn2~Z75A__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG-13",
       "genres": [
         "Comedy",
@@ -88,12 +88,12 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0LTUA14SORGQY8WUPE7DY4BHGN/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0LTUA14SORGQY8WUPE7DY4BHGN?ref_=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-29T08:28:18.157877+00:00",
+      "last_checked": "2026-08-06T08:22:53.745412+00:00",
       "runtime": 94,
       "release_date": "1987-04-17"
     },
@@ -178,9 +178,9 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0RHJNKCIHVBMCKBLWYROYYYIO1/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0RHJNKCIHVBMCKBLWYROYYYIO1?ref_=atv_dp",
           "quality": "uhd",
-          "price": "5.99 USD"
+          "price": "3.99 USD"
         },
         "hulu": {
           "service": "hulu",
@@ -190,7 +190,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-29T08:28:18.823116+00:00",
+      "last_checked": "2026-08-06T08:22:54.458342+00:00",
       "runtime": 110,
       "release_date": "2025-06-13"
     },
@@ -210,8 +210,16 @@
       "genres": [
         "Drama"
       ],
-      "overview": "Young Sammy Fabelman falls in love with filmmaking after watching \"The Greatest Show on Earth.\"",
+      "overview": "Young Sammy Fabelman falls in love with movies after his parents take him to see \"The Greatest Show on Earth.\" Armed with a camera, Sammy starts to make his own films at home, much to the delight o...",
       "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0R5M89EX4U1ZPCJKFMDYU4SFEF?ref_=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        },
         "peacock": {
           "service": "peacock",
           "serviceName": "Peacock",
@@ -226,17 +234,9 @@
           "link": "https://tv.apple.com/us/movie/the-fabelmans/umc.cmc.4lgvd75jcuqp79fuar3e9p9zh?playableId=tvs.sbd.9001%3A1655490626",
           "quality": "hd",
           "price": "3.99 USD"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0R5M89EX4U1ZPCJKFMDYU4SFEF/ref=atv_dp",
-          "quality": "uhd",
-          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-29T08:28:19.564575+00:00",
+      "last_checked": "2026-08-06T08:22:55.221148+00:00",
       "runtime": 150,
       "release_date": "2022-11-23"
     },
@@ -307,7 +307,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-07-29T08:28:20.305747+00:00",
+      "last_checked": "2026-08-06T08:22:55.919586+00:00",
       "runtime": 91,
       "release_date": "1991-02-08"
     },
@@ -334,12 +334,12 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0N0CRCT95JOS7MUTAFSH7ZJ9YI/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0N0CRCT95JOS7MUTAFSH7ZJ9YI?ref_=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-29T08:28:20.991836+00:00",
+      "last_checked": "2026-08-06T08:22:56.687010+00:00",
       "runtime": 124,
       "release_date": "1979-12-19"
     },
@@ -360,7 +360,7 @@
         "Action",
         "Adventure"
       ],
-      "overview": "A look at the military commander's origins and his swift, ruthless climb to emperor.",
+      "overview": "A look at the military commander's origins and his swift, ruthless climb to emperor, viewed through the prism of his addictive and often volatile relationship with his wife and one true love, Josep...",
       "streaming": {
         "apple": {
           "service": "apple",
@@ -378,7 +378,7 @@
           "price": "14.99 USD"
         }
       },
-      "last_checked": "2026-07-29T08:28:21.739608+00:00",
+      "last_checked": "2026-08-06T08:22:57.516303+00:00",
       "runtime": 157,
       "release_date": "2023-11-22"
     },
@@ -420,11 +420,10 @@
           "service": "hbo",
           "serviceName": "HBO Max",
           "type": "subscription",
-          "link": "https://play.hbomax.com/movie/5e4fb59a-fbe8-4be8-ba4f-eccc4005f169",
-          "quality": "uhd"
+          "link": "https://therokuchannel.roku.com/details/3e76971496195f9d9ec590955f65212b"
         }
       },
-      "last_checked": "2026-07-29T08:28:22.498454+00:00",
+      "last_checked": "2026-08-06T08:22:58.268556+00:00",
       "runtime": 106,
       "release_date": "2024-03-08"
     },
@@ -462,7 +461,7 @@
           "price": "2.49 USD"
         }
       },
-      "last_checked": "2026-07-29T08:28:23.243310+00:00",
+      "last_checked": "2026-08-06T08:22:59.045551+00:00",
       "runtime": 83,
       "release_date": "2025-09-12"
     },
@@ -497,12 +496,12 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0Q7FZC1JL1C5VNIW2WV2Q82TQ4/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0Q7FZC1JL1C5VNIW2WV2Q82TQ4?ref_=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-29T08:28:23.997008+00:00",
+      "last_checked": "2026-08-06T08:22:59.793105+00:00",
       "runtime": 129,
       "release_date": "1963-03-16"
     },
@@ -541,7 +540,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-29T08:28:24.671996+00:00",
+      "last_checked": "2026-08-06T08:23:00.463094+00:00",
       "runtime": 107,
       "release_date": "1982-01-01"
     },
@@ -580,7 +579,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-07-29T08:28:25.345209+00:00",
+      "last_checked": "2026-08-06T08:23:01.225343+00:00",
       "runtime": 98,
       "release_date": "2024-06-21"
     },
@@ -653,7 +652,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-29T08:28:26.011195+00:00",
+      "last_checked": "2026-08-06T08:23:01.895286+00:00",
       "runtime": 114,
       "release_date": "2013-12-25"
     },
@@ -692,7 +691,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-07-29T08:28:26.797225+00:00",
+      "last_checked": "2026-08-06T08:23:02.643838+00:00",
       "runtime": 90,
       "release_date": "2025-03-14"
     },
@@ -838,7 +837,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-29T08:28:28.879717+00:00",
+      "last_checked": "2026-08-06T08:23:05.154789+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1
@@ -2503,7 +2502,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-29T08:28:29.957421+00:00",
+      "last_checked": "2026-08-06T08:23:06.291381+00:00",
       "runtime": 89,
       "release_date": "2020-03-14"
     },
@@ -2531,7 +2530,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-29T08:28:30.704662+00:00",
+      "last_checked": "2026-08-06T08:23:07.077881+00:00",
       "runtime": 38,
       "release_date": "2022-04-14"
     },
@@ -3800,7 +3799,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-29T08:28:32.356248+00:00",
+      "last_checked": "2026-08-06T08:23:09.316104+00:00",
       "season_count": 2,
       "episode_count": 16
     },
@@ -3972,7 +3971,7 @@
           "link": "https://www.netflix.com/title/81750702"
         }
       },
-      "last_checked": "2026-07-30T08:12:33.544971+00:00",
+      "last_checked": "2026-08-06T08:23:11.693833+00:00",
       "season_count": 2,
       "episode_count": 16
     },
@@ -4015,7 +4014,7 @@
           "link": "https://www.netflix.com/title/81613903"
         }
       },
-      "last_checked": "2026-07-30T08:12:35.270545+00:00",
+      "last_checked": "2026-08-06T08:23:13.852603+00:00",
       "season_count": 4,
       "episode_count": 28
     },

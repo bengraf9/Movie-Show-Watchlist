@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T07:03:54.708806+00:00",
+  "last_updated": "2026-08-08T06:40:20.506846+00:00",
   "country": "us",
   "items": [
     {
@@ -900,7 +900,7 @@
           "link": "https://www.netflix.com/title/81122572"
         }
       },
-      "last_checked": "2026-07-31T08:39:20.177055+00:00",
+      "last_checked": "2026-08-08T06:39:52.724194+00:00",
       "season_count": 1,
       "episode_count": 3
     },
@@ -962,7 +962,7 @@
           "link": "https://www.netflix.com/title/81677257"
         }
       },
-      "last_checked": "2026-07-31T08:39:23.367983+00:00",
+      "last_checked": "2026-08-08T06:39:55.051509+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -1011,14 +1011,14 @@
       "priority": {
         "dad-series": 13
       },
-      "poster": "https://image.tmdb.org/t/p/w300/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
       "rating": "TV-PG",
       "genres": [
         "Action",
         "Adventure",
         "Science Fiction"
       ],
-      "overview": "The series will feature fan favorites from season two of STAR TREK: DISCOVERY, Anson Mount as Captain Christopher Pike, Rebecca Romijn as Number One and Ethan Peck as Science Officer Spock. The ser...",
+      "overview": "STAR TREK: STRANGE NEW WORLDS is based on the years Captain Christopher Pike manned the helm of the U.S.S. Enterprise. The series will follow Captain Pike, Officer Spock and Number One in the years...",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -1041,7 +1041,7 @@
           "link": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/"
         }
       },
-      "last_checked": "2026-07-31T08:39:25.540021+00:00",
+      "last_checked": "2026-08-08T06:39:57.041079+00:00",
       "season_count": 4,
       "episode_count": 40
     },
@@ -1065,12 +1065,6 @@
       ],
       "overview": "Star Trek: Picard features Sir Patrick Stewart reprising his iconic role as Jean-Luc Picard, which he played for seven seasons on Star Trek: The Next Generation. The new series will follow this ico...",
       "streaming": {
-        "paramount": {
-          "service": "paramount",
-          "serviceName": "Paramount+",
-          "type": "subscription",
-          "link": "https://www.paramountplus.com/shows/star-trek-picard/"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -1085,9 +1079,15 @@
           "type": "buy",
           "link": "https://tv.apple.com/us/show/star-trek-picard/umc.cmc.2tqufhly635jf1fnuonxojax",
           "quality": "sd"
+        },
+        "paramount": {
+          "service": "paramount",
+          "serviceName": "Paramount+",
+          "type": "subscription",
+          "link": "https://www.paramountplus.com/shows/star-trek-picard/"
         }
       },
-      "last_checked": "2026-07-31T08:39:27.652608+00:00",
+      "last_checked": "2026-08-08T06:39:59.084447+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1191,13 +1191,6 @@
           "link": "https://tubitv.com/series/300017904/american-gods",
           "quality": "hd"
         },
-        "roku": {
-          "service": "roku",
-          "serviceName": "Roku",
-          "type": "free",
-          "link": "https://therokuchannel.roku.com/details/61c636a6f9c959adbdcc0053c6e18597",
-          "quality": "hd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -1210,9 +1203,16 @@
           "serviceName": "Prime Video",
           "type": "free",
           "link": "https://www.amazon.com/gp/video/detail/0U5LPGLHIBYAA24ISAM352994E"
+        },
+        "roku": {
+          "service": "roku",
+          "serviceName": "Roku",
+          "type": "free",
+          "link": "https://therokuchannel.roku.com/details/61c636a6f9c959adbdcc0053c6e18597",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-07-31T08:39:30.761239+00:00",
+      "last_checked": "2026-08-08T06:40:01.322426+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1241,22 +1241,22 @@
           "link": "https://www.amazon.com/gp/video/detail/0U41UH674GU5A94PSQ75PF9M9M",
           "quality": "hd"
         },
-        "peacock": {
-          "service": "peacock",
-          "serviceName": "Peacock",
-          "type": "subscription",
-          "link": "https://www.peacocktv.com/watch/asset/tv/the-paper-nbc-edition/8084467132185715112",
-          "quality": "hd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
           "type": "buy",
           "link": "https://tv.apple.com/us/show/the-paper/umc.cmc.1maccnluzq1eucu5xvwr345hp",
           "quality": "sd"
+        },
+        "peacock": {
+          "service": "peacock",
+          "serviceName": "Peacock",
+          "type": "subscription",
+          "link": "https://www.peacocktv.com/watch/asset/tv/the-paper-nbc-edition/8084467132185715112",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-07-31T08:39:34.901870+00:00",
+      "last_checked": "2026-08-08T06:40:03.837515+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -1278,6 +1278,13 @@
       ],
       "overview": "When a fast-talking lawyer is disbarred, he’s forced back to school and finds unlikely friendships in the study group he forms to impress a student.",
       "streaming": {
+        "peacock": {
+          "service": "peacock",
+          "serviceName": "Peacock",
+          "type": "subscription",
+          "link": "https://www.peacocktv.com/watch/asset/tv/community/8700597605358573112",
+          "quality": "uhd"
+        },
         "hulu": {
           "service": "hulu",
           "serviceName": "Hulu",
@@ -1291,16 +1298,9 @@
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0RZDRR4YJ51TRS4ISXB1JC1KTR",
           "quality": "hd"
-        },
-        "peacock": {
-          "service": "peacock",
-          "serviceName": "Peacock",
-          "type": "subscription",
-          "link": "https://www.peacocktv.com/watch/asset/tv/community/8700597605358573112",
-          "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-31T08:39:40.063267+00:00",
+      "last_checked": "2026-08-08T06:40:05.847084+00:00",
       "season_count": 6,
       "episode_count": 110
     },
@@ -1329,7 +1329,7 @@
           "link": "https://play.hbomax.com/show/c967b1a4-d0e2-491e-967e-ae09f88fef62"
         }
       },
-      "last_checked": "2026-07-31T08:39:41.944019+00:00",
+      "last_checked": "2026-08-08T06:40:07.608909+00:00",
       "season_count": 1,
       "episode_count": 2
     },
@@ -1360,7 +1360,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-31T08:39:43.768989+00:00",
+      "last_checked": "2026-08-08T06:40:09.330906+00:00",
       "season_count": 5,
       "episode_count": 30
     },
@@ -2558,7 +2558,7 @@
           "link": "https://www.netflix.com/title/81128389"
         }
       },
-      "last_checked": "2026-07-31T08:39:45.623413+00:00",
+      "last_checked": "2026-08-08T06:40:11.012877+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2579,7 +2579,7 @@
       ],
       "overview": "It's the land we love and the land we think we know. We see America's breathtaking landscapes and wildlife as timeless, but the truth is very different. Its unique geography drives the forces of na...",
       "streaming": {},
-      "last_checked": "2026-07-31T08:39:48.312680+00:00",
+      "last_checked": "2026-08-08T06:40:13.431982+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -2608,7 +2608,7 @@
           "link": "https://www.netflix.com/title/81028343"
         }
       },
-      "last_checked": "2026-07-31T08:39:50.141631+00:00",
+      "last_checked": "2026-08-08T06:40:15.118177+00:00",
       "season_count": 1,
       "episode_count": 4
     },
@@ -2642,7 +2642,7 @@
           "link": "https://www.netflix.com/title/80078037"
         }
       },
-      "last_checked": "2026-07-31T08:39:52.098719+00:00",
+      "last_checked": "2026-08-08T06:40:16.790311+00:00",
       "season_count": 1,
       "episode_count": 26
     },
@@ -2670,7 +2670,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-31T08:39:54.449168+00:00",
+      "last_checked": "2026-08-08T06:40:18.854214+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2690,7 +2690,7 @@
         "Animation",
         "Comedy"
       ],
-      "overview": "Join Poppy and Branch on their latest adventure as they embark on an epic journey that leads to Branch's reunion with his BroZone brothers and Poppy's long-lost sister, Viva.",
+      "overview": "After two films of true friendship and relentless flirting, Poppy (Anna Kendrick) and Branch (Justin Timberlake) are now officially, finally, a couple (#broppy)!",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -2700,8 +2700,8 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-07-31T08:39:55.454271+00:00",
-      "runtime": 88,
+      "last_checked": "2026-08-08T06:40:19.826125+00:00",
+      "runtime": 85,
       "release_date": "2023-11-17"
     },
     {
@@ -2728,7 +2728,7 @@
           "link": "https://www.netflix.com/title/81276049"
         }
       },
-      "last_checked": "2026-07-31T08:39:56.140658+00:00",
+      "last_checked": "2026-08-08T06:40:20.506337+00:00",
       "runtime": 59,
       "release_date": "2021-10-01"
     },

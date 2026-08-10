@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T06:43:07.001826+00:00",
+  "last_updated": "2026-08-10T07:18:28.981883+00:00",
   "country": "us",
   "items": [
     {
@@ -3034,17 +3034,8 @@
         "Comedy"
       ],
       "overview": "“Timmy Failure: Mistakes Were Made\" follows the hilarious exploits of deadpan hero, Timmy Failure, an elementary school oddball who, along with his polar bear partner Total, operates the detective ...",
-      "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/timmy-failure-mistakes-were-made/umc.cmc.2fam9f115912y31oxp6hlihle?playableId=tvs.sbd.9001%3A1710343965",
-          "quality": "hd",
-          "price": "3.99 USD"
-        }
-      },
-      "last_checked": "2026-08-02T08:11:01.525375+00:00",
+      "streaming": {},
+      "last_checked": "2026-08-10T07:18:17.099423+00:00",
       "runtime": 102,
       "release_date": "2020-01-25"
     },
@@ -3063,30 +3054,8 @@
         "Documentary"
       ],
       "overview": "National Geographic, acclaimed filmmaker Darren Aronofsky and award-winning producer Jane Root present a cinematic event series hosted by Will Smith. One Strange Rock reveals the magical twists of ...",
-      "streaming": {
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-2a608e05-e6b0-42f1-b5fd-acb28ee5cc7c",
-          "quality": "hd"
-        },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/show/one-strange-rock/umc.cmc.5041h6ycj7s76wi1tjdoodjws",
-          "quality": "hd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0MJD27WAGFAZTAAIYNSAC75PR9",
-          "quality": "sd"
-        }
-      },
-      "last_checked": "2026-08-02T08:11:03.036450+00:00",
+      "streaming": {},
+      "last_checked": "2026-08-10T07:18:18.718357+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -3105,17 +3074,8 @@
         "Documentary"
       ],
       "overview": "For years, Patrick Dykstra has traveled the globe following and diving with whales, learning how whales see, hear and perceive other creatures in the water. In Dominica, Patrick has a life changing...",
-      "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0LE7SV6ZZITV5AO096WZ3CFL2H?ref_=atv_dp",
-          "quality": "hd",
-          "price": "3.99 USD"
-        }
-      },
-      "last_checked": "2026-08-02T08:11:03.999861+00:00",
+      "streaming": {},
+      "last_checked": "2026-08-10T07:18:19.824109+00:00",
       "runtime": 73,
       "release_date": "2024-02-21"
     },
@@ -3135,16 +3095,8 @@
         "Animation"
       ],
       "overview": "Young Michael, shipwrecked on a remote island, must adapt to life alone. Over time, he feels another presence, learning that this world is home to both unimaginable danger and beauty.",
-      "streaming": {
-        "roku": {
-          "service": "roku",
-          "serviceName": "Roku",
-          "type": "free",
-          "link": "https://therokuchannel.roku.com/details/c5e604d90fe95155bb68f0337408fcb1",
-          "quality": "hd"
-        }
-      },
-      "last_checked": "2026-08-02T08:11:04.786508+00:00",
+      "streaming": {},
+      "last_checked": "2026-08-10T07:18:20.780646+00:00",
       "runtime": 84,
       "release_date": "2024-10-18"
     },
@@ -3165,17 +3117,8 @@
         "Animation"
       ],
       "overview": "Tom Lee discovers he is part of a long lineage of magical protectors known as the Guardians. With guidance from a mythical tiger named Hu and the other Zodiac animal warriors, Tom trains to take on...",
-      "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0NT3DVDEZPPXIBVU2DUYI4ZLZ9/ref=atv_dp",
-          "quality": "uhd",
-          "price": "4.99 USD"
-        }
-      },
-      "last_checked": "2026-08-02T08:11:05.610923+00:00",
+      "streaming": {},
+      "last_checked": "2026-08-10T07:18:21.772651+00:00",
       "runtime": 83,
       "release_date": "2024-02-02"
     },
@@ -3384,30 +3327,8 @@
         "Romance"
       ],
       "overview": "Two hockey stars bound by ambition, rivalry, and a magnetic pull neither of them fully understands.",
-      "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0OBESIZVH5XAJ1QDEPGKSUAVGH",
-          "quality": "hd"
-        },
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://play.hbomax.com/show/50cd4e99-04ee-427b-a3b4-da721ed05d9c",
-          "quality": "uhd"
-        },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/show/heated-rivalry/umc.cmc.3p4fdqsnpelmkkkdpjbh1fd1q",
-          "quality": "hd"
-        }
-      },
-      "last_checked": "2026-08-02T08:11:06.816067+00:00",
+      "streaming": {},
+      "last_checked": "2026-08-10T07:18:23.239711+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -3430,7 +3351,7 @@
       ],
       "overview": "Forty years after the events of the first Spaceballs, the galaxy is once again under threat. A threat so evil, so unstoppable, so completely lacking in any original ideas, that it has vowed to brin...",
       "streaming": {},
-      "last_checked": "2026-08-02T08:11:07.537447+00:00",
+      "last_checked": "2026-08-10T07:18:24.235287+00:00",
       "release_date": "2027-04-23"
     },
     {
@@ -3821,7 +3742,7 @@
       ],
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-...",
       "streaming": {},
-      "last_checked": "2026-08-02T08:11:08.349305+00:00",
+      "last_checked": "2026-08-10T07:18:25.238800+00:00",
       "release_date": "2026-06-19",
       "runtime": 102
     },
@@ -3842,7 +3763,7 @@
       ],
       "overview": "When Klara, an Artificial Friend who wants nothing more than to find the perfect home, meets Josie, each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her ...",
       "streaming": {},
-      "last_checked": "2026-08-02T08:11:09.126936+00:00",
+      "last_checked": "2026-08-10T07:18:26.178312+00:00",
       "release_date": "2026-10-23",
       "runtime": 116
     },
@@ -3863,7 +3784,7 @@
       ],
       "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch ...",
       "streaming": {},
-      "last_checked": "2026-08-02T08:11:09.842552+00:00",
+      "last_checked": "2026-08-10T07:18:27.120810+00:00",
       "release_date": "2026-11-25"
     },
     {
@@ -3883,7 +3804,7 @@
       ],
       "overview": "After years of maneuvering the canal-ridden, superstitious city of Venice, Italy, a scrappy black cat named Nero begins to question whether he’s lived the right lives. Indebted to Rocco, a ruthless...",
       "streaming": {},
-      "last_checked": "2026-08-02T08:11:10.605228+00:00",
+      "last_checked": "2026-08-10T07:18:28.044909+00:00",
       "release_date": "2027-03-05"
     },
     {
@@ -4027,7 +3948,7 @@
         "family"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/5ZNWhOEsuNHIQ1gbtwdTGK7srCr.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/9845/poster/vertical/en/240.jpg?Expires=1801783390&Signature=Xt-7VbD0cHzaYl32KiKVUeZc1~cFKtN4id3C19WbtSAmMnk1s3whgKfNpw4Am~Kcs4tOiR5JW0Xc4ynCWEsIWTI56b8ip~sQBjfzM3tqRAovuCtoqrlunQneeZDPvynR4p57zz7wK8yJZb4x2jmpm~A0VI4B1UA~xODN4FA3gBs17ri7QNv597K-CyDOSGWrMacYUVqrkI0Ru3Z~egYMS7bKXgBFfxdx-JBuqY1I1XKKzhKKD3hl4WcU7hFlzeUAXbw73x0mIl-APBO1fS2Gu2soZKxQ2neJ6lRJq4klZqMOPFfcTdUs-~REyX3Uv8eiwBlcTer-HW4PClLaEbGXdg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Comedy",
@@ -4035,17 +3956,8 @@
         "Fantasy"
       ],
       "overview": "When the Hendersons accidentally run over a strange Bigfoot-type animal, they decide to take the friendly \"Harry\" home and adopt him as a pet.",
-      "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0JC7Q5HLYQX1FZCADG1UZAT39P/ref=atv_dp",
-          "quality": "hd",
-          "price": "3.99 USD"
-        }
-      },
-      "last_checked": "2026-08-02T08:11:11.385028+00:00",
+      "streaming": {},
+      "last_checked": "2026-08-10T07:18:28.981842+00:00",
       "runtime": 109,
       "release_date": "1987-06-05"
     }

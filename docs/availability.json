@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T07:14:32.957300+00:00",
+  "last_updated": "2026-08-13T07:16:43.952615+00:00",
   "country": "us",
   "items": [
     {
@@ -2007,7 +2007,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0FCO4Z9G8KI4R1CXC5E3Y3F46Z/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0FCO4Z9G8KI4R1CXC5E3Y3F46Z?ref_=atv_dp",
           "quality": "uhd",
           "price": "4.99 USD"
         },
@@ -2019,7 +2019,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-05T08:24:52.777896+00:00",
+      "last_checked": "2026-08-13T07:16:38.865711+00:00",
       "runtime": 97,
       "release_date": "2021-11-24"
     },
@@ -2034,7 +2034,7 @@
       "priority": {
         "family-movie": 27
       },
-      "poster": "https://cdn.movieofthenight.com/show/2700450/poster/vertical/en/240.jpg?Expires=1800823521&Signature=GK5Lvk4~3W~vrbc1JF4Il082nIHZy3ZA8nKnvto0Tw21HD3jEkmbvxN8gd0uIDrd2nsYpA3F3yMIXuKDO5NDZxavAO8a7pOKAoWxGXQR33-xSM6GiCf-KcQUMIqbRuacZjPhUExDkF5n6wrbCAhsIBF1nzS2LhE-zNf63I9cOMx6FOSuJFfvLaw2RXpkzVuRq3zZcOGwy7zocb7fZEkAbMZ8wOWgzG5WNdzRdnigYJ6moBcXwWkJcGRF3dky6D512bm7NfMELIni4YrxXP7PRpJBPS0JAZWhFn-Ke7kLzjkhxoFuPdosDAgb8CIBGXopmovZBgYWZbD83ksak4mLyw__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/2700450/poster/vertical/en/240.jpg?Expires=1817911665&Signature=Zq2Ns8qAYwJvdSBYPPLcV8f34peDtZ13ixrK31XNIzvB76GQPcL-BIGnL2djMxBHVBDiXGYl8SXQyk4tnpSTrWjni91BFNE6069Hdmh8r0nuVvE4W-Iu6S4iYYJXyW5VryZ14vGkfV4NbF1K9ebw5NpPtFVgFZHNvQZp7VGeal8f1t7Iz93hHSdOwLCUTddOUown9elLq4m~FfcGdIraz39kse7za475vZ265J03wzOkihLaXLj1gcoQnI-uYhxFJQwa4zAIkwgEf3IgLNQQ1qiU~SXBIZdQWdpw-Cmg2Nhbxl6CeMFdNQ7t6sWXIquQeQDk4eoORSdOI4GAnv8Xfg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -2043,20 +2043,20 @@
       ],
       "overview": "In this breathtaking live-action reimagining of the beloved animated musical classic, a spirited young mermaid must follow her heart. She makes a deal with an evil sea witch that allows her to expe...",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/the-little-mermaid/umc.cmc.gto5t9phvu7dpajarqglrfmh?playableId=tvs.sbd.9001%3A1694118353",
-          "quality": "hd",
-          "price": "3.99 USD"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0RM0H61GS3T6PEGQ1RNMZP9X1F?ref_=atv_dp",
           "quality": "uhd",
+          "price": "3.99 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/the-little-mermaid/umc.cmc.gto5t9phvu7dpajarqglrfmh?playableId=tvs.sbd.9001%3A1694118353",
+          "quality": "hd",
           "price": "3.99 USD"
         },
         "disney": {
@@ -2067,7 +2067,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-05T08:24:53.180152+00:00",
+      "last_checked": "2026-08-13T07:16:39.714536+00:00",
       "runtime": 135,
       "release_date": "2023-05-26"
     },
@@ -2756,13 +2756,6 @@
           "quality": "uhd",
           "price": "3.99 USD"
         },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-72aceacd-23df-4fc2-89fb-0b9595a764ca",
-          "quality": "uhd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -2770,9 +2763,16 @@
           "link": "https://tv.apple.com/us/movie/raya-and-the-last-dragon/umc.cmc.13yhvlcnjgixwpl8hy62kuppp?playableId=tvs.sbd.9001%3A1557711427",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-72aceacd-23df-4fc2-89fb-0b9595a764ca",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-05T08:24:53.586406+00:00",
+      "last_checked": "2026-08-13T07:16:40.511745+00:00",
       "runtime": 107,
       "release_date": "2021-03-05"
     },
@@ -2785,7 +2785,7 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://cdn.movieofthenight.com/show/2784/poster/vertical/en/240.jpg?Expires=1800287645&Signature=I5WuYK27SWimZC0s1CnLoeuPVfF81KXuRjClBSLsU5xMMcPIJGU7lyGUqrkA9XY-KrUdb~wgBNWwwlng82-13Avv2M2Wv6vpv8MfIKKWOcY2rUmC8ZdnZP~IBkrc~cezh8vGC7YvxVMF5kVqPNnG2RjnkkV6ECYh1SH-BkZsEttbK6KznA3bX-a90667ApOGGwy2dn4YEef0pcUuIEFti~7if2~Z8VHVvQZouB4NJY-E4SspIknI1flGOZBy-U5y6eLcpuSOEGohtXTN9uEX3WqqM1iQ1grvAFgE6djqotWWjC99y-ijzG32P51RzTdFCv-dJesOsFurY417ptHY2A__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/2784/poster/vertical/en/240.jpg?Expires=1817913865&Signature=cejoOIu90Jzlfo3kXbHkrwc14ibQpJL6oN8Oopyx3WEEdaWZV6rjL1E8TYDyJu2BrAr8u8D18t4CL9QNlNZD8BfOTFb4w8PF-qVHSbcQYBksXLz8W3bxtNQ~6IaxtOJvb7uXuvaI0Y9cJJrbQSP0tfRqsUsNk5-HacBkysakRrm4eUhnNnJO4R1xB-aFAA8xp6kmZqsy3EmYrm9xfyz~bLvGUabcfNlb4lYkTWJAgzCoE~LsX1HnAoILQ3ekMNGN7442x11fh5hlZ6yCMhtIsfxINxT50uijlRAxv7uP9SG02CoTzk3rEKA2Kif13PBvxjyNDUomwfanghC-1paYqQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -2810,7 +2810,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-08-05T08:24:53.975635+00:00",
+      "last_checked": "2026-08-13T07:16:41.596569+00:00",
       "runtime": 104,
       "release_date": "2019-05-10"
     },
@@ -2841,7 +2841,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-05T08:24:54.352154+00:00",
+      "last_checked": "2026-08-13T07:16:42.373954+00:00",
       "runtime": 88,
       "release_date": "2001-03-18"
     },
@@ -2879,7 +2879,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-05T08:24:54.749272+00:00",
+      "last_checked": "2026-08-13T07:16:43.172526+00:00",
       "runtime": 87,
       "release_date": "2019-05-03"
     },
@@ -2905,7 +2905,7 @@
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0J21M9AM4CY8XJ74W902BIHZYM?ref_=atv_dp",
           "quality": "uhd",
-          "price": "2.99 USD"
+          "price": "3.99 USD"
         },
         "hbo": {
           "service": "hbo",
@@ -2915,7 +2915,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-05T08:24:55.250438+00:00",
+      "last_checked": "2026-08-13T07:16:43.951970+00:00",
       "runtime": 137,
       "release_date": "2025-04-18"
     },

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T06:25:43.284606+00:00",
+  "last_updated": "2026-08-16T06:28:37.306758+00:00",
   "country": "us",
   "items": [
     {
@@ -887,7 +887,7 @@
           "link": "https://www.netflix.com/title/81122572"
         }
       },
-      "last_checked": "2026-08-08T06:39:52.724194+00:00",
+      "last_checked": "2026-08-16T06:28:02.353108+00:00",
       "season_count": 1,
       "episode_count": 3
     },
@@ -940,7 +940,7 @@
         "Comedy",
         "Crime"
       ],
-      "overview": "A retired professor with a knack for snooping gets a new lease on life when a private investigator recruits him to go undercover and crack a case.",
+      "overview": "From the creator of \"The Good Place,\" this heartfelt comedy about a retiree-turned-detective is \"a pleasure on most every level,\" says the LA Times.",
       "streaming": {
         "netflix": {
           "service": "netflix",
@@ -949,7 +949,7 @@
           "link": "https://www.netflix.com/title/81677257"
         }
       },
-      "last_checked": "2026-08-08T06:39:55.051509+00:00",
+      "last_checked": "2026-08-16T06:28:05.595851+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -1017,10 +1017,11 @@
           "service": "paramount",
           "serviceName": "Paramount+",
           "type": "subscription",
-          "link": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/"
+          "link": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-08-08T06:39:57.041079+00:00",
+      "last_checked": "2026-08-16T06:28:08.057403+00:00",
       "season_count": 4,
       "episode_count": 40
     },
@@ -1044,6 +1045,13 @@
       ],
       "overview": "Star Trek: Picard features Sir Patrick Stewart reprising his iconic role as Jean-Luc Picard, which he played for seven seasons on Star Trek: The Next Generation. The new series will follow this ico...",
       "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/star-trek-picard/umc.cmc.2tqufhly635jf1fnuonxojax",
+          "quality": "hd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -1052,21 +1060,15 @@
           "quality": "hd",
           "price": "22.99 USD"
         },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/show/star-trek-picard/umc.cmc.2tqufhly635jf1fnuonxojax",
-          "quality": "sd"
-        },
         "paramount": {
           "service": "paramount",
           "serviceName": "Paramount+",
           "type": "subscription",
-          "link": "https://www.paramountplus.com/shows/star-trek-picard/"
+          "link": "https://www.paramountplus.com/shows/star-trek-picard/",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-08-08T06:39:59.084447+00:00",
+      "last_checked": "2026-08-16T06:28:10.288536+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1163,13 +1165,6 @@
       ],
       "overview": "Fresh out of prison, Shadow Moon meets the enigmatic Mr. Wednesday—and is swept into a gathering storm that will upend the course of his life.",
       "streaming": {
-        "tubi": {
-          "service": "tubi",
-          "serviceName": "Tubi",
-          "type": "free",
-          "link": "https://tubitv.com/series/300017904/american-gods",
-          "quality": "hd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -1177,11 +1172,12 @@
           "link": "https://tv.apple.com/us/show/american-gods/umc.cmc.4o7hf0qe1ezickgfxxeppolqr",
           "quality": "hd"
         },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
+        "tubi": {
+          "service": "tubi",
+          "serviceName": "Tubi",
           "type": "free",
-          "link": "https://www.amazon.com/gp/video/detail/0U5LPGLHIBYAA24ISAM352994E"
+          "link": "https://tubitv.com/series/300017904/american-gods",
+          "quality": "hd"
         },
         "roku": {
           "service": "roku",
@@ -1189,9 +1185,15 @@
           "type": "free",
           "link": "https://therokuchannel.roku.com/details/61c636a6f9c959adbdcc0053c6e18597",
           "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "subscription",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fd5d6de8-b2f2-45fe-a376-03965d2fbc6e"
         }
       },
-      "last_checked": "2026-08-08T06:40:01.322426+00:00",
+      "last_checked": "2026-08-16T06:28:13.618292+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1211,7 +1213,7 @@
       "genres": [
         "Comedy"
       ],
-      "overview": "The documentary crew from Dunder Mifflin’s Scranton branch discovers a struggling Midwestern newspaper and the publisher trying to revive it.",
+      "overview": "A documentary crew discovers a struggling Midwestern newspaper and the publisher trying to revive.",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -1235,7 +1237,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-08T06:40:03.837515+00:00",
+      "last_checked": "2026-08-16T06:28:18.365957+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -1257,13 +1259,6 @@
       ],
       "overview": "When a fast-talking lawyer is disbarred, he’s forced back to school and finds unlikely friendships in the study group he forms to impress a student.",
       "streaming": {
-        "peacock": {
-          "service": "peacock",
-          "serviceName": "Peacock",
-          "type": "subscription",
-          "link": "https://www.peacocktv.com/watch/asset/tv/community/8700597605358573112",
-          "quality": "uhd"
-        },
         "hulu": {
           "service": "hulu",
           "serviceName": "Hulu",
@@ -1277,9 +1272,16 @@
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0RZDRR4YJ51TRS4ISXB1JC1KTR",
           "quality": "hd"
+        },
+        "peacock": {
+          "service": "peacock",
+          "serviceName": "Peacock",
+          "type": "subscription",
+          "link": "https://www.peacocktv.com/watch/asset/tv/community/8700597605358573112",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-08T06:40:05.847084+00:00",
+      "last_checked": "2026-08-16T06:28:20.660111+00:00",
       "season_count": 6,
       "episode_count": 110
     },
@@ -1299,7 +1301,7 @@
       "genres": [
         "Documentary"
       ],
-      "overview": "An expansive, yet intimate look at the legendary comedian, writer, and director Mel Brooks - one of the industry's most hilarious and influential minds whose work has had audiences around the world...",
+      "overview": "Exploring the life, career, friendships, and loves of Mel Brooks.",
       "streaming": {
         "hbo": {
           "service": "hbo",
@@ -1308,7 +1310,7 @@
           "link": "https://play.hbomax.com/show/c967b1a4-d0e2-491e-967e-ae09f88fef62"
         }
       },
-      "last_checked": "2026-08-08T06:40:07.608909+00:00",
+      "last_checked": "2026-08-16T06:28:22.788078+00:00",
       "season_count": 1,
       "episode_count": 2
     },
@@ -1339,7 +1341,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-08T06:40:09.330906+00:00",
+      "last_checked": "2026-08-16T06:28:24.723466+00:00",
       "season_count": 5,
       "episode_count": 30
     },
@@ -2153,7 +2155,7 @@
           "link": "https://www.netflix.com/title/81128389"
         }
       },
-      "last_checked": "2026-08-08T06:40:11.012877+00:00",
+      "last_checked": "2026-08-16T06:28:26.538085+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2174,7 +2176,7 @@
       ],
       "overview": "It's the land we love and the land we think we know. We see America's breathtaking landscapes and wildlife as timeless, but the truth is very different. Its unique geography drives the forces of na...",
       "streaming": {},
-      "last_checked": "2026-08-08T06:40:13.431982+00:00",
+      "last_checked": "2026-08-16T06:28:29.367752+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -2203,7 +2205,7 @@
           "link": "https://www.netflix.com/title/81028343"
         }
       },
-      "last_checked": "2026-08-08T06:40:15.118177+00:00",
+      "last_checked": "2026-08-16T06:28:31.376055+00:00",
       "season_count": 1,
       "episode_count": 4
     },
@@ -2228,7 +2230,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0IMRIS820BENDDMH04ZTF3GEI0"
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58b902d8-ce5b-0c91-ba80-b19951e39b65"
         },
         "netflix": {
           "service": "netflix",
@@ -2237,7 +2239,7 @@
           "link": "https://www.netflix.com/title/80078037"
         }
       },
-      "last_checked": "2026-08-08T06:40:16.790311+00:00",
+      "last_checked": "2026-08-16T06:28:33.239426+00:00",
       "season_count": 1,
       "episode_count": 26
     },
@@ -2265,7 +2267,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-08T06:40:18.854214+00:00",
+      "last_checked": "2026-08-16T06:28:35.598818+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2291,11 +2293,11 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0SRZE2GJWMB5TOUTSJRBDRT2R1/ref=atv_dp",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b8e03307-84ae-4027-8040-e23b5061257f",
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-08T06:40:19.826125+00:00",
+      "last_checked": "2026-08-16T06:28:36.614207+00:00",
       "runtime": 85,
       "release_date": "2023-11-17"
     },
@@ -2323,7 +2325,7 @@
           "link": "https://www.netflix.com/title/81276049"
         }
       },
-      "last_checked": "2026-08-08T06:40:20.506337+00:00",
+      "last_checked": "2026-08-16T06:28:37.306114+00:00",
       "runtime": 59,
       "release_date": "2021-10-01"
     },

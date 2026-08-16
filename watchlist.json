@@ -56,20 +56,6 @@
     "rating": "PG-13"
   },
   {
-    "title": "Spider-Man: Brand New Day",
-    "year": 20,
-    "type": "movie",
-    "lists": [
-      "dad"
-    ],
-    "priority": {
-      "dad-movie": 4
-    },
-    "tmdb_id": "movie/969681",
-    "release_date": "20-07-31",
-    "rating": "PG-13"
-  },
-  {
     "title": "The Life of Chuck",
     "type": "movie",
     "lists": [
@@ -665,20 +651,6 @@
     "release_date": "1990-04-07"
   },
   {
-    "title": "Spellbound",
-    "year": 2024,
-    "type": "movie",
-    "lists": [
-      "family"
-    ],
-    "priority": {
-      "family-movie": 11
-    },
-    "tmdb_id": "movie/592983",
-    "rating": "PG",
-    "release_date": "2024-11-11"
-  },
-  {
     "title": "Mr. Magorium's Wonder Emporium",
     "year": 2007,
     "type": "movie",
@@ -1212,20 +1184,6 @@
     "release_date": "2027-04-23"
   },
   {
-    "title": "Remarkably Bright Creatures",
-    "year": 2027,
-    "type": "movie",
-    "lists": [
-      "dad"
-    ],
-    "priority": {
-      "dad-movie": 8
-    },
-    "tmdb_id": "movie/1330021",
-    "release_date": "2026-05-08",
-    "rating": "PG-13"
-  },
-  {
     "title": "Ted Lasso",
     "type": "series",
     "lists": [
@@ -1418,6 +1376,7 @@
     ],
     "tmdb_id": "tv/243316",
     "year": 2025,
+    "watched_seasons": 2,
     "rating": "TV-MA"
   },
   {

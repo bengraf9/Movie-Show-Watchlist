@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T06:28:37.306758+00:00",
+  "last_updated": "2026-08-17T06:39:59.068246+00:00",
   "country": "us",
   "items": [
     {
@@ -13,7 +13,7 @@
       "priority": {
         "dad-movie": 1
       },
-      "poster": "https://image.tmdb.org/t/p/w300/bh2OuKvq19jBHsloUVCfPSZZw81.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
       "rating": "",
       "genres": [
         "Action",
@@ -22,7 +22,7 @@
       ],
       "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
       "streaming": {},
-      "last_checked": "2026-08-09T06:42:51.817337+00:00",
+      "last_checked": "2026-08-17T06:39:36.965327+00:00",
       "release_date": "2026-12-18",
       "runtime": 165
     },
@@ -117,41 +117,8 @@
       ],
       "overview": "Emperor Paul Atreides faces the fallout from his ascent to power as political plots and a galaxy-wide holy war endanger the future only he can see.",
       "streaming": {},
-      "last_checked": "2026-08-09T06:42:52.580946+00:00",
+      "last_checked": "2026-08-17T06:39:37.856824+00:00",
       "release_date": "20-12-18"
-    },
-    {
-      "title": "Spider-Man: Brand New Day",
-      "year": 20,
-      "type": "movie",
-      "tmdb_id": "movie/969681",
-      "lists": [
-        "dad"
-      ],
-      "priority": {
-        "dad-movie": 4
-      },
-      "poster": "https://image.tmdb.org/t/p/w300/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-      "rating": "PG-13",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power ...",
-      "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0MH84EJKE2M4I598UISANJRS1X?ref_=atv_dp",
-          "quality": "uhd",
-          "price": "29.99 USD"
-        }
-      },
-      "last_checked": "2026-08-09T06:42:53.203635+00:00",
-      "release_date": "20-07-31",
-      "runtime": 145
     },
     {
       "title": "The Life of Chuck",
@@ -250,7 +217,7 @@
       "priority": {
         "dad-movie": 16
       },
-      "poster": "https://cdn.movieofthenight.com/show/2655/poster/vertical/en/240.jpg?Expires=1800320090&Signature=iLpPf2xqrRLLlt8LDkco7vtCILKLAGl74DuUmNR~FxLz1Hdc5sc6mGDoWFLWYGyJOqAvONKXF3jUpClxcYKzWAlU01TDqHQ52QkvE-lgp5HmAYtMxjtYUBr0B~46mCWdyPjb0GfjkOXUTtfT0ED3W9q0E24Dc4zf7JcbsD7i-GAXgsmuUaWniqAfiIZgg0wMGPtFNnfUKbJibDANHCB8~Vi4qJfanz5a6QcYPLRrKFceM~ExTpCxf1MHwIms~V~hw~P~Gwt6vj1UBrIxJWIQXPhpwN9ZovmJ6E7KHTGBQOL4msryOAagGWKVbyZMwFtnSDMBPcDpZmVNiUPouUFkbg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/2655/poster/vertical/en/240.jpg?Expires=1818130971&Signature=lQx5HmDbEg217EOA15NJ7hhAazhOXp41M9tw49k7l5vA302jtTnSUVzrx2DxG4N-xc065WS0oCliSm3AiR5hjR6D~XxFeGbGLDReh5c4mUL4vXqLfm8L0RmAtzLEAQT8ytriUF2U9c6qx3gNFALAq96PfIoA~yOozv7sEAK63vyrLqBQM68J3ASiJaaHYx182kzI570QaNa7N9my1nHIM-a~eo3Gy5y4FDKC7n549W8t4eGq7UusvFGBqu0IF096bvW4YECiV4gpaaPJpJu9wFU-16qMEvWV94kpnqJwFaljQDQCYVQ2zw3vRw802QGCossLMww1wJkA87XsMWwg7A__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
       "genres": [
         "Action",
@@ -268,7 +235,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-08-09T06:42:53.786994+00:00",
+      "last_checked": "2026-08-17T06:39:38.599934+00:00",
       "runtime": 111,
       "release_date": "1992-09-25"
     },
@@ -605,7 +572,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-09T06:42:54.232347+00:00",
+      "last_checked": "2026-08-17T06:39:39.139303+00:00",
       "runtime": 143,
       "release_date": "20-06-05"
     },
@@ -709,22 +676,22 @@
       ],
       "overview": "Tech-school prodigies learn their laser project is actually a death beam funded by the military.",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0SYQ17EFL51VTDUNWI5XPTGXWJ?ref_=atv_dp",
-          "quality": "hd",
-          "price": "3.99 USD"
-        },
         "tubi": {
           "service": "tubi",
           "serviceName": "Tubi",
           "type": "free",
           "link": "https://tubitv.com/movies/658062/real-genius"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0PDLTA7PPVYN5D7LTHQPDZYTQ8?ref_=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-09T06:42:54.619376+00:00",
+      "last_checked": "2026-08-17T06:39:39.619053+00:00",
       "runtime": 105,
       "release_date": "1985-08-07"
     },
@@ -757,7 +724,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-09T06:42:55.432851+00:00",
+      "last_checked": "2026-08-17T06:39:41.192779+00:00",
       "season_count": 2,
       "episode_count": 19,
       "watched_seasons": 2
@@ -790,7 +757,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-09T06:42:56.541259+00:00",
+      "last_checked": "2026-08-17T06:39:44.243833+00:00",
       "season_count": 5,
       "episode_count": 50,
       "watched_seasons": 5
@@ -917,7 +884,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-09T06:42:57.690559+00:00",
+      "last_checked": "2026-08-17T06:39:46.450691+00:00",
       "season_count": 1,
       "episode_count": 6,
       "watched_seasons": 1
@@ -1101,7 +1068,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-09T06:42:59.218818+00:00",
+      "last_checked": "2026-08-17T06:39:48.910339+00:00",
       "season_count": 1,
       "episode_count": 10,
       "watched_seasons": 1
@@ -1126,22 +1093,22 @@
       ],
       "overview": "Two centuries in the future, a missing person links an asteroid belt detective, the captain of an ice freighter and a diplomat trying to avert a war.",
       "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/the-expanse/umc.cmc.1ixz96nx5fk3uz3huu99vqpbs",
+          "quality": "sd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "subscription",
           "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fab45cf3-73f7-bab8-02be-df7eb5f7c731",
           "quality": "uhd"
-        },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/show/the-expanse/umc.cmc.1ixz96nx5fk3uz3huu99vqpbs",
-          "quality": "hd"
         }
       },
-      "last_checked": "2026-08-09T06:43:00.315079+00:00",
+      "last_checked": "2026-08-17T06:39:50.397693+00:00",
       "season_count": 6,
       "episode_count": 62
     },
@@ -1374,7 +1341,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-09T06:43:01.408425+00:00",
+      "last_checked": "2026-08-17T06:39:52.071146+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 1
@@ -1414,7 +1381,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-09T06:43:02.496709+00:00",
+      "last_checked": "2026-08-17T06:39:53.757272+00:00",
       "season_count": 1,
       "episode_count": 7
     },
@@ -1446,7 +1413,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-09T06:43:03.497695+00:00",
+      "last_checked": "2026-08-17T06:39:55.274795+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -1620,30 +1587,6 @@
       "last_checked": "2026-08-12T07:14:24.189022+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
-    },
-    {
-      "title": "Spellbound",
-      "year": 2024,
-      "type": "movie",
-      "tmdb_id": "movie/592983",
-      "lists": [
-        "family"
-      ],
-      "priority": {
-        "family-movie": 11
-      },
-      "poster": "https://cdn.movieofthenight.com/show/9682322/poster/vertical/en/240.jpg?Expires=1798388323&Signature=i7gSFZCZd9cnzcoC9e-KgHyZf9KzOV0jIikwfXV6aI1NLq7xhy1Y~Vy8rE4hQRY5DDTHeGbNgxtQ5zjMhdNoxxfnXiXXRBNM-JMs4ZXNCduLxBR3edEp0cyDw8WmZTeAdj-1OWVoM9RwUOCQWHUEY9-Wbaj-NMA5mfdgyidNU17UeGu3kXBWq8z8PvomSS0BjzdMtuvB~0Gmc0Yo3uOv1dzGpoju-9YlT1q9WCQlCQokCDjm4tZr1xILqh6ajBGdn-ojPtS2QgAgFvhWfd333sOFRlHBj3fX1RGS-ig1MnO7PA4k9LJ0LQm7jcCS-8LpQcBQlmUH9u7zbrzfv7lMdw__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "PG",
-      "genres": [
-        "Adventure",
-        "Animation",
-        "Comedy"
-      ],
-      "overview": "When a powerful spell turns her parents into giant monsters, a teenage princess must journey into the wild to reverse the curse before it's too late.",
-      "streaming": {},
-      "last_checked": "2026-08-12T07:14:24.701513+00:00",
-      "runtime": 110,
-      "release_date": "2024-11-11"
     },
     {
       "title": "Mr. Magorium's Wonder Emporium",
@@ -2356,7 +2299,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-09T06:43:04.081390+00:00",
+      "last_checked": "2026-08-17T06:39:55.893233+00:00",
       "runtime": 96,
       "release_date": "2020-08-21"
     },
@@ -2385,7 +2328,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-09T06:43:04.462108+00:00",
+      "last_checked": "2026-08-17T06:39:56.323699+00:00",
       "runtime": 76,
       "release_date": "2019-04-17"
     },
@@ -2430,7 +2373,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-09T06:43:04.840578+00:00",
+      "last_checked": "2026-08-17T06:39:56.709862+00:00",
       "runtime": 106,
       "release_date": "2022-10-07"
     },
@@ -2472,7 +2415,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-09T06:43:05.242024+00:00",
+      "last_checked": "2026-08-17T06:39:57.173662+00:00",
       "runtime": 93,
       "release_date": "2023-03-24"
     },
@@ -2500,7 +2443,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-09T06:43:05.840297+00:00",
+      "last_checked": "2026-08-17T06:39:57.824357+00:00",
       "runtime": 89,
       "release_date": "2024-04-22"
     },
@@ -2528,7 +2471,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-09T06:43:06.247109+00:00",
+      "last_checked": "2026-08-17T06:39:58.236029+00:00",
       "runtime": 77,
       "release_date": "2024-04-22"
     },
@@ -2566,7 +2509,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-09T06:43:06.625640+00:00",
+      "last_checked": "2026-08-17T06:39:58.665151+00:00",
       "runtime": 85,
       "release_date": "2024-08-02"
     },
@@ -2588,34 +2531,6 @@
       ],
       "overview": "SONIC THE HEDGEHOG tells the story of the world's speediest hedgehog as he embraces his new home on Earth. Sonic and his new best friend Tom team up to defend the planet from the evil genius Dr. Ro...",
       "streaming": {
-        "hulu": {
-          "service": "hulu",
-          "serviceName": "Hulu",
-          "type": "subscription",
-          "link": "https://www.hulu.com/movie/sonic-the-hedgehog-f6104eae-6c27-44c1-a5b2-967187d0e046",
-          "quality": "hd"
-        },
-        "roku": {
-          "service": "roku",
-          "serviceName": "Roku",
-          "type": "free",
-          "link": "https://therokuchannel.roku.com/details/5c35009d987e532aa40fadd7f812639b",
-          "quality": "hd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0JJYKWC5WGOTODCJCPD18CKZEJ?ref_=atv_dp",
-          "quality": "uhd",
-          "price": "3.99 USD"
-        },
-        "paramount": {
-          "service": "paramount",
-          "serviceName": "Paramount+",
-          "type": "subscription",
-          "link": "https://www.paramountplus.com/movies/video/5EKDXPOzdVf9voUqW6oRuocyAEeJGbEc/"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -2623,9 +2538,30 @@
           "link": "https://tv.apple.com/us/movie/sonic-the-hedgehog/umc.cmc.6gkyrgaoool7s2u24tratknbi?playableId=tvs.sbd.9001%3A1496058930",
           "quality": "hd",
           "price": "4.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0JJYKWC5WGOTODCJCPD18CKZEJ?ref_=atv_dp",
+          "quality": "uhd",
+          "price": "4.99 USD"
+        },
+        "paramount": {
+          "service": "paramount",
+          "serviceName": "Paramount+",
+          "type": "subscription",
+          "link": "https://www.paramountplus.com/movies/video/5EKDXPOzdVf9voUqW6oRuocyAEeJGbEc/"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/movie/sonic-the-hedgehog-f6104eae-6c27-44c1-a5b2-967187d0e046",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-08-09T06:43:07.001144+00:00",
+      "last_checked": "2026-08-17T06:39:59.067631+00:00",
       "runtime": 98,
       "release_date": "2020-02-14"
     },
@@ -2964,35 +2900,6 @@
       "streaming": {},
       "last_checked": "2026-08-10T07:18:24.235287+00:00",
       "release_date": "2027-04-23"
-    },
-    {
-      "title": "Remarkably Bright Creatures",
-      "year": 2027,
-      "type": "movie",
-      "tmdb_id": "movie/1330021",
-      "lists": [
-        "dad"
-      ],
-      "priority": {
-        "dad-movie": 8
-      },
-      "poster": "https://cdn.movieofthenight.com/show/24975637/poster/vertical/en/240.jpg?Expires=1809908586&Signature=MMyySKbJdN-YFnpgHHOHIgaXooOXVbxSiDILzVoQe9gPj5CrJKwl0KyS1IwvJfHFdRgllt-e5dYPFJ8i2w1u1Bs3putjxhkyzuxh1I7UlOIDs4u9T-oqTT28Td~Pq31IX27ZhUuPOCHkQFE1oJ~VNQ49FkwQtjwA2ww6jeEdvxPKiEno2t~ZFSc1ILrYFZgGSuRE-Qd06uGF9UoeQs~-lo-V~bjy0wFvlRvwSZMpu3wb37W3kli6cqXoZLuxmdLpk6aceIWL~Usaaht7iOiQTVu1NQEtt9oJiBOx0EyYpJJxzGXX9aEc2Z0hRq~a8tfTTsrwGO-ns0wlEvOgDeiy-w__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "PG-13",
-      "genres": [
-        "Drama"
-      ],
-      "overview": "While working nights at a small-town aquarium, a widow bonds with a clever octopus and an adrift young man in this moving drama based on the bestseller.",
-      "streaming": {
-        "netflix": {
-          "service": "netflix",
-          "serviceName": "Netflix",
-          "type": "subscription",
-          "link": "https://www.netflix.com/title/81911351"
-        }
-      },
-      "last_checked": "2026-08-11T06:54:51.907166+00:00",
-      "runtime": 113,
-      "release_date": "2026-05-08"
     },
     {
       "title": "Ted Lasso",
@@ -3505,7 +3412,8 @@
       },
       "last_checked": "2026-08-14T07:15:05.177453+00:00",
       "season_count": 2,
-      "episode_count": 16
+      "episode_count": 16,
+      "watched_seasons": 2
     },
     {
       "title": "Dark Winds",

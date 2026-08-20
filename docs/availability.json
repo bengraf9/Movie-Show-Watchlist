@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T06:32:12.403395+00:00",
+  "last_updated": "2026-08-20T06:34:47.724596+00:00",
   "country": "us",
   "items": [
     {
@@ -818,13 +818,13 @@
       "streaming": {
         "apple": {
           "service": "apple",
-          "serviceName": "apple",
+          "serviceName": "Apple TV+",
           "type": "subscription",
-          "link": "",
-          "manual": true
+          "link": "https://tv.apple.com/us/show/central-park/umc.cmc.4qe3i11erof30x0vz8nwnjkw3",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-12T07:14:12.763791+00:00",
+      "last_checked": "2026-08-20T06:34:23.912680+00:00",
       "season_count": 3,
       "episode_count": 39,
       "watched_seasons": 2
@@ -940,8 +940,16 @@
         "Drama"
       ],
       "overview": "Jason Segel and Harrison Ford star in this comedy series about a therapist who decides to be brutally honest.",
-      "streaming": {},
-      "last_checked": "2026-08-12T07:14:15.538836+00:00",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "subscription",
+          "link": "https://tv.apple.com/us/show/shrinking/umc.cmc.apzybj6eqf6pzccd97kev7bs",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-08-20T06:34:26.267812+00:00",
       "season_count": 3,
       "episode_count": 33,
       "watched_seasons": 3
@@ -1435,8 +1443,30 @@
         "Romance"
       ],
       "overview": "An honest, often hilarious window into the everyday life of a 21st-century American family -- gay, straight, multicultural and multigenerational.",
-      "streaming": {},
-      "last_checked": "2026-08-12T07:14:17.706900+00:00",
+      "streaming": {
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/series/una-familia-moderna-082d165e-2369-45fb-ace3-26c63d5e6470",
+          "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0IV5WZ6TUSCYEZLQCQFKSN3Z8B",
+          "quality": "hd"
+        },
+        "peacock": {
+          "service": "peacock",
+          "serviceName": "Peacock",
+          "type": "subscription",
+          "link": "https://www.peacocktv.com/watch/asset/tv/modern-family/6158438733133910112",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-08-20T06:34:28.551093+00:00",
       "season_count": 11,
       "episode_count": 250
     },
@@ -1458,8 +1488,15 @@
         "Family"
       ],
       "overview": "There is nothing special about Harry Potter - at least that's what his Aunt Petunia always says. On his 11th birthday, a letter of admittance to Hogwarts School of Witchcraft and Wizardry opens up ...",
-      "streaming": {},
-      "last_checked": "2026-08-12T07:14:19.764870+00:00",
+      "streaming": {
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/show/2f5ff1ff-9885-462b-aded-329e421b5f59"
+        }
+      },
+      "last_checked": "2026-08-20T06:34:30.736286+00:00",
       "season_count": 1,
       "episode_count": 1
     },
@@ -1482,13 +1519,13 @@
       "streaming": {
         "prime": {
           "service": "prime",
-          "serviceName": "prime",
+          "serviceName": "Prime Video",
           "type": "subscription",
-          "link": "",
-          "manual": true
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aeaa20db-5fb9-4eda-919b-50523edae038",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-12T07:14:21.916308+00:00",
+      "last_checked": "2026-08-20T06:34:32.668902+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -1511,8 +1548,16 @@
         "Fantasy"
       ],
       "overview": "The Towani family’s starcruiser crashes on the forest moon of Endor and the separation of two children from their parents sets into motion an incredible adventure that takes four-year-old Cindel, a...",
-      "streaming": {},
-      "last_checked": "2026-08-12T07:14:22.572997+00:00",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-de308fb3-331d-44c1-a0fa-fb90c8b1ade2",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-08-20T06:34:33.804797+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1527,7 +1572,7 @@
       "priority": {
         "family-movie": 7
       },
-      "poster": "https://cdn.movieofthenight.com/show/172/poster/vertical/en/240.jpg?Expires=1801611732&Signature=AQ1PIFj3H9-dIi3~2kBWp~sUIKYXwoUAjZCswMilnXuN-hjAZmp~cuoy1l01J7TqcpzsyVsdFRxOTRT1yjYQbdZIB5Rph9He5G0B8eoDEH5ukmJlx9-HIk8NoFE2eRqy~exIcc7BysVpoYM8RcnA6S7xuTp2GA8j5hCvXi2Yu4qdiyD~CbnuymxrrLCS4-fKW2Vs-VlEtx6-jYyCEB~x0T6XSZCTJWqQL80pQj7Exz7lQCX22j3XqRBUo0Vwc22jNmoMPpioatHE48f12B611RbJfqvyVdHhnKMtzLiO9Kf~KNh5EzbOH23ZAS2QpGHuM~FyR6xjbV0altG6QWulzg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/172/poster/vertical/en/240.jpg?Expires=1818351759&Signature=drRkTrO6-kVhAfL5Z77dcsx8IyRfII-~5MFEIZQXafGursOFD~iv~~QhFOvHnPqlPpYqvkYsan8Dgm6xh5iVfKOYMKwwezB63iD7gsXu8qHENHpllg~lS18nEcZ7-DXJdNj20Grj0hoV8jVxw~QTQLwculLt1Ush-qtdC4UXrrfwOu4aLtLUsqAAf83uJ1sKgCwvvKjoOOmtbnYXhO6Sc0DU86soroHJEzAOYwEuUMG64TpkiNG3TURRCr-JX8FLIFjPuX8c3~HXjMrOSBYktEgiEtcuAM~hrJo6lENV5lu41PGEv8l-PO0qfTK065R9KpRZ-Dk24gVWsxpMM~nC4Q__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -1535,8 +1580,32 @@
         "Comedy"
       ],
       "overview": "Carl, a retired balloon salesman, tying thousands of balloons to his house, sets off to the lost world of his childhood dreams. Unbeknownst to Carl, 8-year old Russell is on his front porch! Winner...",
-      "streaming": {},
-      "last_checked": "2026-08-12T07:14:23.184392+00:00",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-f820c0a3-e646-4b75-8dd1-87f6d776c32b",
+          "quality": "uhd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/up/umc.cmc.7hyl1e1p1ihe8aiij3fzjwwyc?playableId=tvs.sbd.9001%3A322447599",
+          "quality": "hd",
+          "price": "5.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0KIU948OY9VO8VMM4DJ5GFL95J?ref_=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-08-20T06:34:34.630473+00:00",
       "runtime": 96,
       "release_date": "2009-05-29"
     },
@@ -1559,8 +1628,32 @@
         "Comedy"
       ],
       "overview": "In this fun-filled, action-packed cosmic misadventure, Elio, a space fanatic with an active imagination, is beamed up to an interplanetary organization with members from galaxies far and wide. Mist...",
-      "streaming": {},
-      "last_checked": "2026-08-12T07:14:23.639873+00:00",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/elio/umc.cmc.2pwi96m6gp3ir1vvusjzyc0p4?playableId=tvs.sbd.9001%3A1829021601",
+          "quality": "hd",
+          "price": "5.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-367ee1b6-1a50-413a-96f6-655175166f38",
+          "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0O7NE3VI07XP9B35NDN2HXZS7Q?ref_=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-08-20T06:34:35.503002+00:00",
       "runtime": 102,
       "release_date": "2025-06-20"
     },
@@ -1583,8 +1676,16 @@
         "Fantasy"
       ],
       "overview": "The adventures of the Ewoks continue as Wicket and friends confront the evil Marauders.",
-      "streaming": {},
-      "last_checked": "2026-08-12T07:14:24.189022+00:00",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-1a3764d6-c7f7-4b54-938b-18faf67c0a98",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-08-20T06:34:36.258634+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1607,8 +1708,17 @@
         "Fantasy"
       ],
       "overview": "Molly Mahoney is the awkward and insecure manager of Mr. Magorium's Wonder Emporium, the strangest, most fantastic, most wonderful toy store in the world. But when Mr. Magorium, the 243 year-old ec...",
-      "streaming": {},
-      "last_checked": "2026-08-12T07:14:25.701752+00:00",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/movie/mr-magoriums-wonder-emporium/umc.cmc.1at1u1vhlwry5g2juqggte6lr?playableId=tvs.sbd.9001%3A274970684",
+          "quality": "hd",
+          "price": "14.99 USD"
+        }
+      },
+      "last_checked": "2026-08-20T06:34:37.021072+00:00",
       "runtime": 93,
       "release_date": "2007-11-16"
     },
@@ -1631,8 +1741,32 @@
         "Crime"
       ],
       "overview": "Kermit and the gang investigate when Miss Piggy is framed for burglary.",
-      "streaming": {},
-      "last_checked": "2026-08-12T07:14:26.111368+00:00",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/the-great-muppet-caper/umc.cmc.2xz7c7jdngix9lsez0j7nkwe9?playableId=tvs.sbd.9001%3A323042343",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-abee744b-d8e6-4f7d-a9d2-1f3934877171",
+          "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0NLT1F7A9RLKCFXCO4CXY7LIKW?ref_=atv_dp",
+          "quality": "hd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-08-20T06:34:37.855348+00:00",
       "runtime": 98,
       "release_date": "1981-06-26"
     },
@@ -1655,8 +1789,32 @@
         "Science Fiction"
       ],
       "overview": "Young Han Solo and his gang of smugglers devise a plan to steal coaxium from the planet Kessel.",
-      "streaming": {},
-      "last_checked": "2026-08-12T07:14:26.559734+00:00",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0FSEHO8AO4JCQ58Y4IUU3PMCA9?ref_=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/solo-a-star-wars-story/umc.cmc.1skhjjrps93jxwc8w45mc4yyj?playableId=tvs.sbd.9001%3A1382545660",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-791bc772-d930-40c9-83ec-5ef85923573e",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-08-20T06:34:38.702875+00:00",
       "runtime": 134,
       "release_date": "2018-05-25"
     },
@@ -1671,7 +1829,7 @@
       "priority": {
         "family-movie": 15
       },
-      "poster": "https://cdn.movieofthenight.com/show/9369/poster/vertical/en/240.jpg?Expires=1800477710&Signature=DKQ4BzB4EpORNvQtO7IZ5MSPnj~Cs6IVX7LMG0-HiZcppfbA5dzs9uLn5Uc7AJVu3sT1RvuqLcQeUfNfRCQHZiJY~Bu84SZxDVJR0yCo3BW1NXwinS2TdHOWK1CNS4IBtSOrPjAOKTuZ~wu2o5BaSTt6HSIwr3IIwKL3WLIkqkaqTNczjzTRVFn8HBoGSL3mmzLVViWrpS1gmzeyoY8jbn9cuk5pAGFGhQcOgIV2q8iHrI7zWIOsA7roaXneCCFsdqRZPgYJXVfwy931Bu9IT~ta6qIfIYVjRmcGrTQdWYOeoKp4XzKVFdiAbiqE5AS5ueCaZVUOW4qmhisiPLopvg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/9369/poster/vertical/en/240.jpg?Expires=1818648892&Signature=OZD0uRo0PnYGW~FAx2p5nrY5Lq721~tawUuRGTRhj3o3Pjz-9PlLyCjKDGYiTSeFzoqSTWnNeKlv58sivAPBBlwPNkI4t6XgpY2YTFbeEPz60bdDqSo8uJ69WLCnf7yB46-lzcTSLSDlbn2pcnCHqdiSFu4Z3QDM6CLT-Gu2Up5DiD0XgOfsJWQ8hM8njtXG0jKAuUK0Os-RttBgKwGU-1i1QrxYlgFO0oypOasvvd1cjOK6jTSPCFStMCXZz41CxzNyx0Xbh1WhqdCl3i~vMthVEoV22pOTuJRSLPXb2ucevAAFwDuVQ~PPirQ0yciZs~Z2HmssrpntwCDG2YRq3Q__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -1679,8 +1837,25 @@
         "Comedy"
       ],
       "overview": "When mischievous friends Yi, Jin, and Peng discover a young yeti on their roof, they name him Everest and embark on a thrilling adventure to reunite the magical creature with his family. On the jou...",
-      "streaming": {},
-      "last_checked": "2026-08-12T07:14:27.349010+00:00",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/abominable/umc.cmc.6jrpb1ce9hpllxklhnomuiipz?playableId=tvs.sbd.9001%3A1480468378",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0L8IRLCY2Q498C13AR00B90DHJ?ref_=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-08-20T06:34:39.454272+00:00",
       "runtime": 97,
       "release_date": "2019-09-27"
     },
@@ -1703,8 +1878,31 @@
         "Drama"
       ],
       "overview": "A boy and his friends question the motives of a woman (Sigourney Weaver) who forces them to dig holes at a detention camp.",
-      "streaming": {},
-      "last_checked": "2026-08-12T07:14:28.132987+00:00",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0QX4QE1CG8MO5AND9K892CU3E1?ref_=atv_dp",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/movie/holes-ecc93033-1f5a-4832-8845-458561c3d21e",
+          "quality": "hd"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-ecc93033-1f5a-4832-8845-458561c3d21e",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-08-20T06:34:40.279931+00:00",
       "runtime": 118,
       "release_date": "2003-04-18"
     },
@@ -1727,8 +1925,25 @@
         "Family"
       ],
       "overview": "Following an intrepid cat on a heart-stopping journey through an animated world of wonder and peril, Gints Zilbalodis’s Oscar®-winner is a moving ode to friendship. With delightfully expressive ani...",
-      "streaming": {},
-      "last_checked": "2026-08-12T07:14:28.570266+00:00",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0O4ID4HQRWTX3ANR58042XXJY7?ref_=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/flow/umc.cmc.22galt2spi1jlic15bdjvf1mz?playableId=tvs.sbd.9001%3A1783709215",
+          "quality": "hd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-08-20T06:34:41.123516+00:00",
       "runtime": 85,
       "release_date": "2024-12-06"
     },
@@ -1751,8 +1966,38 @@
         "Science Fiction"
       ],
       "overview": "As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace. Experience the motion pic...",
-      "streaming": {},
-      "last_checked": "2026-08-12T07:14:28.991032+00:00",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0HK9XPVWNZ64U1ES6OJKN2P9Z8?ref_=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/star-wars-the-force-awakens/umc.cmc.61i3yveu7xby4chfkqved19ka?playableId=tvs.sbd.9001%3A1063466898",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-438ec2e9-a05c-4b01-84f4-18960b363868",
+          "quality": "uhd"
+        },
+        "starz": {
+          "service": "starz",
+          "serviceName": "Starz",
+          "type": "subscription",
+          "link": "https://www.hulu.com/movie/star-wars:-the-force-awakens-438ec2e9-a05c-4b01-84f4-18960b363868"
+        }
+      },
+      "last_checked": "2026-08-20T06:34:42.010922+00:00",
       "runtime": 138,
       "release_date": "2015-12-18"
     },
@@ -1775,8 +2020,39 @@
         "Fantasy"
       ],
       "overview": "Luke Skywalker comes to a crossroad when he meets a woman who wants to learn the ways of the Jedi.",
-      "streaming": {},
-      "last_checked": "2026-08-12T07:14:29.399151+00:00",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-4c622e6e-6237-44e7-9aaf-db94de0edc3b",
+          "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0K63PJJMBL92JU2ZASKJR6ZG6L?ref_=atv_dp",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/star-wars-the-last-jedi/umc.cmc.7f19yhpg0i8vk8of1ydhs7g1v?playableId=tvs.sbd.9001%3A1316280891",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/movie/star-wars:-the-last-jedi-4c622e6e-6237-44e7-9aaf-db94de0edc3b",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-08-20T06:34:42.838239+00:00",
       "runtime": 152,
       "release_date": "2017-12-15"
     },
@@ -1799,8 +2075,39 @@
         "Fantasy"
       ],
       "overview": "In STAR WARS: THE RISE OF SKYWALKER, the riveting conclusion of the landmark Skywalker saga, new legends will be born—and the final battle for freedom is yet to come. WARNING: SOME FLASHING-LIGHTS ...",
-      "streaming": {},
-      "last_checked": "2026-08-12T07:14:29.805288+00:00",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-43f9c275-e7e8-4ab3-802d-00d06a8ad841",
+          "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0QKCRV1LHJQLWBQZ772047WQE3?ref_=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/star-wars-the-rise-of-skywalker/umc.cmc.71hlilqgd8utz8c4nlpl6ol7m?playableId=tvs.sbd.9001%3A1490359713",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/movie/star-wars:-the-rise-of-skywalker-3183e62a-47d7-4df0-9e10-6315a56a3bb7",
+          "quality": "hd"
+        }
+      },
+      "last_checked": "2026-08-20T06:34:43.692030+00:00",
       "runtime": 142,
       "release_date": "2019-12-20"
     },
@@ -1815,7 +2122,7 @@
       "priority": {
         "family-movie": 21
       },
-      "poster": "https://cdn.movieofthenight.com/show/335/poster/vertical/en/240.jpg?Expires=1801611591&Signature=gql1AeA-6-2j~vg89xb24J0jmlGuMJtUCncKPKfz7-3cbeNrKA8EdxHrudh8n0UMKxHEUSkQGJYe7ogOwoNhyPKnpchb4n3ULX9PjITWTpmExeZwXeVIuI4I-wiMdYJFwbZ8PDNY1xMR-V8OHt70-94AFYwgvRHDZdjJwGF6twSdcf-fig-4myQwtNfQyzqUr24-lQM-ALschfQ9M46bvTPiRL8T7NHEhdO5SHUSdpf6-FrcIEru5aw5sKf0Hy547vnQv-VK7r7gDeH3dHci8XA8EXXEtia4FqEjjMLf2GORXBqXi2sEXN2-4HlISZeG2iXck1lGtcjtrvXsAfZVPQ__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/335/poster/vertical/en/240.jpg?Expires=1818351612&Signature=Zp8Z1V8-Q6OYUIexjAcXkndJX3mPhl24UmRKJEDQ6UVRy2Az7yehXaa8W7EVT3GSz~BYsklN2LPiDLoJXEjfYR-og5dhTSlbRucO~FsXY3xTt3hUBeNMSgsnvzwECgHXKvr1A38YISSfLTXqcDgKp2p60Jv8YakvnKpb49I9Zlah8iJhs84wAxPNTKHuY1u1VvmTOTLc-A56AVlFI7-6OpmWNmvBbk6r38L6Ee4TvTqmBlDuD0pkRrwb4JJv2dyzsg4WZcVRR-jHTj0xQ0VzdgH6Npe7fA7AozJlU3479TPrzqypHdYdM7c5hKJ4LdYcRJc519t-ZawPzZ2rWvXrbw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -1823,8 +2130,32 @@
         "Comedy"
       ],
       "overview": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they mus...",
-      "streaming": {},
-      "last_checked": "2026-08-12T07:14:30.631149+00:00",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0J3OTK57KK6RCCPICSS1JWRNR7?ref_=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/inside-out/umc.cmc.e8rnwzv7klnnt9d5gq9m45nv?playableId=tvs.sbd.9001%3A999607190",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-d4b87168-7d0b-49bc-b138-457ab7723feb",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-08-20T06:34:44.538929+00:00",
       "runtime": 95,
       "release_date": "2015-06-19"
     },
@@ -1846,8 +2177,24 @@
         "Comedy"
       ],
       "overview": "Two dogs and a cat set out across America to find their owners.",
-      "streaming": {},
-      "last_checked": "2026-08-12T07:14:31.449039+00:00",
+      "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-532fc4ef-12aa-43d7-abe4-f0cbc9d949ba",
+          "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0TADT48EGUSLCW6WP5MJCLZD9W?ref_=atv_dp",
+          "quality": "hd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-08-20T06:34:45.373029+00:00",
       "runtime": 84,
       "release_date": "1993-02-12"
     },
@@ -1862,7 +2209,7 @@
       "priority": {
         "family-movie": 23
       },
-      "poster": "https://cdn.movieofthenight.com/show/10913/poster/vertical/en/240.jpg?Expires=1800305082&Signature=WlkDL~kKX96bWchrGMzm7vGFqIml~4V3Ls3CN6Ix0a9Rz1802mSP4Ny1yQeG5aaRbkuaZ1w7JguEwUmAdCRERcpvThogNtASGHNSkdaKCAML5Y4ohiW5vEz73NekiwP64Y1hFmDCIKD5Gzo2LnaeEngTUGICjMJRO5wmlifsTyR7SpqYzNTu9n6jpt6IIqUZ5zC2mhwCN84htbLiXMTpQNbcdqZQyLp5mIz~~sRI0kUOxrWkNgzDX0T65Io7eqm42PEhV0CDkijWH8tjWHP1d-64ZuDMLMYTTS1TzAfReKoGuD3qC8Ph7fGAEci25PXhYDA4Ca9wLyswIMB82abNlw__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/10913/poster/vertical/en/240.jpg?Expires=1818623068&Signature=Mvvpv9U6SOS0JRrNEYVE6f8O8yPUQiPiKFuEGQWLLUmoPHD3UrIBFT8eCiis58ykArSb4XKr8azLlXihFyQrBbulEW-m5wq~J5V~tj-ViKy4g8Yu4rKpBtoG93w86YKHpjxBY~lA1qyCgbjlD5kfrF57AJMHHMZfbhCqKBQCm6xPWgHUsZeMi-~UfaHrIJJMLXL0Emks8OyN3R9zBamX462QWbrCGzs7q0qm5AZNmJ0CpQt-j06~Fqh~tWwwdgwL0I~zHueqsBrpQY90enxy3QkcLGOAfhk0QPpO9wnqk-e7ilJq3ojfNVcKR7BfHq92GiZS~rtTnNmR1M1CCUUePA__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Action",
@@ -1870,8 +2217,24 @@
         "Animation"
       ],
       "overview": "Walt Disney Animation Studios’ original action-packed comedy adventure, Strange World, introduces us to three generations of the legendary Clade family as they attempt to band together and navigate...",
-      "streaming": {},
-      "last_checked": "2026-08-12T07:14:31.990024+00:00",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0QKXVRUQSVUW4TQBO6ZE910FPD?ref_=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-30c7bfa8-63f8-4bfe-b257-e64fa816c8da",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-08-20T06:34:46.206443+00:00",
       "runtime": 107,
       "release_date": "2022-11-23"
     },
@@ -1893,8 +2256,17 @@
         "Comedy"
       ],
       "overview": "Fresh out od drama school, Kermit, Fozzie Bear and the entire cast of Kermit's musical - Manhattan Melodies - head for the Big Apple with plans to turn their small play into a broadway hit! All the...",
-      "streaming": {},
-      "last_checked": "2026-08-12T07:14:32.500877+00:00",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0SNLOH4IUCMF37NKFRDKEX8OS4?ref_=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-08-20T06:34:46.960275+00:00",
       "runtime": 90,
       "release_date": "1984-07-13"
     },
@@ -1917,8 +2289,17 @@
         "Family"
       ],
       "overview": "The Muppets are back in the hilarious family comedy MUPPETS FROM SPACE, an action-packed adventure about the search for Gonzo's past! Will Kermit, Miss Piggy and Fozzie be able to rescue their belo...",
-      "streaming": {},
-      "last_checked": "2026-08-12T07:14:32.956773+00:00",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0TZUGU2VBFCTJS2403GUQK8U46?ref_=atv_dp",
+          "quality": "hd",
+          "price": "3.99 USD"
+        }
+      },
+      "last_checked": "2026-08-20T06:34:47.723948+00:00",
       "runtime": 84,
       "release_date": "1999-07-14"
     },

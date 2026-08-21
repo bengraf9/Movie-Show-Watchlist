@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T06:34:47.724596+00:00",
+  "last_updated": "2026-08-21T06:34:35.045603+00:00",
   "country": "us",
   "items": [
     {
@@ -2346,7 +2346,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-13T07:16:38.865711+00:00",
+      "last_checked": "2026-08-21T06:34:31.985551+00:00",
       "runtime": 97,
       "release_date": "2021-11-24"
     },
@@ -2394,7 +2394,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-13T07:16:39.714536+00:00",
+      "last_checked": "2026-08-21T06:34:32.516318+00:00",
       "runtime": 135,
       "release_date": "2023-05-26"
     },
@@ -3164,7 +3164,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-13T07:16:40.511745+00:00",
+      "last_checked": "2026-08-21T06:34:33.008474+00:00",
       "runtime": 107,
       "release_date": "2021-03-05"
     },
@@ -3202,7 +3202,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-08-13T07:16:41.596569+00:00",
+      "last_checked": "2026-08-21T06:34:33.501566+00:00",
       "runtime": 104,
       "release_date": "2019-05-10"
     },
@@ -3231,9 +3231,15 @@
           "link": "https://www.amazon.com/gp/video/detail/0ILEQPPDG1JVS299OOBAAL5YZT?ref_=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "tubi": {
+          "service": "tubi",
+          "serviceName": "Tubi",
+          "type": "free",
+          "link": "https://tubitv.com/movies/100051982/spy-kids"
         }
       },
-      "last_checked": "2026-08-13T07:16:42.373954+00:00",
+      "last_checked": "2026-08-21T06:34:34.033544+00:00",
       "runtime": 88,
       "release_date": "2001-03-18"
     },
@@ -3271,7 +3277,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-13T07:16:43.172526+00:00",
+      "last_checked": "2026-08-21T06:34:34.533675+00:00",
       "runtime": 87,
       "release_date": "2019-05-03"
     },
@@ -3297,17 +3303,17 @@
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0J21M9AM4CY8XJ74W902BIHZYM?ref_=atv_dp",
           "quality": "uhd",
-          "price": "3.99 USD"
+          "price": "5.99 USD"
         },
         "hbo": {
           "service": "hbo",
           "serviceName": "HBO Max",
           "type": "subscription",
-          "link": "https://play.hbomax.com/movie/25a3be72-9dec-4544-b825-105ef41d6314",
+          "link": "https://play.hbomax.com/movie/2a072173-2bac-43ba-9933-10eba021ed96",
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-13T07:16:43.951970+00:00",
+      "last_checked": "2026-08-21T06:34:35.045281+00:00",
       "runtime": 137,
       "release_date": "2025-04-18"
     },

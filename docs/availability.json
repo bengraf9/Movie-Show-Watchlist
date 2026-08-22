@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T06:34:35.045603+00:00",
+  "last_updated": "2026-08-22T06:28:17.173704+00:00",
   "country": "us",
   "items": [
     {
@@ -59,9 +59,15 @@
           "serviceName": "Tubi",
           "type": "free",
           "link": "https://tubitv.com/movies/100046625/swiss-army-man"
+        },
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/80097389"
         }
       },
-      "last_checked": "2026-08-14T07:14:45.779361+00:00",
+      "last_checked": "2026-08-22T06:28:03.495416+00:00",
       "runtime": 93,
       "release_date": "2016-07-01"
     },
@@ -93,7 +99,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-14T07:14:46.462920+00:00",
+      "last_checked": "2026-08-22T06:28:03.921101+00:00",
       "runtime": 94,
       "release_date": "1987-04-17"
     },
@@ -156,7 +162,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-14T07:14:47.344532+00:00",
+      "last_checked": "2026-08-22T06:28:04.404586+00:00",
       "runtime": 110,
       "release_date": "2025-06-13"
     },
@@ -202,7 +208,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-14T07:14:48.123983+00:00",
+      "last_checked": "2026-08-22T06:28:04.814762+00:00",
       "runtime": 150,
       "release_date": "2022-11-23"
     },
@@ -267,7 +273,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-08-14T07:14:48.797406+00:00",
+      "last_checked": "2026-08-22T06:28:05.258225+00:00",
       "runtime": 91,
       "release_date": "1991-02-08"
     },
@@ -299,7 +305,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-14T07:14:49.462367+00:00",
+      "last_checked": "2026-08-22T06:28:05.653083+00:00",
       "runtime": 124,
       "release_date": "1979-12-19"
     },
@@ -326,7 +332,7 @@
           "service": "apple",
           "serviceName": "Apple TV+",
           "type": "subscription",
-          "link": "https://tv.apple.com/us/movie/napoleon-the-directors-cut/umc.cmc.gtk0q9t2mapcjs75d31vvrs2?playableId=tvs.sbd.4000%3AA0064201002",
+          "link": "https://tv.apple.com/us/movie/napoleon/umc.cmc.25k80oxl3vo69c8rimk8v81s1?playableId=tvs.sbd.4000%3AA0064201001",
           "quality": "uhd"
         },
         "prime": {
@@ -338,7 +344,7 @@
           "price": "12.99 USD"
         }
       },
-      "last_checked": "2026-08-14T07:14:50.298049+00:00",
+      "last_checked": "2026-08-22T06:28:06.046606+00:00",
       "runtime": 157,
       "release_date": "2023-11-22"
     },
@@ -384,7 +390,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-14T07:14:51.081815+00:00",
+      "last_checked": "2026-08-22T06:28:06.429501+00:00",
       "runtime": 106,
       "release_date": "2024-03-08"
     },
@@ -405,7 +411,7 @@
         "Comedy",
         "Music"
       ],
-      "overview": "Forty-one years after the release of the groundbreaking mockumentary This Is Spinal Tap, the now estranged bandmates David St. Hubbins, Nigel Tufnel, and Derek Smalls (Michael McKean, Christopher G...",
+      "overview": "Documentarian Marty DiBergi follows Spinal Tap as they prepare for a reunion concert in New Orleans.",
       "streaming": {
         "hbo": {
           "service": "hbo",
@@ -422,7 +428,7 @@
           "price": "2.49 USD"
         }
       },
-      "last_checked": "2026-08-14T07:14:51.873837+00:00",
+      "last_checked": "2026-08-22T06:28:06.822517+00:00",
       "runtime": 83,
       "release_date": "2025-09-12"
     },
@@ -462,7 +468,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-14T07:14:52.609363+00:00",
+      "last_checked": "2026-08-22T06:28:07.221385+00:00",
       "runtime": 129,
       "release_date": "1963-03-16"
     },
@@ -489,7 +495,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0RV4BHVKN4HY8PM9MNGAC0S7SB/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0RV4BHVKN4HY8PM9MNGAC0S7SB?ref_=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
         },
@@ -501,7 +507,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-14T07:14:53.277498+00:00",
+      "last_checked": "2026-08-22T06:28:07.701325+00:00",
       "runtime": 107,
       "release_date": "1982-01-01"
     },
@@ -528,7 +534,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0SW6K30U5JU4SVI9MOO2RQ60CO/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0SW6K30U5JU4SVI9MOO2RQ60CO?ref_=atv_dp",
           "quality": "sd",
           "price": "2.99 USD"
         },
@@ -540,7 +546,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-14T07:14:53.949339+00:00",
+      "last_checked": "2026-08-22T06:28:08.084942+00:00",
       "runtime": 98,
       "release_date": "2024-06-21"
     },
@@ -613,7 +619,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-14T07:14:54.666522+00:00",
+      "last_checked": "2026-08-22T06:28:08.494915+00:00",
       "runtime": 114,
       "release_date": "2013-12-25"
     },
@@ -652,7 +658,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-14T07:14:55.443949+00:00",
+      "last_checked": "2026-08-22T06:28:08.874932+00:00",
       "runtime": 90,
       "release_date": "2025-03-14"
     },
@@ -791,7 +797,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-14T07:14:58.403148+00:00",
+      "last_checked": "2026-08-22T06:28:12.646775+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1
@@ -2423,7 +2429,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-14T07:14:59.451905+00:00",
+      "last_checked": "2026-08-22T06:28:13.293023+00:00",
       "runtime": 89,
       "release_date": "2020-03-14"
     },
@@ -2451,7 +2457,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-14T07:15:00.820757+00:00",
+      "last_checked": "2026-08-22T06:28:13.694838+00:00",
       "runtime": 38,
       "release_date": "2022-04-14"
     },
@@ -3709,7 +3715,7 @@
         "Adventure",
         "Family"
       ],
-      "overview": "Percy Jackson sails to the Sea of Monsters to rescue his friend Grover and save Camp Half-Blood.",
+      "overview": "After Camp Half-Blood’s border is attacked, Percy Jackson sets off on an epic odyssey into the Sea of Monsters in search of his best friend Grover and the one thing that may save camp – the Golden ...",
       "streaming": {
         "disney": {
           "service": "disney",
@@ -3719,7 +3725,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-14T07:15:02.733994+00:00",
+      "last_checked": "2026-08-22T06:28:14.622382+00:00",
       "season_count": 2,
       "episode_count": 16
     },
@@ -3900,7 +3906,7 @@
           "link": "https://www.netflix.com/title/81750702"
         }
       },
-      "last_checked": "2026-08-14T07:15:05.177453+00:00",
+      "last_checked": "2026-08-22T06:28:15.941813+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -3921,13 +3927,14 @@
         "Drama",
         "Mystery"
       ],
-      "overview": "When a string of seemingly unrelated crimes strikes the 1970s Navajo Nation, two tribal police officers dredge up old wounds to uncover the truth.",
+      "overview": "Navajo Nation cops Joe Leaphorn and Jim Chee investigate a string of crimes in this neo-Western exec-produced by Robert Redford and George R.R. Martin.",
       "streaming": {
-        "netflix": {
-          "service": "netflix",
-          "serviceName": "Netflix",
-          "type": "subscription",
-          "link": "https://www.netflix.com/title/81613903"
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/dark-winds/umc.cmc.2re7oa02cr4v3h0yv1j6qymkf",
+          "quality": "hd"
         },
         "prime": {
           "service": "prime",
@@ -3936,15 +3943,14 @@
           "link": "https://www.amazon.com/gp/video/detail/0NNVKYT80WZS6NXC2WJIJV885Z",
           "quality": "sd"
         },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/show/dark-winds/umc.cmc.2re7oa02cr4v3h0yv1j6qymkf",
-          "quality": "hd"
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/81613903"
         }
       },
-      "last_checked": "2026-08-14T07:15:07.100677+00:00",
+      "last_checked": "2026-08-22T06:28:16.983444+00:00",
       "season_count": 4,
       "episode_count": 28
     },

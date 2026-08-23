@@ -1399,5 +1399,14 @@
     "year": 1987,
     "rating": "PG",
     "release_date": "1987-06-05"
+  },
+  {
+    "title": "Trying",
+    "type": "series",
+    "lists": [
+      "dad"
+    ],
+    "tmdb_id": "tv/98177",
+    "year": 2020
   }
 ]

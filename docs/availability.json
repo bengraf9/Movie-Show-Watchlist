@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T06:28:17.173704+00:00",
+  "last_updated": "2026-08-23T06:29:31.709087+00:00",
   "country": "us",
   "items": [
     {
@@ -860,7 +860,7 @@
           "link": "https://www.netflix.com/title/81122572"
         }
       },
-      "last_checked": "2026-08-16T06:28:02.353108+00:00",
+      "last_checked": "2026-08-23T06:29:15.475463+00:00",
       "season_count": 1,
       "episode_count": 3
     },
@@ -922,7 +922,7 @@
           "link": "https://www.netflix.com/title/81677257"
         }
       },
-      "last_checked": "2026-08-16T06:28:05.595851+00:00",
+      "last_checked": "2026-08-23T06:29:16.889028+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -1002,7 +1002,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-16T06:28:08.057403+00:00",
+      "last_checked": "2026-08-23T06:29:18.034465+00:00",
       "season_count": 4,
       "episode_count": 40
     },
@@ -1049,7 +1049,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-16T06:28:10.288536+00:00",
+      "last_checked": "2026-08-23T06:29:19.107999+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1146,13 +1146,6 @@
       ],
       "overview": "Fresh out of prison, Shadow Moon meets the enigmatic Mr. Wednesday—and is swept into a gathering storm that will upend the course of his life.",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/show/american-gods/umc.cmc.4o7hf0qe1ezickgfxxeppolqr",
-          "quality": "hd"
-        },
         "tubi": {
           "service": "tubi",
           "serviceName": "Tubi",
@@ -1160,11 +1153,11 @@
           "link": "https://tubitv.com/series/300017904/american-gods",
           "quality": "hd"
         },
-        "roku": {
-          "service": "roku",
-          "serviceName": "Roku",
-          "type": "free",
-          "link": "https://therokuchannel.roku.com/details/61c636a6f9c959adbdcc0053c6e18597",
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/american-gods/umc.cmc.4o7hf0qe1ezickgfxxeppolqr",
           "quality": "hd"
         },
         "prime": {
@@ -1172,9 +1165,16 @@
           "serviceName": "Prime Video",
           "type": "subscription",
           "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fd5d6de8-b2f2-45fe-a376-03965d2fbc6e"
+        },
+        "roku": {
+          "service": "roku",
+          "serviceName": "Roku",
+          "type": "free",
+          "link": "https://therokuchannel.roku.com/details/61c636a6f9c959adbdcc0053c6e18597",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-08-16T06:28:13.618292+00:00",
+      "last_checked": "2026-08-23T06:29:20.388599+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1218,7 +1218,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-16T06:28:18.365957+00:00",
+      "last_checked": "2026-08-23T06:29:21.742136+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -1262,7 +1262,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-16T06:28:20.660111+00:00",
+      "last_checked": "2026-08-23T06:29:22.871770+00:00",
       "season_count": 6,
       "episode_count": 110
     },
@@ -1291,7 +1291,7 @@
           "link": "https://play.hbomax.com/show/c967b1a4-d0e2-491e-967e-ae09f88fef62"
         }
       },
-      "last_checked": "2026-08-16T06:28:22.788078+00:00",
+      "last_checked": "2026-08-23T06:29:24.005011+00:00",
       "season_count": 1,
       "episode_count": 2
     },
@@ -1306,7 +1306,7 @@
       "priority": {
         "dad-series": 25
       },
-      "poster": "https://image.tmdb.org/t/p/w300/5RuZZIouptatjV96BdPmKmRsnGg.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/w2jauz2PeSjFQifDObI3qDen4f7.jpg",
       "rating": "TV-MA",
       "genres": [
         "Drama",
@@ -1322,7 +1322,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-16T06:28:24.723466+00:00",
+      "last_checked": "2026-08-23T06:29:25.006017+00:00",
       "season_count": 5,
       "episode_count": 30
     },
@@ -2485,7 +2485,7 @@
           "link": "https://www.netflix.com/title/81128389"
         }
       },
-      "last_checked": "2026-08-16T06:28:26.538085+00:00",
+      "last_checked": "2026-08-23T06:29:26.130531+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2506,7 +2506,7 @@
       ],
       "overview": "It's the land we love and the land we think we know. We see America's breathtaking landscapes and wildlife as timeless, but the truth is very different. Its unique geography drives the forces of na...",
       "streaming": {},
-      "last_checked": "2026-08-16T06:28:29.367752+00:00",
+      "last_checked": "2026-08-23T06:29:27.465583+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -2535,7 +2535,7 @@
           "link": "https://www.netflix.com/title/81028343"
         }
       },
-      "last_checked": "2026-08-16T06:28:31.376055+00:00",
+      "last_checked": "2026-08-23T06:29:28.612675+00:00",
       "season_count": 1,
       "episode_count": 4
     },
@@ -2569,7 +2569,7 @@
           "link": "https://www.netflix.com/title/80078037"
         }
       },
-      "last_checked": "2026-08-16T06:28:33.239426+00:00",
+      "last_checked": "2026-08-23T06:29:29.593707+00:00",
       "season_count": 1,
       "episode_count": 26
     },
@@ -2597,7 +2597,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-16T06:28:35.598818+00:00",
+      "last_checked": "2026-08-23T06:29:30.736599+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2627,7 +2627,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-16T06:28:36.614207+00:00",
+      "last_checked": "2026-08-23T06:29:31.299927+00:00",
       "runtime": 85,
       "release_date": "2023-11-17"
     },
@@ -2655,7 +2655,7 @@
           "link": "https://www.netflix.com/title/81276049"
         }
       },
-      "last_checked": "2026-08-16T06:28:37.306114+00:00",
+      "last_checked": "2026-08-23T06:29:31.708441+00:00",
       "runtime": 59,
       "release_date": "2021-10-01"
     },

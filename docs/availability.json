@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T06:29:31.709087+00:00",
+  "last_updated": "2026-08-24T06:42:42.875717+00:00",
   "country": "us",
   "items": [
     {
@@ -13,7 +13,7 @@
       "priority": {
         "dad-movie": 1
       },
-      "poster": "https://image.tmdb.org/t/p/w300/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
       "rating": "",
       "genres": [
         "Action",
@@ -22,7 +22,7 @@
       ],
       "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
       "streaming": {},
-      "last_checked": "2026-08-17T06:39:36.965327+00:00",
+      "last_checked": "2026-08-24T06:42:13.835565+00:00",
       "release_date": "2026-12-18",
       "runtime": 165
     },
@@ -123,8 +123,9 @@
       ],
       "overview": "Emperor Paul Atreides faces the fallout from his ascent to power as political plots and a galaxy-wide holy war endanger the future only he can see.",
       "streaming": {},
-      "last_checked": "2026-08-17T06:39:37.856824+00:00",
-      "release_date": "20-12-18"
+      "last_checked": "2026-08-24T06:42:14.869228+00:00",
+      "release_date": "20-12-18",
+      "runtime": 140
     },
     {
       "title": "The Life of Chuck",
@@ -241,7 +242,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-08-17T06:39:38.599934+00:00",
+      "last_checked": "2026-08-24T06:42:15.780978+00:00",
       "runtime": 111,
       "release_date": "1992-09-25"
     },
@@ -578,7 +579,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-17T06:39:39.139303+00:00",
+      "last_checked": "2026-08-24T06:42:16.459341+00:00",
       "runtime": 143,
       "release_date": "20-06-05"
     },
@@ -697,7 +698,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-17T06:39:39.619053+00:00",
+      "last_checked": "2026-08-24T06:42:17.174060+00:00",
       "runtime": 105,
       "release_date": "1985-08-07"
     },
@@ -730,7 +731,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-17T06:39:41.192779+00:00",
+      "last_checked": "2026-08-24T06:42:18.749568+00:00",
       "season_count": 2,
       "episode_count": 19,
       "watched_seasons": 2
@@ -763,7 +764,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-17T06:39:44.243833+00:00",
+      "last_checked": "2026-08-24T06:42:20.630378+00:00",
       "season_count": 5,
       "episode_count": 50,
       "watched_seasons": 5
@@ -890,7 +891,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-17T06:39:46.450691+00:00",
+      "last_checked": "2026-08-24T06:42:25.185341+00:00",
       "season_count": 1,
       "episode_count": 6,
       "watched_seasons": 1
@@ -1082,7 +1083,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-17T06:39:48.910339+00:00",
+      "last_checked": "2026-08-24T06:42:27.482968+00:00",
       "season_count": 1,
       "episode_count": 10,
       "watched_seasons": 1
@@ -1107,22 +1108,22 @@
       ],
       "overview": "Two centuries in the future, a missing person links an asteroid belt detective, the captain of an ice freighter and a diplomat trying to avert a war.",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/show/the-expanse/umc.cmc.1ixz96nx5fk3uz3huu99vqpbs",
-          "quality": "sd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "subscription",
           "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fab45cf3-73f7-bab8-02be-df7eb5f7c731",
           "quality": "uhd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/the-expanse/umc.cmc.1ixz96nx5fk3uz3huu99vqpbs",
+          "quality": "sd"
         }
       },
-      "last_checked": "2026-08-17T06:39:50.397693+00:00",
+      "last_checked": "2026-08-24T06:42:29.263559+00:00",
       "season_count": 6,
       "episode_count": 62
     },
@@ -1355,7 +1356,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-17T06:39:52.071146+00:00",
+      "last_checked": "2026-08-24T06:42:31.096487+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 1
@@ -1395,7 +1396,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-17T06:39:53.757272+00:00",
+      "last_checked": "2026-08-24T06:42:33.164112+00:00",
       "season_count": 1,
       "episode_count": 7
     },
@@ -1427,7 +1428,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-17T06:39:55.274795+00:00",
+      "last_checked": "2026-08-24T06:42:34.732898+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -2686,7 +2687,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-17T06:39:55.893233+00:00",
+      "last_checked": "2026-08-24T06:42:35.638373+00:00",
       "runtime": 96,
       "release_date": "2020-08-21"
     },
@@ -2715,7 +2716,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-17T06:39:56.323699+00:00",
+      "last_checked": "2026-08-24T06:42:36.330007+00:00",
       "runtime": 76,
       "release_date": "2019-04-17"
     },
@@ -2728,7 +2729,7 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://cdn.movieofthenight.com/show/28819/poster/vertical/en/240.jpg?Expires=1800859782&Signature=k68M~Kebp~1I5SnDRrs9LpGNslyVveOGkSHyCQYPxhabXqa6gXggSFOCGPKgM09xFL7iq29Flgo2LkQX92csPu4llM5Vm8VhmTf3dS~WtE5GKzI-AXGjQCI-I3P6C5sm2dkhdQT1dmrAtLrPYzuLMQ7YncE0kmbcPGQEQfoIdA8Vf4vn3BVDNDHX8j7EXAFCFT3uW6xWPBQeqoizYI1A5OZNyMA4rKT4fcfckByuHgtI4iLfXaeZbsSEXgB3MjhfGFfuZ1CaFO6ty6PObV6c-Kam5p~0DbaoMepBd6TUOs6jgvhw0FRQudDH6I9FNheMgY8Zez5st5mkJmKzU~C0wg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/28819/poster/vertical/en/240.jpg?Expires=1818574949&Signature=UPGobkdFbnRXfd8Y3VXa~tO6303yySc5XgE3Zs4gjQFIId7lU4xAB-0mvYdTpj7v7zjWJ6vbtm3sn3Dtk6Ir9te-gLrUzQJ2jpFsTyJz1xnAuBCagh5sEjOOFGGUOWTOEgLlxUxz4UN6bCXYNg8MjwnCKEbCk9DIwCmCctnYByNTe9UwuyBJQCI9Gd8SfISEFNwepcdG1NgbzDS6WrM2OJDUTitEiAa0IbZhemBqjpCia8hLgyvw675VjyRURBR2FRFL1X7--~1RD5blQB6buP6km2t3Gpyoc8YZUpoMP8LxXQDiWU0tzWCRePvclQ5wVBVbGFpTlPY2U6aRSGRbug__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -2760,7 +2761,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-17T06:39:56.709862+00:00",
+      "last_checked": "2026-08-24T06:42:37.032282+00:00",
       "runtime": 106,
       "release_date": "2022-10-07"
     },
@@ -2802,7 +2803,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-17T06:39:57.173662+00:00",
+      "last_checked": "2026-08-24T06:42:37.870876+00:00",
       "runtime": 93,
       "release_date": "2023-03-24"
     },
@@ -2830,7 +2831,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-17T06:39:57.824357+00:00",
+      "last_checked": "2026-08-24T06:42:38.781894+00:00",
       "runtime": 89,
       "release_date": "2024-04-22"
     },
@@ -2858,7 +2859,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-17T06:39:58.236029+00:00",
+      "last_checked": "2026-08-24T06:42:39.503947+00:00",
       "runtime": 77,
       "release_date": "2024-04-22"
     },
@@ -2884,7 +2885,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0NB8QGC6DG5QQHZ5J3DQN13H4W/ref=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0NB8QGC6DG5QQHZ5J3DQN13H4W?ref_=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
         },
@@ -2896,7 +2897,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-17T06:39:58.665151+00:00",
+      "last_checked": "2026-08-24T06:42:40.221093+00:00",
       "runtime": 85,
       "release_date": "2024-08-02"
     },
@@ -2948,7 +2949,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-17T06:39:59.067631+00:00",
+      "last_checked": "2026-08-24T06:42:40.949068+00:00",
       "runtime": 98,
       "release_date": "2020-02-14"
     },
@@ -3984,6 +3985,35 @@
       "last_checked": "2026-08-18T06:31:33.886241+00:00",
       "runtime": 109,
       "release_date": "1987-06-05"
+    },
+    {
+      "title": "Trying",
+      "year": 2020,
+      "type": "series",
+      "tmdb_id": "tv/98177",
+      "lists": [
+        "dad"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/3zsnWBpxBWpcvmFP7ueHM5sGC80.jpg",
+      "rating": "TV-14",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "overview": "All Nikki and Jason want is a baby, the one thing they can't have, so they decide to adopt. With their dysfunctional friends, screwball families and chaotic lives, the adoption panel may not agree ...",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "subscription",
+          "link": "https://tv.apple.com/us/show/trying/umc.cmc.6muy4la7lj1omu5nci4bt2m66",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-08-24T06:42:42.625299+00:00",
+      "season_count": 5,
+      "episode_count": 40
     }
   ]
 }

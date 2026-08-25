@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T06:42:42.875717+00:00",
+  "last_updated": "2026-08-25T06:34:35.873442+00:00",
   "country": "us",
   "items": [
     {
@@ -2987,7 +2987,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-18T06:31:21.424824+00:00",
+      "last_checked": "2026-08-25T06:34:25.488221+00:00",
       "runtime": 102,
       "release_date": "2020-01-25"
     },
@@ -3007,13 +3007,6 @@
       ],
       "overview": "National Geographic, acclaimed filmmaker Darren Aronofsky and award-winning producer Jane Root present a cinematic event series hosted by Will Smith. One Strange Rock reveals the magical twists of ...",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0MJD27WAGFAZTAAIYNSAC75PR9",
-          "quality": "sd"
-        },
         "disney": {
           "service": "disney",
           "serviceName": "Disney+",
@@ -3027,9 +3020,16 @@
           "type": "buy",
           "link": "https://tv.apple.com/us/show/one-strange-rock/umc.cmc.5041h6ycj7s76wi1tjdoodjws",
           "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0MJD27WAGFAZTAAIYNSAC75PR9",
+          "quality": "sd"
         }
       },
-      "last_checked": "2026-08-18T06:31:23.328962+00:00",
+      "last_checked": "2026-08-25T06:34:27.143192+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -3058,7 +3058,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-18T06:31:24.445872+00:00",
+      "last_checked": "2026-08-25T06:34:28.009284+00:00",
       "runtime": 73,
       "release_date": "2024-02-21"
     },
@@ -3094,7 +3094,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-18T06:31:25.416289+00:00",
+      "last_checked": "2026-08-25T06:34:28.839687+00:00",
       "runtime": 84,
       "release_date": "2024-10-18"
     },
@@ -3125,7 +3125,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-08-18T06:31:26.465150+00:00",
+      "last_checked": "2026-08-25T06:34:29.652731+00:00",
       "runtime": 83,
       "release_date": "2024-02-02"
     },
@@ -3363,7 +3363,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-18T06:31:28.143582+00:00",
+      "last_checked": "2026-08-25T06:34:31.128505+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -3386,7 +3386,7 @@
       ],
       "overview": "Forty years after the events of the first Spaceballs, the galaxy is once again under threat. A threat so evil, so unstoppable, so completely lacking in any original ideas, that it has vowed to brin...",
       "streaming": {},
-      "last_checked": "2026-08-18T06:31:29.129557+00:00",
+      "last_checked": "2026-08-25T06:34:31.956688+00:00",
       "release_date": "2027-04-23"
     },
     {
@@ -3754,10 +3754,10 @@
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0KNYAG3INPNLW07GECG641G2I2?ref_=atv_dp",
           "quality": "uhd",
-          "price": "5.99 USD"
+          "price": "24.99 USD"
         }
       },
-      "last_checked": "2026-08-18T06:31:30.072758+00:00",
+      "last_checked": "2026-08-25T06:34:32.767604+00:00",
       "release_date": "2026-06-19",
       "runtime": 102
     },
@@ -3778,7 +3778,7 @@
       ],
       "overview": "When Klara, an Artificial Friend who wants nothing more than to find the perfect home, meets Josie, each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her ...",
       "streaming": {},
-      "last_checked": "2026-08-18T06:31:31.018282+00:00",
+      "last_checked": "2026-08-25T06:34:33.546159+00:00",
       "release_date": "2026-10-23"
     },
     {
@@ -3798,7 +3798,7 @@
       ],
       "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch ...",
       "streaming": {},
-      "last_checked": "2026-08-18T06:31:31.953882+00:00",
+      "last_checked": "2026-08-25T06:34:34.292392+00:00",
       "release_date": "2026-11-25"
     },
     {
@@ -3819,7 +3819,7 @@
       ],
       "overview": "After years of maneuvering the canal-ridden, superstitious city of Venice, Italy, a scrappy black cat named Nero begins to question whether he’s lived the right lives. Indebted to Rocco, a ruthless...",
       "streaming": {},
-      "last_checked": "2026-08-18T06:31:32.913925+00:00",
+      "last_checked": "2026-08-25T06:34:35.074358+00:00",
       "release_date": "2027-03-05"
     },
     {
@@ -3982,7 +3982,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-18T06:31:33.886241+00:00",
+      "last_checked": "2026-08-25T06:34:35.873388+00:00",
       "runtime": 109,
       "release_date": "1987-06-05"
     },

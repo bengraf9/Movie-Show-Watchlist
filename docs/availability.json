@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T06:34:35.873442+00:00",
+  "last_updated": "2026-08-26T06:36:29.807494+00:00",
   "country": "us",
   "items": [
     {
@@ -3423,7 +3423,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-19T06:32:03.320963+00:00",
+      "last_checked": "2026-08-26T06:36:18.766636+00:00",
       "season_count": 4,
       "episode_count": 44,
       "watched_seasons": 3
@@ -3456,7 +3456,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-19T06:32:04.256287+00:00",
+      "last_checked": "2026-08-26T06:36:19.748550+00:00",
       "runtime": 100,
       "release_date": "1995-01-27"
     },
@@ -3504,7 +3504,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-08-19T06:32:04.776279+00:00",
+      "last_checked": "2026-08-26T06:36:20.178868+00:00",
       "runtime": 80,
       "release_date": "2004-07-30"
     },
@@ -3537,7 +3537,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-19T06:32:05.180456+00:00",
+      "last_checked": "2026-08-26T06:36:20.650467+00:00",
       "runtime": 104,
       "release_date": "2013-06-14"
     },
@@ -3572,7 +3572,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-19T06:32:06.225214+00:00",
+      "last_checked": "2026-08-26T06:36:22.205897+00:00",
       "season_count": 1,
       "episode_count": 10,
       "watched_seasons": 1
@@ -3601,7 +3601,7 @@
           "link": "https://www.netflix.com/title/81758849"
         }
       },
-      "last_checked": "2026-08-19T06:32:07.501026+00:00",
+      "last_checked": "2026-08-26T06:36:23.894361+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -3631,7 +3631,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-19T06:32:08.705450+00:00",
+      "last_checked": "2026-08-26T06:36:25.153284+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -3658,10 +3658,10 @@
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0KAHR6BLR6JVHDZVO755MJ7057?ref_=atv_dp",
           "quality": "uhd",
-          "price": "19.99 USD"
+          "price": "9.99 USD"
         }
       },
-      "last_checked": "2026-08-19T06:32:09.326126+00:00",
+      "last_checked": "2026-08-26T06:36:25.828440+00:00",
       "release_date": "2026-06-12",
       "runtime": 146
     },
@@ -3682,21 +3682,21 @@
       ],
       "overview": "Executive produced by Tom Hanks and Gary Goetzman, this epic miniseries event profiles one of America’s Founding Fathers as he guides his country through the uncertainty of its first tumultuous years.",
       "streaming": {
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://play.hbomax.com/show/6437fc79-b0cf-4a1f-8fc0-f214c8c060d7"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0MF1HVP4J9JM25RQGP3AWDH6ZN",
           "quality": "hd"
+        },
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/show/6437fc79-b0cf-4a1f-8fc0-f214c8c060d7"
         }
       },
-      "last_checked": "2026-08-19T06:32:10.346695+00:00",
+      "last_checked": "2026-08-26T06:36:27.271521+00:00",
       "season_count": 1,
       "episode_count": 7
     },
@@ -3849,7 +3849,7 @@
           "price": "19.99 USD"
         }
       },
-      "last_checked": "2026-08-19T06:32:11.046614+00:00",
+      "last_checked": "2026-08-26T06:36:27.991152+00:00",
       "release_date": "2026-07-01",
       "runtime": 90
     },
@@ -3878,7 +3878,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-19T06:32:12.201983+00:00",
+      "last_checked": "2026-08-26T06:36:29.572728+00:00",
       "season_count": 1,
       "episode_count": 10
     },

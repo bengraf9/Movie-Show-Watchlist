@@ -348,7 +348,8 @@
     "title": "Happiness",
     "type": "series",
     "lists": [
-      "dad"
+      "dad", 
+      "mom"
     ],
     "tmdb_id": "tv/287399",
     "priority": {
@@ -1246,7 +1247,8 @@
     "title": "Rooster",
     "type": "series",
     "lists": [
-      "dad"
+      "dad", 
+      "mom"
     ],
     "tmdb_id": "tv/254953",
     "year": 2026,
@@ -1257,10 +1259,12 @@
     "title": "How to Get to Heaven from Belfast",
     "type": "series",
     "lists": [
-      "dad"
+      "dad", 
+      "mom"
     ],
     "tmdb_id": "tv/233079",
     "year": 2026,
+    "watched_seasons": 1,
     "rating": "TV-MA"
   },
   {
@@ -1409,5 +1413,15 @@
     "tmdb_id": "tv/98177",
     "year": 2020,
     "rating": "TV-14"
+  },
+  {
+    "title": "Derry Girls",
+    "type": "series",
+    "lists": [
+      "dad", 
+      "mom"
+    ],
+    "tmdb_id": "tv/76148",
+    "year": 2018
   }
 ]

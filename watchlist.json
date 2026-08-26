@@ -1423,5 +1423,14 @@
     ],
     "tmdb_id": "tv/76148",
     "year": 2018
+  },
+  {
+    "title": "Brothers",
+    "type": "series",
+    "lists": [
+      "dad"
+    ],
+    "tmdb_id": "tv/250203",
+    "year": 2026
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T06:36:29.807494+00:00",
+  "last_updated": "2026-08-27T17:12:27.080667+00:00",
   "country": "us",
   "items": [
     {
@@ -831,7 +831,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-20T06:34:23.912680+00:00",
+      "last_checked": "2026-08-27T17:12:09.912404+00:00",
       "season_count": 3,
       "episode_count": 39,
       "watched_seasons": 2
@@ -871,7 +871,8 @@
       "type": "series",
       "tmdb_id": "tv/287399",
       "lists": [
-        "dad"
+        "dad",
+        "mom"
       ],
       "priority": {
         "dad-series": 4
@@ -956,7 +957,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-20T06:34:26.267812+00:00",
+      "last_checked": "2026-08-27T17:12:11.608183+00:00",
       "season_count": 3,
       "episode_count": 33,
       "watched_seasons": 3
@@ -1451,18 +1452,18 @@
       ],
       "overview": "An honest, often hilarious window into the everyday life of a 21st-century American family -- gay, straight, multicultural and multigenerational.",
       "streaming": {
-        "hulu": {
-          "service": "hulu",
-          "serviceName": "Hulu",
-          "type": "subscription",
-          "link": "https://www.hulu.com/series/una-familia-moderna-082d165e-2369-45fb-ace3-26c63d5e6470",
-          "quality": "hd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0IV5WZ6TUSCYEZLQCQFKSN3Z8B",
+          "quality": "hd"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/series/modern-family-883c414c-34a3-4fcc-b50a-0ad5a184c977",
           "quality": "hd"
         },
         "peacock": {
@@ -1473,7 +1474,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-20T06:34:28.551093+00:00",
+      "last_checked": "2026-08-27T17:12:13.815041+00:00",
       "season_count": 11,
       "episode_count": 250
     },
@@ -1503,7 +1504,7 @@
           "link": "https://play.hbomax.com/show/2f5ff1ff-9885-462b-aded-329e421b5f59"
         }
       },
-      "last_checked": "2026-08-20T06:34:30.736286+00:00",
+      "last_checked": "2026-08-27T17:12:15.465185+00:00",
       "season_count": 1,
       "episode_count": 1
     },
@@ -1532,7 +1533,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-20T06:34:32.668902+00:00",
+      "last_checked": "2026-08-27T17:12:16.603845+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -1564,7 +1565,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-20T06:34:33.804797+00:00",
+      "last_checked": "2026-08-27T17:12:17.309488+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1612,7 +1613,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-20T06:34:34.630473+00:00",
+      "last_checked": "2026-08-27T17:12:17.843501+00:00",
       "runtime": 96,
       "release_date": "2009-05-29"
     },
@@ -1627,7 +1628,7 @@
       "priority": {
         "family-movie": 9
       },
-      "poster": "https://cdn.movieofthenight.com/show/14625585/poster/vertical/en/240.jpg?Expires=1803179801&Signature=OVgLRisS6XfAn60JZylUZ3AWhjprqC885TbNbG8xqVaNhySmdEIjXfFEZFLvqqsWtyx0CQhjIArJlHgcg4mF~PGSt62MVR4q7fba11shSrOJ2aHWSUnITD0Xdid6EexSFSwkE2pUAz-ncSq2C5qUNhl2ak3AvDxJN6VKLFxVdfRmSWb40ev4vB~m-~xTcrN727LbWxKfMZ6lyUc1atplV9q86Zenz5txIW5zORw9cFDnjsP82d7y98CV37KrSXnC3awDzS80MdRiAXRIhWhDBWNfLTRbJ4KBqc0vzYcW2nTQcaxteHtHGJ2zY99LqHTWr6tJxuKcTy-DlLhh02F6Lw__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/14625585/poster/vertical/en/240.jpg?Expires=1819417376&Signature=Gxyd3kF4o2G8uSbC8XZJQ4sGC~~2ut~4IoesbbkAG9o4sMcIm6GdhNhVpJGbcehQFIHivZR9J6EWB99zmzh2TiRaZ~kZ7cE~goz4M-bQ7pWP2FLRMUTufruz9ZchWdXpGTdI2OrPL-CmEqEt5CqORBXfRGMAFWkDigeBtqedBZa7OL1hBtFU8QbuLt9sDHbV6q-TxOhvLJy8cHEM~wdHR2P3TTFT-BCyxV7nGT09DFHzxxE~Ma7hOVcbchGMWj~9EYOoxitoAO0EyJ0WgyR9P2LQUUvDxxI4op-VqkfXXjRiXSwKg4AfQ-SHrWJNSUzzeVAA4~ApRq64MTIXnSUgTQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -1660,7 +1661,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-20T06:34:35.503002+00:00",
+      "last_checked": "2026-08-27T17:12:18.260155+00:00",
       "runtime": 102,
       "release_date": "2025-06-20"
     },
@@ -1692,7 +1693,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-20T06:34:36.258634+00:00",
+      "last_checked": "2026-08-27T17:12:18.684688+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1725,7 +1726,7 @@
           "price": "14.99 USD"
         }
       },
-      "last_checked": "2026-08-20T06:34:37.021072+00:00",
+      "last_checked": "2026-08-27T17:12:19.212572+00:00",
       "runtime": 93,
       "release_date": "2007-11-16"
     },
@@ -1757,13 +1758,6 @@
           "quality": "hd",
           "price": "3.99 USD"
         },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-abee744b-d8e6-4f7d-a9d2-1f3934877171",
-          "quality": "uhd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -1771,9 +1765,16 @@
           "link": "https://www.amazon.com/gp/video/detail/0NLT1F7A9RLKCFXCO4CXY7LIKW?ref_=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-abee744b-d8e6-4f7d-a9d2-1f3934877171",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-20T06:34:37.855348+00:00",
+      "last_checked": "2026-08-27T17:12:19.758031+00:00",
       "runtime": 98,
       "release_date": "1981-06-26"
     },
@@ -1821,7 +1822,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-20T06:34:38.702875+00:00",
+      "last_checked": "2026-08-27T17:12:20.258032+00:00",
       "runtime": 134,
       "release_date": "2018-05-25"
     },
@@ -1862,7 +1863,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-20T06:34:39.454272+00:00",
+      "last_checked": "2026-08-27T17:12:20.850605+00:00",
       "runtime": 97,
       "release_date": "2019-09-27"
     },
@@ -1909,7 +1910,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-20T06:34:40.279931+00:00",
+      "last_checked": "2026-08-27T17:12:21.364973+00:00",
       "runtime": 118,
       "release_date": "2003-04-18"
     },
@@ -1924,7 +1925,7 @@
       "priority": {
         "family-movie": 17
       },
-      "poster": "https://cdn.movieofthenight.com/show/8947213/poster/vertical/en/240.jpg?Expires=1802994400&Signature=bFTcZtW7Mxt9OfxMQ4Hj5LbEjVe7xUnR-xFjFNzhhDzxIWldeG5Y2PQRcl4tRTwI9d9xC8Y-wjVfxcQAbHFTIeiWJ6CAE-1PLA30d0oqkuZTvqflrZwodM5TWvN4YL5R0Vmp6m19PUzoHeNeBzN97idEMK2H75bcPicZng0G9LDJUdhJt3Su8bLJZaRV7HJ9hY1PLp1nrDpJeAonUycTZRDB465D52lZOaSx9NdFnCKqR9G95whOaKTwqmiyZehNqv82v~P5SzhZNXHYykdHibGFJxkfhCQCTqqHBTJimRefVbGbFa1q5UxhCOQV5AwcIna72Y5GBZznlR5QgN1yGA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/8947213/poster/vertical/en/240.jpg?Expires=1819282375&Signature=IU3KO2CtWWOH-cgSi5f1MiMC6DehwKzinTboHWRlpNbXOTvZG2tTU3BSfBOSOzEiiCYW5tAO-T3tMXtdzIiJ-BBIjP1cYFA9hUlSW9tg9LwUZn~TECTuDq39Q5I9mfRorKS3RGrYPyszmykE-rfXBcpVNtci20URd01MtsgrqiPRoCwUelnJTsk1Jm-3ohjKMmhyYIwz9R-kZqg3C6Z1PMPVdELnWrV~T6jpXjLMvqoUB6qEj38cD3OpTyVtBLNN47cuoLt1EjFZ4MQotkugt78UT3rh2iv11jc6Rr4uIwgWBRI4EgWgiN0-U0sSaQ36M3ahcrjW8UUvo0dN1~7ldg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -1950,7 +1951,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-20T06:34:41.123516+00:00",
+      "last_checked": "2026-08-27T17:12:21.840957+00:00",
       "runtime": 85,
       "release_date": "2024-12-06"
     },
@@ -2004,7 +2005,7 @@
           "link": "https://www.hulu.com/movie/star-wars:-the-force-awakens-438ec2e9-a05c-4b01-84f4-18960b363868"
         }
       },
-      "last_checked": "2026-08-20T06:34:42.010922+00:00",
+      "last_checked": "2026-08-27T17:12:22.326431+00:00",
       "runtime": 138,
       "release_date": "2015-12-18"
     },
@@ -2059,7 +2060,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-20T06:34:42.838239+00:00",
+      "last_checked": "2026-08-27T17:12:22.764185+00:00",
       "runtime": 152,
       "release_date": "2017-12-15"
     },
@@ -2104,7 +2105,7 @@
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/star-wars-the-rise-of-skywalker/umc.cmc.71hlilqgd8utz8c4nlpl6ol7m?playableId=tvs.sbd.9001%3A1490359713",
           "quality": "hd",
-          "price": "3.99 USD"
+          "price": "5.99 USD"
         },
         "hulu": {
           "service": "hulu",
@@ -2114,7 +2115,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-20T06:34:43.692030+00:00",
+      "last_checked": "2026-08-27T17:12:23.242376+00:00",
       "runtime": 142,
       "release_date": "2019-12-20"
     },
@@ -2162,7 +2163,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-20T06:34:44.538929+00:00",
+      "last_checked": "2026-08-27T17:12:23.738969+00:00",
       "runtime": 95,
       "release_date": "2015-06-19"
     },
@@ -2201,7 +2202,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-20T06:34:45.373029+00:00",
+      "last_checked": "2026-08-27T17:12:24.238919+00:00",
       "runtime": 84,
       "release_date": "1993-02-12"
     },
@@ -2241,7 +2242,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-20T06:34:46.206443+00:00",
+      "last_checked": "2026-08-27T17:12:24.746906+00:00",
       "runtime": 107,
       "release_date": "2022-11-23"
     },
@@ -2273,7 +2274,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-20T06:34:46.960275+00:00",
+      "last_checked": "2026-08-27T17:12:25.195793+00:00",
       "runtime": 90,
       "release_date": "1984-07-13"
     },
@@ -2306,7 +2307,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-20T06:34:47.723948+00:00",
+      "last_checked": "2026-08-27T17:12:25.698359+00:00",
       "runtime": 84,
       "release_date": "1999-07-14"
     },
@@ -3547,7 +3548,8 @@
       "type": "series",
       "tmdb_id": "tv/254953",
       "lists": [
-        "dad"
+        "dad",
+        "mom"
       ],
       "priority": {},
       "poster": "https://image.tmdb.org/t/p/w300/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
@@ -3583,7 +3585,8 @@
       "type": "series",
       "tmdb_id": "tv/233079",
       "lists": [
-        "dad"
+        "dad",
+        "mom"
       ],
       "priority": {},
       "poster": "https://image.tmdb.org/t/p/w300/6lFI03QZgXwGZLKtzUw4L8ZnyBv.jpg",
@@ -3603,7 +3606,8 @@
       },
       "last_checked": "2026-08-26T06:36:23.894361+00:00",
       "season_count": 1,
-      "episode_count": 8
+      "episode_count": 8,
+      "watched_seasons": 1
     },
     {
       "title": "Spider-Noir",
@@ -4014,6 +4018,34 @@
       "last_checked": "2026-08-24T06:42:42.625299+00:00",
       "season_count": 5,
       "episode_count": 40
+    },
+    {
+      "title": "Derry Girls",
+      "year": 2018,
+      "type": "series",
+      "tmdb_id": "tv/76148",
+      "lists": [
+        "dad",
+        "mom"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/btIm8LOtm2qgHIA2IHmQJvD1Mju.jpg",
+      "rating": "TV-MA",
+      "genres": [
+        "Comedy"
+      ],
+      "overview": "Amidst the political conflict of Northern Ireland in the 1990s, five spirited students contend with the universal challenges of being a teenager.",
+      "streaming": {
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/80238565"
+        }
+      },
+      "last_checked": "2026-08-27T17:12:26.871128+00:00",
+      "season_count": 3,
+      "episode_count": 19
     }
   ]
 }

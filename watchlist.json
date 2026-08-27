@@ -348,7 +348,7 @@
     "title": "Happiness",
     "type": "series",
     "lists": [
-      "dad", 
+      "dad",
       "mom"
     ],
     "tmdb_id": "tv/287399",
@@ -1247,7 +1247,7 @@
     "title": "Rooster",
     "type": "series",
     "lists": [
-      "dad", 
+      "dad",
       "mom"
     ],
     "tmdb_id": "tv/254953",
@@ -1259,7 +1259,7 @@
     "title": "How to Get to Heaven from Belfast",
     "type": "series",
     "lists": [
-      "dad", 
+      "dad",
       "mom"
     ],
     "tmdb_id": "tv/233079",
@@ -1418,11 +1418,12 @@
     "title": "Derry Girls",
     "type": "series",
     "lists": [
-      "dad", 
+      "dad",
       "mom"
     ],
     "tmdb_id": "tv/76148",
-    "year": 2018
+    "year": 2018,
+    "rating": "TV-MA"
   },
   {
     "title": "Brothers",

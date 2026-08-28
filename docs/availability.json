@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T17:12:27.080667+00:00",
+  "last_updated": "2026-08-28T17:59:32.136910+00:00",
   "country": "us",
   "items": [
     {
@@ -2354,7 +2354,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-21T06:34:31.985551+00:00",
+      "last_checked": "2026-08-28T17:59:24.030524+00:00",
       "runtime": 97,
       "release_date": "2021-11-24"
     },
@@ -2402,7 +2402,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-21T06:34:32.516318+00:00",
+      "last_checked": "2026-08-28T17:59:24.932802+00:00",
       "runtime": 135,
       "release_date": "2023-05-26"
     },
@@ -3172,7 +3172,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-21T06:34:33.008474+00:00",
+      "last_checked": "2026-08-28T17:59:25.822797+00:00",
       "runtime": 107,
       "release_date": "2021-03-05"
     },
@@ -3191,7 +3191,7 @@
         "Adventure",
         "Family"
       ],
-      "overview": "When ace detective Harry Goodman goes mysteriously missing, his son Tim (Justice Smith) embarks on a journey to find out what happened. Aiding in the investigation is Harry’s former Pokémon partner...",
+      "overview": "When an ace detective goes missing, his son teams up with a hilariously wise-cracking Pokémon - Detective Pikachu (Ryan Reynolds) - to help solve the mystery of what happened.",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -3210,7 +3210,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-08-21T06:34:33.501566+00:00",
+      "last_checked": "2026-08-28T17:59:26.663633+00:00",
       "runtime": 104,
       "release_date": "2019-05-10"
     },
@@ -3247,7 +3247,7 @@
           "link": "https://tubitv.com/movies/100051982/spy-kids"
         }
       },
-      "last_checked": "2026-08-21T06:34:34.033544+00:00",
+      "last_checked": "2026-08-28T17:59:27.488383+00:00",
       "runtime": 88,
       "release_date": "2001-03-18"
     },
@@ -3260,7 +3260,7 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://cdn.movieofthenight.com/show/27116/poster/vertical/en/240.jpg?Expires=1803214222&Signature=hwGHbHO9eMa3LlpoppXmE0FL~VeoayuhCOK7pATENSob-32Nr-EJwicbHfpuiI9fCryzTNW5J61JqCr-AIHWOmWA7-EpbMnfpT7kZIgj95rQzPvp8910LWTcL9trWnooHfq6Ugr6vlJaFJbNyjLabTaZyRb0ib6OoM4ayhEUAUNdK559TEdbjH9rh0ojvmYBJQUMlnlxoiKszcDjXrEM-bCQxmVDgkFxr3pMOdfmzNc3yhHw~NmnC3WRuErbuvMJ1ID~8F0d~8on6TG~I7g7ejWzqhCuu6zBNWIy2OPjZeqzkrl653gFizSo~8tas2Q4nVoz49YifrcGYZzmh88hTg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/27116/poster/vertical/en/240.jpg?Expires=1819409738&Signature=IzHv7os7TweiDKWUhm~tnjQxEgJu-DDtVluGVulkjUp2d8lPlShAjVxuCR1Aoo17w5rfLFW~S3cyrW-tBV3UV426kThV9bhYxOOj06U8I-RSx4-7-rBpqyBXRc4iqb0pRs58otZkBY15rCHx6B~dkzwG7DniUHJY4jV2uInAmvZGnicmMByQMx7bT4T~LuRahqf88vYr9NLorkz1Ls~QL0~w9hbmJkFg4LVb87Tur5jkoIE1lkUTxFOFQC64yy3G4KVNG4kTSNztzCbaZVR5mZZhCeV91BOxDXY44jBZ6r3DXIpxccqDmnRiMuwjyYM7qAOrNFYcGjRgsKo8YI9X6A__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -3285,7 +3285,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-21T06:34:34.533675+00:00",
+      "last_checked": "2026-08-28T17:59:28.355772+00:00",
       "runtime": 87,
       "release_date": "2019-05-03"
     },
@@ -3305,6 +3305,13 @@
       ],
       "overview": "Twin brothers return to their hometown only to discover a great evil is waiting to welcome them.",
       "streaming": {
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/movie/2a072173-2bac-43ba-9933-10eba021ed96",
+          "quality": "uhd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -3312,16 +3319,9 @@
           "link": "https://www.amazon.com/gp/video/detail/0J21M9AM4CY8XJ74W902BIHZYM?ref_=atv_dp",
           "quality": "uhd",
           "price": "5.99 USD"
-        },
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://play.hbomax.com/movie/2a072173-2bac-43ba-9933-10eba021ed96",
-          "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-21T06:34:35.045281+00:00",
+      "last_checked": "2026-08-28T17:59:29.261498+00:00",
       "runtime": 137,
       "release_date": "2025-04-18"
     },
@@ -4046,6 +4046,26 @@
       "last_checked": "2026-08-27T17:12:26.871128+00:00",
       "season_count": 3,
       "episode_count": 19
+    },
+    {
+      "title": "Brothers",
+      "year": 2026,
+      "type": "series",
+      "tmdb_id": "tv/250203",
+      "lists": [
+        "dad"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
+      "rating": "TV-MA",
+      "genres": [
+        "Comedy"
+      ],
+      "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years—but a shocking family secret suggests their connection might be closer.",
+      "streaming": {},
+      "last_checked": "2026-08-28T17:59:31.621004+00:00",
+      "season_count": 1,
+      "episode_count": 8
     }
   ]
 }

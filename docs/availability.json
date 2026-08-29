@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T17:59:32.136910+00:00",
+  "last_updated": "2026-08-29T12:06:20.269570+00:00",
   "country": "us",
   "items": [
     {
@@ -67,7 +67,7 @@
           "link": "https://www.netflix.com/title/80097389"
         }
       },
-      "last_checked": "2026-08-22T06:28:03.495416+00:00",
+      "last_checked": "2026-08-29T12:06:01.513199+00:00",
       "runtime": 93,
       "release_date": "2016-07-01"
     },
@@ -99,7 +99,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-22T06:28:03.921101+00:00",
+      "last_checked": "2026-08-29T12:06:02.198411+00:00",
       "runtime": 94,
       "release_date": "1987-04-17"
     },
@@ -163,7 +163,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-22T06:28:04.404586+00:00",
+      "last_checked": "2026-08-29T12:06:02.874275+00:00",
       "runtime": 110,
       "release_date": "2025-06-13"
     },
@@ -209,7 +209,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-22T06:28:04.814762+00:00",
+      "last_checked": "2026-08-29T12:06:03.621354+00:00",
       "runtime": 150,
       "release_date": "2022-11-23"
     },
@@ -274,7 +274,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-08-22T06:28:05.258225+00:00",
+      "last_checked": "2026-08-29T12:06:04.296310+00:00",
       "runtime": 91,
       "release_date": "1991-02-08"
     },
@@ -306,7 +306,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-22T06:28:05.653083+00:00",
+      "last_checked": "2026-08-29T12:06:04.963626+00:00",
       "runtime": 124,
       "release_date": "1979-12-19"
     },
@@ -327,7 +327,7 @@
         "Action",
         "Adventure"
       ],
-      "overview": "A look at the military commander's origins and his swift, ruthless climb to emperor, viewed through the prism of his addictive and often volatile relationship with his wife and one true love, Josep...",
+      "overview": "A look at the military commander's origins and his swift, ruthless climb to emperor.",
       "streaming": {
         "apple": {
           "service": "apple",
@@ -345,7 +345,7 @@
           "price": "12.99 USD"
         }
       },
-      "last_checked": "2026-08-22T06:28:06.046606+00:00",
+      "last_checked": "2026-08-29T12:06:05.772182+00:00",
       "runtime": 157,
       "release_date": "2023-11-22"
     },
@@ -365,7 +365,7 @@
       "genres": [
         "Drama"
       ],
-      "overview": "Academy Award® nominee Colman Domingo shines in this true story of a man who found hope through the arts while wrongfully imprisoned.",
+      "overview": "Divine G (Colman Domingo), imprisoned at Sing Sing for a crime he didn't commit, finds purpose by acting in a theatre group alongside other incarcerated men, including wary newcomer (Clarence Macli...",
       "streaming": {
         "apple": {
           "service": "apple",
@@ -391,7 +391,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-22T06:28:06.429501+00:00",
+      "last_checked": "2026-08-29T12:06:06.518519+00:00",
       "runtime": 106,
       "release_date": "2024-03-08"
     },
@@ -429,7 +429,7 @@
           "price": "2.49 USD"
         }
       },
-      "last_checked": "2026-08-22T06:28:06.822517+00:00",
+      "last_checked": "2026-08-29T12:06:07.260561+00:00",
       "runtime": 83,
       "release_date": "2025-09-12"
     },
@@ -469,7 +469,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-22T06:28:07.221385+00:00",
+      "last_checked": "2026-08-29T12:06:08.003059+00:00",
       "runtime": 129,
       "release_date": "1963-03-16"
     },
@@ -500,6 +500,13 @@
           "quality": "hd",
           "price": "3.99 USD"
         },
+        "roku": {
+          "service": "roku",
+          "serviceName": "Roku",
+          "type": "free",
+          "link": "https://therokuchannel.roku.com/details/5db7e39d5faf59a6a84c4652880161a0",
+          "quality": "hd"
+        },
         "tubi": {
           "service": "tubi",
           "serviceName": "Tubi",
@@ -508,7 +515,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-22T06:28:07.701325+00:00",
+      "last_checked": "2026-08-29T12:06:08.679515+00:00",
       "runtime": 107,
       "release_date": "1982-01-01"
     },
@@ -547,7 +554,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-22T06:28:08.084942+00:00",
+      "last_checked": "2026-08-29T12:06:09.382713+00:00",
       "runtime": 98,
       "release_date": "2024-06-21"
     },
@@ -620,7 +627,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-22T06:28:08.494915+00:00",
+      "last_checked": "2026-08-29T12:06:10.049042+00:00",
       "runtime": 114,
       "release_date": "2013-12-25"
     },
@@ -659,7 +666,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-22T06:28:08.874932+00:00",
+      "last_checked": "2026-08-29T12:06:10.783287+00:00",
       "runtime": 90,
       "release_date": "2025-03-14"
     },
@@ -798,7 +805,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-22T06:28:12.646775+00:00",
+      "last_checked": "2026-08-29T12:06:12.691130+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1
@@ -2431,7 +2438,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-22T06:28:13.293023+00:00",
+      "last_checked": "2026-08-29T12:06:13.788614+00:00",
       "runtime": 89,
       "release_date": "2020-03-14"
     },
@@ -2459,7 +2466,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-22T06:28:13.694838+00:00",
+      "last_checked": "2026-08-29T12:06:14.613934+00:00",
       "runtime": 38,
       "release_date": "2022-04-14"
     },
@@ -3720,7 +3727,7 @@
         "Adventure",
         "Family"
       ],
-      "overview": "After Camp Half-Blood’s border is attacked, Percy Jackson sets off on an epic odyssey into the Sea of Monsters in search of his best friend Grover and the one thing that may save camp – the Golden ...",
+      "overview": "Percy Jackson takes on the Titan’s curse to save Annabeth and Olympus.",
       "streaming": {
         "disney": {
           "service": "disney",
@@ -3730,7 +3737,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-22T06:28:14.622382+00:00",
+      "last_checked": "2026-08-29T12:06:16.168756+00:00",
       "season_count": 2,
       "episode_count": 16
     },
@@ -3911,7 +3918,7 @@
           "link": "https://www.netflix.com/title/81750702"
         }
       },
-      "last_checked": "2026-08-22T06:28:15.941813+00:00",
+      "last_checked": "2026-08-29T12:06:18.233538+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -3955,7 +3962,7 @@
           "link": "https://www.netflix.com/title/81613903"
         }
       },
-      "last_checked": "2026-08-22T06:28:16.983444+00:00",
+      "last_checked": "2026-08-29T12:06:20.006827+00:00",
       "season_count": 4,
       "episode_count": 28
     },

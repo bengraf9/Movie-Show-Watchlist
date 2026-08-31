@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T11:02:11.078507+00:00",
+  "last_updated": "2026-08-31T12:23:55.300820+00:00",
   "country": "us",
   "items": [
     {
@@ -22,7 +22,7 @@
       ],
       "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
       "streaming": {},
-      "last_checked": "2026-08-24T06:42:13.835565+00:00",
+      "last_checked": "2026-08-31T12:23:33.559167+00:00",
       "release_date": "2026-12-18",
       "runtime": 165
     },
@@ -123,9 +123,8 @@
       ],
       "overview": "Emperor Paul Atreides faces the fallout from his ascent to power as political plots and a galaxy-wide holy war endanger the future only he can see.",
       "streaming": {},
-      "last_checked": "2026-08-24T06:42:14.869228+00:00",
-      "release_date": "20-12-18",
-      "runtime": 140
+      "last_checked": "2026-08-31T12:23:34.388549+00:00",
+      "release_date": "20-12-18"
     },
     {
       "title": "The Life of Chuck",
@@ -242,7 +241,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-08-24T06:42:15.780978+00:00",
+      "last_checked": "2026-08-31T12:23:35.092382+00:00",
       "runtime": 111,
       "release_date": "1992-09-25"
     },
@@ -586,7 +585,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-24T06:42:16.459341+00:00",
+      "last_checked": "2026-08-31T12:23:35.676122+00:00",
       "runtime": 143,
       "release_date": "20-06-05"
     },
@@ -694,7 +693,8 @@
           "service": "tubi",
           "serviceName": "Tubi",
           "type": "free",
-          "link": "https://tubitv.com/movies/658062/real-genius"
+          "link": "https://tubitv.com/movies/658062/real-genius",
+          "quality": "hd"
         },
         "prime": {
           "service": "prime",
@@ -705,7 +705,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-24T06:42:17.174060+00:00",
+      "last_checked": "2026-08-31T12:23:36.221161+00:00",
       "runtime": 105,
       "release_date": "1985-08-07"
     },
@@ -738,7 +738,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-24T06:42:18.749568+00:00",
+      "last_checked": "2026-08-31T12:23:37.581272+00:00",
       "season_count": 2,
       "episode_count": 19,
       "watched_seasons": 2
@@ -771,7 +771,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-24T06:42:20.630378+00:00",
+      "last_checked": "2026-08-31T12:23:39.291406+00:00",
       "season_count": 5,
       "episode_count": 50,
       "watched_seasons": 5
@@ -899,7 +899,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-24T06:42:25.185341+00:00",
+      "last_checked": "2026-08-31T12:23:41.088432+00:00",
       "season_count": 1,
       "episode_count": 6,
       "watched_seasons": 1
@@ -1091,7 +1091,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-24T06:42:27.482968+00:00",
+      "last_checked": "2026-08-31T12:23:43.443056+00:00",
       "season_count": 1,
       "episode_count": 10,
       "watched_seasons": 1
@@ -1116,22 +1116,22 @@
       ],
       "overview": "Two centuries in the future, a missing person links an asteroid belt detective, the captain of an ice freighter and a diplomat trying to avert a war.",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "subscription",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fab45cf3-73f7-bab8-02be-df7eb5f7c731",
-          "quality": "uhd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
           "type": "buy",
           "link": "https://tv.apple.com/us/show/the-expanse/umc.cmc.1ixz96nx5fk3uz3huu99vqpbs",
           "quality": "sd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "subscription",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fab45cf3-73f7-bab8-02be-df7eb5f7c731",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-24T06:42:29.263559+00:00",
+      "last_checked": "2026-08-31T12:23:44.874703+00:00",
       "season_count": 6,
       "episode_count": 62
     },
@@ -1371,7 +1371,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-24T06:42:31.096487+00:00",
+      "last_checked": "2026-08-31T12:23:46.549569+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 1
@@ -1411,7 +1411,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-24T06:42:33.164112+00:00",
+      "last_checked": "2026-08-31T12:23:48.119833+00:00",
       "season_count": 1,
       "episode_count": 7
     },
@@ -1443,7 +1443,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-24T06:42:34.732898+00:00",
+      "last_checked": "2026-08-31T12:23:49.513461+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -2684,7 +2684,7 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://cdn.movieofthenight.com/show/19128/poster/vertical/en/240.jpg?Expires=1800312792&Signature=Lc2Ox5rf6xYTutTd48qpAoi7b20lkj-nBVnR5HnpHc4-wQ3oZII0qP7QKu~G4nn~hUzWqEbm~~n258pgFcFPA71Cusx8wC5GH5o6CMfEYlTlhLchfVeuv1FYNccgydexASkiRkXmeALWREWIovYT2hdEMONKJ5yd5PDnlK~nPybfl~peeEG5WHQtRu8-46XZe579Zts7KBft9dn39p2fqNc9k0BCRk9ZWMTPuIJ9SQpREsdAC1kAGxhk6S3PqUE96mJxTb2-OQAbci9SHgK856mdjdIEgs0x3HGYLfbGm-6cG3doTIn~0ezRwcmgVxs-S8UyjbfsfKHZl4zEvZ~9nw__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/19128/poster/vertical/en/240.jpg?Expires=1819359045&Signature=Mg4Ov-bejnlizS5uMckXCRoZ4AYaEC6P3fw0slnjfaJ-KoZPT26AYKu2Dwl~39vuw5q7jYFlGrZ0TurHyVaxK~c3ytdNQuUxD~8EDADdQbD~8gh~zfHAJddUc1GimGZ47XCK-jSIwdlNg9v96gbGIadS8s2vRpcjlrvyJiLLvwHPREkenWmwM7tnV0YaJ5ziQzBXXI6ausKaoYHwEafHXDpN087qApzAt2a3ZPg0ewHr7LKOCiRmT8kEixqmOjpO5R9k5eSQrLWwIGxFOsGEfSeo~qi3grxLApg4HgRBGhKHoL8T6iqiSVNRjyx~Qcadeyaj09IHeH6C9MmJ~L0dOg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -2702,7 +2702,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-24T06:42:35.638373+00:00",
+      "last_checked": "2026-08-31T12:23:50.340599+00:00",
       "runtime": 96,
       "release_date": "2020-08-21"
     },
@@ -2731,7 +2731,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-24T06:42:36.330007+00:00",
+      "last_checked": "2026-08-31T12:23:50.817725+00:00",
       "runtime": 76,
       "release_date": "2019-04-17"
     },
@@ -2776,7 +2776,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-24T06:42:37.032282+00:00",
+      "last_checked": "2026-08-31T12:23:51.260704+00:00",
       "runtime": 106,
       "release_date": "2022-10-07"
     },
@@ -2818,7 +2818,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-24T06:42:37.870876+00:00",
+      "last_checked": "2026-08-31T12:23:51.757625+00:00",
       "runtime": 93,
       "release_date": "2023-03-24"
     },
@@ -2846,7 +2846,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-24T06:42:38.781894+00:00",
+      "last_checked": "2026-08-31T12:23:52.442207+00:00",
       "runtime": 89,
       "release_date": "2024-04-22"
     },
@@ -2874,7 +2874,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-24T06:42:39.503947+00:00",
+      "last_checked": "2026-08-31T12:23:52.900705+00:00",
       "runtime": 77,
       "release_date": "2024-04-22"
     },
@@ -2912,7 +2912,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-24T06:42:40.221093+00:00",
+      "last_checked": "2026-08-31T12:23:53.377853+00:00",
       "runtime": 85,
       "release_date": "2024-08-02"
     },
@@ -2934,20 +2934,20 @@
       ],
       "overview": "SONIC THE HEDGEHOG tells the story of the world's speediest hedgehog as he embraces his new home on Earth. Sonic and his new best friend Tom team up to defend the planet from the evil genius Dr. Ro...",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/sonic-the-hedgehog/umc.cmc.6gkyrgaoool7s2u24tratknbi?playableId=tvs.sbd.9001%3A1496058930",
-          "quality": "hd",
-          "price": "4.99 USD"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0JJYKWC5WGOTODCJCPD18CKZEJ?ref_=atv_dp",
           "quality": "uhd",
+          "price": "3.99 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/sonic-the-hedgehog/umc.cmc.6gkyrgaoool7s2u24tratknbi?playableId=tvs.sbd.9001%3A1496058930",
+          "quality": "hd",
           "price": "4.99 USD"
         },
         "paramount": {
@@ -2964,7 +2964,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-24T06:42:40.949068+00:00",
+      "last_checked": "2026-08-31T12:23:53.847774+00:00",
       "runtime": 98,
       "release_date": "2020-02-14"
     },
@@ -4019,7 +4019,7 @@
         "Comedy",
         "Romance"
       ],
-      "overview": "All Nikki and Jason want is a baby, the one thing they can't have, so they decide to adopt. With their dysfunctional friends, screwball families and chaotic lives, the adoption panel may not agree ...",
+      "overview": "Nikki and Jason face new parenting challenges in this heartfelt family comedy.",
       "streaming": {
         "apple": {
           "service": "apple",
@@ -4029,7 +4029,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-24T06:42:42.625299+00:00",
+      "last_checked": "2026-08-31T12:23:55.092338+00:00",
       "season_count": 5,
       "episode_count": 40
     },

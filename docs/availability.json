@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T12:23:55.300820+00:00",
+  "last_updated": "2026-09-01T10:55:40.327665+00:00",
   "country": "us",
   "items": [
     {
@@ -2977,7 +2977,7 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://cdn.movieofthenight.com/show/45525/poster/vertical/en/240.jpg?Expires=1800436408&Signature=DMVPgSG09Xbs1CHJsA8stlvKzpU2LVggTB~a3NUnlmSUIOGMUtc1LTG09rJ6bnmsKheAUUz252MSvVC6uwoOOwK-3kwFjbNozpozGwzCsjSazHI8glfWuAuOzxI7v789jZPf-79awPC~JFstek2pGRtiwwB7N6pLX8vegjJja22gdKEk0w7mS8d41l-oXGm01vCmBgUo1Of65HtLRa9ZmuOB5C8HC2fhbHUYVcjJDvqIxyjIDnq4nweBrU5r2H~ye1sKqW5cIsSIASM0vHU61E3c3i90xHfIr6KoSc2TFA8K4~0mAUOfmv8IeErtgkA23yH4zEBgKUWojx~9hGG2Qw__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/45525/poster/vertical/en/240.jpg?Expires=1819374725&Signature=Rbs8yy1-1KIIi9WnStfeqbF9IVycwOixLxRpoQOETyUZkETrMmnMlt9VEq~muUNQ4wPRvbxQbQojRtScQOg1yqzyb1OvAkhTswEz2j37EVh7JnBUtZtDk3IXcZSvEXtfK43fOARlRH9NaQ2W3K98oz4QVRHSXHEdajvm3XP0rnZdzPikD9wN89Jv~ZR1PtZRS6rsS9Uv5YlLrftZI2fGra76xZ8NlMyeN4hXYmRYrsex9eRFlRrN27kYo9dx1gvfXDis108~CNNRQbrTU90Ccv1FfuEyHX~Ak-fcl5au7U5wBlcgmU06OJkAHjTsS6FAeIM0SNuTXrwJ7CtkqsxK6w__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -3002,7 +3002,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-25T06:34:25.488221+00:00",
+      "last_checked": "2026-09-01T10:55:27.452030+00:00",
       "runtime": 102,
       "release_date": "2020-01-25"
     },
@@ -3044,7 +3044,7 @@
           "quality": "sd"
         }
       },
-      "last_checked": "2026-08-25T06:34:27.143192+00:00",
+      "last_checked": "2026-09-01T10:55:29.448511+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -3073,7 +3073,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-25T06:34:28.009284+00:00",
+      "last_checked": "2026-09-01T10:55:30.698448+00:00",
       "runtime": 73,
       "release_date": "2024-02-21"
     },
@@ -3109,7 +3109,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-25T06:34:28.839687+00:00",
+      "last_checked": "2026-09-01T10:55:31.724114+00:00",
       "runtime": 84,
       "release_date": "2024-10-18"
     },
@@ -3140,7 +3140,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-08-25T06:34:29.652731+00:00",
+      "last_checked": "2026-09-01T10:55:32.780664+00:00",
       "runtime": 83,
       "release_date": "2024-02-02"
     },
@@ -3354,7 +3354,7 @@
         "Drama",
         "Romance"
       ],
-      "overview": "A romance set in the world of hockey; Shane Hollander and Ilya Rozanov are two stars in Major League Hockey, bound by ambition, rivalry, and a magnetic pull neither of them fully understands.",
+      "overview": "Two hockey stars bound by ambition, rivalry, and a magnetic pull neither of them fully understands.",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -3363,22 +3363,22 @@
           "link": "https://www.amazon.com/gp/video/detail/0OBESIZVH5XAJ1QDEPGKSUAVGH",
           "quality": "hd"
         },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/show/heated-rivalry/umc.cmc.3p4fdqsnpelmkkkdpjbh1fd1q",
-          "quality": "hd"
-        },
         "hbo": {
           "service": "hbo",
           "serviceName": "HBO Max",
           "type": "subscription",
           "link": "https://play.hbomax.com/show/50cd4e99-04ee-427b-a3b4-da721ed05d9c",
           "quality": "uhd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/heated-rivalry/umc.cmc.3p4fdqsnpelmkkkdpjbh1fd1q",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-08-25T06:34:31.128505+00:00",
+      "last_checked": "2026-09-01T10:55:34.484230+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -3401,7 +3401,7 @@
       ],
       "overview": "Forty years after the events of the first Spaceballs, the galaxy is once again under threat. A threat so evil, so unstoppable, so completely lacking in any original ideas, that it has vowed to brin...",
       "streaming": {},
-      "last_checked": "2026-08-25T06:34:31.956688+00:00",
+      "last_checked": "2026-09-01T10:55:35.499930+00:00",
       "release_date": "2027-04-23"
     },
     {
@@ -3757,14 +3757,14 @@
         "family"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/24600638/poster/vertical/en/240.jpg?Expires=1805819015&Signature=UFWujZutPTtt~2~UE1RQElCz6OevTPOrzNSu1UucDJXD~q8lQ6~vsdcFfHeCYL9q2FPgu~Vjk~vAIOQlC8bPtz8bRmc7IOVg-Qc21u-p2utdhaa0AwEaA9Z02ZOF5Zr4246wPiGR50-CjoIfR5qOoxDBs7GXpFrMojDExNXf2i79p2vOg00lpid3ruK2AbGy9p4vQVBMhmx-LcGzP~fw5AnuHEO9Fi1~U9A0WD-RA1EuhIJMXkBGlXIfXxCoKfg0BbfHKU1EsbZMpWuPgVVrW7OgMVSLYk5TJUDYt7yiOus8B4x9qIJDUXuU2tFVCShyrt-Js3ppHqFSpHdbac2dew__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Adventure",
         "Animation",
         "Comedy"
       ],
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-...",
+      "overview": "The toys are back in Disney and Pixar's \"Toy Story 5,\" and this time it's Toy meets Tech. Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they come face-to-face with Lilypad...",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -3775,9 +3775,9 @@
           "price": "24.99 USD"
         }
       },
-      "last_checked": "2026-08-25T06:34:32.767604+00:00",
-      "release_date": "2026-06-19",
-      "runtime": 102
+      "last_checked": "2026-09-01T10:55:36.549724+00:00",
+      "runtime": 103,
+      "release_date": "2026-06-19"
     },
     {
       "title": "Klara and the Sun",
@@ -3796,7 +3796,7 @@
       ],
       "overview": "When Klara, an Artificial Friend who wants nothing more than to find the perfect home, meets Josie, each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her ...",
       "streaming": {},
-      "last_checked": "2026-08-25T06:34:33.546159+00:00",
+      "last_checked": "2026-09-01T10:55:37.280455+00:00",
       "release_date": "2026-10-23"
     },
     {
@@ -3816,7 +3816,7 @@
       ],
       "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch ...",
       "streaming": {},
-      "last_checked": "2026-08-25T06:34:34.292392+00:00",
+      "last_checked": "2026-09-01T10:55:38.281015+00:00",
       "release_date": "2026-11-25"
     },
     {
@@ -3837,7 +3837,7 @@
       ],
       "overview": "After years of maneuvering the canal-ridden, superstitious city of Venice, Italy, a scrappy black cat named Nero begins to question whether he’s lived the right lives. Indebted to Rocco, a ruthless...",
       "streaming": {},
-      "last_checked": "2026-08-25T06:34:35.074358+00:00",
+      "last_checked": "2026-09-01T10:55:39.302785+00:00",
       "release_date": "2027-03-05"
     },
     {
@@ -4000,7 +4000,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-25T06:34:35.873388+00:00",
+      "last_checked": "2026-09-01T10:55:40.327604+00:00",
       "runtime": 109,
       "release_date": "1987-06-05"
     },

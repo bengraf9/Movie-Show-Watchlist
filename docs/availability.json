@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T10:55:40.327665+00:00",
+  "last_updated": "2026-09-02T10:22:42.737096+00:00",
   "country": "us",
   "items": [
     {
@@ -3423,22 +3423,22 @@
       ],
       "overview": "In this feel-good comedy, American football coach Ted Lasso (Jason Sudeikis) leads a UK soccer team with optimism, determination...and biscuits.",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "subscription",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1b57fe59-dd2b-4706-9439-9c9f75d9db27",
-          "quality": "uhd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
           "type": "subscription",
           "link": "https://tv.apple.com/us/show/ted-lasso/umc.cmc.vtoh0mn0xn7t3c643xqonfzy",
           "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "subscription",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1b57fe59-dd2b-4706-9439-9c9f75d9db27",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-26T06:36:18.766636+00:00",
+      "last_checked": "2026-09-02T10:22:29.498394+00:00",
       "season_count": 4,
       "episode_count": 44,
       "watched_seasons": 3
@@ -3469,9 +3469,16 @@
           "type": "free",
           "link": "https://therokuchannel.roku.com/details/3adb243fa59a5604b661f06a2b855704",
           "quality": "hd"
+        },
+        "tubi": {
+          "service": "tubi",
+          "serviceName": "Tubi",
+          "type": "free",
+          "link": "https://tubitv.com/movies/100055410/before-sunrise",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-08-26T06:36:19.748550+00:00",
+      "last_checked": "2026-09-02T10:22:30.441313+00:00",
       "runtime": 100,
       "release_date": "1995-01-27"
     },
@@ -3502,13 +3509,20 @@
           "link": "https://therokuchannel.roku.com/details/089967581fcf5d4d8fbb1ca30fd00439",
           "quality": "hd"
         },
+        "tubi": {
+          "service": "tubi",
+          "serviceName": "Tubi",
+          "type": "free",
+          "link": "https://tubitv.com/movies/100055408/before-sunset",
+          "quality": "hd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0Q7FZBU04NNPFZ83QGUG9UX9MM?ref_=atv_dp",
           "quality": "hd",
-          "price": "5.99 USD"
+          "price": "4.99 USD"
         },
         "apple": {
           "service": "apple",
@@ -3519,7 +3533,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-08-26T06:36:20.178868+00:00",
+      "last_checked": "2026-09-02T10:22:31.189211+00:00",
       "runtime": 80,
       "release_date": "2004-07-30"
     },
@@ -3552,7 +3566,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-26T06:36:20.650467+00:00",
+      "last_checked": "2026-09-02T10:22:31.862019+00:00",
       "runtime": 104,
       "release_date": "2013-06-14"
     },
@@ -3588,7 +3602,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-26T06:36:22.205897+00:00",
+      "last_checked": "2026-09-02T10:22:33.683950+00:00",
       "season_count": 1,
       "episode_count": 10,
       "watched_seasons": 1
@@ -3618,7 +3632,7 @@
           "link": "https://www.netflix.com/title/81758849"
         }
       },
-      "last_checked": "2026-08-26T06:36:23.894361+00:00",
+      "last_checked": "2026-09-02T10:22:35.371623+00:00",
       "season_count": 1,
       "episode_count": 8,
       "watched_seasons": 1
@@ -3649,7 +3663,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-26T06:36:25.153284+00:00",
+      "last_checked": "2026-09-02T10:22:37.009883+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -3679,7 +3693,7 @@
           "price": "9.99 USD"
         }
       },
-      "last_checked": "2026-08-26T06:36:25.828440+00:00",
+      "last_checked": "2026-09-02T10:22:37.939792+00:00",
       "release_date": "2026-06-12",
       "runtime": 146
     },
@@ -3700,21 +3714,21 @@
       ],
       "overview": "Executive produced by Tom Hanks and Gary Goetzman, this epic miniseries event profiles one of America’s Founding Fathers as he guides his country through the uncertainty of its first tumultuous years.",
       "streaming": {
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/show/6437fc79-b0cf-4a1f-8fc0-f214c8c060d7"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0MF1HVP4J9JM25RQGP3AWDH6ZN",
           "quality": "hd"
-        },
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://play.hbomax.com/show/6437fc79-b0cf-4a1f-8fc0-f214c8c060d7"
         }
       },
-      "last_checked": "2026-08-26T06:36:27.271521+00:00",
+      "last_checked": "2026-09-02T10:22:39.698274+00:00",
       "season_count": 1,
       "episode_count": 7
     },
@@ -3867,7 +3881,7 @@
           "price": "19.99 USD"
         }
       },
-      "last_checked": "2026-08-26T06:36:27.991152+00:00",
+      "last_checked": "2026-09-02T10:22:40.628556+00:00",
       "release_date": "2026-07-01",
       "runtime": 90
     },
@@ -3896,7 +3910,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-26T06:36:29.572728+00:00",
+      "last_checked": "2026-09-02T10:22:42.436866+00:00",
       "season_count": 1,
       "episode_count": 10
     },

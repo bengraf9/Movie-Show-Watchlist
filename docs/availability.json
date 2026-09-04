@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T10:31:04.744917+00:00",
+  "last_updated": "2026-09-04T10:20:47.213706+00:00",
   "country": "us",
   "items": [
     {
@@ -838,7 +838,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-27T17:12:09.912404+00:00",
+      "last_checked": "2026-09-04T10:20:29.360803+00:00",
       "season_count": 3,
       "episode_count": 39,
       "watched_seasons": 2
@@ -964,7 +964,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-27T17:12:11.608183+00:00",
+      "last_checked": "2026-09-04T10:20:31.082596+00:00",
       "season_count": 3,
       "episode_count": 33,
       "watched_seasons": 3
@@ -1458,7 +1458,7 @@
       "priority": {
         "dad-series": 16
       },
-      "poster": "https://image.tmdb.org/t/p/w300/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/97/poster/vertical/en/240.jpg?Expires=1815913585&Signature=Jdqz2APJEHKWcOkk4v8qxeeOxWsmWSSMA0gkYzIfxfUDsmRLnY3PzZOErpHlWJDWYbC5OXnkVknE-qcLO-YrhA4S7fN08MWguIxgYouL~TfgU2Km8ojBqMaz8jrbqigY2rosrl~J2pEGgBrDa9XdawLcwmvzSXdK~Vui8RWD5GfMS5hG5Olgmt7kTUYqvPZnTw4cY-EkEny-UAh~M7tudjRJd0DZNEcJG8-EQEMEGki4LBTEIKNmeixYlrV6MWS0TRW~9hjn8IgVaeDAz3xfi0rl0C6DBdZ1A2W3sEruNwXt9KX9k4wAd~xDSnkN8BlH1WI4xicgFmBBsbOpToHOvA__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "TV-PG",
       "genres": [
         "Comedy",
@@ -1477,7 +1477,7 @@
           "service": "hulu",
           "serviceName": "Hulu",
           "type": "subscription",
-          "link": "https://www.hulu.com/series/modern-family-883c414c-34a3-4fcc-b50a-0ad5a184c977",
+          "link": "https://www.hulu.com/series/una-familia-moderna-082d165e-2369-45fb-ace3-26c63d5e6470",
           "quality": "hd"
         },
         "peacock": {
@@ -1488,7 +1488,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-27T17:12:13.815041+00:00",
+      "last_checked": "2026-09-04T10:20:32.626167+00:00",
       "season_count": 11,
       "episode_count": 250
     },
@@ -1510,15 +1510,8 @@
         "Family"
       ],
       "overview": "There is nothing special about Harry Potter - at least that's what his Aunt Petunia always says. On his 11th birthday, a letter of admittance to Hogwarts School of Witchcraft and Wizardry opens up ...",
-      "streaming": {
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://play.hbomax.com/show/2f5ff1ff-9885-462b-aded-329e421b5f59"
-        }
-      },
-      "last_checked": "2026-08-27T17:12:15.465185+00:00",
+      "streaming": {},
+      "last_checked": "2026-09-04T10:20:34.131556+00:00",
       "season_count": 1,
       "episode_count": 1
     },
@@ -1547,7 +1540,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-27T17:12:16.603845+00:00",
+      "last_checked": "2026-09-04T10:20:35.588270+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -1579,7 +1572,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-27T17:12:17.309488+00:00",
+      "last_checked": "2026-09-04T10:20:36.460943+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1627,7 +1620,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-27T17:12:17.843501+00:00",
+      "last_checked": "2026-09-04T10:20:37.012934+00:00",
       "runtime": 96,
       "release_date": "2009-05-29"
     },
@@ -1675,7 +1668,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-27T17:12:18.260155+00:00",
+      "last_checked": "2026-09-04T10:20:37.508575+00:00",
       "runtime": 102,
       "release_date": "2025-06-20"
     },
@@ -1707,7 +1700,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-27T17:12:18.684688+00:00",
+      "last_checked": "2026-09-04T10:20:38.074450+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1740,7 +1733,7 @@
           "price": "14.99 USD"
         }
       },
-      "last_checked": "2026-08-27T17:12:19.212572+00:00",
+      "last_checked": "2026-09-04T10:20:38.759867+00:00",
       "runtime": 93,
       "release_date": "2007-11-16"
     },
@@ -1788,7 +1781,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-27T17:12:19.758031+00:00",
+      "last_checked": "2026-09-04T10:20:39.290909+00:00",
       "runtime": 98,
       "release_date": "1981-06-26"
     },
@@ -1812,20 +1805,20 @@
       ],
       "overview": "Young Han Solo and his gang of smugglers devise a plan to steal coaxium from the planet Kessel.",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0FSEHO8AO4JCQ58Y4IUU3PMCA9?ref_=atv_dp",
-          "quality": "uhd",
-          "price": "3.99 USD"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/solo-a-star-wars-story/umc.cmc.1skhjjrps93jxwc8w45mc4yyj?playableId=tvs.sbd.9001%3A1382545660",
           "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0FSEHO8AO4JCQ58Y4IUU3PMCA9?ref_=atv_dp",
+          "quality": "uhd",
           "price": "3.99 USD"
         },
         "disney": {
@@ -1836,7 +1829,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-27T17:12:20.258032+00:00",
+      "last_checked": "2026-09-04T10:20:39.842060+00:00",
       "runtime": 134,
       "release_date": "2018-05-25"
     },
@@ -1858,7 +1851,7 @@
         "Animation",
         "Comedy"
       ],
-      "overview": "When mischievous friends Yi, Jin, and Peng discover a young yeti on their roof, they name him Everest and embark on a thrilling adventure to reunite the magical creature with his family. On the jou...",
+      "overview": "Teens embark on a quest to reunite a Yeti with his family.",
       "streaming": {
         "apple": {
           "service": "apple",
@@ -1875,9 +1868,16 @@
           "link": "https://www.amazon.com/gp/video/detail/0L8IRLCY2Q498C13AR00B90DHJ?ref_=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-7d65ff4f-f7ca-4ed9-a84e-34bbca5775c8",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-08-27T17:12:20.850605+00:00",
+      "last_checked": "2026-09-04T10:20:40.384822+00:00",
       "runtime": 97,
       "release_date": "2019-09-27"
     },
@@ -1901,6 +1901,14 @@
       ],
       "overview": "A boy and his friends question the motives of a woman (Sigourney Weaver) who forces them to dig holes at a detention camp.",
       "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/holes/umc.cmc.3xfxm6sx6ax30et957pya3wa7?playableId=tvs.sbd.9001%3A353962173",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -1924,7 +1932,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-27T17:12:21.364973+00:00",
+      "last_checked": "2026-09-04T10:20:41.111751+00:00",
       "runtime": 118,
       "release_date": "2003-04-18"
     },
@@ -1965,7 +1973,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-27T17:12:21.840957+00:00",
+      "last_checked": "2026-09-04T10:20:41.654398+00:00",
       "runtime": 85,
       "release_date": "2024-12-06"
     },
@@ -2005,21 +2013,21 @@
           "quality": "hd",
           "price": "3.99 USD"
         },
+        "starz": {
+          "service": "starz",
+          "serviceName": "Starz",
+          "type": "subscription",
+          "link": "https://www.starz.com/us/en/movies/star-wars:-the-force-awakens-26915"
+        },
         "disney": {
           "service": "disney",
           "serviceName": "Disney+",
           "type": "subscription",
           "link": "https://www.disneyplus.com/browse/entity-438ec2e9-a05c-4b01-84f4-18960b363868",
           "quality": "uhd"
-        },
-        "starz": {
-          "service": "starz",
-          "serviceName": "Starz",
-          "type": "subscription",
-          "link": "https://www.hulu.com/movie/star-wars:-the-force-awakens-438ec2e9-a05c-4b01-84f4-18960b363868"
         }
       },
-      "last_checked": "2026-08-27T17:12:22.326431+00:00",
+      "last_checked": "2026-09-04T10:20:42.161795+00:00",
       "runtime": 138,
       "release_date": "2015-12-18"
     },
@@ -2043,13 +2051,6 @@
       ],
       "overview": "Luke Skywalker comes to a crossroad when he meets a woman who wants to learn the ways of the Jedi.",
       "streaming": {
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-4c622e6e-6237-44e7-9aaf-db94de0edc3b",
-          "quality": "uhd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -2066,6 +2067,13 @@
           "quality": "hd",
           "price": "3.99 USD"
         },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-50c1aff5-3051-4839-9ebf-e332c635e216",
+          "quality": "uhd"
+        },
         "hulu": {
           "service": "hulu",
           "serviceName": "Hulu",
@@ -2074,7 +2082,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-27T17:12:22.764185+00:00",
+      "last_checked": "2026-09-04T10:20:42.681873+00:00",
       "runtime": 152,
       "release_date": "2017-12-15"
     },
@@ -2098,13 +2106,6 @@
       ],
       "overview": "In STAR WARS: THE RISE OF SKYWALKER, the riveting conclusion of the landmark Skywalker saga, new legends will be born—and the final battle for freedom is yet to come. WARNING: SOME FLASHING-LIGHTS ...",
       "streaming": {
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-43f9c275-e7e8-4ab3-802d-00d06a8ad841",
-          "quality": "uhd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -2112,6 +2113,13 @@
           "link": "https://www.amazon.com/gp/video/detail/0QKCRV1LHJQLWBQZ772047WQE3?ref_=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-43f9c275-e7e8-4ab3-802d-00d06a8ad841",
+          "quality": "uhd"
         },
         "apple": {
           "service": "apple",
@@ -2129,7 +2137,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-27T17:12:23.242376+00:00",
+      "last_checked": "2026-09-04T10:20:43.196970+00:00",
       "runtime": 142,
       "release_date": "2019-12-20"
     },
@@ -2177,7 +2185,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-27T17:12:23.738969+00:00",
+      "last_checked": "2026-09-04T10:20:43.734162+00:00",
       "runtime": 95,
       "release_date": "2015-06-19"
     },
@@ -2200,13 +2208,6 @@
       ],
       "overview": "Two dogs and a cat set out across America to find their owners.",
       "streaming": {
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-532fc4ef-12aa-43d7-abe4-f0cbc9d949ba",
-          "quality": "hd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -2214,9 +2215,16 @@
           "link": "https://www.amazon.com/gp/video/detail/0TADT48EGUSLCW6WP5MJCLZD9W?ref_=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-532fc4ef-12aa-43d7-abe4-f0cbc9d949ba",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-08-27T17:12:24.238919+00:00",
+      "last_checked": "2026-09-04T10:20:44.229915+00:00",
       "runtime": 84,
       "release_date": "1993-02-12"
     },
@@ -2256,7 +2264,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-27T17:12:24.746906+00:00",
+      "last_checked": "2026-09-04T10:20:44.798111+00:00",
       "runtime": 107,
       "release_date": "2022-11-23"
     },
@@ -2288,7 +2296,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-27T17:12:25.195793+00:00",
+      "last_checked": "2026-09-04T10:20:45.297949+00:00",
       "runtime": 90,
       "release_date": "1984-07-13"
     },
@@ -2321,7 +2329,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-27T17:12:25.698359+00:00",
+      "last_checked": "2026-09-04T10:20:45.804892+00:00",
       "runtime": 84,
       "release_date": "1999-07-14"
     },
@@ -4071,7 +4079,7 @@
           "link": "https://www.netflix.com/title/80238565"
         }
       },
-      "last_checked": "2026-08-27T17:12:26.871128+00:00",
+      "last_checked": "2026-09-04T10:20:46.969759+00:00",
       "season_count": 3,
       "episode_count": 19
     },

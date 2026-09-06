@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T09:48:05.605224+00:00",
+  "last_updated": "2026-09-06T10:04:40.343152+00:00",
   "country": "us",
   "items": [
     {
@@ -46,6 +46,13 @@
       ],
       "overview": "Hank is stranded on a deserted island when a corpse washes ashore and the two go on an epic adventure to bring Hank back to the woman of his dreams.",
       "streaming": {
+        "roku": {
+          "service": "roku",
+          "serviceName": "Roku",
+          "type": "free",
+          "link": "https://therokuchannel.roku.com/details/be5460c7712b5b539334617844157092",
+          "quality": "hd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -58,7 +65,8 @@
           "service": "tubi",
           "serviceName": "Tubi",
           "type": "free",
-          "link": "https://tubitv.com/movies/100046625/swiss-army-man"
+          "link": "https://tubitv.com/movies/100046625/swiss-army-man",
+          "quality": "hd"
         },
         "netflix": {
           "service": "netflix",
@@ -67,7 +75,7 @@
           "link": "https://www.netflix.com/title/80097389"
         }
       },
-      "last_checked": "2026-08-29T12:06:01.513199+00:00",
+      "last_checked": "2026-09-06T10:04:19.853630+00:00",
       "runtime": 93,
       "release_date": "2016-07-01"
     },
@@ -99,7 +107,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-29T12:06:02.198411+00:00",
+      "last_checked": "2026-09-06T10:04:20.608905+00:00",
       "runtime": 94,
       "release_date": "1987-04-17"
     },
@@ -137,14 +145,14 @@
       "priority": {
         "dad-movie": 10
       },
-      "poster": "https://cdn.movieofthenight.com/show/9894297/poster/vertical/en/240.jpg?Expires=1801611999&Signature=UP17LhTTfxtJ7n081ELbm4e6K0Ud6kchn9tF6lZEkwwqlzGxG5UVoEnefMzDK6q8v1zPIro9RmfNnKMNdMQMQQ6id1eDcw9q6HVF5pF00nK9V4Enz53vXZzX2HnCzg91wScLg~-qeRWKfkqZS3CSau9Qk4HgHalLKCKd5dG7yjp36-am4uugDvk7I9A7vL3rxr92CHdCLMeWO~CYMKhsGwezeLNuB4cOJAeFHYDIGfWHIAlJQdxvBp-mWnDhMizVXgEUaIhXWRJ4cZQLRZ4bOvyhfaWRWCnZLg~Rb-yUeSvuth342qodO3JsrP3lIeYFUhNyfpNmt1SVXupLE1jKww__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/9894297/poster/vertical/en/240.jpg?Expires=1819766432&Signature=Xm3134qUJA3LrauV5b42kfam9H-w4xtXFJpAVKU0I2BPYqEjx6F3Cxr1I~D~RWkGSGHu~XLzlPMutyUnH~8-A~eroet3hSEDQIpWdazdtxqs~GBFcYzxLxPet9PyfsDphmWTnFkBq~ppe8fRvEGm-j7fqGi1nujiMBynRzteC3sO-NDvJ18HEvtK-axCYRtFvmNXL~GeK5KdxDyfB4cDfuS0NuF5gQk897hg2ybIKXclXo4xxPzVh3bZkfZz3J-GtAZbdhziipBGpOH8X7~dReB3oJbZeiZqoSL5mTgW1X3zupHdSQqwHU63J90T2dHt5KxfxkfBqEfbaV3jDj675A__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
       "genres": [
         "Drama",
         "Fantasy",
         "Science Fiction"
       ],
-      "overview": "From the hearts and minds of Stephen King and directed by Mike Flanagan comes THE LIFE OF CHUCK, a genre-bending tale celebrating the life of Charles 'Chuck' Krantz (Tom Hiddleston) as he experienc...",
+      "overview": "Based on Stephen King's novella and brought to the screen by acclaimed director Mike Flanagan (Doctor Sleep), THE LIFE OF CHUCK is the tale of a seemingly unremarkable man called Charles Kranz (Tom...",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -162,7 +170,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-29T12:06:02.874275+00:00",
+      "last_checked": "2026-09-06T10:04:21.351108+00:00",
       "runtime": 110,
       "release_date": "2025-06-13"
     },
@@ -192,13 +200,6 @@
           "quality": "uhd",
           "price": "3.99 USD"
         },
-        "peacock": {
-          "service": "peacock",
-          "serviceName": "Peacock",
-          "type": "subscription",
-          "link": "https://www.peacocktv.com/watch/asset/movies/the-fabelmans/2a5217ac-bb12-3e04-8867-f88ae97c4660",
-          "quality": "uhd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -206,9 +207,16 @@
           "link": "https://tv.apple.com/us/movie/the-fabelmans/umc.cmc.4lgvd75jcuqp79fuar3e9p9zh?playableId=tvs.sbd.9001%3A1655490626",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "peacock": {
+          "service": "peacock",
+          "serviceName": "Peacock",
+          "type": "subscription",
+          "link": "https://www.peacocktv.com/watch/asset/movies/the-fabelmans/2a5217ac-bb12-3e04-8867-f88ae97c4660",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-29T12:06:03.621354+00:00",
+      "last_checked": "2026-09-06T10:04:22.174794+00:00",
       "runtime": 150,
       "release_date": "2022-11-23"
     },
@@ -273,7 +281,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-08-29T12:06:04.296310+00:00",
+      "last_checked": "2026-09-06T10:04:22.913150+00:00",
       "runtime": 91,
       "release_date": "1991-02-08"
     },
@@ -305,7 +313,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-29T12:06:04.963626+00:00",
+      "last_checked": "2026-09-06T10:04:23.645536+00:00",
       "runtime": 124,
       "release_date": "1979-12-19"
     },
@@ -332,7 +340,7 @@
           "service": "apple",
           "serviceName": "Apple TV+",
           "type": "subscription",
-          "link": "https://tv.apple.com/us/movie/napoleon/umc.cmc.25k80oxl3vo69c8rimk8v81s1?playableId=tvs.sbd.4000%3AA0064201001",
+          "link": "https://tv.apple.com/us/movie/napoleon-the-directors-cut/umc.cmc.gtk0q9t2mapcjs75d31vvrs2?playableId=tvs.sbd.4000%3AA0064201002",
           "quality": "uhd"
         },
         "prime": {
@@ -344,7 +352,7 @@
           "price": "12.99 USD"
         }
       },
-      "last_checked": "2026-08-29T12:06:05.772182+00:00",
+      "last_checked": "2026-09-06T10:04:24.460759+00:00",
       "runtime": 157,
       "release_date": "2023-11-22"
     },
@@ -390,7 +398,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-29T12:06:06.518519+00:00",
+      "last_checked": "2026-09-06T10:04:25.270774+00:00",
       "runtime": 106,
       "release_date": "2024-03-08"
     },
@@ -428,7 +436,7 @@
           "price": "2.49 USD"
         }
       },
-      "last_checked": "2026-08-29T12:06:07.260561+00:00",
+      "last_checked": "2026-09-06T10:04:26.095332+00:00",
       "runtime": 83,
       "release_date": "2025-09-12"
     },
@@ -468,7 +476,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-29T12:06:08.003059+00:00",
+      "last_checked": "2026-09-06T10:04:26.899316+00:00",
       "runtime": 129,
       "release_date": "1963-03-16"
     },
@@ -491,14 +499,6 @@
       ],
       "overview": "A struggling salesman and lonely teacher escape into a fantasy world of Depression-era music, only to be confronted by the crushing weight of reality.",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0RV4BHVKN4HY8PM9MNGAC0S7SB?ref_=atv_dp",
-          "quality": "hd",
-          "price": "3.99 USD"
-        },
         "roku": {
           "service": "roku",
           "serviceName": "Roku",
@@ -512,9 +512,17 @@
           "type": "free",
           "link": "https://tubitv.com/movies/100046335/pennies-from-heaven",
           "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0RV4BHVKN4HY8PM9MNGAC0S7SB?ref_=atv_dp",
+          "quality": "hd",
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-29T12:06:08.679515+00:00",
+      "last_checked": "2026-09-06T10:04:27.675641+00:00",
       "runtime": 107,
       "release_date": "1982-01-01"
     },
@@ -553,7 +561,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-29T12:06:09.382713+00:00",
+      "last_checked": "2026-09-06T10:04:28.477028+00:00",
       "runtime": 98,
       "release_date": "2024-06-21"
     },
@@ -626,7 +634,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-29T12:06:10.049042+00:00",
+      "last_checked": "2026-09-06T10:04:29.203864+00:00",
       "runtime": 114,
       "release_date": "2013-12-25"
     },
@@ -647,7 +655,7 @@
         "Drama",
         "Mystery"
       ],
-      "overview": "From Director Steven Soderbergh, BLACK BAG is a gripping spy drama about legendary intelligence agents George Woodhouse and his beloved wife Kathryn. When she is suspected of betraying the nation, ...",
+      "overview": "An intelligence agent faces the ultimate test when his wife is suspected of betraying the nation.",
       "streaming": {
         "peacock": {
           "service": "peacock",
@@ -665,7 +673,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-08-29T12:06:10.783287+00:00",
+      "last_checked": "2026-09-06T10:04:30.002019+00:00",
       "runtime": 90,
       "release_date": "2025-03-14"
     },
@@ -805,7 +813,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-29T12:06:12.691130+00:00",
+      "last_checked": "2026-09-06T10:04:32.249812+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1
@@ -2453,7 +2461,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-29T12:06:13.788614+00:00",
+      "last_checked": "2026-09-06T10:04:33.263797+00:00",
       "runtime": 89,
       "release_date": "2020-03-14"
     },
@@ -2481,7 +2489,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-29T12:06:14.613934+00:00",
+      "last_checked": "2026-09-06T10:04:34.068189+00:00",
       "runtime": 38,
       "release_date": "2022-04-14"
     },
@@ -3767,7 +3775,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-29T12:06:16.168756+00:00",
+      "last_checked": "2026-09-06T10:04:35.838790+00:00",
       "season_count": 2,
       "episode_count": 16
     },
@@ -3948,7 +3956,7 @@
           "link": "https://www.netflix.com/title/81750702"
         }
       },
-      "last_checked": "2026-08-29T12:06:18.233538+00:00",
+      "last_checked": "2026-09-06T10:04:38.141056+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -3969,30 +3977,29 @@
         "Drama",
         "Mystery"
       ],
-      "overview": "Navajo Nation cops Joe Leaphorn and Jim Chee investigate a string of crimes in this neo-Western exec-produced by Robert Redford and George R.R. Martin.",
+      "overview": "When a string of seemingly unrelated crimes strikes the 1970s Navajo Nation, two tribal police officers dredge up old wounds to uncover the truth.",
       "streaming": {
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/81613903"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "free",
+          "link": "https://www.amazon.com/gp/video/detail/0NNVKYT80WZS6NXC2WJIJV885Z"
+        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
           "type": "buy",
           "link": "https://tv.apple.com/us/show/dark-winds/umc.cmc.2re7oa02cr4v3h0yv1j6qymkf",
           "quality": "hd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0NNVKYT80WZS6NXC2WJIJV885Z",
-          "quality": "sd"
-        },
-        "netflix": {
-          "service": "netflix",
-          "serviceName": "Netflix",
-          "type": "subscription",
-          "link": "https://www.netflix.com/title/81613903"
         }
       },
-      "last_checked": "2026-08-29T12:06:20.006827+00:00",
+      "last_checked": "2026-09-06T10:04:40.071924+00:00",
       "season_count": 4,
       "episode_count": 28
     },

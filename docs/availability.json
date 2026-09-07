@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T10:04:40.343152+00:00",
+  "last_updated": "2026-09-07T11:18:07.837383+00:00",
   "country": "us",
   "items": [
     {
@@ -876,7 +876,7 @@
           "link": "https://www.netflix.com/title/81122572"
         }
       },
-      "last_checked": "2026-08-30T11:01:37.510928+00:00",
+      "last_checked": "2026-09-07T11:17:47.675515+00:00",
       "season_count": 1,
       "episode_count": 3
     },
@@ -939,7 +939,7 @@
           "link": "https://www.netflix.com/title/81677257"
         }
       },
-      "last_checked": "2026-08-30T11:01:40.384503+00:00",
+      "last_checked": "2026-09-07T11:17:49.293740+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -997,6 +997,13 @@
       ],
       "overview": "STAR TREK: STRANGE NEW WORLDS is based on the years Captain Christopher Pike manned the helm of the U.S.S. Enterprise. The series will follow Captain Pike, Officer Spock and Number One in the years...",
       "streaming": {
+        "paramount": {
+          "service": "paramount",
+          "serviceName": "Paramount+",
+          "type": "subscription",
+          "link": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/",
+          "quality": "hd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -1009,17 +1016,10 @@
           "serviceName": "Apple TV+",
           "type": "buy",
           "link": "https://tv.apple.com/us/show/star-trek-strange-new-worlds/umc.cmc.1o10sclnk0t945h2mtuolocip",
-          "quality": "sd"
-        },
-        "paramount": {
-          "service": "paramount",
-          "serviceName": "Paramount+",
-          "type": "subscription",
-          "link": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/",
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-30T11:01:42.595966+00:00",
+      "last_checked": "2026-09-07T11:17:50.613290+00:00",
       "season_count": 4,
       "episode_count": 40
     },
@@ -1043,11 +1043,11 @@
       ],
       "overview": "Star Trek: Picard features Sir Patrick Stewart reprising his iconic role as Jean-Luc Picard, which he played for seven seasons on Star Trek: The Next Generation. The new series will follow this ico...",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/show/star-trek-picard/umc.cmc.2tqufhly635jf1fnuonxojax",
+        "paramount": {
+          "service": "paramount",
+          "serviceName": "Paramount+",
+          "type": "subscription",
+          "link": "https://www.paramountplus.com/shows/star-trek-picard/",
           "quality": "hd"
         },
         "prime": {
@@ -1056,17 +1056,17 @@
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0S4PHJ50UWJJMEE08SOKDCOI6E?ref_=atv_dp",
           "quality": "hd",
-          "price": "22.99 USD"
+          "price": "4.99 USD"
         },
-        "paramount": {
-          "service": "paramount",
-          "serviceName": "Paramount+",
-          "type": "subscription",
-          "link": "https://www.paramountplus.com/shows/star-trek-picard/",
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/star-trek-picard/umc.cmc.2tqufhly635jf1fnuonxojax",
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-30T11:01:44.793817+00:00",
+      "last_checked": "2026-09-07T11:17:51.818743+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1163,13 +1163,6 @@
       ],
       "overview": "Fresh out of prison, Shadow Moon meets the enigmatic Mr. Wednesday—and is swept into a gathering storm that will upend the course of his life.",
       "streaming": {
-        "tubi": {
-          "service": "tubi",
-          "serviceName": "Tubi",
-          "type": "free",
-          "link": "https://tubitv.com/series/300017904/american-gods",
-          "quality": "hd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -1181,7 +1174,14 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "subscription",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fd5d6de8-b2f2-45fe-a376-03965d2fbc6e"
+          "link": "https://www.amazon.com/gp/video/detail/0U5LPGLHIBYAA24ISAM352994E"
+        },
+        "tubi": {
+          "service": "tubi",
+          "serviceName": "Tubi",
+          "type": "free",
+          "link": "https://tubitv.com/series/300017904/american-gods",
+          "quality": "hd"
         },
         "roku": {
           "service": "roku",
@@ -1191,7 +1191,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-08-30T11:01:47.438480+00:00",
+      "last_checked": "2026-09-07T11:17:53.370460+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1213,6 +1213,13 @@
       ],
       "overview": "In Toledo, Ohio, a documentary crew focuses its efforts on 'The Truth Teller', a historic but declining Midwestern newspaper trying to resurrect itself with volunteer reporters. Following the lives...",
       "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "subscription",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fca30c5f-f261-4cc8-b56c-1022558a5bfa",
+          "quality": "uhd"
+        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -1226,16 +1233,9 @@
           "type": "subscription",
           "link": "https://www.peacocktv.com/watch/asset/tv/the-paper/4873123615239886112",
           "quality": "uhd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "subscription",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fca30c5f-f261-4cc8-b56c-1022558a5bfa",
-          "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-30T11:01:52.533374+00:00",
+      "last_checked": "2026-09-07T11:17:57.534923+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -1286,7 +1286,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-30T11:01:54.806243+00:00",
+      "last_checked": "2026-09-07T11:17:58.702080+00:00",
       "season_count": 6,
       "episode_count": 110
     },
@@ -1315,7 +1315,7 @@
           "link": "https://play.hbomax.com/show/c967b1a4-d0e2-491e-967e-ae09f88fef62"
         }
       },
-      "last_checked": "2026-08-30T11:01:56.848408+00:00",
+      "last_checked": "2026-09-07T11:17:59.869039+00:00",
       "season_count": 1,
       "episode_count": 2
     },
@@ -1346,7 +1346,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-30T11:01:58.780855+00:00",
+      "last_checked": "2026-09-07T11:18:00.891389+00:00",
       "season_count": 5,
       "episode_count": 30
     },
@@ -2517,7 +2517,7 @@
           "link": "https://www.netflix.com/title/81128389"
         }
       },
-      "last_checked": "2026-08-30T11:02:00.715702+00:00",
+      "last_checked": "2026-09-07T11:18:01.996329+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2538,7 +2538,7 @@
       ],
       "overview": "It's the land we love and the land we think we know. We see America's breathtaking landscapes and wildlife as timeless, but the truth is very different. Its unique geography drives the forces of na...",
       "streaming": {},
-      "last_checked": "2026-08-30T11:02:03.058742+00:00",
+      "last_checked": "2026-09-07T11:18:03.419439+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -2567,7 +2567,7 @@
           "link": "https://www.netflix.com/title/81028343"
         }
       },
-      "last_checked": "2026-08-30T11:02:04.974703+00:00",
+      "last_checked": "2026-09-07T11:18:04.578706+00:00",
       "season_count": 1,
       "episode_count": 4
     },
@@ -2601,7 +2601,7 @@
           "link": "https://www.netflix.com/title/80078037"
         }
       },
-      "last_checked": "2026-08-30T11:02:06.883254+00:00",
+      "last_checked": "2026-09-07T11:18:05.693557+00:00",
       "season_count": 1,
       "episode_count": 26
     },
@@ -2629,7 +2629,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-30T11:02:09.313733+00:00",
+      "last_checked": "2026-09-07T11:18:06.893726+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2659,7 +2659,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-08-30T11:02:10.342885+00:00",
+      "last_checked": "2026-09-07T11:18:07.455065+00:00",
       "runtime": 85,
       "release_date": "2023-11-17"
     },
@@ -2672,7 +2672,7 @@
         "kids"
       ],
       "priority": {},
-      "poster": "https://cdn.movieofthenight.com/show/94822/poster/vertical/en/240.jpg?Expires=1803604117&Signature=NUHYDOga1hacVq6G0nwLNDsl6pRYJfTYxtDqNW8FmdjxFn4BJLU4GeFOfLaLjJgtoN~7arqNOg-9-Z0kN4Z6wZD0QRPlrgseF5iriH3cQRChB-DRLnuuIfjslwfAzR0a6-HPhG409fbolNPNw6W6Pk~8nAPBiETywIiauSstH8MxZPZ2wQvPEzMMa7rUca69CgkPJMvYudFAHZkV0c03Hn~onj3bXJSTMOHjPzI599qa4bVEusIm4TBIbv7zxzRtLkFs5X4d9P7oWueBjsOfgU8TQ0Gc-o4zQHPHsmPG9NBiyMpoy5sx95g5BQ8rhWJz24gq~9DDFQgGyMsBLVsybQ__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/94822/poster/vertical/en/240.jpg?Expires=1819916656&Signature=hUnzZlGYHZ9JNve~WoQdw5n35In3rQ8bgQrUh3e~pSjhxAMb1Z7k9JAm1uRJgI9ilSYWtpqAl4cQ7xNMKX9IWlAi4bsebpDJxXCklRVmgoZrbrKFjkYR11FkMnnCTpffzQf1iUEOnvP38BNrMKHHdb88S2082cXHYWkt8oUn9H3X9QOgtR8LnG2ARVk5A6p8LVtwP5WoI4eXW3DwmAaAy53uUMVoL3lyCKwrABcS~Bi5GF3jIsE9~J4bPVjM6ElPKlkrrvV~Ru5yE5uE78TfC0cvi~KASF3inb4gPrVXfZddnUqStj960EPksMd9AquDA1iA3eephx0eVmWtcKPhsQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Documentary",
@@ -2687,7 +2687,7 @@
           "link": "https://www.netflix.com/title/81276049"
         }
       },
-      "last_checked": "2026-08-30T11:02:11.077720+00:00",
+      "last_checked": "2026-09-07T11:18:07.836733+00:00",
       "runtime": 59,
       "release_date": "2021-10-01"
     },

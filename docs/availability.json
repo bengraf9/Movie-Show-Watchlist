@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T10:25:19.717610+00:00",
+  "last_updated": "2026-09-09T10:34:48.396638+00:00",
   "country": "us",
   "items": [
     {
@@ -3033,7 +3033,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-01T10:55:27.452030+00:00",
+      "last_checked": "2026-09-09T10:34:26.255765+00:00",
       "runtime": 102,
       "release_date": "2020-01-25"
     },
@@ -3053,6 +3053,13 @@
       ],
       "overview": "National Geographic, acclaimed filmmaker Darren Aronofsky and award-winning producer Jane Root present a cinematic event series hosted by Will Smith. One Strange Rock reveals the magical twists of ...",
       "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0MJD27WAGFAZTAAIYNSAC75PR9",
+          "quality": "sd"
+        },
         "disney": {
           "service": "disney",
           "serviceName": "Disney+",
@@ -3066,16 +3073,9 @@
           "type": "buy",
           "link": "https://tv.apple.com/us/show/one-strange-rock/umc.cmc.5041h6ycj7s76wi1tjdoodjws",
           "quality": "hd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0MJD27WAGFAZTAAIYNSAC75PR9",
-          "quality": "sd"
         }
       },
-      "last_checked": "2026-09-01T10:55:29.448511+00:00",
+      "last_checked": "2026-09-09T10:34:27.843894+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -3101,10 +3101,10 @@
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0LE7SV6ZZITV5AO096WZ3CFL2H?ref_=atv_dp",
           "quality": "hd",
-          "price": "3.99 USD"
+          "price": "2.99 USD"
         }
       },
-      "last_checked": "2026-09-01T10:55:30.698448+00:00",
+      "last_checked": "2026-09-09T10:34:28.753191+00:00",
       "runtime": 73,
       "release_date": "2024-02-21"
     },
@@ -3140,7 +3140,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-01T10:55:31.724114+00:00",
+      "last_checked": "2026-09-09T10:34:29.651199+00:00",
       "runtime": 84,
       "release_date": "2024-10-18"
     },
@@ -3171,7 +3171,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-09-01T10:55:32.780664+00:00",
+      "last_checked": "2026-09-09T10:34:30.593765+00:00",
       "runtime": 83,
       "release_date": "2024-02-02"
     },
@@ -3410,7 +3410,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-01T10:55:34.484230+00:00",
+      "last_checked": "2026-09-09T10:34:31.826623+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -3433,7 +3433,7 @@
       ],
       "overview": "Forty years after the events of the first Spaceballs, the galaxy is once again under threat. A threat so evil, so unstoppable, so completely lacking in any original ideas, that it has vowed to brin...",
       "streaming": {},
-      "last_checked": "2026-09-01T10:55:35.499930+00:00",
+      "last_checked": "2026-09-09T10:34:32.580976+00:00",
       "release_date": "2027-04-23"
     },
     {
@@ -3461,16 +3461,9 @@
           "type": "subscription",
           "link": "https://tv.apple.com/us/show/ted-lasso/umc.cmc.vtoh0mn0xn7t3c643xqonfzy",
           "quality": "uhd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "subscription",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1b57fe59-dd2b-4706-9439-9c9f75d9db27",
-          "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-02T10:22:29.498394+00:00",
+      "last_checked": "2026-09-09T10:34:34.061486+00:00",
       "season_count": 4,
       "episode_count": 44,
       "watched_seasons": 3
@@ -3493,7 +3486,7 @@
         "Drama",
         "Romance"
       ],
-      "overview": "An American (Ethan Hawke) finds love with a Frenchwoman (Julie Delpy) in Vienna.",
+      "overview": "Two strangers meet on a train and spend a day together in Vienna, forming a deep connection as they wander the city before parting ways.",
       "streaming": {
         "roku": {
           "service": "roku",
@@ -3510,7 +3503,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-02T10:22:30.441313+00:00",
+      "last_checked": "2026-09-09T10:34:34.830623+00:00",
       "runtime": 100,
       "release_date": "1995-01-27"
     },
@@ -3532,7 +3525,7 @@
         "Drama",
         "Romance"
       ],
-      "overview": "Two people (Ethan Hawke, Julie Delpy) reunite in Paris after nine years.",
+      "overview": "An American author and a French woman reunite in Paris years after a brief, unforgettable night in Vienna, exploring what remains between them.",
       "streaming": {
         "roku": {
           "service": "roku",
@@ -3541,20 +3534,13 @@
           "link": "https://therokuchannel.roku.com/details/089967581fcf5d4d8fbb1ca30fd00439",
           "quality": "hd"
         },
-        "tubi": {
-          "service": "tubi",
-          "serviceName": "Tubi",
-          "type": "free",
-          "link": "https://tubitv.com/movies/100055408/before-sunset",
-          "quality": "hd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0Q7FZBU04NNPFZ83QGUG9UX9MM?ref_=atv_dp",
           "quality": "hd",
-          "price": "4.99 USD"
+          "price": "5.99 USD"
         },
         "apple": {
           "service": "apple",
@@ -3563,9 +3549,16 @@
           "link": "https://tv.apple.com/us/movie/before-sunset/umc.cmc.6ybvbqfmbxp9upda7hzyvf03z?playableId=tvs.sbd.9001%3A295621095",
           "quality": "hd",
           "price": "5.99 USD"
+        },
+        "tubi": {
+          "service": "tubi",
+          "serviceName": "Tubi",
+          "type": "free",
+          "link": "https://tubitv.com/movies/100055408/before-sunset",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-09-02T10:22:31.189211+00:00",
+      "last_checked": "2026-09-09T10:34:35.388768+00:00",
       "runtime": 80,
       "release_date": "2004-07-30"
     },
@@ -3598,7 +3591,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-02T10:22:31.862019+00:00",
+      "last_checked": "2026-09-09T10:34:35.996146+00:00",
       "runtime": 104,
       "release_date": "2013-06-14"
     },
@@ -3617,7 +3610,7 @@
       "genres": [
         "Comedy"
       ],
-      "overview": "​From Bill Lawrence (Shrinking, HBO Max's Clone High) and Matt Tarses (Scrubs, The Goldbergs), this comedy series centers on successful author Greg Russo (Steve Carell) as he arrives at Ludlow Coll...",
+      "overview": "A comedy set on a college campus centering on an author's (Steve Carell) complicated relationship with his daughter (Charly Clive).",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -3634,7 +3627,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-02T10:22:33.683950+00:00",
+      "last_checked": "2026-09-09T10:34:37.491181+00:00",
       "season_count": 1,
       "episode_count": 10,
       "watched_seasons": 1
@@ -3664,7 +3657,7 @@
           "link": "https://www.netflix.com/title/81758849"
         }
       },
-      "last_checked": "2026-09-02T10:22:35.371623+00:00",
+      "last_checked": "2026-09-09T10:34:39.152099+00:00",
       "season_count": 1,
       "episode_count": 8,
       "watched_seasons": 1
@@ -3695,7 +3688,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-02T10:22:37.009883+00:00",
+      "last_checked": "2026-09-09T10:34:40.661088+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -3708,13 +3701,13 @@
         "dad"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "poster": "https://cdn.movieofthenight.com/show/24602051/poster/vertical/en/240.jpg?Expires=1805843882&Signature=E3W2hMtJxIGM2jvg78Aj2eHpnX0R5zxsRqOto0mhKYXZMKg8q0wZ2WXle9L8wx2Hso~QL06pFpyaVZa9IOP3gvKWXA9ZZqjd3vcoSe4aU40JwrcSmOTxb-fJTHziBeX8Ljhwf2SrwgjzUWuhrkI0hKEXcyKEF1cvOUtOnp5GbvHNHp1U~wUkXLwG~oDG3KK~fVOwMIhXxOdKq0RPwzNGn7Q0bMVL7AOX~QG9CfG3SXzXnuc~BsWltX20Ds7dqL3wjC6EesH-O~yqncCXsdN6D8hHMFiakIopy2v-eq6J8z3GftwDR3URyLRbrki476QDYitg7QMc3vM6vG5EqULz0A__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG-13",
       "genres": [
         "Action",
         "Mystery"
       ],
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forc...",
+      "overview": "If you found out we weren't alone, if someone showed you, proved it to you, would that frighten you? Now the truth belongs to seven billion people in an original event film created and directed by ...",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -3725,9 +3718,9 @@
           "price": "9.99 USD"
         }
       },
-      "last_checked": "2026-09-02T10:22:37.939792+00:00",
-      "release_date": "2026-06-12",
-      "runtime": 146
+      "last_checked": "2026-09-09T10:34:41.374087+00:00",
+      "runtime": 148,
+      "release_date": "2026-06-12"
     },
     {
       "title": "John Adams",
@@ -3760,7 +3753,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-02T10:22:39.698274+00:00",
+      "last_checked": "2026-09-09T10:34:42.645929+00:00",
       "season_count": 1,
       "episode_count": 7
     },
@@ -3821,7 +3814,7 @@
           "price": "24.99 USD"
         }
       },
-      "last_checked": "2026-09-01T10:55:36.549724+00:00",
+      "last_checked": "2026-09-09T10:34:43.388499+00:00",
       "runtime": 103,
       "release_date": "2026-06-19"
     },
@@ -3842,7 +3835,7 @@
       ],
       "overview": "When Klara, an Artificial Friend who wants nothing more than to find the perfect home, meets Josie, each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her ...",
       "streaming": {},
-      "last_checked": "2026-09-01T10:55:37.280455+00:00",
+      "last_checked": "2026-09-09T10:34:43.938521+00:00",
       "release_date": "2026-10-23"
     },
     {
@@ -3854,7 +3847,7 @@
         "family"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/zO1r0TvdmnUSO1aAtFaVeT5h1KW.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
       "rating": "",
       "genres": [
         "Adventure",
@@ -3862,7 +3855,7 @@
       ],
       "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch ...",
       "streaming": {},
-      "last_checked": "2026-09-01T10:55:38.281015+00:00",
+      "last_checked": "2026-09-09T10:34:44.858077+00:00",
       "release_date": "2026-11-25"
     },
     {
@@ -3883,7 +3876,7 @@
       ],
       "overview": "After years of maneuvering the canal-ridden, superstitious city of Venice, Italy, a scrappy black cat named Nero begins to question whether he’s lived the right lives. Indebted to Rocco, a ruthless...",
       "streaming": {},
-      "last_checked": "2026-09-01T10:55:39.302785+00:00",
+      "last_checked": "2026-09-09T10:34:45.658352+00:00",
       "release_date": "2027-03-05"
     },
     {
@@ -3913,7 +3906,7 @@
           "price": "19.99 USD"
         }
       },
-      "last_checked": "2026-09-02T10:22:40.628556+00:00",
+      "last_checked": "2026-09-09T10:34:46.436415+00:00",
       "release_date": "2026-07-01",
       "runtime": 90
     },
@@ -3942,7 +3935,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-02T10:22:42.436866+00:00",
+      "last_checked": "2026-09-09T10:34:48.152291+00:00",
       "season_count": 1,
       "episode_count": 10
     },

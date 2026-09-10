@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T10:34:48.396638+00:00",
+  "last_updated": "2026-09-10T10:23:15.919973+00:00",
   "country": "us",
   "items": [
     {
@@ -3970,48 +3970,6 @@
       "watched_seasons": 2
     },
     {
-      "title": "Dark Winds",
-      "year": 2022,
-      "type": "series",
-      "tmdb_id": "tv/128904",
-      "lists": [
-        "mom"
-      ],
-      "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/kDlrMN0P9ByrEH2GoRbBFeZHbcf.jpg",
-      "rating": "TV-MA",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ],
-      "overview": "When a string of seemingly unrelated crimes strikes the 1970s Navajo Nation, two tribal police officers dredge up old wounds to uncover the truth.",
-      "streaming": {
-        "netflix": {
-          "service": "netflix",
-          "serviceName": "Netflix",
-          "type": "subscription",
-          "link": "https://www.netflix.com/title/81613903"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "free",
-          "link": "https://www.amazon.com/gp/video/detail/0NNVKYT80WZS6NXC2WJIJV885Z"
-        },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/show/dark-winds/umc.cmc.2re7oa02cr4v3h0yv1j6qymkf",
-          "quality": "hd"
-        }
-      },
-      "last_checked": "2026-09-06T10:04:40.071924+00:00",
-      "season_count": 4,
-      "episode_count": 28
-    },
-    {
       "title": "Harry and the Hendersons",
       "year": 1987,
       "type": "movie",
@@ -4020,7 +3978,7 @@
         "family"
       ],
       "priority": {},
-      "poster": "https://cdn.movieofthenight.com/show/9845/poster/vertical/en/240.jpg?Expires=1801783390&Signature=Xt-7VbD0cHzaYl32KiKVUeZc1~cFKtN4id3C19WbtSAmMnk1s3whgKfNpw4Am~Kcs4tOiR5JW0Xc4ynCWEsIWTI56b8ip~sQBjfzM3tqRAovuCtoqrlunQneeZDPvynR4p57zz7wK8yJZb4x2jmpm~A0VI4B1UA~xODN4FA3gBs17ri7QNv597K-CyDOSGWrMacYUVqrkI0Ru3Z~egYMS7bKXgBFfxdx-JBuqY1I1XKKzhKKD3hl4WcU7hFlzeUAXbw73x0mIl-APBO1fS2Gu2soZKxQ2neJ6lRJq4klZqMOPFfcTdUs-~REyX3Uv8eiwBlcTer-HW4PClLaEbGXdg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/9845/poster/vertical/en/240.jpg?Expires=1820233690&Signature=O5lV3tqR13BiUJUfWXh1FJGSGqjb2CUCaBuB6N3I8CimW2HrMSfoVXPfP6KjhMDx9yYOwSTbaUxB9fp0zNvkvbEuDA6owCdPIFIuaLmj70qeUGze4~qIQRbHE8uBqISs3Owu1M601Au~ux5i6LI0B1iZ4Gd0xl0WbX5zzELx4o8dcb0lVW-1WqMfu51vJHSxwy295iz-LSpLyLtGnrTtKF00hfpdQFKmUlAT0DxVNcpxHvjGU1UpTzFR3ptX7ztLcMWovsXaWUMTqPDbroQPMoWZuR2KPk7w0vdRYjDrhBRiD5nyts-pcPXV6nUGltTg5Rg45PyQj6glCDjTXR64bg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG",
       "genres": [
         "Comedy",
@@ -4038,7 +3996,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-01T10:55:40.327604+00:00",
+      "last_checked": "2026-09-10T10:23:15.919426+00:00",
       "runtime": 109,
       "release_date": "1987-06-05"
     },

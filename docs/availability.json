@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T10:23:15.919973+00:00",
+  "last_updated": "2026-09-11T10:25:13.904038+00:00",
   "country": "us",
   "items": [
     {
@@ -860,7 +860,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-04T10:20:29.360803+00:00",
+      "last_checked": "2026-09-11T10:25:00.523321+00:00",
       "season_count": 3,
       "episode_count": 39,
       "watched_seasons": 2
@@ -986,7 +986,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-04T10:20:31.082596+00:00",
+      "last_checked": "2026-09-11T10:25:01.882914+00:00",
       "season_count": 3,
       "episode_count": 33,
       "watched_seasons": 3
@@ -1480,7 +1480,7 @@
       "priority": {
         "dad-series": 16
       },
-      "poster": "https://cdn.movieofthenight.com/show/97/poster/vertical/en/240.jpg?Expires=1815913585&Signature=Jdqz2APJEHKWcOkk4v8qxeeOxWsmWSSMA0gkYzIfxfUDsmRLnY3PzZOErpHlWJDWYbC5OXnkVknE-qcLO-YrhA4S7fN08MWguIxgYouL~TfgU2Km8ojBqMaz8jrbqigY2rosrl~J2pEGgBrDa9XdawLcwmvzSXdK~Vui8RWD5GfMS5hG5Olgmt7kTUYqvPZnTw4cY-EkEny-UAh~M7tudjRJd0DZNEcJG8-EQEMEGki4LBTEIKNmeixYlrV6MWS0TRW~9hjn8IgVaeDAz3xfi0rl0C6DBdZ1A2W3sEruNwXt9KX9k4wAd~xDSnkN8BlH1WI4xicgFmBBsbOpToHOvA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://image.tmdb.org/t/p/w300/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
       "rating": "TV-PG",
       "genres": [
         "Comedy",
@@ -1493,7 +1493,7 @@
           "serviceName": "Prime Video",
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0IV5WZ6TUSCYEZLQCQFKSN3Z8B",
-          "quality": "hd"
+          "quality": "sd"
         },
         "hulu": {
           "service": "hulu",
@@ -1510,7 +1510,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-04T10:20:32.626167+00:00",
+      "last_checked": "2026-09-11T10:25:03.200360+00:00",
       "season_count": 11,
       "episode_count": 250
     },
@@ -1533,7 +1533,7 @@
       ],
       "overview": "There is nothing special about Harry Potter - at least that's what his Aunt Petunia always says. On his 11th birthday, a letter of admittance to Hogwarts School of Witchcraft and Wizardry opens up ...",
       "streaming": {},
-      "last_checked": "2026-09-04T10:20:34.131556+00:00",
+      "last_checked": "2026-09-11T10:25:04.358416+00:00",
       "season_count": 1,
       "episode_count": 1
     },
@@ -1562,7 +1562,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-04T10:20:35.588270+00:00",
+      "last_checked": "2026-09-11T10:25:05.381570+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -1594,7 +1594,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-04T10:20:36.460943+00:00",
+      "last_checked": "2026-09-11T10:25:05.965309+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1616,7 +1616,7 @@
         "Animation",
         "Comedy"
       ],
-      "overview": "Carl, a retired balloon salesman, tying thousands of balloons to his house, sets off to the lost world of his childhood dreams. Unbeknownst to Carl, 8-year old Russell is on his front porch! Winner...",
+      "overview": "Carl Fredricksen, a 78-year-old balloon salesman, is about to fulfill a lifelong dream. Tying thousands of balloons to his house, he flies away to the South American wilderness. But curmudgeonly Ca...",
       "streaming": {
         "disney": {
           "service": "disney",
@@ -1642,7 +1642,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-04T10:20:37.012934+00:00",
+      "last_checked": "2026-09-11T10:25:06.334239+00:00",
       "runtime": 96,
       "release_date": "2009-05-29"
     },
@@ -1690,7 +1690,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-04T10:20:37.508575+00:00",
+      "last_checked": "2026-09-11T10:25:06.757646+00:00",
       "runtime": 102,
       "release_date": "2025-06-20"
     },
@@ -1722,7 +1722,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-04T10:20:38.074450+00:00",
+      "last_checked": "2026-09-11T10:25:07.149513+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1755,7 +1755,7 @@
           "price": "14.99 USD"
         }
       },
-      "last_checked": "2026-09-04T10:20:38.759867+00:00",
+      "last_checked": "2026-09-11T10:25:07.547918+00:00",
       "runtime": 93,
       "release_date": "2007-11-16"
     },
@@ -1803,7 +1803,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-04T10:20:39.290909+00:00",
+      "last_checked": "2026-09-11T10:25:07.951489+00:00",
       "runtime": 98,
       "release_date": "1981-06-26"
     },
@@ -1851,7 +1851,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-04T10:20:39.842060+00:00",
+      "last_checked": "2026-09-11T10:25:08.337296+00:00",
       "runtime": 134,
       "release_date": "2018-05-25"
     },
@@ -1899,7 +1899,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-04T10:20:40.384822+00:00",
+      "last_checked": "2026-09-11T10:25:08.720286+00:00",
       "runtime": 97,
       "release_date": "2019-09-27"
     },
@@ -1921,21 +1921,13 @@
         "Comedy",
         "Drama"
       ],
-      "overview": "A boy and his friends question the motives of a woman (Sigourney Weaver) who forces them to dig holes at a detention camp.",
+      "overview": "Prepare to be dazzled by the spectacular adaptation of Louis SacharÂ's acclaimed teen adventure Holes, featuring an all star cast including Sigourney Weaver, Jon Voight and Patricia Arquette. Wrong...",
       "streaming": {
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/holes/umc.cmc.3xfxm6sx6ax30et957pya3wa7?playableId=tvs.sbd.9001%3A353962173",
-          "quality": "hd",
-          "price": "3.99 USD"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0QX4QE1CG8MO5AND9K892CU3E1?ref_=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
         },
@@ -1952,9 +1944,17 @@
           "type": "subscription",
           "link": "https://www.disneyplus.com/browse/entity-ecc93033-1f5a-4832-8845-458561c3d21e",
           "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0QX4QE1CG8MO5AND9K892CU3E1?ref_=atv_dp",
+          "quality": "hd",
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-04T10:20:41.111751+00:00",
+      "last_checked": "2026-09-11T10:25:09.140721+00:00",
       "runtime": 118,
       "release_date": "2003-04-18"
     },
@@ -1995,7 +1995,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-04T10:20:41.654398+00:00",
+      "last_checked": "2026-09-11T10:25:09.595532+00:00",
       "runtime": 85,
       "release_date": "2024-12-06"
     },
@@ -2049,8 +2049,8 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-04T10:20:42.161795+00:00",
-      "runtime": 138,
+      "last_checked": "2026-09-11T10:25:10.073780+00:00",
+      "runtime": 136,
       "release_date": "2015-12-18"
     },
     {
@@ -2104,7 +2104,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-04T10:20:42.681873+00:00",
+      "last_checked": "2026-09-11T10:25:10.481148+00:00",
       "runtime": 152,
       "release_date": "2017-12-15"
     },
@@ -2126,7 +2126,7 @@
         "Adventure",
         "Fantasy"
       ],
-      "overview": "In STAR WARS: THE RISE OF SKYWALKER, the riveting conclusion of the landmark Skywalker saga, new legends will be born—and the final battle for freedom is yet to come. WARNING: SOME FLASHING-LIGHTS ...",
+      "overview": "The landmark Skywalker saga comes to a conclusion.",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -2159,7 +2159,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-04T10:20:43.196970+00:00",
+      "last_checked": "2026-09-11T10:25:10.860768+00:00",
       "runtime": 142,
       "release_date": "2019-12-20"
     },
@@ -2181,7 +2181,7 @@
         "Animation",
         "Comedy"
       ],
-      "overview": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they mus...",
+      "overview": "Five Emotions must work overtime when a young girl moves to a new city.",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -2207,7 +2207,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-04T10:20:43.734162+00:00",
+      "last_checked": "2026-09-11T10:25:11.242269+00:00",
       "runtime": 95,
       "release_date": "2015-06-19"
     },
@@ -2246,7 +2246,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-04T10:20:44.229915+00:00",
+      "last_checked": "2026-09-11T10:25:11.623679+00:00",
       "runtime": 84,
       "release_date": "1993-02-12"
     },
@@ -2286,7 +2286,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-04T10:20:44.798111+00:00",
+      "last_checked": "2026-09-11T10:25:12.004591+00:00",
       "runtime": 107,
       "release_date": "2022-11-23"
     },
@@ -2318,7 +2318,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-04T10:20:45.297949+00:00",
+      "last_checked": "2026-09-11T10:25:12.395558+00:00",
       "runtime": 90,
       "release_date": "1984-07-13"
     },
@@ -2351,7 +2351,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-04T10:20:45.804892+00:00",
+      "last_checked": "2026-09-11T10:25:12.798095+00:00",
       "runtime": 84,
       "release_date": "1999-07-14"
     },
@@ -4053,7 +4053,7 @@
           "link": "https://www.netflix.com/title/80238565"
         }
       },
-      "last_checked": "2026-09-04T10:20:46.969759+00:00",
+      "last_checked": "2026-09-11T10:25:13.706905+00:00",
       "season_count": 3,
       "episode_count": 19
     },

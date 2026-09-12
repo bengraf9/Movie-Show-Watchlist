@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T10:25:13.904038+00:00",
+  "last_updated": "2026-09-12T09:54:46.674570+00:00",
   "country": "us",
   "items": [
     {
@@ -2398,7 +2398,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-05T09:48:01.498875+00:00",
+      "last_checked": "2026-09-12T09:54:39.022248+00:00",
       "runtime": 97,
       "release_date": "2021-11-24"
     },
@@ -2446,8 +2446,8 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-05T09:48:01.891527+00:00",
-      "runtime": 135,
+      "last_checked": "2026-09-12T09:54:39.907799+00:00",
+      "runtime": 140,
       "release_date": "2023-05-26"
     },
     {
@@ -3217,7 +3217,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-05T09:48:02.361708+00:00",
+      "last_checked": "2026-09-12T09:54:40.733802+00:00",
       "runtime": 107,
       "release_date": "2021-03-05"
     },
@@ -3255,7 +3255,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-09-05T09:48:02.742070+00:00",
+      "last_checked": "2026-09-12T09:54:41.567155+00:00",
       "runtime": 104,
       "release_date": "2019-05-10"
     },
@@ -3275,7 +3275,7 @@
         "Adventure",
         "Comedy"
       ],
-      "overview": "Gregorio and Ingrid Cortez traded the excitement of espionage for the adventure of parenthood. But when they're sent on a secret mission, they are kidnapped. Luckily, there are two people who can s...",
+      "overview": "When spies, who traded the excitement of espionage for parenthood, get kidnapped, only their kids have the skills and know-how to rescue them.",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -3293,8 +3293,8 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-05T09:48:03.156923+00:00",
-      "runtime": 88,
+      "last_checked": "2026-09-12T09:54:42.327523+00:00",
+      "runtime": 84,
       "release_date": "2001-03-18"
     },
     {
@@ -3318,9 +3318,10 @@
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
-          "type": "free",
+          "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0PSQZFAAEEHJWNCMP787GHHEZT?ref_=atv_dp",
-          "quality": "uhd"
+          "quality": "uhd",
+          "price": "3.99 USD"
         },
         "apple": {
           "service": "apple",
@@ -3331,7 +3332,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-05T09:48:03.552724+00:00",
+      "last_checked": "2026-09-12T09:54:43.130930+00:00",
       "runtime": 87,
       "release_date": "2019-05-03"
     },
@@ -3367,7 +3368,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-09-05T09:48:04.046330+00:00",
+      "last_checked": "2026-09-12T09:54:43.934539+00:00",
       "runtime": 137,
       "release_date": "2025-04-18"
     },
@@ -4073,7 +4074,7 @@
       ],
       "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years—but a shocking family secret suggests their connection might be closer.",
       "streaming": {},
-      "last_checked": "2026-09-05T09:48:05.212894+00:00",
+      "last_checked": "2026-09-12T09:54:46.277063+00:00",
       "season_count": 1,
       "episode_count": 8
     }

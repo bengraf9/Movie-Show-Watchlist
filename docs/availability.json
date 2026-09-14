@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T10:55:11.860391+00:00",
+  "last_updated": "2026-09-14T11:28:03.754017+00:00",
   "country": "us",
   "items": [
     {
@@ -890,7 +890,7 @@
           "link": "https://www.netflix.com/title/81122572"
         }
       },
-      "last_checked": "2026-09-07T11:17:47.675515+00:00",
+      "last_checked": "2026-09-14T11:27:34.383906+00:00",
       "season_count": 1,
       "episode_count": 3
     },
@@ -953,7 +953,7 @@
           "link": "https://www.netflix.com/title/81677257"
         }
       },
-      "last_checked": "2026-09-07T11:17:49.293740+00:00",
+      "last_checked": "2026-09-14T11:27:37.071183+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -1023,7 +1023,7 @@
           "serviceName": "Prime Video",
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0SB08CJZ5A96ONX5IFCDKNE59C",
-          "quality": "hd"
+          "quality": "uhd"
         },
         "apple": {
           "service": "apple",
@@ -1033,7 +1033,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-07T11:17:50.613290+00:00",
+      "last_checked": "2026-09-14T11:27:38.965008+00:00",
       "season_count": 4,
       "episode_count": 40
     },
@@ -1080,7 +1080,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-07T11:17:51.818743+00:00",
+      "last_checked": "2026-09-14T11:27:41.017995+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1184,12 +1184,6 @@
           "link": "https://tv.apple.com/us/show/american-gods/umc.cmc.4o7hf0qe1ezickgfxxeppolqr",
           "quality": "hd"
         },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "subscription",
-          "link": "https://www.amazon.com/gp/video/detail/0U5LPGLHIBYAA24ISAM352994E"
-        },
         "tubi": {
           "service": "tubi",
           "serviceName": "Tubi",
@@ -1203,9 +1197,15 @@
           "type": "free",
           "link": "https://therokuchannel.roku.com/details/61c636a6f9c959adbdcc0053c6e18597",
           "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "subscription",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fd5d6de8-b2f2-45fe-a376-03965d2fbc6e"
         }
       },
-      "last_checked": "2026-09-07T11:17:53.370460+00:00",
+      "last_checked": "2026-09-14T11:27:43.462302+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1225,7 +1225,7 @@
       "genres": [
         "Comedy"
       ],
-      "overview": "In Toledo, Ohio, a documentary crew focuses its efforts on 'The Truth Teller', a historic but declining Midwestern newspaper trying to resurrect itself with volunteer reporters. Following the lives...",
+      "overview": "The documentary crew from Dunder Mifflin’s Scranton branch discovers a struggling Midwestern newspaper and the publisher trying to revive it.",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -1249,9 +1249,9 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-07T11:17:57.534923+00:00",
-      "season_count": 1,
-      "episode_count": 10
+      "last_checked": "2026-09-14T11:27:45.895685+00:00",
+      "season_count": 2,
+      "episode_count": 20
     },
     {
       "title": "Community",
@@ -1269,7 +1269,7 @@
       "genres": [
         "Comedy"
       ],
-      "overview": "When a fast-talking lawyer is disbarred, he’s forced back to school and finds unlikely friendships in the study group he forms to impress a student.",
+      "overview": "Disbarred lawyer Jeff Winger enrolls in a local community college. While there, he forms a study group who eventually learn more about themselves than their course work.",
       "streaming": {
         "apple": {
           "service": "apple",
@@ -1300,7 +1300,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-07T11:17:58.702080+00:00",
+      "last_checked": "2026-09-14T11:27:48.048417+00:00",
       "season_count": 6,
       "episode_count": 110
     },
@@ -1320,7 +1320,7 @@
       "genres": [
         "Documentary"
       ],
-      "overview": "Directed by award-winning filmmakers Judd Apatow and Michael Bonfiglio, this two-part film explores the life, career, friendships, and loves of legendary writer, director, producer, and performer, ...",
+      "overview": "An expansive, yet intimate look at the legendary comedian, writer, and director Mel Brooks - one of the industry's most hilarious and influential minds whose work has had audiences around the world...",
       "streaming": {
         "hbo": {
           "service": "hbo",
@@ -1329,7 +1329,7 @@
           "link": "https://play.hbomax.com/show/c967b1a4-d0e2-491e-967e-ae09f88fef62"
         }
       },
-      "last_checked": "2026-09-07T11:17:59.869039+00:00",
+      "last_checked": "2026-09-14T11:27:49.963542+00:00",
       "season_count": 1,
       "episode_count": 2
     },
@@ -1360,7 +1360,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-07T11:18:00.891389+00:00",
+      "last_checked": "2026-09-14T11:27:51.906548+00:00",
       "season_count": 5,
       "episode_count": 30
     },
@@ -2531,7 +2531,7 @@
           "link": "https://www.netflix.com/title/81128389"
         }
       },
-      "last_checked": "2026-09-07T11:18:01.996329+00:00",
+      "last_checked": "2026-09-14T11:27:53.676789+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2552,7 +2552,7 @@
       ],
       "overview": "It's the land we love and the land we think we know. We see America's breathtaking landscapes and wildlife as timeless, but the truth is very different. Its unique geography drives the forces of na...",
       "streaming": {},
-      "last_checked": "2026-09-07T11:18:03.419439+00:00",
+      "last_checked": "2026-09-14T11:27:56.015739+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -2581,7 +2581,7 @@
           "link": "https://www.netflix.com/title/81028343"
         }
       },
-      "last_checked": "2026-09-07T11:18:04.578706+00:00",
+      "last_checked": "2026-09-14T11:27:57.916340+00:00",
       "season_count": 1,
       "episode_count": 4
     },
@@ -2615,7 +2615,7 @@
           "link": "https://www.netflix.com/title/80078037"
         }
       },
-      "last_checked": "2026-09-07T11:18:05.693557+00:00",
+      "last_checked": "2026-09-14T11:27:59.719046+00:00",
       "season_count": 1,
       "episode_count": 26
     },
@@ -2643,7 +2643,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-07T11:18:06.893726+00:00",
+      "last_checked": "2026-09-14T11:28:01.994275+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2673,7 +2673,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-07T11:18:07.455065+00:00",
+      "last_checked": "2026-09-14T11:28:03.022445+00:00",
       "runtime": 85,
       "release_date": "2023-11-17"
     },
@@ -2701,7 +2701,7 @@
           "link": "https://www.netflix.com/title/81276049"
         }
       },
-      "last_checked": "2026-09-07T11:18:07.836733+00:00",
+      "last_checked": "2026-09-14T11:28:03.753743+00:00",
       "runtime": 59,
       "release_date": "2021-10-01"
     },

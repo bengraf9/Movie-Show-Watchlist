@@ -1424,5 +1424,14 @@
     "tmdb_id": "tv/250203",
     "year": 2026,
     "rating": "TV-MA"
+  },
+  {
+    "title": "The Debut",
+    "type": "movie",
+    "lists": [
+      "dad"
+    ],
+    "tmdb_id": "movie/1391239",
+    "year": 2026
   }
 ]

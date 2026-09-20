@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T10:07:15.032219+00:00",
+  "last_updated": "2026-09-20T10:25:12.881566+00:00",
   "country": "us",
   "items": [
     {
@@ -3223,7 +3223,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-12T09:54:40.733802+00:00",
+      "last_checked": "2026-09-20T10:25:08.363849+00:00",
       "runtime": 107,
       "release_date": "2021-03-05"
     },
@@ -3261,7 +3261,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-09-12T09:54:41.567155+00:00",
+      "last_checked": "2026-09-20T10:25:08.772122+00:00",
       "runtime": 104,
       "release_date": "2019-05-10"
     },
@@ -3299,7 +3299,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-12T09:54:42.327523+00:00",
+      "last_checked": "2026-09-20T10:25:09.209137+00:00",
       "runtime": 84,
       "release_date": "2001-03-18"
     },
@@ -3338,7 +3338,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-12T09:54:43.130930+00:00",
+      "last_checked": "2026-09-20T10:25:09.642946+00:00",
       "runtime": 87,
       "release_date": "2019-05-03"
     },
@@ -3356,7 +3356,7 @@
       "genres": [
         "Horror"
       ],
-      "overview": "Trying to leave their troubled lives behind, twin brothers return home, only to discover an even greater evil waiting to welcome them back.",
+      "overview": "Twin brothers return to their hometown only to discover a great evil is waiting to welcome them.",
       "streaming": {
         "hbo": {
           "service": "hbo",
@@ -3374,7 +3374,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-09-12T09:54:43.934539+00:00",
+      "last_checked": "2026-09-20T10:25:10.108058+00:00",
       "runtime": 137,
       "release_date": "2025-04-18"
     },
@@ -4046,7 +4046,7 @@
         "mom"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/btIm8LOtm2qgHIA2IHmQJvD1Mju.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/ix9lphODnzRCAVG5F6w3jEyaGj1.jpg",
       "rating": "TV-MA",
       "genres": [
         "Comedy"
@@ -4060,7 +4060,7 @@
           "link": "https://www.netflix.com/title/80238565"
         }
       },
-      "last_checked": "2026-09-11T10:25:13.706905+00:00",
+      "last_checked": "2026-09-20T10:25:11.036880+00:00",
       "season_count": 3,
       "episode_count": 19
     },
@@ -4080,7 +4080,7 @@
       ],
       "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years—but a shocking family secret suggests their connection might be closer.",
       "streaming": {},
-      "last_checked": "2026-09-12T09:54:46.277063+00:00",
+      "last_checked": "2026-09-20T10:25:12.685319+00:00",
       "season_count": 1,
       "episode_count": 8
     },

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T10:25:12.881566+00:00",
+  "last_updated": "2026-09-21T11:42:49.547971+00:00",
   "country": "us",
   "items": [
     {
@@ -75,7 +75,7 @@
           "link": "https://www.netflix.com/title/80097389"
         }
       },
-      "last_checked": "2026-09-13T10:54:53.714068+00:00",
+      "last_checked": "2026-09-21T11:42:21.593685+00:00",
       "runtime": 97,
       "release_date": "2016-07-01"
     },
@@ -96,7 +96,7 @@
         "Comedy",
         "Crime"
       ],
-      "overview": "Vowing to go straight, a convenience store bandit (Nicolas Cage) proposes marriage to the police departments photographer (Holly Hunter). All is wedded bliss until they discover she's unable to get...",
+      "overview": "A childless couple decide to help themselves to one of another family's quintuplets.",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -107,7 +107,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-13T10:54:54.396245+00:00",
+      "last_checked": "2026-09-21T11:42:22.269482+00:00",
       "runtime": 94,
       "release_date": "1987-04-17"
     },
@@ -178,7 +178,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-13T10:54:55.138894+00:00",
+      "last_checked": "2026-09-21T11:42:22.960044+00:00",
       "runtime": 110,
       "release_date": "2025-06-13"
     },
@@ -224,7 +224,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-13T10:54:55.976610+00:00",
+      "last_checked": "2026-09-21T11:42:23.710898+00:00",
       "runtime": 150,
       "release_date": "2022-11-23"
     },
@@ -272,7 +272,7 @@
       "priority": {
         "dad-movie": 19
       },
-      "poster": "https://cdn.movieofthenight.com/show/10520/poster/vertical/en/240.jpg?Expires=1801796735&Signature=a5GJCF9mNcPejAqxsjamqoppBFiiPtCqIxoWxNVxTp6heY~abHq6zkis88N4AxxnF6-MtHGbEnHbVdKW8x5hh2~O8otE~JwPiH7hXxB8tIP7CibTmKqahTvmGm2lBkRm3fwwmZiXVvjB-KcpLjzFhkR8F6M6XiXJEdY-W2s9z1n64NBnKxXNxg6qVAkwxwHqdnbZwDfbhAHdAo1NzB4Hdpk843mSxgL8pLiArTu3JEYGKVitv-zf4PIDprLh4Ipx7LYGoNl6HvlLzuzKNeFRLGCgTYjXgRYJU1aM1Pt9Owayzd7Wn3NIWC0XEFF-ylmsSUMR4Q4wzmympiRoJ7e1LQ__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/10520/poster/vertical/en/240.jpg?Expires=1821598219&Signature=LtLruG-jnLsze8kz~vgkp8L49atFfcJhaIh5b-1tDWslRV3yEe7VftBOsiOhUbrLh4pYMvark~gYt77BXqJ~exfRUAQ2aQAlMqN-hl3vYlRASVDqEt6NPCwm1-4Un0U5HRL5vNnsNiVOoOE-8Y0eqJ7JjWs-IlxZ98UulMy16fBytWK6A~pATd~vrc1nBgzk67c3XOFwxG5wYClSoWatiUXuGigZZWJKtZz7MZoEZrOrDwP9Tz3-e65vY2DnCBN4BZvIORTCcgTw0nPFnRL-a7e6lpaXOh6zZTk2K7v3WkR71L~r5AFgTs18WRC6jintgOZ09fM56iUzLDPubRj6PA__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG-13",
       "genres": [
         "Comedy",
@@ -289,7 +289,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-09-13T10:54:56.691294+00:00",
+      "last_checked": "2026-09-21T11:42:24.373287+00:00",
       "runtime": 91,
       "release_date": "1991-02-08"
     },
@@ -321,7 +321,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-13T10:54:57.521607+00:00",
+      "last_checked": "2026-09-21T11:42:25.130739+00:00",
       "runtime": 124,
       "release_date": "1979-12-19"
     },
@@ -348,7 +348,7 @@
           "service": "apple",
           "serviceName": "Apple TV+",
           "type": "subscription",
-          "link": "https://tv.apple.com/us/movie/napoleon-the-directors-cut/umc.cmc.gtk0q9t2mapcjs75d31vvrs2?playableId=tvs.sbd.4000%3AA0064201002",
+          "link": "https://tv.apple.com/us/movie/napoleon/umc.cmc.25k80oxl3vo69c8rimk8v81s1?playableId=tvs.sbd.4000%3AA0064201001",
           "quality": "uhd"
         },
         "prime": {
@@ -360,7 +360,7 @@
           "price": "12.99 USD"
         }
       },
-      "last_checked": "2026-09-13T10:54:58.265275+00:00",
+      "last_checked": "2026-09-21T11:42:25.874332+00:00",
       "runtime": 157,
       "release_date": "2023-11-22"
     },
@@ -375,7 +375,7 @@
       "priority": {
         "dad-movie": 12
       },
-      "poster": "https://cdn.movieofthenight.com/show/4794607/poster/vertical/en/240.jpg?Expires=1805537197&Signature=EBPIyz1WM8Tw-htfnQ4BUjQLrweVmMIhh30QKL8Fzu7t4cSqFHYuIve7aadzSa~aHtGGsVeI6HkmjSjerCyeCYqPrzZewRxLZ5Y1QPAq~k0E3OA5lTXyxwjQv-WNnvpveRcTgUcS91KsufDMiCYMTG4WUXuqi2qUSXly67lJU0WGwe~DmBMMiVSBJYWbXKJlroDhaEcpdlMH~RMJPQKmUah8hx0gJxuOI4xiAsV6KXPe~mztRHPd3f1yLDbCZPrn4Z598VwNFdR3ifi6LigOBe-KUiusmQJl~Lw7TYQnGVXHZYLqC3r6gtcr7SI7EJUVSPZjpSgmxgP7GHV4Pm7lCQ__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/4794607/poster/vertical/en/240.jpg?Expires=1821520866&Signature=HAGu1L2Gywf~y9xy8E8ezCpHMs-WEeVo2jobi72NXgLsQvFipaMhcuK1u8UQ-ewpCH9uDS5F87izCy-emmWcWzUED0pp9pSbRxf7Yi0D3GNOD87P5PWEoK3FDw2yFyNpJI748ttxICKzaub9IPxTveAN74dzEeYHG~dE2~kEhtMEzyFtUAQAlHjgJdb~P1-VSBa~mbuKtVNqXFBScOhE4oDvhZ6p-OQ9-IF107XGKYAdx8kG-nujVix3KHCFruHweVLZKIDCZw6LaOxE698I8mlLqG2at5emkpk8WcX025vGsZEU-J6aoWQFJRtSriqISLlIVyc6Q45CaNB7VG6SKg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
       "genres": [
         "Drama"
@@ -390,6 +390,13 @@
           "quality": "hd",
           "price": "5.99 USD"
         },
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/movie/5e4fb59a-fbe8-4be8-ba4f-eccc4005f169",
+          "quality": "uhd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -397,16 +404,9 @@
           "link": "https://www.amazon.com/gp/video/detail/0H5E4XHCIMNB81SGDZ09LNQ6K6?ref_=atv_dp",
           "quality": "uhd",
           "price": "4.99 USD"
-        },
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://play.hbomax.com/movie/5e4fb59a-fbe8-4be8-ba4f-eccc4005f169",
-          "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-13T10:54:59.007902+00:00",
+      "last_checked": "2026-09-21T11:42:26.620641+00:00",
       "runtime": 106,
       "release_date": "2024-03-08"
     },
@@ -444,7 +444,7 @@
           "price": "2.49 USD"
         }
       },
-      "last_checked": "2026-09-13T10:54:59.781668+00:00",
+      "last_checked": "2026-09-21T11:42:27.365065+00:00",
       "runtime": 83,
       "release_date": "2025-09-12"
     },
@@ -467,14 +467,6 @@
       ],
       "overview": "Scout Finch, six, and her older brother, Jem, live in sleepy Maycomb, Alabama, spending much of their time with their friend Dill and spying on their reclusive and mysterious neighbour, Boo Radley....",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/to-kill-a-mockingbird/umc.cmc.4gv4yhd3qrt6e4vdg7whlq3n4?playableId=tvs.sbd.9001%3A283068031",
-          "quality": "hd",
-          "price": "3.99 USD"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -482,9 +474,17 @@
           "link": "https://www.amazon.com/gp/video/detail/0Q7FZC1JL1C5VNIW2WV2Q82TQ4?ref_=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/to-kill-a-mockingbird/umc.cmc.4gv4yhd3qrt6e4vdg7whlq3n4?playableId=tvs.sbd.9001%3A283068031",
+          "quality": "hd",
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-13T10:55:00.485071+00:00",
+      "last_checked": "2026-09-21T11:42:28.022997+00:00",
       "runtime": 129,
       "release_date": "1963-03-16"
     },
@@ -530,7 +530,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-13T10:55:01.242284+00:00",
+      "last_checked": "2026-09-21T11:42:28.700723+00:00",
       "runtime": 107,
       "release_date": "1982-01-01"
     },
@@ -569,7 +569,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-13T10:55:01.994158+00:00",
+      "last_checked": "2026-09-21T11:42:29.438999+00:00",
       "runtime": 98,
       "release_date": "2024-06-21"
     },
@@ -623,7 +623,7 @@
         "Comedy",
         "Drama"
       ],
-      "overview": "An inspiring story about an ordinary man who leaps into the extraordinary adventure that is life.",
+      "overview": "A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -642,7 +642,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-13T10:55:02.676639+00:00",
+      "last_checked": "2026-09-21T11:42:30.100039+00:00",
       "runtime": 114,
       "release_date": "2013-12-25"
     },
@@ -681,7 +681,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-13T10:55:03.429811+00:00",
+      "last_checked": "2026-09-21T11:42:30.857566+00:00",
       "runtime": 90,
       "release_date": "2025-03-14"
     },
@@ -827,7 +827,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-13T10:55:05.889216+00:00",
+      "last_checked": "2026-09-21T11:42:32.820830+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1
@@ -890,7 +890,7 @@
           "link": "https://www.netflix.com/title/81122572"
         }
       },
-      "last_checked": "2026-09-14T11:27:34.383906+00:00",
+      "last_checked": "2026-09-21T11:42:36.154659+00:00",
       "season_count": 1,
       "episode_count": 3
     },
@@ -953,7 +953,7 @@
           "link": "https://www.netflix.com/title/81677257"
         }
       },
-      "last_checked": "2026-09-14T11:27:37.071183+00:00",
+      "last_checked": "2026-09-21T11:42:38.508223+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -1030,10 +1030,10 @@
           "serviceName": "Apple TV+",
           "type": "buy",
           "link": "https://tv.apple.com/us/show/star-trek-strange-new-worlds/umc.cmc.1o10sclnk0t945h2mtuolocip",
-          "quality": "hd"
+          "quality": "sd"
         }
       },
-      "last_checked": "2026-09-14T11:27:38.965008+00:00",
+      "last_checked": "2026-09-21T11:42:40.427714+00:00",
       "season_count": 4,
       "episode_count": 40
     },
@@ -1077,10 +1077,10 @@
           "serviceName": "Apple TV+",
           "type": "buy",
           "link": "https://tv.apple.com/us/show/star-trek-picard/umc.cmc.2tqufhly635jf1fnuonxojax",
-          "quality": "hd"
+          "quality": "sd"
         }
       },
-      "last_checked": "2026-09-14T11:27:41.017995+00:00",
+      "last_checked": "2026-09-21T11:42:42.314298+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1184,13 +1184,6 @@
           "link": "https://tv.apple.com/us/show/american-gods/umc.cmc.4o7hf0qe1ezickgfxxeppolqr",
           "quality": "hd"
         },
-        "tubi": {
-          "service": "tubi",
-          "serviceName": "Tubi",
-          "type": "free",
-          "link": "https://tubitv.com/series/300017904/american-gods",
-          "quality": "hd"
-        },
         "roku": {
           "service": "roku",
           "serviceName": "Roku",
@@ -1203,9 +1196,16 @@
           "serviceName": "Prime Video",
           "type": "subscription",
           "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fd5d6de8-b2f2-45fe-a376-03965d2fbc6e"
+        },
+        "tubi": {
+          "service": "tubi",
+          "serviceName": "Tubi",
+          "type": "free",
+          "link": "https://tubitv.com/series/0300017904/american-gods",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-09-14T11:27:43.462302+00:00",
+      "last_checked": "2026-09-21T11:42:44.674217+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1249,7 +1249,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-14T11:27:45.895685+00:00",
+      "last_checked": "2026-09-21T11:42:47.262254+00:00",
       "season_count": 2,
       "episode_count": 20
     },
@@ -1300,7 +1300,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-14T11:27:48.048417+00:00",
+      "last_checked": "2026-09-21T11:42:49.286696+00:00",
       "season_count": 6,
       "episode_count": 110
     },
@@ -3975,37 +3975,6 @@
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
-    },
-    {
-      "title": "Harry and the Hendersons",
-      "year": 1987,
-      "type": "movie",
-      "tmdb_id": "movie/8989",
-      "lists": [
-        "family"
-      ],
-      "priority": {},
-      "poster": "https://cdn.movieofthenight.com/show/9845/poster/vertical/en/240.jpg?Expires=1820233690&Signature=O5lV3tqR13BiUJUfWXh1FJGSGqjb2CUCaBuB6N3I8CimW2HrMSfoVXPfP6KjhMDx9yYOwSTbaUxB9fp0zNvkvbEuDA6owCdPIFIuaLmj70qeUGze4~qIQRbHE8uBqISs3Owu1M601Au~ux5i6LI0B1iZ4Gd0xl0WbX5zzELx4o8dcb0lVW-1WqMfu51vJHSxwy295iz-LSpLyLtGnrTtKF00hfpdQFKmUlAT0DxVNcpxHvjGU1UpTzFR3ptX7ztLcMWovsXaWUMTqPDbroQPMoWZuR2KPk7w0vdRYjDrhBRiD5nyts-pcPXV6nUGltTg5Rg45PyQj6glCDjTXR64bg__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "PG",
-      "genres": [
-        "Comedy",
-        "Family",
-        "Fantasy"
-      ],
-      "overview": "When the Hendersons accidentally run over a strange Bigfoot-type animal, they decide to take the friendly \"Harry\" home and adopt him as a pet.",
-      "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0JC7Q5HLYQX1FZCADG1UZAT39P?ref_=atv_dp",
-          "quality": "hd",
-          "price": "3.99 USD"
-        }
-      },
-      "last_checked": "2026-09-17T10:47:33.648927+00:00",
-      "runtime": 109,
-      "release_date": "1987-06-05"
     },
     {
       "title": "Trying",

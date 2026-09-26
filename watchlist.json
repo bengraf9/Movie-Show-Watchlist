@@ -1424,5 +1424,14 @@
     "year": 2026,
     "rating": "R",
     "release_date": "2026-10-07"
+  },
+  {
+    "title": "Norm: The Tale of Norm Macdonald",
+    "type": "movie",
+    "lists": [
+      "dad"
+    ],
+    "tmdb_id": "movie/1620918",
+    "year": 2026
   }
 ]

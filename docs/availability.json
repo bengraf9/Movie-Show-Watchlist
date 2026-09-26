@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T10:56:46.572930+00:00",
+  "last_updated": "2026-09-26T10:37:28.092304+00:00",
   "country": "us",
   "items": [
     {
@@ -860,7 +860,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-19T10:06:46.701653+00:00",
+      "last_checked": "2026-09-26T10:37:12.068921+00:00",
       "season_count": 3,
       "episode_count": 39,
       "watched_seasons": 2
@@ -986,7 +986,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-19T10:06:50.240244+00:00",
+      "last_checked": "2026-09-26T10:37:13.539872+00:00",
       "season_count": 3,
       "episode_count": 33,
       "watched_seasons": 3
@@ -1510,7 +1510,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-19T10:06:53.774404+00:00",
+      "last_checked": "2026-09-26T10:37:15.139238+00:00",
       "season_count": 11,
       "episode_count": 250
     },
@@ -1533,7 +1533,7 @@
       ],
       "overview": "There is nothing special about Harry Potter - at least that's what his Aunt Petunia always says. On his 11th birthday, a letter of admittance to Hogwarts School of Witchcraft and Wizardry opens up ...",
       "streaming": {},
-      "last_checked": "2026-09-19T10:06:56.389857+00:00",
+      "last_checked": "2026-09-26T10:37:16.587188+00:00",
       "season_count": 1,
       "episode_count": 1
     },
@@ -1562,7 +1562,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-19T10:06:58.591142+00:00",
+      "last_checked": "2026-09-26T10:37:18.796000+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -1577,7 +1577,7 @@
       "priority": {
         "family-movie": 4
       },
-      "poster": "https://cdn.movieofthenight.com/show/19787/poster/vertical/en/240.jpg?Expires=1800292016&Signature=DohBfxI8i75D7KAk00Aul453JxgAZXPN56UTGhSfvLGXTXpgw4z6cJ2DplZC7b5FYzAny139OYwKdndVfO-5hs3oWcEdVcU-PKaImBZTwwEhwEcMNeSNV8lr1n~vNLT7EnZXUCgZbrKxKeEl8ppwhOHrOra7KPFrI7rLPiZWyAkm4Fn7EaloZDAggoTK4VkOX0vl-wG3yHRA2zu7YugeAcY0AdQ6wcZS00Cv-z2hfJmefrFZHfLtDjcf3RfLxv0K~fkdlsP0TOf~34hDpYOAblJ7S3t0a-cpAbRgj4yFooCrmAV7b72Hrup3yMXgVsNvAuUqWLyg7kocxS8NKE~Ilg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/19787/poster/vertical/en/240.jpg?Expires=1821647487&Signature=ax1PknOMAi-kCx289hqNliVLggxxAZDIzPLpBSH1ZhlscXbSst~A2SZEGbM6RKe7w~vTD7TLYQCOMPUzcnKoYKgnS-RyPI0bKHPFU64nbCZ2PVIQBq03O7Iq45tcs-Y4oTzyOtBjtNwM9HfTdJmfexrqrMVcuawM4vBzgFYjFOq3E825v5T1tgV4fRqnGTH-BLAHHVD97sVIrflanyOsGv~lUXkOSabxyENmCdIGgG0LLcy3~3eObYylAHM6nNhokcMUg~cA4INIBXTENCulsuogfUEp2XEqAExwSwamRe14QkzIkChQhaGLNRd11hCM3HMPHiI5u0i4u4dNga8tPQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "NR",
       "genres": [
         "Adventure",
@@ -1594,7 +1594,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-19T10:06:59.649572+00:00",
+      "last_checked": "2026-09-26T10:37:19.397101+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1616,7 +1616,7 @@
         "Animation",
         "Comedy"
       ],
-      "overview": "Carl Fredricksen, a 78-year-old balloon salesman, is about to fulfill a lifelong dream. Tying thousands of balloons to his house, he flies away to the South American wilderness. But curmudgeonly Ca...",
+      "overview": "Retired balloon salesman Carl Fredrickson, part rascal and part dreamer, takes to the sky by tying thousands of balloons to his house. Unbeknownst to Carl, a young Wildnerness Explorer named Russel...",
       "streaming": {
         "disney": {
           "service": "disney",
@@ -1642,7 +1642,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-19T10:07:00.454904+00:00",
+      "last_checked": "2026-09-26T10:37:19.816890+00:00",
       "runtime": 96,
       "release_date": "2009-05-29"
     },
@@ -1690,7 +1690,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-19T10:07:01.256810+00:00",
+      "last_checked": "2026-09-26T10:37:20.211264+00:00",
       "runtime": 102,
       "release_date": "2025-06-20"
     },
@@ -1722,7 +1722,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-19T10:07:02.062553+00:00",
+      "last_checked": "2026-09-26T10:37:20.635428+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1737,7 +1737,7 @@
       "priority": {
         "family-movie": 12
       },
-      "poster": "https://cdn.movieofthenight.com/show/8396/poster/vertical/en/240.jpg?Expires=1800362537&Signature=Jj8-zjcQLUP-5nAKRTYV2-xiHWMRRSVaTREJKJSrKsUI1I~DWMS4L~bF673UgQNSidKAWHmDpYZqvh6hPLN6HHPYd0oALBpQOKS0DuUqxjT3TH6KrayLg-OILfm7ePWYhPM-L87Y2iAJzgv9ylA1H0nBnHTTP0~x3J~~Xopmui69Ni58rwqtsrVFlZmxKKU63IlEgRQ26N8qoO3aquvnmXHZibyIvZzX9gWvUFvEzlWx1onmGGV-ccMh9o46IxzZN75U3rcdDhrPcLHYHm02Z36WVbQRtg1vrLee0uhg4SR1E669hRPjt6pDGcmw-NlnR7qKs6USnVhR9Djsf5yJog__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/8396/poster/vertical/en/240.jpg?Expires=1821744495&Signature=DipKb2ALCuNqz4LygbNvp9GDFtyri9BmWPXDGDaq8D2eMKAYqErbscDn0ETax3dwslcksM~oWntITyDv-JSH386ggob1iZgT4pgCPrPJDsbmjTOe9RYNp57aase-Vzo3MPkocq88QSm4ir751UqjQLVmlwCJwj6f5ZrdVBv6~3cdHkTnsmUqmV4Lgszfk-ZEkfWqi5ePqoedzB~OaMZ~3BsjSSNv81YQrpE-cR46KYJDV3-9WM4svc2IiiVFzwHmzTDEph7ThmSKG5En1Y0qI33ElkXtn9lrz8GWtge28bOqMHBAgNXzixNIIF705PIkOroNMcXip~TmY9ZT8EsxIQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "G",
       "genres": [
         "Comedy",
@@ -1755,7 +1755,7 @@
           "price": "14.99 USD"
         }
       },
-      "last_checked": "2026-09-19T10:07:02.809890+00:00",
+      "last_checked": "2026-09-26T10:37:21.131873+00:00",
       "runtime": 93,
       "release_date": "2007-11-16"
     },
@@ -1770,7 +1770,7 @@
       "priority": {
         "family-movie": 13
       },
-      "poster": "https://cdn.movieofthenight.com/show/16604/poster/vertical/en/240.jpg?Expires=1800336960&Signature=YeytYJQ~RDUQDw8Pqixi7Nv4p6J7w~xwuLAdYwtNnsGrlmUGopDSa9JggXcwAP5I2lTcu18AbVbjgnSmKsUm9RzSuJ8HJaAvEK-kpj9QRVK9zlP~kIM7mjPFGFw0H7FR1Xb9fi~CXK5z8aJdntiZ2LNjwIdgA4AgNdBUV-gtI1bPsGpJLnpTyg7VG~B3r-WP~QIzw8dhI~orfbRhL0ZukzpTNg7fzjWkVEIyud6IDPAMzLBGAIfhEU9wgCpwUmPShPr92WnYovAbHlFTdQpW91pj7DWPbmYJSdbOyMZDNudGmdpnRtnPVmcNt-tDiT0MgIWfWPUD2KTVxyEu~Br9jQ__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/16604/poster/vertical/en/240.jpg?Expires=1821615944&Signature=d1kaEV6ElLX40xeVxdBv5b~DwCF-XSUuE9~Nb20Op2YfSD19WuKaQpS0QF8M4D8OuJMId4I7g95~76PVCya7Q9x3Y5HuWjlJHxtDivyFiCkTWApmCcjkC392SNsuXWMKrzbYYCIa-eqWsiYUCTqJQ7WyyJ1WlcpT0bbpBDG5uznOuzOdGAUth68sdy1rfGcthKSzGvcUish9dL1hS3oLa-IrOGQX2ttJMRG7uWZGgwbq5b~QkZMpJIBKnDEJ1y4TeSsFzjFVE1vqCbwICUz63PrIbySfIiiPqAMqV4QN5z71xzp1jRe~r9VGjWvAzzgy4v7wE4kBdCDn0H2W~5ABmA__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "G",
       "genres": [
         "Adventure",
@@ -1803,7 +1803,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-19T10:07:03.657825+00:00",
+      "last_checked": "2026-09-26T10:37:21.580147+00:00",
       "runtime": 98,
       "release_date": "1981-06-26"
     },
@@ -1851,7 +1851,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-19T10:07:04.459022+00:00",
+      "last_checked": "2026-09-26T10:37:22.057217+00:00",
       "runtime": 134,
       "release_date": "2018-05-25"
     },
@@ -1890,16 +1890,9 @@
           "link": "https://www.amazon.com/gp/video/detail/0L8IRLCY2Q498C13AR00B90DHJ?ref_=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
-        },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-7d65ff4f-f7ca-4ed9-a84e-34bbca5775c8",
-          "quality": "hd"
         }
       },
-      "last_checked": "2026-09-19T10:07:05.255363+00:00",
+      "last_checked": "2026-09-26T10:37:22.447627+00:00",
       "runtime": 97,
       "release_date": "2019-09-27"
     },
@@ -1960,7 +1953,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-19T10:07:06.064351+00:00",
+      "last_checked": "2026-09-26T10:37:22.832557+00:00",
       "runtime": 118,
       "release_date": "2003-04-18"
     },
@@ -2001,7 +1994,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-19T10:07:06.863923+00:00",
+      "last_checked": "2026-09-26T10:37:23.272897+00:00",
       "runtime": 85,
       "release_date": "2024-12-06"
     },
@@ -2055,7 +2048,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-19T10:07:07.698394+00:00",
+      "last_checked": "2026-09-26T10:37:23.691836+00:00",
       "runtime": 136,
       "release_date": "2015-12-18"
     },
@@ -2110,7 +2103,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-19T10:07:08.494024+00:00",
+      "last_checked": "2026-09-26T10:37:24.107638+00:00",
       "runtime": 152,
       "release_date": "2017-12-15"
     },
@@ -2142,13 +2135,6 @@
           "quality": "uhd",
           "price": "3.99 USD"
         },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-43f9c275-e7e8-4ab3-802d-00d06a8ad841",
-          "quality": "uhd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -2163,9 +2149,16 @@
           "type": "subscription",
           "link": "https://www.hulu.com/movie/star-wars:-the-rise-of-skywalker-3183e62a-47d7-4df0-9e10-6315a56a3bb7",
           "quality": "hd"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-3183e62a-47d7-4df0-9e10-6315a56a3bb7",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-19T10:07:09.302024+00:00",
+      "last_checked": "2026-09-26T10:37:24.571486+00:00",
       "runtime": 142,
       "release_date": "2019-12-20"
     },
@@ -2187,13 +2180,13 @@
         "Animation",
         "Comedy"
       ],
-      "overview": "Five Emotions must work overtime when a young girl moves to a new city.",
+      "overview": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they mus...",
       "streaming": {
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0J3OTK57KK6RCCPICSS1JWRNR7?ref_=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0PZ1CEXY258233E9WBJVN9T6OT?ref_=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
         },
@@ -2213,7 +2206,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-19T10:07:10.103512+00:00",
+      "last_checked": "2026-09-26T10:37:25.316969+00:00",
       "runtime": 95,
       "release_date": "2015-06-19"
     },
@@ -2228,7 +2221,7 @@
       "priority": {
         "family-movie": 22
       },
-      "poster": "https://cdn.movieofthenight.com/show/8251/poster/vertical/en/240.jpg?Expires=1801795261&Signature=deSutL9nUtNLoc2EGQ3cwxxyhXgv2kRtbIVEeEm0DJ19JWKi0B~zUjAi0AX2IvFdpH--G8gAkRc9NTu3dDIUMHtPtu4rx-w-lwLAh2MqsfeUW9PLjec8m6eXIEGYO7aOge535DWzPMocIyy5GzrpENNgxhmG1jnkEKfAn94p6C1E5tnv7p5uTMlxMg69mmER5HHiO01iaXQIJRI3tR5dV~Vy~4ZB2RJroVki6iHsV7j7NQjZOcSHBB7CXEikc0LtbnrHyyxxzZKlFu4UEflUJFIAcQG1lFz3EoGhgIOiaAinRE~ixCeSqeIACBsZp4Y67sLlNe7nSa2BZovl32pMeQ__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/8251/poster/vertical/en/240.jpg?Expires=1821668047&Signature=OC7nPb325bYWwGpF707QZh9wMBvcQF9r3rw6B~q2Js8rFARFWL5-ChX0qgob-niq1QaU7mHuZCdwLgPvg8r3Rff2QTEYVIAWFAb0PojhjPxt11On5BIFFw4iNL2RxMR3~bWNs5zaNUakZjH1bSSHVFjYzCuhM5WVR3opu3aXQz4T3uMXXlasGoYRTcrEZ89MT9E-rM7-MPY1FsWEOdQSpDNcmbMuSYFKJFOzbaoSljPXkMgFwIZmuwiR9xrEA1oI~kCNiPqHg65lFd6Qb2p9lWteMUCNq1ms4fet8OxfDN2YfbEStj6t9nu2w-s7v8vRWBYUQrtdDGtUZ9edHuSlGw__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "G",
       "genres": [
         "Adventure",
@@ -2252,7 +2245,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-19T10:07:10.921100+00:00",
+      "last_checked": "2026-09-26T10:37:25.703405+00:00",
       "runtime": 84,
       "release_date": "1993-02-12"
     },
@@ -2292,7 +2285,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-19T10:07:11.814974+00:00",
+      "last_checked": "2026-09-26T10:37:26.135902+00:00",
       "runtime": 107,
       "release_date": "2022-11-23"
     },
@@ -2307,7 +2300,7 @@
       "priority": {
         "family-movie": 24
       },
-      "poster": "https://cdn.movieofthenight.com/show/13654/poster/vertical/en/240.jpg?Expires=1800349534&Signature=e65SFCQszIsHt8A3l2RctAB84UHrbz3F~Akn3VPw6B2H2Dd3JldcMv3iUnAymPFEZ1744u25b3mdotSxicUdtFf3s3CmChO-8N3QRVevzdMcvM-DNDswtmKgRyak5WNO7B~b3fGmVCE6PvxKJ0UVseRsL4DJ4ZRdMDu~1IFPqcxhVpz77iWk8ZIeTtdytBAvQDlTU0Kr24yNdSrDE8QilalkX800~HvuqIQcZvGMibgcvX6Zkp2p3QUTMUXLp8g1181MgHHm55j62kFyrjMZKNTAAG5IpXFshNTJMC81ChYrYEK-4RKCzAmc5MERqWZOe4T9MIBofFb8pEkxniTqFQ__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/13654/poster/vertical/en/240.jpg?Expires=1821786695&Signature=gUGbaeOxpQQTUyFNzZnFh-03f4TlID8-~d0M2ESo7JKkPE7svXUjdilm59GCSF11bQx0mMXfk8rbx2SNBmk6gKKAI5xOKtEwq7wpaNr3QTs2yhel4eoiavZR5aRbWiCfQf~8hva18VpOAsllElslgxscAQF8HEw~235rM7bu0~Gd-WgFHVfVCi1~Up1mHj1qABXCnXQ9FWxXGAXD4MDaXFwo~kcJXrCe4yBBKALLzyfR-zjUnWQW~cuwozO-rCDYzhZ5Jt9UrRG6WMkYaBFFP7WtZCLhljigtTo1ivqY-EEaCov1fWsbncXEzruG7RTYpCY0Aj1Qz2JkAqFhCxkVig__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "G",
       "genres": [
         "Adventure",
@@ -2324,7 +2317,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-19T10:07:12.571743+00:00",
+      "last_checked": "2026-09-26T10:37:26.608824+00:00",
       "runtime": 90,
       "release_date": "1984-07-13"
     },
@@ -2339,7 +2332,7 @@
       "priority": {
         "family-movie": 25
       },
-      "poster": "https://cdn.movieofthenight.com/show/14509/poster/vertical/en/240.jpg?Expires=1800380352&Signature=Qshr0lfvAYQfXGTnbWLGezwBlVxMVYduCPVKn6-tEmO3fYdw34n0U~iSOSau-yZG~l51s7o6DaoFULS1TSM-hYRz65vTH2mv0jPULxPUnL7ANgTe0EhYqjf31~W1gDPxmZldg7OxHvVj9LYkJtLdPYZwaPG8zA64antmW560MzcDpvb3B~ZDtQINibOAsoEz7jnlQFBhf4iCy3JBTxbIzAwhRd7aTZP1~k0B97IZy7KltZ61SPEFPyW1sNOv-SSASr3Dy2Ago3c6S6ivVfISByxGFyLvZ6QsC3zSLCK0-Gwr5ia2uQu1gWiMiq6-SHmjndAWbdKsUW8l80W3p74Rmw__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/14509/poster/vertical/en/240.jpg?Expires=1821785652&Signature=gtinpP9hysg-s~4e~UffuxgK-3FT7yIrpmsOzaesDbaWEgTIZERpMgavhRAwjL5SxWHSLzSI0t5kN749bY59i1SHf4c5gOF6HVS7XYZoUFDj02flESBF8n-J9tgsaMjaaVJgWp4GlTGIKX9ZBeeflWfTqNbLzBiFVfBZCdOWF9sLfmKdEm-aCskwZNQnoB8EjySOLlwAUevHMxQRmTyA6EPLXoa5clm3pUcIhWrKAnYNYa8AV3~eGbyWbDmjtbNI-kx55OgAecqnY~xrZfmuLm6UNf82cQzbQrzbW9jFliIAx7ZibuyUkCdAIjLVarefr95U657B0r5ZomBwJkfCeg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "G",
       "genres": [
         "Adventure",
@@ -2357,7 +2350,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-19T10:07:13.382239+00:00",
+      "last_checked": "2026-09-26T10:37:27.152691+00:00",
       "runtime": 84,
       "release_date": "1999-07-14"
     },
@@ -2404,7 +2397,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-19T10:07:14.223502+00:00",
+      "last_checked": "2026-09-26T10:37:27.611539+00:00",
       "runtime": 97,
       "release_date": "2021-11-24"
     },
@@ -2452,7 +2445,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-19T10:07:15.031563+00:00",
+      "last_checked": "2026-09-26T10:37:28.091590+00:00",
       "runtime": 140,
       "release_date": "2023-05-26"
     },

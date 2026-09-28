@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T11:10:26.333851+00:00",
+  "last_updated": "2026-09-28T12:37:23.636380+00:00",
   "country": "us",
   "items": [
     {
@@ -75,7 +75,7 @@
           "link": "https://www.netflix.com/title/80097389"
         }
       },
-      "last_checked": "2026-09-21T11:42:21.593685+00:00",
+      "last_checked": "2026-09-28T12:37:02.562627+00:00",
       "runtime": 97,
       "release_date": "2016-07-01"
     },
@@ -107,7 +107,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-21T11:42:22.269482+00:00",
+      "last_checked": "2026-09-28T12:37:03.063026+00:00",
       "runtime": 94,
       "release_date": "1987-04-17"
     },
@@ -178,7 +178,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-21T11:42:22.960044+00:00",
+      "last_checked": "2026-09-28T12:37:03.569848+00:00",
       "runtime": 110,
       "release_date": "2025-06-13"
     },
@@ -224,7 +224,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-21T11:42:23.710898+00:00",
+      "last_checked": "2026-09-28T12:37:04.068957+00:00",
       "runtime": 150,
       "release_date": "2022-11-23"
     },
@@ -289,7 +289,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-09-21T11:42:24.373287+00:00",
+      "last_checked": "2026-09-28T12:37:04.550882+00:00",
       "runtime": 91,
       "release_date": "1991-02-08"
     },
@@ -321,7 +321,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-21T11:42:25.130739+00:00",
+      "last_checked": "2026-09-28T12:37:05.098263+00:00",
       "runtime": 124,
       "release_date": "1979-12-19"
     },
@@ -360,7 +360,7 @@
           "price": "12.99 USD"
         }
       },
-      "last_checked": "2026-09-21T11:42:25.874332+00:00",
+      "last_checked": "2026-09-28T12:37:05.613504+00:00",
       "runtime": 157,
       "release_date": "2023-11-22"
     },
@@ -390,13 +390,6 @@
           "quality": "hd",
           "price": "5.99 USD"
         },
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://play.hbomax.com/movie/5e4fb59a-fbe8-4be8-ba4f-eccc4005f169",
-          "quality": "uhd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -406,7 +399,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-09-21T11:42:26.620641+00:00",
+      "last_checked": "2026-09-28T12:37:06.095176+00:00",
       "runtime": 106,
       "release_date": "2024-03-08"
     },
@@ -429,6 +422,14 @@
       ],
       "overview": "Documentarian Marty DiBergi follows Spinal Tap as they prepare for a reunion concert in New Orleans.",
       "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/spinal-tap-ii-the-end-continues/umc.cmc.2ekv47beio4duo806nhq652bv?playableId=tvs.sbd.9001%3A6784416386",
+          "quality": "hd",
+          "price": "4.99 USD"
+        },
         "hbo": {
           "service": "hbo",
           "serviceName": "HBO Max",
@@ -441,10 +442,10 @@
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0QX9MSTQ5UTFHCQBXO7E8AX24M?ref_=atv_dp",
           "quality": "uhd",
-          "price": "2.49 USD"
+          "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-09-21T11:42:27.365065+00:00",
+      "last_checked": "2026-09-28T12:37:06.556986+00:00",
       "runtime": 83,
       "release_date": "2025-09-12"
     },
@@ -484,7 +485,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-21T11:42:28.022997+00:00",
+      "last_checked": "2026-09-28T12:37:07.005674+00:00",
       "runtime": 129,
       "release_date": "1963-03-16"
     },
@@ -499,7 +500,7 @@
       "priority": {
         "dad-movie": 25
       },
-      "poster": "https://cdn.movieofthenight.com/show/30352/poster/vertical/en/240.jpg?Expires=1803885530&Signature=SNRHelEXcS5RJA4fDFKER~Ta6GqrEldV7dAA1K5CHg4eAq~b3efzVkNPocQEl4JT~iUOgRM~zYNzBNIubQ49X2bpAycyXkW9Ui~PnCEkgg5FVzxhFkCA7MUmcxVlddcUzGzxTRL2jqUNxmhPbqbnmZKqrv4vWr7DNCs8T00m01CITYdSgnnNu1W7hTDr8u-dkyV1Y41hymyUh56ynqm3iebz37HV88rQTbIHuw7yhmgNIJbeZYWEE79n3~7Yu0cdttupS3L4ATijKRhp2zZ3rB62kN~keX4xi9rayrM2MhvUdBl7qwoJOA~yQidbl~dDL2qxPOL8R3w-9tCjz2xyRA__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/30352/poster/vertical/en/240.jpg?Expires=1822143174&Signature=BY-CFvbDuClFQ2hD~~nH1zTY6cBzQ4d6uoPNBkkIOocwzlv2o6iBIZbPjnx4eW66Ogroo-Qam~IyHRd4xtAzZCqJK1cbQkaRCuxGt~eY~-7Ecqmr~uv7Qndt3a9Oh4NgteDQcqtA~eCZH5ydX-PNk35MRh~e3LTLs-4V8YjfCa2lIgAJth2fJchY1G~3hYGO9oAYHVE6v3lz0gKZPPAPWOEis6ecyNYbxEySzHiBrJ-RXBUFmSUPYEKpa~Clx1l3WxDxIfk26Got0mATJYYbbrslAaRGiAsc8eg-rKrHqezfxwaBxhh37mPLo7YfbuC41LIIIKGn-678q82giskjzg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
       "genres": [
         "Drama",
@@ -530,7 +531,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-21T11:42:28.700723+00:00",
+      "last_checked": "2026-09-28T12:37:07.506099+00:00",
       "runtime": 107,
       "release_date": "1982-01-01"
     },
@@ -569,7 +570,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-21T11:42:29.438999+00:00",
+      "last_checked": "2026-09-28T12:37:07.970436+00:00",
       "runtime": 98,
       "release_date": "2024-06-21"
     },
@@ -642,7 +643,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-21T11:42:30.100039+00:00",
+      "last_checked": "2026-09-28T12:37:08.449223+00:00",
       "runtime": 114,
       "release_date": "2013-12-25"
     },
@@ -681,7 +682,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-21T11:42:30.857566+00:00",
+      "last_checked": "2026-09-28T12:37:08.924227+00:00",
       "runtime": 90,
       "release_date": "2025-03-14"
     },
@@ -827,7 +828,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-21T11:42:32.820830+00:00",
+      "last_checked": "2026-09-28T12:37:10.599658+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1
@@ -890,7 +891,7 @@
           "link": "https://www.netflix.com/title/81122572"
         }
       },
-      "last_checked": "2026-09-21T11:42:36.154659+00:00",
+      "last_checked": "2026-09-28T12:37:12.083380+00:00",
       "season_count": 1,
       "episode_count": 3
     },
@@ -953,7 +954,7 @@
           "link": "https://www.netflix.com/title/81677257"
         }
       },
-      "last_checked": "2026-09-21T11:42:38.508223+00:00",
+      "last_checked": "2026-09-28T12:37:14.189171+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -1011,13 +1012,6 @@
       ],
       "overview": "STAR TREK: STRANGE NEW WORLDS is based on the years Captain Christopher Pike manned the helm of the U.S.S. Enterprise. The series will follow Captain Pike, Officer Spock and Number One in the years...",
       "streaming": {
-        "paramount": {
-          "service": "paramount",
-          "serviceName": "Paramount+",
-          "type": "subscription",
-          "link": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/",
-          "quality": "hd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -1031,9 +1025,16 @@
           "type": "buy",
           "link": "https://tv.apple.com/us/show/star-trek-strange-new-worlds/umc.cmc.1o10sclnk0t945h2mtuolocip",
           "quality": "sd"
+        },
+        "paramount": {
+          "service": "paramount",
+          "serviceName": "Paramount+",
+          "type": "subscription",
+          "link": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-09-21T11:42:40.427714+00:00",
+      "last_checked": "2026-09-28T12:37:15.837480+00:00",
       "season_count": 4,
       "episode_count": 40
     },
@@ -1057,20 +1058,13 @@
       ],
       "overview": "Star Trek: Picard features Sir Patrick Stewart reprising his iconic role as Jean-Luc Picard, which he played for seven seasons on Star Trek: The Next Generation. The new series will follow this ico...",
       "streaming": {
-        "paramount": {
-          "service": "paramount",
-          "serviceName": "Paramount+",
-          "type": "subscription",
-          "link": "https://www.paramountplus.com/shows/star-trek-picard/",
-          "quality": "hd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0S4PHJ50UWJJMEE08SOKDCOI6E?ref_=atv_dp",
           "quality": "hd",
-          "price": "4.99 USD"
+          "price": "22.99 USD"
         },
         "apple": {
           "service": "apple",
@@ -1078,9 +1072,16 @@
           "type": "buy",
           "link": "https://tv.apple.com/us/show/star-trek-picard/umc.cmc.2tqufhly635jf1fnuonxojax",
           "quality": "sd"
+        },
+        "paramount": {
+          "service": "paramount",
+          "serviceName": "Paramount+",
+          "type": "subscription",
+          "link": "https://www.paramountplus.com/shows/star-trek-picard/",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-09-21T11:42:42.314298+00:00",
+      "last_checked": "2026-09-28T12:37:17.174483+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1177,6 +1178,13 @@
       ],
       "overview": "Fresh out of prison, Shadow Moon meets the enigmatic Mr. Wednesday—and is swept into a gathering storm that will upend the course of his life.",
       "streaming": {
+        "tubi": {
+          "service": "tubi",
+          "serviceName": "Tubi",
+          "type": "free",
+          "link": "https://tubitv.com/series/0300017904/american-gods",
+          "quality": "hd"
+        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -1184,28 +1192,21 @@
           "link": "https://tv.apple.com/us/show/american-gods/umc.cmc.4o7hf0qe1ezickgfxxeppolqr",
           "quality": "hd"
         },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "subscription",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.becfe3bb-aa35-4994-86b4-dbe233da0e7a"
+        },
         "roku": {
           "service": "roku",
           "serviceName": "Roku",
           "type": "free",
           "link": "https://therokuchannel.roku.com/details/61c636a6f9c959adbdcc0053c6e18597",
           "quality": "hd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "subscription",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fd5d6de8-b2f2-45fe-a376-03965d2fbc6e"
-        },
-        "tubi": {
-          "service": "tubi",
-          "serviceName": "Tubi",
-          "type": "free",
-          "link": "https://tubitv.com/series/0300017904/american-gods",
-          "quality": "hd"
         }
       },
-      "last_checked": "2026-09-21T11:42:44.674217+00:00",
+      "last_checked": "2026-09-28T12:37:19.151175+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1230,9 +1231,9 @@
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
-          "type": "subscription",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fca30c5f-f261-4cc8-b56c-1022558a5bfa",
-          "quality": "uhd"
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0U41UH674GU5A94PSQ75PF9M9M",
+          "quality": "sd"
         },
         "apple": {
           "service": "apple",
@@ -1249,7 +1250,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-21T11:42:47.262254+00:00",
+      "last_checked": "2026-09-28T12:37:21.995711+00:00",
       "season_count": 2,
       "episode_count": 20
     },
@@ -1300,7 +1301,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-21T11:42:49.286696+00:00",
+      "last_checked": "2026-09-28T12:37:23.434449+00:00",
       "season_count": 6,
       "episode_count": 110
     },

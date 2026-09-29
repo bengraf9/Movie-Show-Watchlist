@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T12:37:23.636380+00:00",
+  "last_updated": "2026-09-29T11:56:40.408811+00:00",
   "country": "us",
   "items": [
     {
@@ -1330,7 +1330,7 @@
           "link": "https://play.hbomax.com/show/c967b1a4-d0e2-491e-967e-ae09f88fef62"
         }
       },
-      "last_checked": "2026-09-22T10:45:31.166881+00:00",
+      "last_checked": "2026-09-29T11:56:25.823676+00:00",
       "season_count": 1,
       "episode_count": 2
     },
@@ -1353,6 +1353,13 @@
       ],
       "overview": "A dysfunctional team of MI5 agents and their obnoxious boss, the notorious Jackson Lamb, navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
       "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "free",
+          "link": "https://www.amazon.com/gp/video/detail/0MEYJKN34E2DBOY4OY7Z31N4Q4",
+          "quality": "uhd"
+        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -1361,7 +1368,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-22T10:45:32.534946+00:00",
+      "last_checked": "2026-09-29T11:56:27.297007+00:00",
       "season_count": 6,
       "episode_count": 36
     },
@@ -2475,7 +2482,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-22T10:45:33.177902+00:00",
+      "last_checked": "2026-09-29T11:56:28.054454+00:00",
       "runtime": 89,
       "release_date": "2020-03-14"
     },
@@ -2503,7 +2510,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-22T10:45:33.607409+00:00",
+      "last_checked": "2026-09-29T11:56:28.574427+00:00",
       "runtime": 38,
       "release_date": "2022-04-14"
     },
@@ -2531,7 +2538,7 @@
           "link": "https://www.netflix.com/title/81128389"
         }
       },
-      "last_checked": "2026-09-22T10:45:34.662699+00:00",
+      "last_checked": "2026-09-29T11:56:29.718607+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2552,7 +2559,7 @@
       ],
       "overview": "It's the land we love and the land we think we know. We see America's breathtaking landscapes and wildlife as timeless, but the truth is very different. Its unique geography drives the forces of na...",
       "streaming": {},
-      "last_checked": "2026-09-22T10:45:36.119749+00:00",
+      "last_checked": "2026-09-29T11:56:31.493149+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -2581,7 +2588,7 @@
           "link": "https://www.netflix.com/title/81028343"
         }
       },
-      "last_checked": "2026-09-22T10:45:37.462578+00:00",
+      "last_checked": "2026-09-29T11:56:32.915117+00:00",
       "season_count": 1,
       "episode_count": 4
     },
@@ -2615,7 +2622,7 @@
           "link": "https://www.netflix.com/title/80078037"
         }
       },
-      "last_checked": "2026-09-22T10:45:38.734219+00:00",
+      "last_checked": "2026-09-29T11:56:34.273836+00:00",
       "season_count": 1,
       "episode_count": 26
     },
@@ -2643,7 +2650,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-22T10:45:40.081730+00:00",
+      "last_checked": "2026-09-29T11:56:35.940946+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2665,12 +2672,21 @@
       ],
       "overview": "Branch and Poppy embark on a harrowing journey to reunite his siblings and save his kidnapped brother from a pair of nefarious pop-star villains.",
       "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/trolls-band-together/umc.cmc.2bmeu6ga7thdfrxwd93knucrh?playableId=tvs.sbd.9001%3A1714838821",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
-          "type": "subscription",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b8e03307-84ae-4027-8040-e23b5061257f",
-          "quality": "uhd"
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0Q3MS7A4QUQMJWY0D8KVW1WF3Z?ref_=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
         },
         "peacock": {
           "service": "peacock",
@@ -2680,7 +2696,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-22T10:45:40.676758+00:00",
+      "last_checked": "2026-09-29T11:56:36.645801+00:00",
       "runtime": 85,
       "release_date": "2023-11-17"
     },
@@ -2708,7 +2724,7 @@
           "link": "https://www.netflix.com/title/81276049"
         }
       },
-      "last_checked": "2026-09-22T10:45:41.180239+00:00",
+      "last_checked": "2026-09-29T11:56:37.150601+00:00",
       "runtime": 59,
       "release_date": "2021-10-01"
     },
@@ -3789,7 +3805,7 @@
         "Adventure",
         "Family"
       ],
-      "overview": "If Percy Jackson learned anything after completing two epic quests with Annabeth Chase, it’s that he would be lost without her. So when Annabeth is captured by the forces of Kronos, Percy must emba...",
+      "overview": "When Annabeth is captured by the forces of Kronos, Percy must embark on a perilous journey to rescue her. He must free a goddess in chains, confront the Titan’s curse, and avoid triggering the fall...",
       "streaming": {
         "disney": {
           "service": "disney",
@@ -3799,7 +3815,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-22T10:45:42.299432+00:00",
+      "last_checked": "2026-09-29T11:56:38.486918+00:00",
       "season_count": 2,
       "episode_count": 16
     },
@@ -3986,7 +4002,7 @@
           "link": "https://www.netflix.com/title/81750702"
         }
       },
-      "last_checked": "2026-09-22T10:45:43.650706+00:00",
+      "last_checked": "2026-09-29T11:56:40.184543+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2

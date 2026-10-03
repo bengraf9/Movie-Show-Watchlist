@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T11:42:36.594718+00:00",
+  "last_updated": "2026-10-03T10:56:27.300829+00:00",
   "country": "us",
   "items": [
     {
@@ -861,7 +861,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-26T10:37:12.068921+00:00",
+      "last_checked": "2026-10-03T10:56:01.980569+00:00",
       "season_count": 3,
       "episode_count": 39,
       "watched_seasons": 2
@@ -987,7 +987,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-26T10:37:13.539872+00:00",
+      "last_checked": "2026-10-03T10:56:04.393518+00:00",
       "season_count": 3,
       "episode_count": 33,
       "watched_seasons": 3
@@ -1517,7 +1517,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-26T10:37:15.139238+00:00",
+      "last_checked": "2026-10-03T10:56:06.602660+00:00",
       "season_count": 11,
       "episode_count": 250
     },
@@ -1540,7 +1540,7 @@
       ],
       "overview": "There is nothing special about Harry Potter - at least that's what his Aunt Petunia always says. On his 11th birthday, a letter of admittance to Hogwarts School of Witchcraft and Wizardry opens up ...",
       "streaming": {},
-      "last_checked": "2026-09-26T10:37:16.587188+00:00",
+      "last_checked": "2026-10-03T10:56:09.027471+00:00",
       "season_count": 1,
       "episode_count": 1
     },
@@ -1569,7 +1569,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-26T10:37:18.796000+00:00",
+      "last_checked": "2026-10-03T10:56:10.852438+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -1601,7 +1601,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-26T10:37:19.397101+00:00",
+      "last_checked": "2026-10-03T10:56:11.925645+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1649,7 +1649,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-26T10:37:19.816890+00:00",
+      "last_checked": "2026-10-03T10:56:12.827125+00:00",
       "runtime": 96,
       "release_date": "2009-05-29"
     },
@@ -1697,7 +1697,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-26T10:37:20.211264+00:00",
+      "last_checked": "2026-10-03T10:56:13.655136+00:00",
       "runtime": 102,
       "release_date": "2025-06-20"
     },
@@ -1729,7 +1729,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-26T10:37:20.635428+00:00",
+      "last_checked": "2026-10-03T10:56:14.459512+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1762,7 +1762,7 @@
           "price": "14.99 USD"
         }
       },
-      "last_checked": "2026-09-26T10:37:21.131873+00:00",
+      "last_checked": "2026-10-03T10:56:15.194431+00:00",
       "runtime": 93,
       "release_date": "2007-11-16"
     },
@@ -1810,7 +1810,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-26T10:37:21.580147+00:00",
+      "last_checked": "2026-10-03T10:56:16.064409+00:00",
       "runtime": 98,
       "release_date": "1981-06-26"
     },
@@ -1858,7 +1858,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-26T10:37:22.057217+00:00",
+      "last_checked": "2026-10-03T10:56:16.936928+00:00",
       "runtime": 134,
       "release_date": "2018-05-25"
     },
@@ -1899,7 +1899,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-26T10:37:22.447627+00:00",
+      "last_checked": "2026-10-03T10:56:17.668254+00:00",
       "runtime": 97,
       "release_date": "2019-09-27"
     },
@@ -1958,9 +1958,15 @@
           "link": "https://www.amazon.com/gp/video/detail/0QX4QE1CG8MO5AND9K892CU3E1?ref_=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "paramount": {
+          "service": "paramount",
+          "serviceName": "Paramount+",
+          "type": "subscription",
+          "link": "https://therokuchannel.roku.com/details/e174f1efbb935aa191af7de462328790"
         }
       },
-      "last_checked": "2026-09-26T10:37:22.832557+00:00",
+      "last_checked": "2026-10-03T10:56:18.497372+00:00",
       "runtime": 118,
       "release_date": "2003-04-18"
     },
@@ -2001,7 +2007,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-26T10:37:23.272897+00:00",
+      "last_checked": "2026-10-03T10:56:19.306497+00:00",
       "runtime": 85,
       "release_date": "2024-12-06"
     },
@@ -2033,6 +2039,12 @@
           "quality": "uhd",
           "price": "3.99 USD"
         },
+        "starz": {
+          "service": "starz",
+          "serviceName": "Starz",
+          "type": "subscription",
+          "link": "https://www.starz.com/us/en/movies/star-wars:-the-force-awakens-26915"
+        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -2040,12 +2052,6 @@
           "link": "https://tv.apple.com/us/movie/star-wars-the-force-awakens/umc.cmc.61i3yveu7xby4chfkqved19ka?playableId=tvs.sbd.9001%3A1063466898",
           "quality": "hd",
           "price": "3.99 USD"
-        },
-        "starz": {
-          "service": "starz",
-          "serviceName": "Starz",
-          "type": "subscription",
-          "link": "https://www.starz.com/us/en/movies/star-wars:-the-force-awakens-26915"
         },
         "disney": {
           "service": "disney",
@@ -2055,7 +2061,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-26T10:37:23.691836+00:00",
+      "last_checked": "2026-10-03T10:56:20.101115+00:00",
       "runtime": 136,
       "release_date": "2015-12-18"
     },
@@ -2110,7 +2116,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-26T10:37:24.107638+00:00",
+      "last_checked": "2026-10-03T10:56:20.914926+00:00",
       "runtime": 152,
       "release_date": "2017-12-15"
     },
@@ -2134,14 +2140,6 @@
       ],
       "overview": "The landmark Skywalker saga comes to a conclusion.",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0QKCRV1LHJQLWBQZ772047WQE3?ref_=atv_dp",
-          "quality": "uhd",
-          "price": "3.99 USD"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -2149,6 +2147,14 @@
           "link": "https://tv.apple.com/us/movie/star-wars-the-rise-of-skywalker/umc.cmc.71hlilqgd8utz8c4nlpl6ol7m?playableId=tvs.sbd.9001%3A1490359713",
           "quality": "hd",
           "price": "5.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0QKCRV1LHJQLWBQZ772047WQE3?ref_=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
         },
         "hulu": {
           "service": "hulu",
@@ -2165,7 +2171,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-26T10:37:24.571486+00:00",
+      "last_checked": "2026-10-03T10:56:21.722263+00:00",
       "runtime": 142,
       "release_date": "2019-12-20"
     },
@@ -2213,7 +2219,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-26T10:37:25.316969+00:00",
+      "last_checked": "2026-10-03T10:56:22.519985+00:00",
       "runtime": 95,
       "release_date": "2015-06-19"
     },
@@ -2252,7 +2258,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-26T10:37:25.703405+00:00",
+      "last_checked": "2026-10-03T10:56:23.234687+00:00",
       "runtime": 84,
       "release_date": "1993-02-12"
     },
@@ -2292,7 +2298,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-26T10:37:26.135902+00:00",
+      "last_checked": "2026-10-03T10:56:24.066386+00:00",
       "runtime": 107,
       "release_date": "2022-11-23"
     },
@@ -2324,7 +2330,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-26T10:37:26.608824+00:00",
+      "last_checked": "2026-10-03T10:56:24.876001+00:00",
       "runtime": 90,
       "release_date": "1984-07-13"
     },
@@ -2357,7 +2363,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-26T10:37:27.152691+00:00",
+      "last_checked": "2026-10-03T10:56:25.684591+00:00",
       "runtime": 84,
       "release_date": "1999-07-14"
     },
@@ -2404,7 +2410,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-26T10:37:27.611539+00:00",
+      "last_checked": "2026-10-03T10:56:26.502781+00:00",
       "runtime": 97,
       "release_date": "2021-11-24"
     },
@@ -2428,20 +2434,20 @@
       ],
       "overview": "In this breathtaking live-action reimagining of the beloved animated musical classic, a spirited young mermaid must follow her heart. She makes a deal with an evil sea witch that allows her to expe...",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0RM0H61GS3T6PEGQ1RNMZP9X1F?ref_=atv_dp",
-          "quality": "uhd",
-          "price": "3.99 USD"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/the-little-mermaid/umc.cmc.gto5t9phvu7dpajarqglrfmh?playableId=tvs.sbd.9001%3A1694118353",
           "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0RM0H61GS3T6PEGQ1RNMZP9X1F?ref_=atv_dp",
+          "quality": "uhd",
           "price": "3.99 USD"
         },
         "disney": {
@@ -2452,7 +2458,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-26T10:37:28.091590+00:00",
+      "last_checked": "2026-10-03T10:56:27.300160+00:00",
       "runtime": 140,
       "release_date": "2023-05-26"
     },

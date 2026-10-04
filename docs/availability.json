@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T10:56:27.300829+00:00",
+  "last_updated": "2026-10-04T11:38:30.737531+00:00",
   "country": "us",
   "items": [
     {
@@ -3253,7 +3253,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-27T11:10:16.778430+00:00",
+      "last_checked": "2026-10-04T11:38:24.757378+00:00",
       "runtime": 107,
       "release_date": "2021-03-05"
     },
@@ -3274,14 +3274,6 @@
       ],
       "overview": "When an ace detective goes missing, his son teams up with a hilariously wise-cracking Pokémon - Detective Pikachu (Ryan Reynolds) - to help solve the mystery of what happened.",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0K1VZNF96GVK06I8KZJ1K738V0?ref_=atv_dp",
-          "quality": "uhd",
-          "price": "4.99 USD"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -3289,9 +3281,17 @@
           "link": "https://tv.apple.com/us/movie/pokemon-detective-pikachu/umc.cmc.2f3ohdbkpol7ui73lvygtcge2?playableId=tvs.sbd.9001%3A1460331265",
           "quality": "hd",
           "price": "4.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0K1VZNF96GVK06I8KZJ1K738V0?ref_=atv_dp",
+          "quality": "uhd",
+          "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-09-27T11:10:17.589313+00:00",
+      "last_checked": "2026-10-04T11:38:25.263409+00:00",
       "runtime": 104,
       "release_date": "2019-05-10"
     },
@@ -3329,7 +3329,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-27T11:10:18.459307+00:00",
+      "last_checked": "2026-10-04T11:38:25.766594+00:00",
       "runtime": 84,
       "release_date": "2001-03-18"
     },
@@ -3368,7 +3368,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-27T11:10:19.267009+00:00",
+      "last_checked": "2026-10-04T11:38:26.324153+00:00",
       "runtime": 87,
       "release_date": "2019-05-03"
     },
@@ -3404,7 +3404,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-09-27T11:10:20.057225+00:00",
+      "last_checked": "2026-10-04T11:38:26.827161+00:00",
       "runtime": 137,
       "release_date": "2025-04-18"
     },
@@ -4074,7 +4074,7 @@
           "link": "https://www.netflix.com/title/80238565"
         }
       },
-      "last_checked": "2026-09-27T11:10:21.903167+00:00",
+      "last_checked": "2026-10-04T11:38:28.114349+00:00",
       "season_count": 3,
       "episode_count": 19
     },
@@ -4102,7 +4102,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-27T11:10:25.057773+00:00",
+      "last_checked": "2026-10-04T11:38:29.759974+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -4143,7 +4143,7 @@
       ],
       "overview": "Built entirely from archival footage, personal photos, and rare home videos contributed by fans and friends, Norm tell his own story in his own voice.",
       "streaming": {},
-      "last_checked": "2026-09-27T11:10:26.064571+00:00",
+      "last_checked": "2026-10-04T11:38:30.510552+00:00",
       "release_date": "2026-10-16"
     }
   ]

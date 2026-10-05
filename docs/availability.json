@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T11:38:30.737531+00:00",
+  "last_updated": "2026-10-05T13:17:43.190016+00:00",
   "country": "us",
   "items": [
     {
@@ -46,13 +46,6 @@
       ],
       "overview": "Hank is stranded on a deserted island when a corpse washes ashore and the two go on an epic adventure to bring Hank back to the woman of his dreams.",
       "streaming": {
-        "roku": {
-          "service": "roku",
-          "serviceName": "Roku",
-          "type": "free",
-          "link": "https://therokuchannel.roku.com/details/be5460c7712b5b539334617844157092",
-          "quality": "hd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -60,6 +53,13 @@
           "link": "https://www.amazon.com/gp/video/detail/0HSTAZCXT1LESCOWRV9WPJKFCS?ref_=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
+        },
+        "roku": {
+          "service": "roku",
+          "serviceName": "Roku",
+          "type": "free",
+          "link": "https://therokuchannel.roku.com/details/be5460c7712b5b539334617844157092",
+          "quality": "hd"
         },
         "tubi": {
           "service": "tubi",
@@ -75,7 +75,7 @@
           "link": "https://www.netflix.com/title/80097389"
         }
       },
-      "last_checked": "2026-09-28T12:37:02.562627+00:00",
+      "last_checked": "2026-10-05T13:17:24.543139+00:00",
       "runtime": 97,
       "release_date": "2016-07-01"
     },
@@ -107,7 +107,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-28T12:37:03.063026+00:00",
+      "last_checked": "2026-10-05T13:17:25.061210+00:00",
       "runtime": 94,
       "release_date": "1987-04-17"
     },
@@ -178,7 +178,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-28T12:37:03.569848+00:00",
+      "last_checked": "2026-10-05T13:17:25.571115+00:00",
       "runtime": 110,
       "release_date": "2025-06-13"
     },
@@ -200,20 +200,20 @@
       ],
       "overview": "Young Sammy Fabelman falls in love with filmmaking after watching \"The Greatest Show on Earth.\"",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0R5M89EX4U1ZPCJKFMDYU4SFEF?ref_=atv_dp",
-          "quality": "uhd",
-          "price": "3.99 USD"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/the-fabelmans/umc.cmc.4lgvd75jcuqp79fuar3e9p9zh?playableId=tvs.sbd.9001%3A1655490626",
           "quality": "hd",
+          "price": "3.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0R5M89EX4U1ZPCJKFMDYU4SFEF?ref_=atv_dp",
+          "quality": "uhd",
           "price": "3.99 USD"
         },
         "peacock": {
@@ -224,7 +224,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-28T12:37:04.068957+00:00",
+      "last_checked": "2026-10-05T13:17:26.063796+00:00",
       "runtime": 150,
       "release_date": "2022-11-23"
     },
@@ -289,7 +289,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-09-28T12:37:04.550882+00:00",
+      "last_checked": "2026-10-05T13:17:26.678963+00:00",
       "runtime": 91,
       "release_date": "1991-02-08"
     },
@@ -321,7 +321,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-28T12:37:05.098263+00:00",
+      "last_checked": "2026-10-05T13:17:27.137175+00:00",
       "runtime": 124,
       "release_date": "1979-12-19"
     },
@@ -357,10 +357,10 @@
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0GKJ06SJM9QAGM8UCSBTK6N4BH?ref_=atv_dp",
           "quality": "uhd",
-          "price": "12.99 USD"
+          "price": "7.99 USD"
         }
       },
-      "last_checked": "2026-09-28T12:37:05.613504+00:00",
+      "last_checked": "2026-10-05T13:17:27.647050+00:00",
       "runtime": 157,
       "release_date": "2023-11-22"
     },
@@ -399,7 +399,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-09-28T12:37:06.095176+00:00",
+      "last_checked": "2026-10-05T13:17:28.166971+00:00",
       "runtime": 106,
       "release_date": "2024-03-08"
     },
@@ -445,7 +445,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-09-28T12:37:06.556986+00:00",
+      "last_checked": "2026-10-05T13:17:28.649617+00:00",
       "runtime": 83,
       "release_date": "2025-09-12"
     },
@@ -485,7 +485,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-28T12:37:07.005674+00:00",
+      "last_checked": "2026-10-05T13:17:29.145505+00:00",
       "runtime": 129,
       "release_date": "1963-03-16"
     },
@@ -531,7 +531,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-28T12:37:07.506099+00:00",
+      "last_checked": "2026-10-05T13:17:29.665186+00:00",
       "runtime": 107,
       "release_date": "1982-01-01"
     },
@@ -570,7 +570,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-28T12:37:07.970436+00:00",
+      "last_checked": "2026-10-05T13:17:30.155152+00:00",
       "runtime": 98,
       "release_date": "2024-06-21"
     },
@@ -643,7 +643,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-28T12:37:08.449223+00:00",
+      "last_checked": "2026-10-05T13:17:30.711192+00:00",
       "runtime": 114,
       "release_date": "2013-12-25"
     },
@@ -682,7 +682,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-09-28T12:37:08.924227+00:00",
+      "last_checked": "2026-10-05T13:17:31.219511+00:00",
       "runtime": 90,
       "release_date": "2025-03-14"
     },
@@ -828,7 +828,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-28T12:37:10.599658+00:00",
+      "last_checked": "2026-10-05T13:17:32.405168+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1
@@ -891,7 +891,7 @@
           "link": "https://www.netflix.com/title/81122572"
         }
       },
-      "last_checked": "2026-09-28T12:37:12.083380+00:00",
+      "last_checked": "2026-10-05T13:17:33.919669+00:00",
       "season_count": 1,
       "episode_count": 3
     },
@@ -954,7 +954,7 @@
           "link": "https://www.netflix.com/title/81677257"
         }
       },
-      "last_checked": "2026-09-28T12:37:14.189171+00:00",
+      "last_checked": "2026-10-05T13:17:35.366630+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -1016,7 +1016,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0SB08CJZ5A96ONX5IFCDKNE59C",
+          "link": "https://www.amazon.com/gp/video/detail/0LU58CSZ179GDNU0Y30KQY3AI5",
           "quality": "uhd"
         },
         "apple": {
@@ -1034,7 +1034,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-09-28T12:37:15.837480+00:00",
+      "last_checked": "2026-10-05T13:17:36.708305+00:00",
       "season_count": 4,
       "episode_count": 40
     },
@@ -1058,13 +1058,12 @@
       ],
       "overview": "Star Trek: Picard features Sir Patrick Stewart reprising his iconic role as Jean-Luc Picard, which he played for seven seasons on Star Trek: The Next Generation. The new series will follow this ico...",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0S4PHJ50UWJJMEE08SOKDCOI6E?ref_=atv_dp",
-          "quality": "hd",
-          "price": "22.99 USD"
+        "paramount": {
+          "service": "paramount",
+          "serviceName": "Paramount+",
+          "type": "subscription",
+          "link": "https://www.paramountplus.com/shows/star-trek-picard/",
+          "quality": "hd"
         },
         "apple": {
           "service": "apple",
@@ -1073,15 +1072,16 @@
           "link": "https://tv.apple.com/us/show/star-trek-picard/umc.cmc.2tqufhly635jf1fnuonxojax",
           "quality": "sd"
         },
-        "paramount": {
-          "service": "paramount",
-          "serviceName": "Paramount+",
-          "type": "subscription",
-          "link": "https://www.paramountplus.com/shows/star-trek-picard/",
-          "quality": "hd"
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0S4PHJ50UWJJMEE08SOKDCOI6E?ref_=atv_dp",
+          "quality": "hd",
+          "price": "22.99 USD"
         }
       },
-      "last_checked": "2026-09-28T12:37:17.174483+00:00",
+      "last_checked": "2026-10-05T13:17:38.042866+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1196,16 +1196,9 @@
           "serviceName": "Prime Video",
           "type": "subscription",
           "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.becfe3bb-aa35-4994-86b4-dbe233da0e7a"
-        },
-        "roku": {
-          "service": "roku",
-          "serviceName": "Roku",
-          "type": "free",
-          "link": "https://therokuchannel.roku.com/details/61c636a6f9c959adbdcc0053c6e18597",
-          "quality": "hd"
         }
       },
-      "last_checked": "2026-09-28T12:37:19.151175+00:00",
+      "last_checked": "2026-10-05T13:17:39.545040+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1249,7 +1242,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-28T12:37:21.995711+00:00",
+      "last_checked": "2026-10-05T13:17:41.657745+00:00",
       "season_count": 2,
       "episode_count": 20
     },
@@ -1300,7 +1293,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-09-28T12:37:23.434449+00:00",
+      "last_checked": "2026-10-05T13:17:42.962560+00:00",
       "season_count": 6,
       "episode_count": 110
     },

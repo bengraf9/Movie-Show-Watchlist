@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T12:24:31.168308+00:00",
+  "last_updated": "2026-10-10T11:43:41.966794+00:00",
   "country": "us",
   "items": [
     {
@@ -861,7 +861,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-03T10:56:01.980569+00:00",
+      "last_checked": "2026-10-10T11:43:24.645799+00:00",
       "season_count": 3,
       "episode_count": 39,
       "watched_seasons": 2
@@ -987,7 +987,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-03T10:56:04.393518+00:00",
+      "last_checked": "2026-10-10T11:43:26.295190+00:00",
       "season_count": 3,
       "episode_count": 33,
       "watched_seasons": 3
@@ -1487,14 +1487,14 @@
         "Comedy",
         "Romance"
       ],
-      "overview": "An honest, often hilarious window into the everyday life of a 21st-century American family -- gay, straight, multicultural and multigenerational.",
+      "overview": "An honest, often hilarious window into a 21st-century American family spanning three generations.",
       "streaming": {
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0IV5WZ6TUSCYEZLQCQFKSN3Z8B",
-          "quality": "sd"
+          "quality": "hd"
         },
         "hulu": {
           "service": "hulu",
@@ -1511,7 +1511,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-03T10:56:06.602660+00:00",
+      "last_checked": "2026-10-10T11:43:28.257867+00:00",
       "season_count": 11,
       "episode_count": 250
     },
@@ -1534,7 +1534,7 @@
       ],
       "overview": "There is nothing special about Harry Potter - at least that's what his Aunt Petunia always says. On his 11th birthday, a letter of admittance to Hogwarts School of Witchcraft and Wizardry opens up ...",
       "streaming": {},
-      "last_checked": "2026-10-03T10:56:09.027471+00:00",
+      "last_checked": "2026-10-10T11:43:29.713288+00:00",
       "season_count": 1,
       "episode_count": 1
     },
@@ -1563,7 +1563,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-03T10:56:10.852438+00:00",
+      "last_checked": "2026-10-10T11:43:31.017712+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -1595,7 +1595,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-03T10:56:11.925645+00:00",
+      "last_checked": "2026-10-10T11:43:31.752106+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1643,7 +1643,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-03T10:56:12.827125+00:00",
+      "last_checked": "2026-10-10T11:43:32.359433+00:00",
       "runtime": 96,
       "release_date": "2009-05-29"
     },
@@ -1691,7 +1691,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-03T10:56:13.655136+00:00",
+      "last_checked": "2026-10-10T11:43:32.897553+00:00",
       "runtime": 102,
       "release_date": "2025-06-20"
     },
@@ -1723,7 +1723,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-03T10:56:14.459512+00:00",
+      "last_checked": "2026-10-10T11:43:33.550776+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1756,7 +1756,7 @@
           "price": "14.99 USD"
         }
       },
-      "last_checked": "2026-10-03T10:56:15.194431+00:00",
+      "last_checked": "2026-10-10T11:43:34.152893+00:00",
       "runtime": 93,
       "release_date": "2007-11-16"
     },
@@ -1804,7 +1804,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-03T10:56:16.064409+00:00",
+      "last_checked": "2026-10-10T11:43:34.664483+00:00",
       "runtime": 98,
       "release_date": "1981-06-26"
     },
@@ -1852,7 +1852,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-03T10:56:16.936928+00:00",
+      "last_checked": "2026-10-10T11:43:35.137304+00:00",
       "runtime": 134,
       "release_date": "2018-05-25"
     },
@@ -1893,7 +1893,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-03T10:56:17.668254+00:00",
+      "last_checked": "2026-10-10T11:43:35.625461+00:00",
       "runtime": 97,
       "release_date": "2019-09-27"
     },
@@ -1925,18 +1925,12 @@
           "quality": "hd",
           "price": "3.99 USD"
         },
-        "hulu": {
-          "service": "hulu",
-          "serviceName": "Hulu",
-          "type": "subscription",
-          "link": "https://www.hulu.com/movie/holes-ecc93033-1f5a-4832-8845-458561c3d21e",
-          "quality": "hd"
-        },
         "tubi": {
           "service": "tubi",
           "serviceName": "Tubi",
           "type": "free",
-          "link": "https://tubitv.com/movies/100041895/holes"
+          "link": "https://tubitv.com/movies/100041895/holes",
+          "quality": "hd"
         },
         "disney": {
           "service": "disney",
@@ -1960,7 +1954,7 @@
           "link": "https://therokuchannel.roku.com/details/e174f1efbb935aa191af7de462328790"
         }
       },
-      "last_checked": "2026-10-03T10:56:18.497372+00:00",
+      "last_checked": "2026-10-10T11:43:36.135576+00:00",
       "runtime": 118,
       "release_date": "2003-04-18"
     },
@@ -1982,7 +1976,7 @@
         "Animation",
         "Family"
       ],
-      "overview": "Following an intrepid cat on a heart-stopping journey through an animated world of wonder and peril, Gints Zilbalodis’s Oscar®-winner is a moving ode to friendship. With delightfully expressive ani...",
+      "overview": "Cat is a solitary animal, but as his home is devastated by a great flood, he finds refuge on a boat populated by various species, and will have to team up with them despite their differences.",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -2001,7 +1995,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-03T10:56:19.306497+00:00",
+      "last_checked": "2026-10-10T11:43:36.695718+00:00",
       "runtime": 85,
       "release_date": "2024-12-06"
     },
@@ -2023,7 +2017,7 @@
         "Adventure",
         "Science Fiction"
       ],
-      "overview": "As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace. Experience the motion pic...",
+      "overview": "As a new galactic threat emerges, Rey, a scavenger from the desert, and Finn, a former stormtrooper, team up with Han Solo and Chewbacca to find the key to restoring peace.",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -2055,7 +2049,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-03T10:56:20.101115+00:00",
+      "last_checked": "2026-10-10T11:43:37.208624+00:00",
       "runtime": 136,
       "release_date": "2015-12-18"
     },
@@ -2101,16 +2095,9 @@
           "link": "https://tv.apple.com/us/movie/star-wars-the-last-jedi/umc.cmc.7f19yhpg0i8vk8of1ydhs7g1v?playableId=tvs.sbd.9001%3A1316280891",
           "quality": "hd",
           "price": "3.99 USD"
-        },
-        "hulu": {
-          "service": "hulu",
-          "serviceName": "Hulu",
-          "type": "subscription",
-          "link": "https://www.hulu.com/movie/star-wars:-the-last-jedi-4c622e6e-6237-44e7-9aaf-db94de0edc3b",
-          "quality": "hd"
         }
       },
-      "last_checked": "2026-10-03T10:56:20.914926+00:00",
+      "last_checked": "2026-10-10T11:43:37.736073+00:00",
       "runtime": 152,
       "release_date": "2017-12-15"
     },
@@ -2132,7 +2119,7 @@
         "Adventure",
         "Fantasy"
       ],
-      "overview": "The landmark Skywalker saga comes to a conclusion.",
+      "overview": "In STAR WARS: THE RISE OF SKYWALKER, the riveting conclusion of the landmark Skywalker saga, new legends will be born—and the final battle for freedom is yet to come. WARNING: SOME FLASHING-LIGHTS ...",
       "streaming": {
         "apple": {
           "service": "apple",
@@ -2150,13 +2137,6 @@
           "quality": "uhd",
           "price": "3.99 USD"
         },
-        "hulu": {
-          "service": "hulu",
-          "serviceName": "Hulu",
-          "type": "subscription",
-          "link": "https://www.hulu.com/movie/star-wars:-the-rise-of-skywalker-3183e62a-47d7-4df0-9e10-6315a56a3bb7",
-          "quality": "hd"
-        },
         "disney": {
           "service": "disney",
           "serviceName": "Disney+",
@@ -2165,7 +2145,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-03T10:56:21.722263+00:00",
+      "last_checked": "2026-10-10T11:43:38.245108+00:00",
       "runtime": 142,
       "release_date": "2019-12-20"
     },
@@ -2187,7 +2167,7 @@
         "Animation",
         "Comedy"
       ],
-      "overview": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they mus...",
+      "overview": "When her family moves across the country, tween Riley Anderson's animated emotions get carried away - quite literally - on a fantastical journey through her mind. Oscar winner for Best Animated Fea...",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -2213,7 +2193,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-03T10:56:22.519985+00:00",
+      "last_checked": "2026-10-10T11:43:38.738419+00:00",
       "runtime": 95,
       "release_date": "2015-06-19"
     },
@@ -2252,7 +2232,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-03T10:56:23.234687+00:00",
+      "last_checked": "2026-10-10T11:43:39.354455+00:00",
       "runtime": 84,
       "release_date": "1993-02-12"
     },
@@ -2292,7 +2272,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-03T10:56:24.066386+00:00",
+      "last_checked": "2026-10-10T11:43:39.849077+00:00",
       "runtime": 107,
       "release_date": "2022-11-23"
     },
@@ -2324,7 +2304,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-03T10:56:24.876001+00:00",
+      "last_checked": "2026-10-10T11:43:40.386039+00:00",
       "runtime": 90,
       "release_date": "1984-07-13"
     },
@@ -2357,7 +2337,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-03T10:56:25.684591+00:00",
+      "last_checked": "2026-10-10T11:43:40.997261+00:00",
       "runtime": 84,
       "release_date": "1999-07-14"
     },
@@ -2404,7 +2384,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-03T10:56:26.502781+00:00",
+      "last_checked": "2026-10-10T11:43:41.459672+00:00",
       "runtime": 97,
       "release_date": "2021-11-24"
     },
@@ -2452,7 +2432,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-03T10:56:27.300160+00:00",
+      "last_checked": "2026-10-10T11:43:41.966116+00:00",
       "runtime": 140,
       "release_date": "2023-05-26"
     },

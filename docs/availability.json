@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T11:43:41.966794+00:00",
+  "last_updated": "2026-10-11T11:56:22.380864+00:00",
   "country": "us",
   "items": [
     {
@@ -3189,20 +3189,20 @@
       ],
       "overview": "Walt Disney Animation Studios’ “Raya and the Last Dragon” travels to the fantasy world of Kumandra, where humans and dragons lived together in harmony long ago. But when an evil force threatened th...",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/raya-and-the-last-dragon/umc.cmc.13yhvlcnjgixwpl8hy62kuppp?playableId=tvs.sbd.9001%3A1557711427",
-          "quality": "hd",
-          "price": "3.99 USD"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0FBFRB46ZO50J8MEMCJK7TWOGM?ref_=atv_dp",
           "quality": "uhd",
+          "price": "3.99 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/raya-and-the-last-dragon/umc.cmc.13yhvlcnjgixwpl8hy62kuppp?playableId=tvs.sbd.9001%3A1557711427",
+          "quality": "hd",
           "price": "3.99 USD"
         },
         "disney": {
@@ -3213,7 +3213,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-04T11:38:24.757378+00:00",
+      "last_checked": "2026-10-11T11:56:12.317917+00:00",
       "runtime": 107,
       "release_date": "2021-03-05"
     },
@@ -3232,16 +3232,8 @@
         "Adventure",
         "Family"
       ],
-      "overview": "When an ace detective goes missing, his son teams up with a hilariously wise-cracking Pokémon - Detective Pikachu (Ryan Reynolds) - to help solve the mystery of what happened.",
+      "overview": "The first-ever live-action Pokémon adventure, POKÉMON Detective Pikachu, stars Ryan Reynolds as Pikachu, the iconic face of the global Pokémon phenomenon.",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/pokemon-detective-pikachu/umc.cmc.2f3ohdbkpol7ui73lvygtcge2?playableId=tvs.sbd.9001%3A1460331265",
-          "quality": "hd",
-          "price": "4.99 USD"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -3249,9 +3241,17 @@
           "link": "https://www.amazon.com/gp/video/detail/0K1VZNF96GVK06I8KZJ1K738V0?ref_=atv_dp",
           "quality": "uhd",
           "price": "4.99 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/pokemon-detective-pikachu/umc.cmc.2f3ohdbkpol7ui73lvygtcge2?playableId=tvs.sbd.9001%3A1460331265",
+          "quality": "hd",
+          "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-10-04T11:38:25.263409+00:00",
+      "last_checked": "2026-10-11T11:56:13.164668+00:00",
       "runtime": 104,
       "release_date": "2019-05-10"
     },
@@ -3271,7 +3271,7 @@
         "Adventure",
         "Comedy"
       ],
-      "overview": "When spies, who traded the excitement of espionage for parenthood, get kidnapped, only their kids have the skills and know-how to rescue them.",
+      "overview": "Super-spies Gregorio (Antonio Banderas) and Ingrid (Carla Gugino) give up their lives of intrigue to raise their children. After a sinister super-villain kidnaps the parents, it's up to the kids to...",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -3280,16 +3280,9 @@
           "link": "https://www.amazon.com/gp/video/detail/0ILEQPPDG1JVS299OOBAAL5YZT?ref_=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
-        },
-        "tubi": {
-          "service": "tubi",
-          "serviceName": "Tubi",
-          "type": "free",
-          "link": "https://tubitv.com/movies/100051982/spy-kids",
-          "quality": "hd"
         }
       },
-      "last_checked": "2026-10-04T11:38:25.766594+00:00",
+      "last_checked": "2026-10-11T11:56:13.907400+00:00",
       "runtime": 84,
       "release_date": "2001-03-18"
     },
@@ -3328,7 +3321,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-04T11:38:26.324153+00:00",
+      "last_checked": "2026-10-11T11:56:14.733966+00:00",
       "runtime": 87,
       "release_date": "2019-05-03"
     },
@@ -3346,7 +3339,7 @@
       "genres": [
         "Horror"
       ],
-      "overview": "From writer/director Ryan Coogler and starring Michael B. Jordan comes a new vision of fear. Trying to leave their troubled lives behind, twin brothers (Jordan) return home, only to discover an eve...",
+      "overview": "Trying to leave their troubled lives behind, twin brothers return home, only to discover an even greater evil waiting to welcome them back.",
       "streaming": {
         "hbo": {
           "service": "hbo",
@@ -3364,7 +3357,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-10-04T11:38:26.827161+00:00",
+      "last_checked": "2026-10-11T11:56:15.542471+00:00",
       "runtime": 137,
       "release_date": "2025-04-18"
     },
@@ -4034,7 +4027,7 @@
           "link": "https://www.netflix.com/title/80238565"
         }
       },
-      "last_checked": "2026-10-04T11:38:28.114349+00:00",
+      "last_checked": "2026-10-11T11:56:17.491747+00:00",
       "season_count": 3,
       "episode_count": 19
     },
@@ -4062,7 +4055,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-04T11:38:29.759974+00:00",
+      "last_checked": "2026-10-11T11:56:21.099925+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -4096,15 +4089,16 @@
         "dad"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/2MSC7OTyv04M4eJwqLTLpW9IGB5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg",
       "rating": "",
       "genres": [
         "Documentary"
       ],
-      "overview": "Built entirely from archival footage, personal photos, and rare home videos contributed by fans and friends, Norm tell his own story in his own voice.",
+      "overview": "Go down a wormhole in this documentary on master of deadpan humor Norm Macdonald, whose life and career were uncompromising yet full of contradictions.",
       "streaming": {},
-      "last_checked": "2026-10-04T11:38:30.510552+00:00",
-      "release_date": "2026-10-16"
+      "last_checked": "2026-10-11T11:56:22.123692+00:00",
+      "release_date": "2026-10-16",
+      "runtime": 126
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T11:56:22.380864+00:00",
+  "last_updated": "2026-10-12T14:08:38.699994+00:00",
   "country": "us",
   "items": [
     {
@@ -75,7 +75,7 @@
           "link": "https://www.netflix.com/title/80097389"
         }
       },
-      "last_checked": "2026-10-05T13:17:24.543139+00:00",
+      "last_checked": "2026-10-12T14:07:32.108561+00:00",
       "runtime": 97,
       "release_date": "2016-07-01"
     },
@@ -104,10 +104,10 @@
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0LTUA14SORGQY8WUPE7DY4BHGN?ref_=atv_dp",
           "quality": "hd",
-          "price": "3.99 USD"
+          "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-10-05T13:17:25.061210+00:00",
+      "last_checked": "2026-10-12T14:07:32.651853+00:00",
       "runtime": 94,
       "release_date": "1987-04-17"
     },
@@ -178,7 +178,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-05T13:17:25.571115+00:00",
+      "last_checked": "2026-10-12T14:07:33.227029+00:00",
       "runtime": 110,
       "release_date": "2025-06-13"
     },
@@ -224,7 +224,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-05T13:17:26.063796+00:00",
+      "last_checked": "2026-10-12T14:07:33.773069+00:00",
       "runtime": 150,
       "release_date": "2022-11-23"
     },
@@ -286,10 +286,10 @@
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0IMN0EAZL047C4MTV9C2BUUCD5?ref_=atv_dp",
           "quality": "hd",
-          "price": "5.99 USD"
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-05T13:17:26.678963+00:00",
+      "last_checked": "2026-10-12T14:07:34.276967+00:00",
       "runtime": 91,
       "release_date": "1991-02-08"
     },
@@ -321,7 +321,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-05T13:17:27.137175+00:00",
+      "last_checked": "2026-10-12T14:07:34.802973+00:00",
       "runtime": 124,
       "release_date": "1979-12-19"
     },
@@ -357,10 +357,10 @@
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0GKJ06SJM9QAGM8UCSBTK6N4BH?ref_=atv_dp",
           "quality": "uhd",
-          "price": "7.99 USD"
+          "price": "12.99 USD"
         }
       },
-      "last_checked": "2026-10-05T13:17:27.647050+00:00",
+      "last_checked": "2026-10-12T14:07:35.402183+00:00",
       "runtime": 157,
       "release_date": "2023-11-22"
     },
@@ -399,7 +399,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-10-05T13:17:28.166971+00:00",
+      "last_checked": "2026-10-12T14:07:35.886640+00:00",
       "runtime": 106,
       "release_date": "2024-03-08"
     },
@@ -445,7 +445,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-10-05T13:17:28.649617+00:00",
+      "last_checked": "2026-10-12T14:07:36.514774+00:00",
       "runtime": 83,
       "release_date": "2025-09-12"
     },
@@ -485,7 +485,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-05T13:17:29.145505+00:00",
+      "last_checked": "2026-10-12T14:07:36.971093+00:00",
       "runtime": 129,
       "release_date": "1963-03-16"
     },
@@ -508,18 +508,18 @@
       ],
       "overview": "A struggling salesman and lonely teacher escape into a fantasy world of Depression-era music, only to be confronted by the crushing weight of reality.",
       "streaming": {
-        "roku": {
-          "service": "roku",
-          "serviceName": "Roku",
-          "type": "free",
-          "link": "https://therokuchannel.roku.com/details/5db7e39d5faf59a6a84c4652880161a0",
-          "quality": "hd"
-        },
         "tubi": {
           "service": "tubi",
           "serviceName": "Tubi",
           "type": "free",
           "link": "https://tubitv.com/movies/100046335/pennies-from-heaven",
+          "quality": "hd"
+        },
+        "roku": {
+          "service": "roku",
+          "serviceName": "Roku",
+          "type": "free",
+          "link": "https://therokuchannel.roku.com/details/5db7e39d5faf59a6a84c4652880161a0",
           "quality": "hd"
         },
         "prime": {
@@ -531,7 +531,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-05T13:17:29.665186+00:00",
+      "last_checked": "2026-10-12T14:07:37.620737+00:00",
       "runtime": 107,
       "release_date": "1982-01-01"
     },
@@ -570,7 +570,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-05T13:17:30.155152+00:00",
+      "last_checked": "2026-10-12T14:07:38.063818+00:00",
       "runtime": 98,
       "release_date": "2024-06-21"
     },
@@ -626,14 +626,6 @@
       ],
       "overview": "A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0HOJDZS6BE7QKBMLF6VHTJUBEO?ref_=atv_dp",
-          "quality": "hd",
-          "price": "3.99 USD"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -641,9 +633,17 @@
           "link": "https://tv.apple.com/us/movie/the-secret-life-of-walter-mitty/umc.cmc.pw6qkwfo6ppbm0q2zkp07a3f?playableId=tvs.sbd.9001%3A772093232",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0HOJDZS6BE7QKBMLF6VHTJUBEO?ref_=atv_dp",
+          "quality": "hd",
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-05T13:17:30.711192+00:00",
+      "last_checked": "2026-10-12T14:07:38.561333+00:00",
       "runtime": 114,
       "release_date": "2013-12-25"
     },
@@ -666,13 +666,6 @@
       ],
       "overview": "An intelligence agent faces the ultimate test when his wife is suspected of betraying the nation.",
       "streaming": {
-        "peacock": {
-          "service": "peacock",
-          "serviceName": "Peacock",
-          "type": "subscription",
-          "link": "https://www.peacocktv.com/watch/asset/movies/black-bag/d2bc869a-ca30-343f-878f-7eaa7c09902b",
-          "quality": "uhd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -680,9 +673,16 @@
           "link": "https://www.amazon.com/gp/video/detail/0M5MTLMDHHYL8N4NTSF94IQ691?ref_=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
+        },
+        "peacock": {
+          "service": "peacock",
+          "serviceName": "Peacock",
+          "type": "subscription",
+          "link": "https://www.peacocktv.com/watch/asset/movies/black-bag/d2bc869a-ca30-343f-878f-7eaa7c09902b",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-05T13:17:31.219511+00:00",
+      "last_checked": "2026-10-12T14:07:39.191070+00:00",
       "runtime": 90,
       "release_date": "2025-03-14"
     },
@@ -828,7 +828,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-05T13:17:32.405168+00:00",
+      "last_checked": "2026-10-12T14:07:48.505420+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1
@@ -891,7 +891,7 @@
           "link": "https://www.netflix.com/title/81122572"
         }
       },
-      "last_checked": "2026-10-05T13:17:33.919669+00:00",
+      "last_checked": "2026-10-12T14:07:51.283137+00:00",
       "season_count": 1,
       "episode_count": 3
     },
@@ -954,7 +954,7 @@
           "link": "https://www.netflix.com/title/81677257"
         }
       },
-      "last_checked": "2026-10-05T13:17:35.366630+00:00",
+      "last_checked": "2026-10-12T14:08:02.747876+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -1017,7 +1017,7 @@
           "serviceName": "Prime Video",
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0LU58CSZ179GDNU0Y30KQY3AI5",
-          "quality": "uhd"
+          "quality": "hd"
         },
         "apple": {
           "service": "apple",
@@ -1034,7 +1034,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-05T13:17:36.708305+00:00",
+      "last_checked": "2026-10-12T14:08:07.705247+00:00",
       "season_count": 4,
       "episode_count": 40
     },
@@ -1056,15 +1056,8 @@
         "Adventure",
         "Drama"
       ],
-      "overview": "Star Trek: Picard features Sir Patrick Stewart reprising his iconic role as Jean-Luc Picard, which he played for seven seasons on Star Trek: The Next Generation. The new series will follow this ico...",
+      "overview": "Retired admiral Jean-Luc Picard -- still deeply affected by the loss of Lieutenant Commander Data and the destruction of Romulus -- steps into the next chapter of his life.",
       "streaming": {
-        "paramount": {
-          "service": "paramount",
-          "serviceName": "Paramount+",
-          "type": "subscription",
-          "link": "https://www.paramountplus.com/shows/star-trek-picard/",
-          "quality": "hd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -1079,9 +1072,16 @@
           "link": "https://www.amazon.com/gp/video/detail/0S4PHJ50UWJJMEE08SOKDCOI6E?ref_=atv_dp",
           "quality": "hd",
           "price": "22.99 USD"
+        },
+        "paramount": {
+          "service": "paramount",
+          "serviceName": "Paramount+",
+          "type": "subscription",
+          "link": "https://www.paramountplus.com/shows/star-trek-picard/",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-10-05T13:17:38.042866+00:00",
+      "last_checked": "2026-10-12T14:08:10.185507+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1199,7 +1199,7 @@
           "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.becfe3bb-aa35-4994-86b4-dbe233da0e7a"
         }
       },
-      "last_checked": "2026-10-05T13:17:39.545040+00:00",
+      "last_checked": "2026-10-12T14:08:19.506195+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1243,7 +1243,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-05T13:17:41.657745+00:00",
+      "last_checked": "2026-10-12T14:08:33.886045+00:00",
       "season_count": 2,
       "episode_count": 20
     },
@@ -1294,7 +1294,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-05T13:17:42.962560+00:00",
+      "last_checked": "2026-10-12T14:08:38.511466+00:00",
       "season_count": 6,
       "episode_count": 110
     },

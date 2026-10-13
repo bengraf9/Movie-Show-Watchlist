@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T14:08:38.699994+00:00",
+  "last_updated": "2026-10-13T13:20:04.544484+00:00",
   "country": "us",
   "items": [
     {
@@ -1314,16 +1314,16 @@
       "genres": [
         "Documentary"
       ],
-      "overview": "An expansive, yet intimate look at the legendary comedian, writer, and director Mel Brooks - one of the industry's most hilarious and influential minds whose work has had audiences around the world...",
+      "overview": "Directed by award-winning filmmakers Judd Apatow and Michael Bonfiglio, this two-part film explores the life, career, friendships, and loves of legendary writer, director, producer, and performer, ...",
       "streaming": {
         "hbo": {
           "service": "hbo",
           "serviceName": "HBO Max",
           "type": "subscription",
-          "link": "https://play.hbomax.com/show/c967b1a4-d0e2-491e-967e-ae09f88fef62"
+          "link": "https://play.hbomax.com/mini-series/c967b1a4-d0e2-491e-967e-ae09f88fef62"
         }
       },
-      "last_checked": "2026-10-06T12:34:18.213399+00:00",
+      "last_checked": "2026-10-13T13:19:44.838091+00:00",
       "season_count": 1,
       "episode_count": 2
     },
@@ -1361,7 +1361,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-06T12:34:19.588066+00:00",
+      "last_checked": "2026-10-13T13:19:46.705513+00:00",
       "season_count": 6,
       "episode_count": 36
     },
@@ -2461,7 +2461,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-06T12:34:20.257482+00:00",
+      "last_checked": "2026-10-13T13:19:47.687915+00:00",
       "runtime": 89,
       "release_date": "2020-03-14"
     },
@@ -2489,7 +2489,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-06T12:34:20.716509+00:00",
+      "last_checked": "2026-10-13T13:19:48.448627+00:00",
       "runtime": 38,
       "release_date": "2022-04-14"
     },
@@ -2517,7 +2517,7 @@
           "link": "https://www.netflix.com/title/81128389"
         }
       },
-      "last_checked": "2026-10-06T12:34:21.733089+00:00",
+      "last_checked": "2026-10-13T13:19:50.014010+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2538,7 +2538,7 @@
       ],
       "overview": "It's the land we love and the land we think we know. We see America's breathtaking landscapes and wildlife as timeless, but the truth is very different. Its unique geography drives the forces of na...",
       "streaming": {},
-      "last_checked": "2026-10-06T12:34:23.322968+00:00",
+      "last_checked": "2026-10-13T13:19:52.463389+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -2567,7 +2567,7 @@
           "link": "https://www.netflix.com/title/81028343"
         }
       },
-      "last_checked": "2026-10-06T12:34:24.557475+00:00",
+      "last_checked": "2026-10-13T13:19:54.289509+00:00",
       "season_count": 1,
       "episode_count": 4
     },
@@ -2601,7 +2601,7 @@
           "link": "https://www.netflix.com/title/80078037"
         }
       },
-      "last_checked": "2026-10-06T12:34:25.737888+00:00",
+      "last_checked": "2026-10-13T13:19:56.068036+00:00",
       "season_count": 1,
       "episode_count": 26
     },
@@ -2629,7 +2629,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-06T12:34:27.113620+00:00",
+      "last_checked": "2026-10-13T13:19:58.522389+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2649,7 +2649,7 @@
         "Animation",
         "Comedy"
       ],
-      "overview": "Branch and Poppy embark on a harrowing journey to reunite his siblings and save his kidnapped brother from a pair of nefarious pop-star villains.",
+      "overview": "Sing along with Branch and Poppy as they embark on an emotional journey to reunite his siblings and save his brother from a pair of pop-star villains.",
       "streaming": {
         "apple": {
           "service": "apple",
@@ -2659,6 +2659,13 @@
           "quality": "hd",
           "price": "3.99 USD"
         },
+        "peacock": {
+          "service": "peacock",
+          "serviceName": "Peacock",
+          "type": "subscription",
+          "link": "https://www.peacocktv.com/watch/asset/movies/trolls-band-together/df48990f-e335-360a-bac0-fdfaedd6dbd7",
+          "quality": "uhd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -2666,17 +2673,10 @@
           "link": "https://www.amazon.com/gp/video/detail/0Q3MS7A4QUQMJWY0D8KVW1WF3Z?ref_=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
-        },
-        "peacock": {
-          "service": "peacock",
-          "serviceName": "Peacock",
-          "type": "subscription",
-          "link": "https://www.peacocktv.com/watch/asset/movies/trolls-band-together/df48990f-e335-360a-bac0-fdfaedd6dbd7",
-          "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-06T12:34:27.851090+00:00",
-      "runtime": 85,
+      "last_checked": "2026-10-13T13:19:59.565235+00:00",
+      "runtime": 91,
       "release_date": "2023-11-17"
     },
     {
@@ -2703,7 +2703,7 @@
           "link": "https://www.netflix.com/title/81276049"
         }
       },
-      "last_checked": "2026-10-06T12:34:28.285671+00:00",
+      "last_checked": "2026-10-13T13:20:00.247778+00:00",
       "runtime": 59,
       "release_date": "2021-10-01"
     },
@@ -3763,8 +3763,14 @@
         "Adventure",
         "Family"
       ],
-      "overview": "When Annabeth is captured by the forces of Kronos, Percy must embark on a perilous journey to rescue her. He must free a goddess in chains, confront the Titan’s curse, and avoid triggering the fall...",
+      "overview": "Percy Jackson takes on the Titan’s curse to save Annabeth and Olympus.",
       "streaming": {
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/81598066"
+        },
         "disney": {
           "service": "disney",
           "serviceName": "Disney+",
@@ -3773,7 +3779,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-06T12:34:29.363458+00:00",
+      "last_checked": "2026-10-13T13:20:02.088016+00:00",
       "season_count": 2,
       "episode_count": 16
     },
@@ -3969,7 +3975,7 @@
           "link": "https://www.netflix.com/title/81750702"
         }
       },
-      "last_checked": "2026-10-06T12:34:30.770179+00:00",
+      "last_checked": "2026-10-13T13:20:04.277474+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2

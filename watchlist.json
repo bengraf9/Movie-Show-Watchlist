@@ -1439,9 +1439,11 @@
     "title": "Narnia: The Magician's Nephew",
     "type": "movie",
     "lists": [
-      "dad", "family"
+      "dad",
+      "family"
     ],
     "tmdb_id": "movie/1147572",
-    "year": 2027
+    "year": 2027,
+    "release_date": "2027-02-12"
   }
 ]

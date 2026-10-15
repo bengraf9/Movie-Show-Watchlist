@@ -1434,5 +1434,14 @@
     "tmdb_id": "movie/1620918",
     "year": 2026,
     "release_date": "2026-10-16"
+  },
+  {
+    "title": "Narnia: The Magician's Nephew",
+    "type": "movie",
+    "lists": [
+      "dad", "family"
+    ],
+    "tmdb_id": "movie/1147572",
+    "year": 2027
   }
 ]

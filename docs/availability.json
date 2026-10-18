@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T09:59:03.267729+00:00",
+  "last_updated": "2026-10-18T10:12:23.382389+00:00",
   "country": "us",
   "items": [
     {
@@ -847,7 +847,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-10T11:43:24.645799+00:00",
+      "last_checked": "2026-10-18T10:12:05.390152+00:00",
       "season_count": 3,
       "episode_count": 39,
       "watched_seasons": 2
@@ -973,7 +973,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-10T11:43:26.295190+00:00",
+      "last_checked": "2026-10-18T10:12:07.431515+00:00",
       "season_count": 3,
       "episode_count": 33,
       "watched_seasons": 3
@@ -1475,18 +1475,11 @@
       ],
       "overview": "An honest, often hilarious window into a 21st-century American family spanning three generations.",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0IV5WZ6TUSCYEZLQCQFKSN3Z8B",
-          "quality": "hd"
-        },
         "hulu": {
           "service": "hulu",
           "serviceName": "Hulu",
           "type": "subscription",
-          "link": "https://www.hulu.com/series/una-familia-moderna-082d165e-2369-45fb-ace3-26c63d5e6470",
+          "link": "https://www.hulu.com/series/modern-family-883c414c-34a3-4fcc-b50a-0ad5a184c977",
           "quality": "hd"
         },
         "peacock": {
@@ -1495,9 +1488,16 @@
           "type": "subscription",
           "link": "https://www.peacocktv.com/watch/asset/tv/modern-family/6158438733133910112",
           "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0IV5WZ6TUSCYEZLQCQFKSN3Z8B",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-10-10T11:43:28.257867+00:00",
+      "last_checked": "2026-10-18T10:12:09.196916+00:00",
       "season_count": 11,
       "episode_count": 250
     },
@@ -1520,7 +1520,7 @@
       ],
       "overview": "There is nothing special about Harry Potter - at least that's what his Aunt Petunia always says. On his 11th birthday, a letter of admittance to Hogwarts School of Witchcraft and Wizardry opens up ...",
       "streaming": {},
-      "last_checked": "2026-10-10T11:43:29.713288+00:00",
+      "last_checked": "2026-10-18T10:12:10.840311+00:00",
       "season_count": 1,
       "episode_count": 1
     },
@@ -1549,7 +1549,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-10T11:43:31.017712+00:00",
+      "last_checked": "2026-10-18T10:12:12.276456+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -1581,7 +1581,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-10T11:43:31.752106+00:00",
+      "last_checked": "2026-10-18T10:12:12.995307+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1629,7 +1629,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-10T11:43:32.359433+00:00",
+      "last_checked": "2026-10-18T10:12:13.478369+00:00",
       "runtime": 96,
       "release_date": "2009-05-29"
     },
@@ -1661,13 +1661,6 @@
           "quality": "hd",
           "price": "5.99 USD"
         },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-367ee1b6-1a50-413a-96f6-655175166f38",
-          "quality": "uhd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -1675,9 +1668,16 @@
           "link": "https://www.amazon.com/gp/video/detail/0O7NE3VI07XP9B35NDN2HXZS7Q?ref_=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-367ee1b6-1a50-413a-96f6-655175166f38",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-10T11:43:32.897553+00:00",
+      "last_checked": "2026-10-18T10:12:13.991399+00:00",
       "runtime": 102,
       "release_date": "2025-06-20"
     },
@@ -1709,7 +1709,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-10T11:43:33.550776+00:00",
+      "last_checked": "2026-10-18T10:12:14.519044+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1742,7 +1742,7 @@
           "price": "14.99 USD"
         }
       },
-      "last_checked": "2026-10-10T11:43:34.152893+00:00",
+      "last_checked": "2026-10-18T10:12:15.019710+00:00",
       "runtime": 93,
       "release_date": "2007-11-16"
     },
@@ -1790,7 +1790,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-10T11:43:34.664483+00:00",
+      "last_checked": "2026-10-18T10:12:15.665155+00:00",
       "runtime": 98,
       "release_date": "1981-06-26"
     },
@@ -1838,7 +1838,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-10T11:43:35.137304+00:00",
+      "last_checked": "2026-10-18T10:12:16.161220+00:00",
       "runtime": 134,
       "release_date": "2018-05-25"
     },
@@ -1879,7 +1879,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-10T11:43:35.625461+00:00",
+      "last_checked": "2026-10-18T10:12:16.786284+00:00",
       "runtime": 97,
       "release_date": "2019-09-27"
     },
@@ -1922,7 +1922,7 @@
           "service": "disney",
           "serviceName": "Disney+",
           "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-ecc93033-1f5a-4832-8845-458561c3d21e",
+          "link": "https://www.disneyplus.com/browse/entity-43fe9e3c-abbf-436b-b8af-9741bd8f732c",
           "quality": "hd"
         },
         "prime": {
@@ -1940,7 +1940,7 @@
           "link": "https://therokuchannel.roku.com/details/e174f1efbb935aa191af7de462328790"
         }
       },
-      "last_checked": "2026-10-10T11:43:36.135576+00:00",
+      "last_checked": "2026-10-18T10:12:17.289450+00:00",
       "runtime": 118,
       "release_date": "2003-04-18"
     },
@@ -1962,7 +1962,7 @@
         "Animation",
         "Family"
       ],
-      "overview": "Cat is a solitary animal, but as his home is devastated by a great flood, he finds refuge on a boat populated by various species, and will have to team up with them despite their differences.",
+      "overview": "Following an intrepid cat on a heart-stopping journey through an animated world of wonder and peril, Gints Zilbalodis’s Oscar®-winner is a moving ode to friendship. With delightfully expressive ani...",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -1981,7 +1981,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-10T11:43:36.695718+00:00",
+      "last_checked": "2026-10-18T10:12:17.897889+00:00",
       "runtime": 85,
       "release_date": "2024-12-06"
     },
@@ -2013,12 +2013,6 @@
           "quality": "uhd",
           "price": "3.99 USD"
         },
-        "starz": {
-          "service": "starz",
-          "serviceName": "Starz",
-          "type": "subscription",
-          "link": "https://www.starz.com/us/en/movies/star-wars:-the-force-awakens-26915"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -2033,9 +2027,16 @@
           "type": "subscription",
           "link": "https://www.disneyplus.com/browse/entity-438ec2e9-a05c-4b01-84f4-18960b363868",
           "quality": "uhd"
+        },
+        "starz": {
+          "service": "starz",
+          "serviceName": "Starz",
+          "type": "subscription",
+          "link": "https://www.starz.com/us/en/movies/star-wars-the-force-awakens-26915",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-10-10T11:43:37.208624+00:00",
+      "last_checked": "2026-10-18T10:12:18.477207+00:00",
       "runtime": 136,
       "release_date": "2015-12-18"
     },
@@ -2067,13 +2068,6 @@
           "quality": "hd",
           "price": "3.99 USD"
         },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-50c1aff5-3051-4839-9ebf-e332c635e216",
-          "quality": "uhd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -2081,9 +2075,16 @@
           "link": "https://tv.apple.com/us/movie/star-wars-the-last-jedi/umc.cmc.7f19yhpg0i8vk8of1ydhs7g1v?playableId=tvs.sbd.9001%3A1316280891",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-4c622e6e-6237-44e7-9aaf-db94de0edc3b",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-10T11:43:37.736073+00:00",
+      "last_checked": "2026-10-18T10:12:19.030017+00:00",
       "runtime": 152,
       "release_date": "2017-12-15"
     },
@@ -2131,7 +2132,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-10T11:43:38.245108+00:00",
+      "last_checked": "2026-10-18T10:12:19.540163+00:00",
       "runtime": 142,
       "release_date": "2019-12-20"
     },
@@ -2179,7 +2180,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-10T11:43:38.738419+00:00",
+      "last_checked": "2026-10-18T10:12:20.018860+00:00",
       "runtime": 95,
       "release_date": "2015-06-19"
     },
@@ -2218,7 +2219,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-10T11:43:39.354455+00:00",
+      "last_checked": "2026-10-18T10:12:20.549456+00:00",
       "runtime": 84,
       "release_date": "1993-02-12"
     },
@@ -2258,7 +2259,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-10T11:43:39.849077+00:00",
+      "last_checked": "2026-10-18T10:12:21.229607+00:00",
       "runtime": 107,
       "release_date": "2022-11-23"
     },
@@ -2290,7 +2291,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-10T11:43:40.386039+00:00",
+      "last_checked": "2026-10-18T10:12:21.837036+00:00",
       "runtime": 90,
       "release_date": "1984-07-13"
     },
@@ -2323,7 +2324,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-10T11:43:40.997261+00:00",
+      "last_checked": "2026-10-18T10:12:22.381837+00:00",
       "runtime": 84,
       "release_date": "1999-07-14"
     },
@@ -2370,7 +2371,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-10T11:43:41.459672+00:00",
+      "last_checked": "2026-10-18T10:12:22.869313+00:00",
       "runtime": 97,
       "release_date": "2021-11-24"
     },
@@ -2418,7 +2419,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-10T11:43:41.966116+00:00",
+      "last_checked": "2026-10-18T10:12:23.381795+00:00",
       "runtime": 140,
       "release_date": "2023-05-26"
     },
@@ -3666,52 +3667,6 @@
       "last_checked": "2026-10-16T10:28:28.501651+00:00",
       "season_count": 1,
       "episode_count": 8
-    },
-    {
-      "title": "Disclosure Day",
-      "year": 2026,
-      "type": "movie",
-      "tmdb_id": "movie/1275779",
-      "lists": [
-        "dad"
-      ],
-      "priority": {},
-      "poster": "https://cdn.movieofthenight.com/show/24602051/poster/vertical/en/240.jpg?Expires=1821402072&Signature=DVnC~etmQsm-RUO7kXo4~V5Rlb9er633q0VjKrXQG0wjfCKuzbO3IMr3IaEvLQD6ry-g-1NI8Y66K6Wxb7bkBHZ2pjxNWKacjpECFD7M1Huad9ttNAAS93Ds08MbfQQAEIGCNpN9PQka0bpzs8STPLGAzy4PcmrE8I5ZkAOfs5Libl9HQSTre--SuwLud4UVAZ7Ih0ZhEwTbH8NLSJmROks3kBRs-gBErgZujuslmoyQ28UHy1Sx1GySDB8vjQyY6fpPMvQ6~0VSlakQ~ix2o4nsPWgZ9AQ63FnV9m32tbQc~pOVS-qDYV9kDRHSOZkTcjxhWCuk6wKCDQOnodsdMQ__&Key-Pair-Id=KK4HN3OO4AT5R",
-      "rating": "PG-13",
-      "genres": [
-        "Action",
-        "Mystery",
-        "Science Fiction"
-      ],
-      "overview": "If you found out we weren't alone, if someone showed you, proved it to you, would that frighten you? Now the truth belongs to seven billion people in an original event film created and directed by ...",
-      "streaming": {
-        "peacock": {
-          "service": "peacock",
-          "serviceName": "Peacock",
-          "type": "subscription",
-          "link": "https://www.peacocktv.com/watch/asset/movies/disclosure-day/a0146f55-07b6-3d02-a597-d9089a367165",
-          "quality": "uhd"
-        },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/disclosure-day/umc.cmc.1i56xrk36gdembwgd2qfll4qi?playableId=tvs.sbd.9001%3A1896844187",
-          "quality": "hd",
-          "price": "5.99 USD"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0KAHR6BLR6JVHDZVO755MJ7057?ref_=atv_dp",
-          "quality": "uhd",
-          "price": "5.99 USD"
-        }
-      },
-      "last_checked": "2026-10-16T10:28:29.244470+00:00",
-      "runtime": 145,
-      "release_date": "2026-06-12"
     },
     {
       "title": "John Adams",

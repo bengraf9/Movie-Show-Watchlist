@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T10:12:23.382389+00:00",
+  "last_updated": "2026-10-19T11:48:16.361706+00:00",
   "country": "us",
   "items": [
     {
@@ -3200,7 +3200,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-11T11:56:12.317917+00:00",
+      "last_checked": "2026-10-19T11:48:11.100229+00:00",
       "runtime": 107,
       "release_date": "2021-03-05"
     },
@@ -3238,7 +3238,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-10-11T11:56:13.164668+00:00",
+      "last_checked": "2026-10-19T11:48:11.576986+00:00",
       "runtime": 104,
       "release_date": "2019-05-10"
     },
@@ -3269,7 +3269,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-11T11:56:13.907400+00:00",
+      "last_checked": "2026-10-19T11:48:12.038672+00:00",
       "runtime": 84,
       "release_date": "2001-03-18"
     },
@@ -3308,7 +3308,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-11T11:56:14.733966+00:00",
+      "last_checked": "2026-10-19T11:48:12.447743+00:00",
       "runtime": 87,
       "release_date": "2019-05-03"
     },
@@ -3326,7 +3326,7 @@
       "genres": [
         "Horror"
       ],
-      "overview": "Trying to leave their troubled lives behind, twin brothers return home, only to discover an even greater evil waiting to welcome them back.",
+      "overview": "Trying to leave their troubled lives behind, twin brothers return to their Mississippi hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
       "streaming": {
         "hbo": {
           "service": "hbo",
@@ -3342,9 +3342,17 @@
           "link": "https://www.amazon.com/gp/video/detail/0J21M9AM4CY8XJ74W902BIHZYM?ref_=atv_dp",
           "quality": "uhd",
           "price": "5.99 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/sinners/umc.cmc.tl0hc0j1vx7nrrz89gxzxsx9?playableId=tvs.sbd.9001%3A1803920888",
+          "quality": "hd",
+          "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-10-11T11:56:15.542471+00:00",
+      "last_checked": "2026-10-19T11:48:12.829577+00:00",
       "runtime": 137,
       "release_date": "2025-04-18"
     },
@@ -3990,7 +3998,7 @@
           "link": "https://www.netflix.com/title/80238565"
         }
       },
-      "last_checked": "2026-10-11T11:56:17.491747+00:00",
+      "last_checked": "2026-10-19T11:48:13.974516+00:00",
       "season_count": 3,
       "episode_count": 19
     },
@@ -4018,7 +4026,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-11T11:56:21.099925+00:00",
+      "last_checked": "2026-10-19T11:48:15.596060+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -4057,11 +4065,18 @@
       "genres": [
         "Documentary"
       ],
-      "overview": "Go down a wormhole in this documentary on master of deadpan humor Norm Macdonald, whose life and career were uncompromising yet full of contradictions.",
-      "streaming": {},
-      "last_checked": "2026-10-11T11:56:22.123692+00:00",
-      "release_date": "2026-10-16",
-      "runtime": 126
+      "overview": "This documentary, directed by Judd Apatow, chronicles the chaotic and humorous — but always nonconformist — career of stand-up comedian Norm Macdonald.",
+      "streaming": {
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/81611105"
+        }
+      },
+      "last_checked": "2026-10-19T11:48:16.173768+00:00",
+      "runtime": 126,
+      "release_date": "2026-10-16"
     },
     {
       "title": "Narnia: The Magician's Nephew",

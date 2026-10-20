@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T11:48:16.361706+00:00",
+  "last_updated": "2026-10-20T10:47:17.414789+00:00",
   "country": "us",
   "items": [
     {
@@ -46,6 +46,13 @@
       ],
       "overview": "Hank is stranded on a deserted island when a corpse washes ashore and the two go on an epic adventure to bring Hank back to the woman of his dreams.",
       "streaming": {
+        "roku": {
+          "service": "roku",
+          "serviceName": "Roku",
+          "type": "free",
+          "link": "https://therokuchannel.roku.com/details/be5460c7712b5b539334617844157092",
+          "quality": "hd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -53,13 +60,6 @@
           "link": "https://www.amazon.com/gp/video/detail/0HSTAZCXT1LESCOWRV9WPJKFCS?ref_=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
-        },
-        "roku": {
-          "service": "roku",
-          "serviceName": "Roku",
-          "type": "free",
-          "link": "https://therokuchannel.roku.com/details/be5460c7712b5b539334617844157092",
-          "quality": "hd"
         },
         "tubi": {
           "service": "tubi",
@@ -75,7 +75,7 @@
           "link": "https://www.netflix.com/title/80097389"
         }
       },
-      "last_checked": "2026-10-12T14:07:32.108561+00:00",
+      "last_checked": "2026-10-20T10:46:56.857971+00:00",
       "runtime": 97,
       "release_date": "2016-07-01"
     },
@@ -107,7 +107,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-10-12T14:07:32.651853+00:00",
+      "last_checked": "2026-10-20T10:46:57.375763+00:00",
       "runtime": 94,
       "release_date": "1987-04-17"
     },
@@ -171,7 +171,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-12T14:07:33.227029+00:00",
+      "last_checked": "2026-10-20T10:46:57.918766+00:00",
       "runtime": 110,
       "release_date": "2025-06-13"
     },
@@ -217,7 +217,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-12T14:07:33.773069+00:00",
+      "last_checked": "2026-10-20T10:46:58.485160+00:00",
       "runtime": 150,
       "release_date": "2022-11-23"
     },
@@ -282,7 +282,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-12T14:07:34.276967+00:00",
+      "last_checked": "2026-10-20T10:46:59.025233+00:00",
       "runtime": 91,
       "release_date": "1991-02-08"
     },
@@ -314,7 +314,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-12T14:07:34.802973+00:00",
+      "last_checked": "2026-10-20T10:46:59.534390+00:00",
       "runtime": 124,
       "release_date": "1979-12-19"
     },
@@ -353,7 +353,7 @@
           "price": "12.99 USD"
         }
       },
-      "last_checked": "2026-10-12T14:07:35.402183+00:00",
+      "last_checked": "2026-10-20T10:47:00.037280+00:00",
       "runtime": 157,
       "release_date": "2023-11-22"
     },
@@ -392,7 +392,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-10-12T14:07:35.886640+00:00",
+      "last_checked": "2026-10-20T10:47:00.513312+00:00",
       "runtime": 106,
       "release_date": "2024-03-08"
     },
@@ -438,7 +438,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-10-12T14:07:36.514774+00:00",
+      "last_checked": "2026-10-20T10:47:01.019197+00:00",
       "runtime": 83,
       "release_date": "2025-09-12"
     },
@@ -478,7 +478,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-12T14:07:36.971093+00:00",
+      "last_checked": "2026-10-20T10:47:01.577160+00:00",
       "runtime": 129,
       "release_date": "1963-03-16"
     },
@@ -524,7 +524,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-12T14:07:37.620737+00:00",
+      "last_checked": "2026-10-20T10:47:02.093156+00:00",
       "runtime": 107,
       "release_date": "1982-01-01"
     },
@@ -563,7 +563,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-12T14:07:38.063818+00:00",
+      "last_checked": "2026-10-20T10:47:02.614885+00:00",
       "runtime": 98,
       "release_date": "2024-06-21"
     },
@@ -617,7 +617,7 @@
         "Comedy",
         "Drama"
       ],
-      "overview": "A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.",
+      "overview": "An inspiring story about an ordinary man who leaps into the extraordinary adventure that is life.",
       "streaming": {
         "apple": {
           "service": "apple",
@@ -636,7 +636,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-12T14:07:38.561333+00:00",
+      "last_checked": "2026-10-20T10:47:03.158615+00:00",
       "runtime": 114,
       "release_date": "2013-12-25"
     },
@@ -654,7 +654,6 @@
       "poster": "https://cdn.movieofthenight.com/show/14625489/poster/vertical/en/240.jpg?Expires=1810896396&Signature=StNHxE-G9lVdJhcoctIu9UB5LwBHr~ah~VqTVUx9dpUIuNJXK~JnoIEpk5Vy8yn-sCbgZhSzMcfmZg3zA2NUo2z72jk544eoRixQH8I9iyRcn3gq8W910jrZblFu~~wg9slbxq-HGcvSMhROYSEArkiviKR~tYSzcKlnVFQ~5pe1NfeBjJzSPb43g~RKEwiCY2pKzO7K2ewNjFzqhbJdg9AioFLwG~OQO8MercVVIlNSDZHov0rPtvI8E8hT~NOvRfKCYnCqe3S7~cHa4DHZXpmQFkbjzqrBFzmv1No8t6oAlDrvSkQGEQ5jQd4far4Y4A8vr8R3YJQm8aBNAxsyZg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
       "genres": [
-        "Drama",
         "Mystery"
       ],
       "overview": "An intelligence agent faces the ultimate test when his wife is suspected of betraying the nation.",
@@ -673,10 +672,18 @@
           "type": "subscription",
           "link": "https://www.peacocktv.com/watch/asset/movies/black-bag/d2bc869a-ca30-343f-878f-7eaa7c09902b",
           "quality": "uhd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/black-bag/umc.cmc.3cqrp3l8k52szfzkxqkbzoqa6?playableId=tvs.sbd.9001%3A1798604604",
+          "quality": "hd",
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-12T14:07:39.191070+00:00",
-      "runtime": 90,
+      "last_checked": "2026-10-20T10:47:03.641597+00:00",
+      "runtime": 93,
       "release_date": "2025-03-14"
     },
     {
@@ -814,7 +821,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-12T14:07:48.505420+00:00",
+      "last_checked": "2026-10-20T10:47:05.054489+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1
@@ -877,7 +884,7 @@
           "link": "https://www.netflix.com/title/81122572"
         }
       },
-      "last_checked": "2026-10-12T14:07:51.283137+00:00",
+      "last_checked": "2026-10-20T10:47:06.533266+00:00",
       "season_count": 1,
       "episode_count": 3
     },
@@ -940,7 +947,7 @@
           "link": "https://www.netflix.com/title/81677257"
         }
       },
-      "last_checked": "2026-10-12T14:08:02.747876+00:00",
+      "last_checked": "2026-10-20T10:47:08.434348+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -998,6 +1005,13 @@
       ],
       "overview": "STAR TREK: STRANGE NEW WORLDS is based on the years Captain Christopher Pike manned the helm of the U.S.S. Enterprise. The series will follow Captain Pike, Officer Spock and Number One in the years...",
       "streaming": {
+        "paramount": {
+          "service": "paramount",
+          "serviceName": "Paramount+",
+          "type": "subscription",
+          "link": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/",
+          "quality": "hd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -1011,16 +1025,9 @@
           "type": "buy",
           "link": "https://tv.apple.com/us/show/star-trek-strange-new-worlds/umc.cmc.1o10sclnk0t945h2mtuolocip",
           "quality": "sd"
-        },
-        "paramount": {
-          "service": "paramount",
-          "serviceName": "Paramount+",
-          "type": "subscription",
-          "link": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/",
-          "quality": "hd"
         }
       },
-      "last_checked": "2026-10-12T14:08:07.705247+00:00",
+      "last_checked": "2026-10-20T10:47:09.902538+00:00",
       "season_count": 4,
       "episode_count": 40
     },
@@ -1042,7 +1049,7 @@
         "Adventure",
         "Drama"
       ],
-      "overview": "Retired admiral Jean-Luc Picard -- still deeply affected by the loss of Lieutenant Commander Data and the destruction of Romulus -- steps into the next chapter of his life.",
+      "overview": "Star Trek: Picard features Sir Patrick Stewart reprising his iconic role as Jean-Luc Picard, which he played for seven seasons on Star Trek: The Next Generation. The new series will follow this ico...",
       "streaming": {
         "apple": {
           "service": "apple",
@@ -1051,23 +1058,22 @@
           "link": "https://tv.apple.com/us/show/star-trek-picard/umc.cmc.2tqufhly635jf1fnuonxojax",
           "quality": "sd"
         },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0S4PHJ50UWJJMEE08SOKDCOI6E?ref_=atv_dp",
-          "quality": "hd",
-          "price": "22.99 USD"
-        },
         "paramount": {
           "service": "paramount",
           "serviceName": "Paramount+",
           "type": "subscription",
           "link": "https://www.paramountplus.com/shows/star-trek-picard/",
           "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0S4PHJ50UWJJMEE08SOKDCOI6E",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-10-12T14:08:10.185507+00:00",
+      "last_checked": "2026-10-20T10:47:11.430360+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1164,13 +1170,6 @@
       ],
       "overview": "Fresh out of prison, Shadow Moon meets the enigmatic Mr. Wednesday—and is swept into a gathering storm that will upend the course of his life.",
       "streaming": {
-        "tubi": {
-          "service": "tubi",
-          "serviceName": "Tubi",
-          "type": "free",
-          "link": "https://tubitv.com/series/0300017904/american-gods",
-          "quality": "hd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -1183,9 +1182,16 @@
           "serviceName": "Prime Video",
           "type": "subscription",
           "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.becfe3bb-aa35-4994-86b4-dbe233da0e7a"
+        },
+        "tubi": {
+          "service": "tubi",
+          "serviceName": "Tubi",
+          "type": "free",
+          "link": "https://tubitv.com/series/0300017904/american-gods",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-10-12T14:08:19.506195+00:00",
+      "last_checked": "2026-10-20T10:47:13.424092+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1207,18 +1213,18 @@
       ],
       "overview": "The documentary crew from Dunder Mifflin’s Scranton branch discovers a struggling Midwestern newspaper and the publisher trying to revive it.",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0U41UH674GU5A94PSQ75PF9M9M",
-          "quality": "sd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
           "type": "buy",
           "link": "https://tv.apple.com/us/show/the-paper/umc.cmc.1maccnluzq1eucu5xvwr345hp",
+          "quality": "sd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0U41UH674GU5A94PSQ75PF9M9M",
           "quality": "sd"
         },
         "peacock": {
@@ -1229,7 +1235,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-12T14:08:33.886045+00:00",
+      "last_checked": "2026-10-20T10:47:15.565824+00:00",
       "season_count": 2,
       "episode_count": 20
     },
@@ -1280,7 +1286,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-12T14:08:38.511466+00:00",
+      "last_checked": "2026-10-20T10:47:17.168729+00:00",
       "season_count": 6,
       "episode_count": 110
     },

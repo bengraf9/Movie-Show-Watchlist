@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T10:47:17.414789+00:00",
+  "last_updated": "2026-10-21T10:59:10.198076+00:00",
   "country": "us",
   "items": [
     {
@@ -1315,7 +1315,7 @@
           "link": "https://play.hbomax.com/mini-series/c967b1a4-d0e2-491e-967e-ae09f88fef62"
         }
       },
-      "last_checked": "2026-10-13T13:19:44.838091+00:00",
+      "last_checked": "2026-10-21T10:58:53.061001+00:00",
       "season_count": 1,
       "episode_count": 2
     },
@@ -1338,22 +1338,22 @@
       ],
       "overview": "A dysfunctional team of MI5 agents and their obnoxious boss, the notorious Jackson Lamb, navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "free",
-          "link": "https://www.amazon.com/gp/video/detail/0MEYJKN34E2DBOY4OY7Z31N4Q4",
-          "quality": "uhd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
           "type": "subscription",
           "link": "https://tv.apple.com/us/show/slow-horses/umc.cmc.2szz3fdt71tl1ulnbp8utgq5o",
           "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "free",
+          "link": "https://www.amazon.com/gp/video/detail/0MEYJKN34E2DBOY4OY7Z31N4Q4",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-13T13:19:46.705513+00:00",
+      "last_checked": "2026-10-21T10:58:54.861320+00:00",
       "season_count": 6,
       "episode_count": 36
     },
@@ -2454,7 +2454,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-13T13:19:47.687915+00:00",
+      "last_checked": "2026-10-21T10:58:55.707158+00:00",
       "runtime": 89,
       "release_date": "2020-03-14"
     },
@@ -2482,7 +2482,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-13T13:19:48.448627+00:00",
+      "last_checked": "2026-10-21T10:58:56.278457+00:00",
       "runtime": 38,
       "release_date": "2022-04-14"
     },
@@ -2510,7 +2510,7 @@
           "link": "https://www.netflix.com/title/81128389"
         }
       },
-      "last_checked": "2026-10-13T13:19:50.014010+00:00",
+      "last_checked": "2026-10-21T10:58:57.459687+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2531,7 +2531,7 @@
       ],
       "overview": "It's the land we love and the land we think we know. We see America's breathtaking landscapes and wildlife as timeless, but the truth is very different. Its unique geography drives the forces of na...",
       "streaming": {},
-      "last_checked": "2026-10-13T13:19:52.463389+00:00",
+      "last_checked": "2026-10-21T10:59:01.438793+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -2560,7 +2560,7 @@
           "link": "https://www.netflix.com/title/81028343"
         }
       },
-      "last_checked": "2026-10-13T13:19:54.289509+00:00",
+      "last_checked": "2026-10-21T10:59:02.808014+00:00",
       "season_count": 1,
       "episode_count": 4
     },
@@ -2581,20 +2581,20 @@
       ],
       "overview": "Little Lunch is a mockumentary comedy series that takes place during fifteen highly significant minutes of a child's life - snack time in the primary school playground.",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "subscription",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58b902d8-ce5b-0c91-ba80-b19951e39b65"
-        },
         "netflix": {
           "service": "netflix",
           "serviceName": "Netflix",
           "type": "subscription",
           "link": "https://www.netflix.com/title/80078037"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "subscription",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58b902d8-ce5b-0c91-ba80-b19951e39b65"
         }
       },
-      "last_checked": "2026-10-13T13:19:56.068036+00:00",
+      "last_checked": "2026-10-21T10:59:04.207334+00:00",
       "season_count": 1,
       "episode_count": 26
     },
@@ -2622,7 +2622,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-13T13:19:58.522389+00:00",
+      "last_checked": "2026-10-21T10:59:05.946266+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2652,13 +2652,6 @@
           "quality": "hd",
           "price": "3.99 USD"
         },
-        "peacock": {
-          "service": "peacock",
-          "serviceName": "Peacock",
-          "type": "subscription",
-          "link": "https://www.peacocktv.com/watch/asset/movies/trolls-band-together/df48990f-e335-360a-bac0-fdfaedd6dbd7",
-          "quality": "uhd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -2666,9 +2659,16 @@
           "link": "https://www.amazon.com/gp/video/detail/0Q3MS7A4QUQMJWY0D8KVW1WF3Z?ref_=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
+        },
+        "peacock": {
+          "service": "peacock",
+          "serviceName": "Peacock",
+          "type": "subscription",
+          "link": "https://www.peacocktv.com/watch/asset/movies/trolls-band-together/df48990f-e335-360a-bac0-fdfaedd6dbd7",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-13T13:19:59.565235+00:00",
+      "last_checked": "2026-10-21T10:59:06.719671+00:00",
       "runtime": 91,
       "release_date": "2023-11-17"
     },
@@ -2696,7 +2696,7 @@
           "link": "https://www.netflix.com/title/81276049"
         }
       },
-      "last_checked": "2026-10-13T13:20:00.247778+00:00",
+      "last_checked": "2026-10-21T10:59:07.245645+00:00",
       "runtime": 59,
       "release_date": "2021-10-01"
     },
@@ -3735,21 +3735,21 @@
       ],
       "overview": "Percy Jackson takes on the Titan’s curse to save Annabeth and Olympus.",
       "streaming": {
-        "netflix": {
-          "service": "netflix",
-          "serviceName": "Netflix",
-          "type": "subscription",
-          "link": "https://www.netflix.com/title/81598066"
-        },
         "disney": {
           "service": "disney",
           "serviceName": "Disney+",
           "type": "subscription",
           "link": "https://www.disneyplus.com/browse/entity-f1c31566-ec05-4d30-b23f-3177442233f4",
           "quality": "uhd"
+        },
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/81598066"
         }
       },
-      "last_checked": "2026-10-13T13:20:02.088016+00:00",
+      "last_checked": "2026-10-21T10:59:08.400522+00:00",
       "season_count": 2,
       "episode_count": 16
     },
@@ -3946,7 +3946,7 @@
           "link": "https://www.netflix.com/title/81750702"
         }
       },
-      "last_checked": "2026-10-13T13:20:04.277474+00:00",
+      "last_checked": "2026-10-21T10:59:09.957450+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2

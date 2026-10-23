@@ -1435,5 +1435,14 @@
     "tmdb_id": "movie/1147572",
     "year": 2027,
     "release_date": "2027-02-12"
+  },
+  {
+    "title": "Being Heumann",
+    "type": "movie",
+    "lists": [
+      "dad"
+    ],
+    "tmdb_id": "movie/1050981",
+    "year": 2026
   }
 ]

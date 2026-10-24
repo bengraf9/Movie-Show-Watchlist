@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T10:51:04.007236+00:00",
+  "last_updated": "2026-10-24T10:05:34.787413+00:00",
   "country": "us",
   "items": [
     {
@@ -3986,7 +3986,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-17T09:59:01.759855+00:00",
+      "last_checked": "2026-10-24T10:05:33.366211+00:00",
       "season_count": 5,
       "episode_count": 40
     },
@@ -4063,7 +4063,7 @@
       ],
       "overview": "When Mona Friedman is cast in a bit part at a small community theater, she transforms from a shy, unassuming housewife into a zealous method actor willing to do anything to protect the artistic int...",
       "streaming": {},
-      "last_checked": "2026-10-17T09:59:02.972893+00:00",
+      "last_checked": "2026-10-24T10:05:33.971538+00:00",
       "release_date": "2026-10-07",
       "runtime": 105
     },
@@ -4115,6 +4115,27 @@
       "streaming": {},
       "last_checked": "2026-10-22T10:58:06.043967+00:00",
       "release_date": "2027-02-12"
+    },
+    {
+      "title": "Being Heumann",
+      "year": 2026,
+      "type": "movie",
+      "tmdb_id": "movie/1050981",
+      "lists": [
+        "dad"
+      ],
+      "priority": {},
+      "poster": "https://image.tmdb.org/t/p/w300/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg",
+      "rating": "R",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "overview": "Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability rights protestors send a very loud message: The s...",
+      "streaming": {},
+      "last_checked": "2026-10-24T10:05:34.597785+00:00",
+      "release_date": "2026-10-24",
+      "runtime": 127
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T10:05:34.787413+00:00",
+  "last_updated": "2026-10-25T10:31:20.063199+00:00",
   "country": "us",
   "items": [
     {
@@ -862,7 +862,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-18T10:12:05.390152+00:00",
+      "last_checked": "2026-10-25T10:30:56.237022+00:00",
       "season_count": 3,
       "episode_count": 39,
       "watched_seasons": 2
@@ -988,7 +988,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-18T10:12:07.431515+00:00",
+      "last_checked": "2026-10-25T10:30:58.762920+00:00",
       "season_count": 3,
       "episode_count": 33,
       "watched_seasons": 3
@@ -1503,6 +1503,13 @@
           "link": "https://www.peacocktv.com/watch/asset/tv/modern-family/6158438733133910112",
           "quality": "hd"
         },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-943f5577-caad-4e34-a8d3-4a9a816d078a",
+          "quality": "hd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -1511,7 +1518,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-18T10:12:09.196916+00:00",
+      "last_checked": "2026-10-25T10:31:00.982645+00:00",
       "season_count": 11,
       "episode_count": 250
     },
@@ -1534,7 +1541,7 @@
       ],
       "overview": "There is nothing special about Harry Potter - at least that's what his Aunt Petunia always says. On his 11th birthday, a letter of admittance to Hogwarts School of Witchcraft and Wizardry opens up ...",
       "streaming": {},
-      "last_checked": "2026-10-18T10:12:10.840311+00:00",
+      "last_checked": "2026-10-25T10:31:03.027400+00:00",
       "season_count": 1,
       "episode_count": 1
     },
@@ -1563,7 +1570,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-18T10:12:12.276456+00:00",
+      "last_checked": "2026-10-25T10:31:05.058285+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -1595,7 +1602,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-18T10:12:12.995307+00:00",
+      "last_checked": "2026-10-25T10:31:06.014157+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1643,7 +1650,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-18T10:12:13.478369+00:00",
+      "last_checked": "2026-10-25T10:31:06.794286+00:00",
       "runtime": 96,
       "release_date": "2009-05-29"
     },
@@ -1691,7 +1698,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-18T10:12:13.991399+00:00",
+      "last_checked": "2026-10-25T10:31:07.517526+00:00",
       "runtime": 102,
       "release_date": "2025-06-20"
     },
@@ -1723,7 +1730,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-18T10:12:14.519044+00:00",
+      "last_checked": "2026-10-25T10:31:08.230613+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1756,7 +1763,7 @@
           "price": "14.99 USD"
         }
       },
-      "last_checked": "2026-10-18T10:12:15.019710+00:00",
+      "last_checked": "2026-10-25T10:31:08.893757+00:00",
       "runtime": 93,
       "release_date": "2007-11-16"
     },
@@ -1804,7 +1811,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-18T10:12:15.665155+00:00",
+      "last_checked": "2026-10-25T10:31:09.768297+00:00",
       "runtime": 98,
       "release_date": "1981-06-26"
     },
@@ -1852,7 +1859,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-18T10:12:16.161220+00:00",
+      "last_checked": "2026-10-25T10:31:10.483878+00:00",
       "runtime": 134,
       "release_date": "2018-05-25"
     },
@@ -1893,7 +1900,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-18T10:12:16.786284+00:00",
+      "last_checked": "2026-10-25T10:31:11.133152+00:00",
       "runtime": 97,
       "release_date": "2019-09-27"
     },
@@ -1954,7 +1961,7 @@
           "link": "https://therokuchannel.roku.com/details/e174f1efbb935aa191af7de462328790"
         }
       },
-      "last_checked": "2026-10-18T10:12:17.289450+00:00",
+      "last_checked": "2026-10-25T10:31:11.872597+00:00",
       "runtime": 118,
       "release_date": "2003-04-18"
     },
@@ -1976,7 +1983,7 @@
         "Animation",
         "Family"
       ],
-      "overview": "Following an intrepid cat on a heart-stopping journey through an animated world of wonder and peril, Gints Zilbalodis’s Oscar®-winner is a moving ode to friendship. With delightfully expressive ani...",
+      "overview": "Cat is a solitary animal, but as his home is devastated by a great flood, he finds refuge on a boat populated by various species, and will have to team up with them despite their differences.",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -1995,7 +2002,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-18T10:12:17.897889+00:00",
+      "last_checked": "2026-10-25T10:31:12.738952+00:00",
       "runtime": 85,
       "release_date": "2024-12-06"
     },
@@ -2017,7 +2024,7 @@
         "Adventure",
         "Science Fiction"
       ],
-      "overview": "As a new galactic threat emerges, Rey, a scavenger from the desert, and Finn, a former stormtrooper, team up with Han Solo and Chewbacca to find the key to restoring peace.",
+      "overview": "As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace. Experience the motion pic...",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -2050,7 +2057,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-18T10:12:18.477207+00:00",
+      "last_checked": "2026-10-25T10:31:13.458139+00:00",
       "runtime": 136,
       "release_date": "2015-12-18"
     },
@@ -2074,6 +2081,13 @@
       ],
       "overview": "Luke Skywalker comes to a crossroad when he meets a woman who wants to learn the ways of the Jedi.",
       "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-50c1aff5-3051-4839-9ebf-e332c635e216",
+          "quality": "uhd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -2089,16 +2103,9 @@
           "link": "https://tv.apple.com/us/movie/star-wars-the-last-jedi/umc.cmc.7f19yhpg0i8vk8of1ydhs7g1v?playableId=tvs.sbd.9001%3A1316280891",
           "quality": "hd",
           "price": "3.99 USD"
-        },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-4c622e6e-6237-44e7-9aaf-db94de0edc3b",
-          "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-18T10:12:19.030017+00:00",
+      "last_checked": "2026-10-25T10:31:14.235558+00:00",
       "runtime": 152,
       "release_date": "2017-12-15"
     },
@@ -2146,7 +2153,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-18T10:12:19.540163+00:00",
+      "last_checked": "2026-10-25T10:31:14.968126+00:00",
       "runtime": 142,
       "release_date": "2019-12-20"
     },
@@ -2168,7 +2175,7 @@
         "Animation",
         "Comedy"
       ],
-      "overview": "When her family moves across the country, tween Riley Anderson's animated emotions get carried away - quite literally - on a fantastical journey through her mind. Oscar winner for Best Animated Fea...",
+      "overview": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they mus...",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -2194,7 +2201,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-18T10:12:20.018860+00:00",
+      "last_checked": "2026-10-25T10:31:15.672116+00:00",
       "runtime": 95,
       "release_date": "2015-06-19"
     },
@@ -2217,6 +2224,13 @@
       ],
       "overview": "Two dogs and a cat set out across America to find their owners.",
       "streaming": {
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-532fc4ef-12aa-43d7-abe4-f0cbc9d949ba",
+          "quality": "hd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -2224,16 +2238,9 @@
           "link": "https://www.amazon.com/gp/video/detail/0TADT48EGUSLCW6WP5MJCLZD9W?ref_=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
-        },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-532fc4ef-12aa-43d7-abe4-f0cbc9d949ba",
-          "quality": "hd"
         }
       },
-      "last_checked": "2026-10-18T10:12:20.549456+00:00",
+      "last_checked": "2026-10-25T10:31:16.416865+00:00",
       "runtime": 84,
       "release_date": "1993-02-12"
     },
@@ -2273,7 +2280,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-18T10:12:21.229607+00:00",
+      "last_checked": "2026-10-25T10:31:17.160376+00:00",
       "runtime": 107,
       "release_date": "2022-11-23"
     },
@@ -2301,11 +2308,11 @@
           "serviceName": "Prime Video",
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0SNLOH4IUCMF37NKFRDKEX8OS4?ref_=atv_dp",
-          "quality": "uhd",
-          "price": "3.99 USD"
+          "quality": "sd",
+          "price": "2.99 USD"
         }
       },
-      "last_checked": "2026-10-18T10:12:21.837036+00:00",
+      "last_checked": "2026-10-25T10:31:17.888666+00:00",
       "runtime": 90,
       "release_date": "1984-07-13"
     },
@@ -2338,7 +2345,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-18T10:12:22.381837+00:00",
+      "last_checked": "2026-10-25T10:31:18.629882+00:00",
       "runtime": 84,
       "release_date": "1999-07-14"
     },
@@ -2385,7 +2392,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-18T10:12:22.869313+00:00",
+      "last_checked": "2026-10-25T10:31:19.346329+00:00",
       "runtime": 97,
       "release_date": "2021-11-24"
     },
@@ -2433,7 +2440,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-18T10:12:23.381795+00:00",
+      "last_checked": "2026-10-25T10:31:20.062497+00:00",
       "runtime": 140,
       "release_date": "2023-05-26"
     },

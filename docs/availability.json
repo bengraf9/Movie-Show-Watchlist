@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T12:03:43.519171+00:00",
+  "last_updated": "2026-10-27T11:25:06.994460+00:00",
   "country": "us",
   "items": [
     {
@@ -75,7 +75,7 @@
           "link": "https://www.netflix.com/title/80097389"
         }
       },
-      "last_checked": "2026-10-20T10:46:56.857971+00:00",
+      "last_checked": "2026-10-27T11:23:49.770398+00:00",
       "runtime": 97,
       "release_date": "2016-07-01"
     },
@@ -107,7 +107,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-10-20T10:46:57.375763+00:00",
+      "last_checked": "2026-10-27T11:23:50.427109+00:00",
       "runtime": 94,
       "release_date": "1987-04-17"
     },
@@ -171,7 +171,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-20T10:46:57.918766+00:00",
+      "last_checked": "2026-10-27T11:23:51.002033+00:00",
       "runtime": 110,
       "release_date": "2025-06-13"
     },
@@ -217,7 +217,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-20T10:46:58.485160+00:00",
+      "last_checked": "2026-10-27T11:23:51.719091+00:00",
       "runtime": 150,
       "release_date": "2022-11-23"
     },
@@ -290,7 +290,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-20T10:46:59.025233+00:00",
+      "last_checked": "2026-10-27T11:23:52.409959+00:00",
       "runtime": 91,
       "release_date": "1991-02-08"
     },
@@ -322,7 +322,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-20T10:46:59.534390+00:00",
+      "last_checked": "2026-10-27T11:23:53.103911+00:00",
       "runtime": 124,
       "release_date": "1979-12-19"
     },
@@ -361,7 +361,7 @@
           "price": "12.99 USD"
         }
       },
-      "last_checked": "2026-10-20T10:47:00.037280+00:00",
+      "last_checked": "2026-10-27T11:23:53.802900+00:00",
       "runtime": 157,
       "release_date": "2023-11-22"
     },
@@ -400,7 +400,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-10-20T10:47:00.513312+00:00",
+      "last_checked": "2026-10-27T11:23:54.383848+00:00",
       "runtime": 106,
       "release_date": "2024-03-08"
     },
@@ -446,7 +446,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-10-20T10:47:01.019197+00:00",
+      "last_checked": "2026-10-27T11:23:54.906256+00:00",
       "runtime": 83,
       "release_date": "2025-09-12"
     },
@@ -486,7 +486,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-20T10:47:01.577160+00:00",
+      "last_checked": "2026-10-27T11:23:55.500280+00:00",
       "runtime": 129,
       "release_date": "1963-03-16"
     },
@@ -509,18 +509,18 @@
       ],
       "overview": "A struggling salesman and lonely teacher escape into a fantasy world of Depression-era music, only to be confronted by the crushing weight of reality.",
       "streaming": {
-        "tubi": {
-          "service": "tubi",
-          "serviceName": "Tubi",
-          "type": "free",
-          "link": "https://tubitv.com/movies/100046335/pennies-from-heaven",
-          "quality": "hd"
-        },
         "roku": {
           "service": "roku",
           "serviceName": "Roku",
           "type": "free",
           "link": "https://therokuchannel.roku.com/details/5db7e39d5faf59a6a84c4652880161a0",
+          "quality": "hd"
+        },
+        "tubi": {
+          "service": "tubi",
+          "serviceName": "Tubi",
+          "type": "free",
+          "link": "https://tubitv.com/movies/100046335/pennies-from-heaven",
           "quality": "hd"
         },
         "prime": {
@@ -532,7 +532,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-20T10:47:02.093156+00:00",
+      "last_checked": "2026-10-27T11:23:56.105737+00:00",
       "runtime": 107,
       "release_date": "1982-01-01"
     },
@@ -547,7 +547,7 @@
       "priority": {
         "dad-movie": 18
       },
-      "poster": "https://cdn.movieofthenight.com/show/6756359/poster/vertical/en/240.jpg?Expires=1808396491&Signature=awRD69cNP-PR~PCqgNWoXX5kXKyBDCVSxDbQRs-BumeYOTZRcYOyPonm9X3QKSLUjO52A30SMzNh4eje00D~JVAoUSkND2GNGh1gX8~F1WzaHue8RihqW6PNkJEoXenxpV5KKHdMEgiyDb~RSkSvuyNbhg09jnI4nuXpNEbwR3CP9x08EKmYL48uSV4glseZugOIQYtNL7MNbz~RLQiZDfFtrpTosZh-~M0I8nEEl8uBlLlLDxr-J-g8SWWAWCtaZGOP7s1xMaGK99UqmVQfNyc7ULk9dEjbA2DEZtPGsGMQfhgyx7v6helyLsjg4~078P3DJTEN1lI5xFuzZEi0Sw__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/6756359/poster/vertical/en/240.jpg?Expires=1824258108&Signature=EUQkyDLlI8Oj0VFL0MGq5xvtmDp~HG-WKG0ub4HP1Ny3V-uNlV61NSKsuOrdrs0nTvHd-Ggl5WRJ4~l0Cu8P367yCkxfH6jzhjQzGigi8koU5~sSmm52qlzVnlsRBhce-6iXUcsJ~PjdRKkyx9DANI64FEPJ023UDTWB3XgEIJh6s1d~00XA9gxNDDlPLUqWqxwLJsmaKnRNhS3AbdAvosSdvXJzEhpbmZFU~RTtpgCTxg7eYWxMfXl7qwKMU5FF9fiIc7-PdzKP7A-iXgG3MNe5uWmymb0Ro9ldpqwrhyq6B492u60PpLhD6r9ftk2EgG1pxhyHfuO4qttrOLo9Jg__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "PG-13",
       "genres": [
         "Action",
@@ -571,7 +571,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-20T10:47:02.614885+00:00",
+      "last_checked": "2026-10-27T11:23:56.992890+00:00",
       "runtime": 98,
       "release_date": "2024-06-21"
     },
@@ -644,7 +644,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-20T10:47:03.158615+00:00",
+      "last_checked": "2026-10-27T11:23:57.577111+00:00",
       "runtime": 114,
       "release_date": "2013-12-25"
     },
@@ -690,7 +690,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-20T10:47:03.641597+00:00",
+      "last_checked": "2026-10-27T11:23:58.365340+00:00",
       "runtime": 93,
       "release_date": "2025-03-14"
     },
@@ -829,7 +829,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-20T10:47:05.054489+00:00",
+      "last_checked": "2026-10-27T11:24:09.721332+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1
@@ -892,7 +892,7 @@
           "link": "https://www.netflix.com/title/81122572"
         }
       },
-      "last_checked": "2026-10-20T10:47:06.533266+00:00",
+      "last_checked": "2026-10-27T11:24:12.965490+00:00",
       "season_count": 1,
       "episode_count": 3
     },
@@ -955,7 +955,7 @@
           "link": "https://www.netflix.com/title/81677257"
         }
       },
-      "last_checked": "2026-10-20T10:47:08.434348+00:00",
+      "last_checked": "2026-10-27T11:24:20.756968+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -1035,7 +1035,7 @@
           "quality": "sd"
         }
       },
-      "last_checked": "2026-10-20T10:47:09.902538+00:00",
+      "last_checked": "2026-10-27T11:24:24.779516+00:00",
       "season_count": 4,
       "episode_count": 40
     },
@@ -1081,7 +1081,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-20T10:47:11.430360+00:00",
+      "last_checked": "2026-10-27T11:24:28.254145+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1199,7 +1199,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-20T10:47:13.424092+00:00",
+      "last_checked": "2026-10-27T11:24:44.716906+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1243,7 +1243,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-20T10:47:15.565824+00:00",
+      "last_checked": "2026-10-27T11:25:00.993024+00:00",
       "season_count": 2,
       "episode_count": 20
     },
@@ -1279,22 +1279,22 @@
           "link": "https://www.hulu.com/series/community-200c56d4-124c-41a1-b7d2-688f86f432bf",
           "quality": "hd"
         },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0RZDRR4YJ51TRS4ISXB1JC1KTR",
-          "quality": "hd"
-        },
         "peacock": {
           "service": "peacock",
           "serviceName": "Peacock",
           "type": "subscription",
           "link": "https://www.peacocktv.com/watch/asset/tv/community/8700597605358573112",
           "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0RZDRR4YJ51TRS4ISXB1JC1KTR",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-10-20T10:47:17.168729+00:00",
+      "last_checked": "2026-10-27T11:25:06.769574+00:00",
       "season_count": 6,
       "episode_count": 110
     },

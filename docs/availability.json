@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T11:25:06.994460+00:00",
+  "last_updated": "2026-10-28T11:56:40.892332+00:00",
   "country": "us",
   "items": [
     {
@@ -1323,7 +1323,7 @@
           "link": "https://play.hbomax.com/mini-series/c967b1a4-d0e2-491e-967e-ae09f88fef62"
         }
       },
-      "last_checked": "2026-10-21T10:58:53.061001+00:00",
+      "last_checked": "2026-10-28T11:56:25.896465+00:00",
       "season_count": 1,
       "episode_count": 2
     },
@@ -1361,7 +1361,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-21T10:58:54.861320+00:00",
+      "last_checked": "2026-10-28T11:56:27.539314+00:00",
       "season_count": 6,
       "episode_count": 36
     },
@@ -2469,7 +2469,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-21T10:58:55.707158+00:00",
+      "last_checked": "2026-10-28T11:56:28.287868+00:00",
       "runtime": 89,
       "release_date": "2020-03-14"
     },
@@ -2497,7 +2497,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-21T10:58:56.278457+00:00",
+      "last_checked": "2026-10-28T11:56:28.826565+00:00",
       "runtime": 38,
       "release_date": "2022-04-14"
     },
@@ -2525,7 +2525,7 @@
           "link": "https://www.netflix.com/title/81128389"
         }
       },
-      "last_checked": "2026-10-21T10:58:57.459687+00:00",
+      "last_checked": "2026-10-28T11:56:30.046620+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2546,7 +2546,7 @@
       ],
       "overview": "It's the land we love and the land we think we know. We see America's breathtaking landscapes and wildlife as timeless, but the truth is very different. Its unique geography drives the forces of na...",
       "streaming": {},
-      "last_checked": "2026-10-21T10:59:01.438793+00:00",
+      "last_checked": "2026-10-28T11:56:31.849404+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -2575,7 +2575,7 @@
           "link": "https://www.netflix.com/title/81028343"
         }
       },
-      "last_checked": "2026-10-21T10:59:02.808014+00:00",
+      "last_checked": "2026-10-28T11:56:33.237290+00:00",
       "season_count": 1,
       "episode_count": 4
     },
@@ -2596,20 +2596,20 @@
       ],
       "overview": "Little Lunch is a mockumentary comedy series that takes place during fifteen highly significant minutes of a child's life - snack time in the primary school playground.",
       "streaming": {
-        "netflix": {
-          "service": "netflix",
-          "serviceName": "Netflix",
-          "type": "subscription",
-          "link": "https://www.netflix.com/title/80078037"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "subscription",
           "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58b902d8-ce5b-0c91-ba80-b19951e39b65"
+        },
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/80078037"
         }
       },
-      "last_checked": "2026-10-21T10:59:04.207334+00:00",
+      "last_checked": "2026-10-28T11:56:34.691042+00:00",
       "season_count": 1,
       "episode_count": 26
     },
@@ -2637,7 +2637,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-21T10:59:05.946266+00:00",
+      "last_checked": "2026-10-28T11:56:36.330994+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2683,7 +2683,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-21T10:59:06.719671+00:00",
+      "last_checked": "2026-10-28T11:56:37.175299+00:00",
       "runtime": 91,
       "release_date": "2023-11-17"
     },
@@ -2711,7 +2711,7 @@
           "link": "https://www.netflix.com/title/81276049"
         }
       },
-      "last_checked": "2026-10-21T10:59:07.245645+00:00",
+      "last_checked": "2026-10-28T11:56:37.679673+00:00",
       "runtime": 59,
       "release_date": "2021-10-01"
     },
@@ -3764,7 +3764,7 @@
           "link": "https://www.netflix.com/title/81598066"
         }
       },
-      "last_checked": "2026-10-21T10:59:08.400522+00:00",
+      "last_checked": "2026-10-28T11:56:38.938478+00:00",
       "season_count": 2,
       "episode_count": 16
     },
@@ -3963,7 +3963,7 @@
           "link": "https://www.netflix.com/title/81750702"
         }
       },
-      "last_checked": "2026-10-21T10:59:09.957450+00:00",
+      "last_checked": "2026-10-28T11:56:40.659291+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T12:05:30.361386+00:00",
+  "last_updated": "2026-10-30T11:58:16.385744+00:00",
   "country": "us",
   "items": [
     {
@@ -3036,7 +3036,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-23T10:50:49.559773+00:00",
+      "last_checked": "2026-10-30T11:57:50.170118+00:00",
       "runtime": 102,
       "release_date": "2020-01-25"
     },
@@ -3078,7 +3078,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-23T10:50:50.466037+00:00",
+      "last_checked": "2026-10-30T11:57:51.946492+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -3107,7 +3107,7 @@
           "price": "2.99 USD"
         }
       },
-      "last_checked": "2026-10-23T10:50:51.119981+00:00",
+      "last_checked": "2026-10-30T11:57:53.005540+00:00",
       "runtime": 73,
       "release_date": "2024-02-21"
     },
@@ -3143,7 +3143,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-23T10:50:51.682059+00:00",
+      "last_checked": "2026-10-30T11:57:53.966812+00:00",
       "runtime": 84,
       "release_date": "2024-10-18"
     },
@@ -3174,7 +3174,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-23T10:50:52.257856+00:00",
+      "last_checked": "2026-10-30T11:57:54.991931+00:00",
       "runtime": 83,
       "release_date": "2024-02-02"
     },
@@ -3393,19 +3393,19 @@
       ],
       "overview": "Two hockey stars bound by ambition, rivalry, and a magnetic pull neither of them fully understands.",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0OBESIZVH5XAJ1QDEPGKSUAVGH",
-          "quality": "hd"
-        },
         "hbo": {
           "service": "hbo",
           "serviceName": "HBO Max",
           "type": "subscription",
           "link": "https://play.hbomax.com/show/50cd4e99-04ee-427b-a3b4-da721ed05d9c",
           "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0OBESIZVH5XAJ1QDEPGKSUAVGH",
+          "quality": "hd"
         },
         "apple": {
           "service": "apple",
@@ -3415,7 +3415,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-23T10:50:53.113601+00:00",
+      "last_checked": "2026-10-30T11:57:56.601670+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -3438,7 +3438,7 @@
       ],
       "overview": "Forty years after the events of the first Spaceballs, the galaxy is once again under threat. A threat so evil, so unstoppable, so completely lacking in any original ideas, that it has vowed to brin...",
       "streaming": {},
-      "last_checked": "2026-10-23T10:50:53.687578+00:00",
+      "last_checked": "2026-10-30T11:57:57.535873+00:00",
       "release_date": "2027-04-23"
     },
     {
@@ -3467,7 +3467,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-23T10:50:54.699206+00:00",
+      "last_checked": "2026-10-30T11:57:59.326219+00:00",
       "season_count": 4,
       "episode_count": 44,
       "watched_seasons": 3
@@ -3507,7 +3507,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-23T10:50:55.266668+00:00",
+      "last_checked": "2026-10-30T11:58:00.336510+00:00",
       "runtime": 100,
       "release_date": "1995-01-27"
     },
@@ -3562,7 +3562,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-23T10:50:55.655335+00:00",
+      "last_checked": "2026-10-30T11:58:01.135592+00:00",
       "runtime": 80,
       "release_date": "2004-07-30"
     },
@@ -3595,7 +3595,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-23T10:50:56.046414+00:00",
+      "last_checked": "2026-10-30T11:58:01.944829+00:00",
       "runtime": 104,
       "release_date": "2013-06-14"
     },
@@ -3616,22 +3616,22 @@
       ],
       "overview": "​From Bill Lawrence (Shrinking, HBO Max's Clone High) and Matt Tarses (Scrubs, The Goldbergs), this comedy series centers on successful author Greg Russo (Steve Carell) as he arrives at Ludlow Coll...",
       "streaming": {
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://play.hbomax.com/show/c775cd23-a526-4c5f-a34c-30e831edf6e4",
-          "quality": "uhd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0HHK0IZHHNXN9OKTM071KVICX0",
           "quality": "hd"
+        },
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/show/c775cd23-a526-4c5f-a34c-30e831edf6e4",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-23T10:50:57.049711+00:00",
+      "last_checked": "2026-10-30T11:58:04.069325+00:00",
       "season_count": 1,
       "episode_count": 10,
       "watched_seasons": 1
@@ -3661,7 +3661,7 @@
           "link": "https://www.netflix.com/title/81758849"
         }
       },
-      "last_checked": "2026-10-23T10:50:58.127385+00:00",
+      "last_checked": "2026-10-30T11:58:06.099584+00:00",
       "season_count": 1,
       "episode_count": 8,
       "watched_seasons": 1
@@ -3692,7 +3692,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-23T10:50:59.104510+00:00",
+      "last_checked": "2026-10-30T11:58:07.847113+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -3727,7 +3727,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-23T10:51:00.093459+00:00",
+      "last_checked": "2026-10-30T11:58:09.577163+00:00",
       "season_count": 1,
       "episode_count": 7
     },
@@ -3809,7 +3809,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-23T10:51:00.658088+00:00",
+      "last_checked": "2026-10-30T11:58:10.585344+00:00",
       "runtime": 102,
       "release_date": "2026-06-19"
     },
@@ -3828,9 +3828,18 @@
         "Drama",
         "Science Fiction"
       ],
-      "overview": "An Artificial Friend named Klara finds a deep bond with a troubled young girl, bringing light and hope to a grieving family through her unwavering devotion and innocent wonder.",
-      "streaming": {},
-      "last_checked": "2026-10-23T10:51:01.040988+00:00",
+      "overview": "When Klara, an Artificial Friend who wants nothing more than to find the perfect home, meets Josie, each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her ...",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0H5ZUWNLPEIQZIMPM2ZCJGJ2S6?ref_=atv_dp",
+          "quality": "uhd",
+          "price": "24.99 USD"
+        }
+      },
+      "last_checked": "2026-10-30T11:58:11.283263+00:00",
       "release_date": "2026-10-23",
       "runtime": 116
     },
@@ -3843,7 +3852,7 @@
         "family"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/dZVHrtaZa5MsuPc4gW72e3S9bii.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/3zxrelHqoPJwOP4oj4Wq1cNOUdG.jpg",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -3852,7 +3861,7 @@
       ],
       "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch ...",
       "streaming": {},
-      "last_checked": "2026-10-23T10:51:01.623209+00:00",
+      "last_checked": "2026-10-30T11:58:12.222476+00:00",
       "release_date": "2026-11-25",
       "runtime": 103
     },
@@ -3874,7 +3883,7 @@
       ],
       "overview": "After years of maneuvering the canal-ridden, superstitious city of Venice, Italy, a scrappy black cat named Nero begins to question whether he’s lived the right lives. Indebted to Rocco, a ruthless...",
       "streaming": {},
-      "last_checked": "2026-10-23T10:51:02.182970+00:00",
+      "last_checked": "2026-10-30T11:58:13.248968+00:00",
       "release_date": "2027-03-05"
     },
     {
@@ -3895,6 +3904,13 @@
       ],
       "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together t...",
       "streaming": {
+        "peacock": {
+          "service": "peacock",
+          "serviceName": "Peacock",
+          "type": "subscription",
+          "link": "https://www.peacocktv.com/watch/asset/movies/minions-and-monsters/91887a50-e9d8-3d0e-9c3a-e213d25bd260",
+          "quality": "uhd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -3904,7 +3920,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-10-23T10:51:02.806616+00:00",
+      "last_checked": "2026-10-30T11:58:14.266022+00:00",
       "release_date": "2026-07-01",
       "runtime": 90
     },
@@ -3933,7 +3949,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-23T10:51:03.817066+00:00",
+      "last_checked": "2026-10-30T11:58:16.127254+00:00",
       "season_count": 1,
       "episode_count": 10
     },

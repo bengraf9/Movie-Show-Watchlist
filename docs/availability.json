@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T12:29:58.111053+00:00",
+  "last_updated": "2026-11-02T14:29:12.384885+00:00",
   "country": "us",
   "items": [
     {
@@ -3228,7 +3228,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-26T12:03:35.255204+00:00",
+      "last_checked": "2026-11-02T14:29:02.588937+00:00",
       "runtime": 107,
       "release_date": "2021-03-05"
     },
@@ -3249,14 +3249,6 @@
       ],
       "overview": "The first-ever live-action Pokémon adventure, POKÉMON Detective Pikachu, stars Ryan Reynolds as Pikachu, the iconic face of the global Pokémon phenomenon.",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0K1VZNF96GVK06I8KZJ1K738V0?ref_=atv_dp",
-          "quality": "uhd",
-          "price": "4.99 USD"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -3264,9 +3256,17 @@
           "link": "https://tv.apple.com/us/movie/pokemon-detective-pikachu/umc.cmc.2f3ohdbkpol7ui73lvygtcge2?playableId=tvs.sbd.9001%3A1460331265",
           "quality": "hd",
           "price": "4.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0K1VZNF96GVK06I8KZJ1K738V0?ref_=atv_dp",
+          "quality": "uhd",
+          "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-10-26T12:03:36.016581+00:00",
+      "last_checked": "2026-11-02T14:29:03.412029+00:00",
       "runtime": 104,
       "release_date": "2019-05-10"
     },
@@ -3295,9 +3295,16 @@
           "link": "https://www.amazon.com/gp/video/detail/0ILEQPPDG1JVS299OOBAAL5YZT?ref_=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "peacock": {
+          "service": "peacock",
+          "serviceName": "Peacock",
+          "type": "subscription",
+          "link": "https://www.peacocktv.com/watch/asset/movies/spy-kids/0c572bd8-afb6-3225-92f4-9451eb80c84b",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-10-26T12:03:36.692440+00:00",
+      "last_checked": "2026-11-02T14:29:04.198822+00:00",
       "runtime": 84,
       "release_date": "2001-03-18"
     },
@@ -3336,7 +3343,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-26T12:03:37.456587+00:00",
+      "last_checked": "2026-11-02T14:29:05.003564+00:00",
       "runtime": 87,
       "release_date": "2019-05-03"
     },
@@ -3356,12 +3363,13 @@
       ],
       "overview": "Trying to leave their troubled lives behind, twin brothers return to their Mississippi hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
       "streaming": {
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://play.hbomax.com/movie/2a072173-2bac-43ba-9933-10eba021ed96",
-          "quality": "uhd"
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/sinners/umc.cmc.tl0hc0j1vx7nrrz89gxzxsx9?playableId=tvs.sbd.9001%3A1803920888",
+          "quality": "hd",
+          "price": "5.99 USD"
         },
         "prime": {
           "service": "prime",
@@ -3371,16 +3379,15 @@
           "quality": "uhd",
           "price": "5.99 USD"
         },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/sinners/umc.cmc.tl0hc0j1vx7nrrz89gxzxsx9?playableId=tvs.sbd.9001%3A1803920888",
-          "quality": "hd",
-          "price": "5.99 USD"
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/movie/25a3be72-9dec-4544-b825-105ef41d6314",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-26T12:03:38.200539+00:00",
+      "last_checked": "2026-11-02T14:29:05.883789+00:00",
       "runtime": 137,
       "release_date": "2025-04-18"
     },
@@ -4044,7 +4051,7 @@
           "link": "https://www.netflix.com/title/80238565"
         }
       },
-      "last_checked": "2026-10-26T12:03:39.700412+00:00",
+      "last_checked": "2026-11-02T14:29:07.614719+00:00",
       "season_count": 3,
       "episode_count": 19
     },
@@ -4072,7 +4079,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-26T12:03:42.378998+00:00",
+      "last_checked": "2026-11-02T14:29:11.014644+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -4120,7 +4127,7 @@
           "link": "https://www.netflix.com/title/81611105"
         }
       },
-      "last_checked": "2026-10-26T12:03:43.276338+00:00",
+      "last_checked": "2026-11-02T14:29:12.130651+00:00",
       "runtime": 126,
       "release_date": "2026-10-16"
     },

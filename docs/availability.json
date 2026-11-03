@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T14:29:12.384885+00:00",
+  "last_updated": "2026-11-03T13:26:30.496355+00:00",
   "country": "us",
   "items": [
     {
@@ -46,12 +46,13 @@
       ],
       "overview": "Hank is stranded on a deserted island when a corpse washes ashore and the two go on an epic adventure to bring Hank back to the woman of his dreams.",
       "streaming": {
-        "roku": {
-          "service": "roku",
-          "serviceName": "Roku",
-          "type": "free",
-          "link": "https://therokuchannel.roku.com/details/be5460c7712b5b539334617844157092",
-          "quality": "hd"
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/swiss-army-man/umc.cmc.6bo2uwa3ktpxhxx4pg3qsczi6?playableId=tvs.sbd.9001%3A1120876026",
+          "quality": "hd",
+          "price": "3.99 USD"
         },
         "prime": {
           "service": "prime",
@@ -75,7 +76,7 @@
           "link": "https://www.netflix.com/title/80097389"
         }
       },
-      "last_checked": "2026-10-27T11:23:49.770398+00:00",
+      "last_checked": "2026-11-03T13:25:58.666137+00:00",
       "runtime": 97,
       "release_date": "2016-07-01"
     },
@@ -98,6 +99,14 @@
       ],
       "overview": "A childless couple decide to help themselves to one of another family's quintuplets.",
       "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/raising-arizona/umc.cmc.69uyz8qeolyklkb8y095ue9yj?playableId=tvs.sbd.9001%3A270425042",
+          "quality": "hd",
+          "price": "4.99 USD"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -107,7 +116,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-10-27T11:23:50.427109+00:00",
+      "last_checked": "2026-11-03T13:25:59.472908+00:00",
       "runtime": 94,
       "release_date": "1987-04-17"
     },
@@ -171,7 +180,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-27T11:23:51.002033+00:00",
+      "last_checked": "2026-11-03T13:26:00.216102+00:00",
       "runtime": 110,
       "release_date": "2025-06-13"
     },
@@ -217,7 +226,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-27T11:23:51.719091+00:00",
+      "last_checked": "2026-11-03T13:26:01.026065+00:00",
       "runtime": 150,
       "release_date": "2022-11-23"
     },
@@ -290,7 +299,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-27T11:23:52.409959+00:00",
+      "last_checked": "2026-11-03T13:26:01.838803+00:00",
       "runtime": 91,
       "release_date": "1991-02-08"
     },
@@ -322,7 +331,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-27T11:23:53.103911+00:00",
+      "last_checked": "2026-11-03T13:26:02.640760+00:00",
       "runtime": 124,
       "release_date": "1979-12-19"
     },
@@ -345,13 +354,6 @@
       ],
       "overview": "A look at the military commander's origins and his swift, ruthless climb to emperor, viewed through the prism of his addictive and often volatile relationship with his wife and one true love, Josep...",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "subscription",
-          "link": "https://tv.apple.com/us/movie/napoleon/umc.cmc.25k80oxl3vo69c8rimk8v81s1?playableId=tvs.sbd.4000%3AA0064201001",
-          "quality": "uhd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -359,9 +361,16 @@
           "link": "https://www.amazon.com/gp/video/detail/0GKJ06SJM9QAGM8UCSBTK6N4BH?ref_=atv_dp",
           "quality": "uhd",
           "price": "12.99 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "subscription",
+          "link": "https://tv.apple.com/us/movie/napoleon-the-directors-cut/umc.cmc.gtk0q9t2mapcjs75d31vvrs2?playableId=tvs.sbd.4000%3AA0064201002",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-27T11:23:53.802900+00:00",
+      "last_checked": "2026-11-03T13:26:03.477553+00:00",
       "runtime": 157,
       "release_date": "2023-11-22"
     },
@@ -400,7 +409,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-10-27T11:23:54.383848+00:00",
+      "last_checked": "2026-11-03T13:26:04.232734+00:00",
       "runtime": 106,
       "release_date": "2024-03-08"
     },
@@ -446,7 +455,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-10-27T11:23:54.906256+00:00",
+      "last_checked": "2026-11-03T13:26:05.048478+00:00",
       "runtime": 83,
       "release_date": "2025-09-12"
     },
@@ -486,7 +495,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-27T11:23:55.500280+00:00",
+      "last_checked": "2026-11-03T13:26:05.869888+00:00",
       "runtime": 129,
       "release_date": "1963-03-16"
     },
@@ -532,7 +541,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-27T11:23:56.105737+00:00",
+      "last_checked": "2026-11-03T13:26:06.676813+00:00",
       "runtime": 107,
       "release_date": "1982-01-01"
     },
@@ -569,9 +578,17 @@
           "type": "subscription",
           "link": "https://www.hulu.com/movie/thelma-661af2e5-a722-4a5d-a06f-9797f3aa398a",
           "quality": "hd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/thelma/umc.cmc.4kx8gxeb390shmw3xq3zb2mbi?playableId=tvs.sbd.9001%3A1748917668",
+          "quality": "hd",
+          "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-10-27T11:23:56.992890+00:00",
+      "last_checked": "2026-11-03T13:26:07.559059+00:00",
       "runtime": 98,
       "release_date": "2024-06-21"
     },
@@ -644,7 +661,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-27T11:23:57.577111+00:00",
+      "last_checked": "2026-11-03T13:26:08.299895+00:00",
       "runtime": 114,
       "release_date": "2013-12-25"
     },
@@ -674,13 +691,6 @@
           "quality": "uhd",
           "price": "3.99 USD"
         },
-        "peacock": {
-          "service": "peacock",
-          "serviceName": "Peacock",
-          "type": "subscription",
-          "link": "https://www.peacocktv.com/watch/asset/movies/black-bag/d2bc869a-ca30-343f-878f-7eaa7c09902b",
-          "quality": "uhd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -690,7 +700,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-27T11:23:58.365340+00:00",
+      "last_checked": "2026-11-03T13:26:09.111852+00:00",
       "runtime": 93,
       "release_date": "2025-03-14"
     },
@@ -829,7 +839,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-27T11:24:09.721332+00:00",
+      "last_checked": "2026-11-03T13:26:11.259766+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1
@@ -892,7 +902,7 @@
           "link": "https://www.netflix.com/title/81122572"
         }
       },
-      "last_checked": "2026-10-27T11:24:12.965490+00:00",
+      "last_checked": "2026-11-03T13:26:13.416132+00:00",
       "season_count": 1,
       "episode_count": 3
     },
@@ -955,7 +965,7 @@
           "link": "https://www.netflix.com/title/81677257"
         }
       },
-      "last_checked": "2026-10-27T11:24:20.756968+00:00",
+      "last_checked": "2026-11-03T13:26:16.030328+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -1025,17 +1035,17 @@
           "serviceName": "Prime Video",
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0LU58CSZ179GDNU0Y30KQY3AI5",
-          "quality": "hd"
+          "quality": "uhd"
         },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
           "type": "buy",
           "link": "https://tv.apple.com/us/show/star-trek-strange-new-worlds/umc.cmc.1o10sclnk0t945h2mtuolocip",
-          "quality": "sd"
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-10-27T11:24:24.779516+00:00",
+      "last_checked": "2026-11-03T13:26:18.155611+00:00",
       "season_count": 4,
       "episode_count": 40
     },
@@ -1081,7 +1091,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-27T11:24:28.254145+00:00",
+      "last_checked": "2026-11-03T13:26:20.253034+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1185,6 +1195,13 @@
           "link": "https://tv.apple.com/us/show/american-gods/umc.cmc.4o7hf0qe1ezickgfxxeppolqr",
           "quality": "hd"
         },
+        "roku": {
+          "service": "roku",
+          "serviceName": "Roku",
+          "type": "free",
+          "link": "https://therokuchannel.roku.com/details/61c636a6f9c959adbdcc0053c6e18597",
+          "quality": "hd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -1199,7 +1216,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-27T11:24:44.716906+00:00",
+      "last_checked": "2026-11-03T13:26:25.381200+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1221,29 +1238,29 @@
       ],
       "overview": "The documentary crew from Dunder Mifflin’s Scranton branch discovers a struggling Midwestern newspaper and the publisher trying to revive it.",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/show/the-paper/umc.cmc.1maccnluzq1eucu5xvwr345hp",
-          "quality": "sd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0U41UH674GU5A94PSQ75PF9M9M",
-          "quality": "sd"
-        },
         "peacock": {
           "service": "peacock",
           "serviceName": "Peacock",
           "type": "subscription",
           "link": "https://www.peacocktv.com/watch/asset/tv/the-paper/4873123615239886112",
           "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0U41UH674GU5A94PSQ75PF9M9M",
+          "quality": "hd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/the-paper/umc.cmc.1maccnluzq1eucu5xvwr345hp",
+          "quality": "sd"
         }
       },
-      "last_checked": "2026-10-27T11:25:00.993024+00:00",
+      "last_checked": "2026-11-03T13:26:28.013334+00:00",
       "season_count": 2,
       "episode_count": 20
     },
@@ -1265,13 +1282,6 @@
       ],
       "overview": "Disbarred lawyer Jeff Winger enrolls in a local community college. While there, he forms a study group who eventually learn more about themselves than their course work.",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/show/community/umc.cmc.4nernxq22u93vwrjpt6kfk3m5",
-          "quality": "sd"
-        },
         "hulu": {
           "service": "hulu",
           "serviceName": "Hulu",
@@ -1286,6 +1296,13 @@
           "link": "https://www.peacocktv.com/watch/asset/tv/community/8700597605358573112",
           "quality": "uhd"
         },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/community/umc.cmc.4nernxq22u93vwrjpt6kfk3m5",
+          "quality": "sd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -1294,7 +1311,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-27T11:25:06.769574+00:00",
+      "last_checked": "2026-11-03T13:26:30.222076+00:00",
       "season_count": 6,
       "episode_count": 110
     },

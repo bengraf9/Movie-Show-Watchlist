@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T13:26:30.496355+00:00",
+  "last_updated": "2026-11-04T13:37:16.916084+00:00",
   "country": "us",
   "items": [
     {
@@ -1340,7 +1340,7 @@
           "link": "https://play.hbomax.com/mini-series/c967b1a4-d0e2-491e-967e-ae09f88fef62"
         }
       },
-      "last_checked": "2026-10-28T11:56:25.896465+00:00",
+      "last_checked": "2026-11-04T13:37:02.549014+00:00",
       "season_count": 1,
       "episode_count": 2
     },
@@ -1363,22 +1363,22 @@
       ],
       "overview": "A dysfunctional team of MI5 agents and their obnoxious boss, the notorious Jackson Lamb, navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "subscription",
-          "link": "https://tv.apple.com/us/show/slow-horses/umc.cmc.2szz3fdt71tl1ulnbp8utgq5o",
-          "quality": "uhd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "free",
           "link": "https://www.amazon.com/gp/video/detail/0MEYJKN34E2DBOY4OY7Z31N4Q4",
           "quality": "uhd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "subscription",
+          "link": "https://tv.apple.com/us/show/slow-horses/umc.cmc.2szz3fdt71tl1ulnbp8utgq5o",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-28T11:56:27.539314+00:00",
+      "last_checked": "2026-11-04T13:37:03.989359+00:00",
       "season_count": 6,
       "episode_count": 36
     },
@@ -2493,7 +2493,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-28T11:56:28.287868+00:00",
+      "last_checked": "2026-11-04T13:37:04.702593+00:00",
       "runtime": 89,
       "release_date": "2020-03-14"
     },
@@ -2521,7 +2521,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-28T11:56:28.826565+00:00",
+      "last_checked": "2026-11-04T13:37:05.182194+00:00",
       "runtime": 38,
       "release_date": "2022-04-14"
     },
@@ -2549,7 +2549,7 @@
           "link": "https://www.netflix.com/title/81128389"
         }
       },
-      "last_checked": "2026-10-28T11:56:30.046620+00:00",
+      "last_checked": "2026-11-04T13:37:06.430253+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2570,7 +2570,7 @@
       ],
       "overview": "It's the land we love and the land we think we know. We see America's breathtaking landscapes and wildlife as timeless, but the truth is very different. Its unique geography drives the forces of na...",
       "streaming": {},
-      "last_checked": "2026-10-28T11:56:31.849404+00:00",
+      "last_checked": "2026-11-04T13:37:08.038357+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -2599,7 +2599,7 @@
           "link": "https://www.netflix.com/title/81028343"
         }
       },
-      "last_checked": "2026-10-28T11:56:33.237290+00:00",
+      "last_checked": "2026-11-04T13:37:09.468289+00:00",
       "season_count": 1,
       "episode_count": 4
     },
@@ -2633,7 +2633,7 @@
           "link": "https://www.netflix.com/title/80078037"
         }
       },
-      "last_checked": "2026-10-28T11:56:34.691042+00:00",
+      "last_checked": "2026-11-04T13:37:10.852603+00:00",
       "season_count": 1,
       "episode_count": 26
     },
@@ -2661,7 +2661,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-28T11:56:36.330994+00:00",
+      "last_checked": "2026-11-04T13:37:12.401972+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2707,7 +2707,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-28T11:56:37.175299+00:00",
+      "last_checked": "2026-11-04T13:37:13.133580+00:00",
       "runtime": 91,
       "release_date": "2023-11-17"
     },
@@ -2735,7 +2735,7 @@
           "link": "https://www.netflix.com/title/81276049"
         }
       },
-      "last_checked": "2026-10-28T11:56:37.679673+00:00",
+      "last_checked": "2026-11-04T13:37:13.626262+00:00",
       "runtime": 59,
       "release_date": "2021-10-01"
     },
@@ -3772,7 +3772,7 @@
         "family"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/bd5ZIqiz1PRiLC7FLexzVBf8qu1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/zofPiEpwCRYaezOncTlQwXebHFU.jpg",
       "rating": "TV-PG",
       "genres": [
         "Action",
@@ -3795,7 +3795,7 @@
           "link": "https://www.netflix.com/title/81598066"
         }
       },
-      "last_checked": "2026-10-28T11:56:38.938478+00:00",
+      "last_checked": "2026-11-04T13:37:14.792566+00:00",
       "season_count": 2,
       "episode_count": 16
     },
@@ -4010,7 +4010,7 @@
           "link": "https://www.netflix.com/title/81750702"
         }
       },
-      "last_checked": "2026-10-28T11:56:40.659291+00:00",
+      "last_checked": "2026-11-04T13:37:16.687627+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T13:50:17.057837+00:00",
+  "last_updated": "2026-11-06T13:35:21.973470+00:00",
   "country": "us",
   "items": [
     {
@@ -3092,7 +3092,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-30T11:57:50.170118+00:00",
+      "last_checked": "2026-11-06T13:34:56.281239+00:00",
       "runtime": 102,
       "release_date": "2020-01-25"
     },
@@ -3131,10 +3131,10 @@
           "serviceName": "Prime Video",
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0MVL2ARWLQ41SGLTLHAG1LXLXJ",
-          "quality": "hd"
+          "quality": "sd"
         }
       },
-      "last_checked": "2026-10-30T11:57:51.946492+00:00",
+      "last_checked": "2026-11-06T13:34:58.009408+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -3163,7 +3163,7 @@
           "price": "2.99 USD"
         }
       },
-      "last_checked": "2026-10-30T11:57:53.005540+00:00",
+      "last_checked": "2026-11-06T13:34:58.983800+00:00",
       "runtime": 73,
       "release_date": "2024-02-21"
     },
@@ -3191,6 +3191,12 @@
           "link": "https://therokuchannel.roku.com/details/c5e604d90fe95155bb68f0337408fcb1",
           "quality": "hd"
         },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "subscription",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fbbe53fe-7127-4b91-af6a-cb5fcd97b85b"
+        },
         "tubi": {
           "service": "tubi",
           "serviceName": "Tubi",
@@ -3199,7 +3205,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-30T11:57:53.966812+00:00",
+      "last_checked": "2026-11-06T13:35:00.007273+00:00",
       "runtime": 84,
       "release_date": "2024-10-18"
     },
@@ -3228,9 +3234,17 @@
           "link": "https://www.amazon.com/gp/video/detail/0NT3DVDEZPPXIBVU2DUYI4ZLZ9?ref_=atv_dp",
           "quality": "uhd",
           "price": "3.99 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/the-tigers-apprentice/umc.cmc.4s5z0mrwb4uemhoeazcjbhpj7?playableId=tvs.sbd.9001%3A1727307242",
+          "quality": "hd",
+          "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-10-30T11:57:54.991931+00:00",
+      "last_checked": "2026-11-06T13:35:01.006407+00:00",
       "runtime": 83,
       "release_date": "2024-02-02"
     },
@@ -3456,13 +3470,6 @@
       ],
       "overview": "Two hockey stars bound by ambition, rivalry, and a magnetic pull neither of them fully understands.",
       "streaming": {
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://play.hbomax.com/show/50cd4e99-04ee-427b-a3b4-da721ed05d9c",
-          "quality": "uhd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -3476,9 +3483,16 @@
           "type": "buy",
           "link": "https://tv.apple.com/us/show/heated-rivalry/umc.cmc.3p4fdqsnpelmkkkdpjbh1fd1q",
           "quality": "hd"
+        },
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/show/50cd4e99-04ee-427b-a3b4-da721ed05d9c",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-30T11:57:56.601670+00:00",
+      "last_checked": "2026-11-06T13:35:02.569578+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -3501,7 +3515,7 @@
       ],
       "overview": "Forty years after the events of the first Spaceballs, the galaxy is once again under threat. A threat so evil, so unstoppable, so completely lacking in any original ideas, that it has vowed to brin...",
       "streaming": {},
-      "last_checked": "2026-10-30T11:57:57.535873+00:00",
+      "last_checked": "2026-11-06T13:35:03.520633+00:00",
       "release_date": "2027-04-23"
     },
     {
@@ -3530,7 +3544,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-30T11:57:59.326219+00:00",
+      "last_checked": "2026-11-06T13:35:05.430639+00:00",
       "season_count": 4,
       "episode_count": 44,
       "watched_seasons": 3
@@ -3570,7 +3584,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-30T11:58:00.336510+00:00",
+      "last_checked": "2026-11-06T13:35:06.348705+00:00",
       "runtime": 100,
       "release_date": "1995-01-27"
     },
@@ -3601,19 +3615,19 @@
           "link": "https://therokuchannel.roku.com/details/089967581fcf5d4d8fbb1ca30fd00439",
           "quality": "hd"
         },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0Q7FZBU04NNPFZ83QGUG9UX9MM?ref_=atv_dp",
-          "quality": "hd",
-          "price": "5.99 USD"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/before-sunset/umc.cmc.6ybvbqfmbxp9upda7hzyvf03z?playableId=tvs.sbd.9001%3A295621095",
+          "quality": "hd",
+          "price": "5.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0Q7FZBU04NNPFZ83QGUG9UX9MM?ref_=atv_dp",
           "quality": "hd",
           "price": "5.99 USD"
         },
@@ -3625,7 +3639,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-10-30T11:58:01.135592+00:00",
+      "last_checked": "2026-11-06T13:35:07.093660+00:00",
       "runtime": 80,
       "release_date": "2004-07-30"
     },
@@ -3658,7 +3672,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-10-30T11:58:01.944829+00:00",
+      "last_checked": "2026-11-06T13:35:07.750106+00:00",
       "runtime": 104,
       "release_date": "2013-06-14"
     },
@@ -3686,6 +3700,13 @@
           "link": "https://www.amazon.com/gp/video/detail/0HHK0IZHHNXN9OKTM071KVICX0",
           "quality": "hd"
         },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/rooster/umc.cmc.6r73tybdwwc0dpd1jvffj70q6",
+          "quality": "hd"
+        },
         "hbo": {
           "service": "hbo",
           "serviceName": "HBO Max",
@@ -3694,7 +3715,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-30T11:58:04.069325+00:00",
+      "last_checked": "2026-11-06T13:35:09.934323+00:00",
       "season_count": 1,
       "episode_count": 10,
       "watched_seasons": 1
@@ -3724,7 +3745,7 @@
           "link": "https://www.netflix.com/title/81758849"
         }
       },
-      "last_checked": "2026-10-30T11:58:06.099584+00:00",
+      "last_checked": "2026-11-06T13:35:11.840777+00:00",
       "season_count": 1,
       "episode_count": 8,
       "watched_seasons": 1
@@ -3755,7 +3776,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-30T11:58:07.847113+00:00",
+      "last_checked": "2026-11-06T13:35:13.648151+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -3788,9 +3809,16 @@
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0MF1HVP4J9JM25RQGP3AWDH6ZN",
           "quality": "hd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/john-adams/umc.cmc.68rt0kg5us6r454yfibfq6nki",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-10-30T11:58:09.577163+00:00",
+      "last_checked": "2026-11-06T13:35:15.372960+00:00",
       "season_count": 1,
       "episode_count": 7
     },
@@ -3872,7 +3900,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-30T11:58:10.585344+00:00",
+      "last_checked": "2026-11-06T13:35:16.358740+00:00",
       "runtime": 102,
       "release_date": "2026-06-19"
     },
@@ -3902,7 +3930,7 @@
           "price": "24.99 USD"
         }
       },
-      "last_checked": "2026-10-30T11:58:11.283263+00:00",
+      "last_checked": "2026-11-06T13:35:17.095989+00:00",
       "release_date": "2026-10-23",
       "runtime": 116
     },
@@ -3924,7 +3952,7 @@
       ],
       "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch ...",
       "streaming": {},
-      "last_checked": "2026-10-30T11:58:12.222476+00:00",
+      "last_checked": "2026-11-06T13:35:18.001546+00:00",
       "release_date": "2026-11-25",
       "runtime": 103
     },
@@ -3946,7 +3974,7 @@
       ],
       "overview": "After years of maneuvering the canal-ridden, superstitious city of Venice, Italy, a scrappy black cat named Nero begins to question whether he’s lived the right lives. Indebted to Rocco, a ruthless...",
       "streaming": {},
-      "last_checked": "2026-10-30T11:58:13.248968+00:00",
+      "last_checked": "2026-11-06T13:35:18.929765+00:00",
       "release_date": "2027-03-05"
     },
     {
@@ -3967,12 +3995,13 @@
       ],
       "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together t...",
       "streaming": {
-        "peacock": {
-          "service": "peacock",
-          "serviceName": "Peacock",
-          "type": "subscription",
-          "link": "https://www.peacocktv.com/watch/asset/movies/minions-and-monsters/91887a50-e9d8-3d0e-9c3a-e213d25bd260",
-          "quality": "uhd"
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/minions--monsters/umc.cmc.32e1ob3wfgxzlephbejpyvycu?playableId=tvs.sbd.9001%3A6779829484",
+          "quality": "hd",
+          "price": "5.99 USD"
         },
         "prime": {
           "service": "prime",
@@ -3981,9 +4010,16 @@
           "link": "https://www.amazon.com/gp/video/detail/0Q3VAOUAIPMBYOV70KCJTSNZ6O?ref_=atv_dp",
           "quality": "uhd",
           "price": "5.99 USD"
+        },
+        "peacock": {
+          "service": "peacock",
+          "serviceName": "Peacock",
+          "type": "subscription",
+          "link": "https://www.peacocktv.com/watch/asset/movies/minions-and-monsters/91887a50-e9d8-3d0e-9c3a-e213d25bd260",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-30T11:58:14.266022+00:00",
+      "last_checked": "2026-11-06T13:35:19.906682+00:00",
       "release_date": "2026-07-01",
       "runtime": 90
     },
@@ -4012,7 +4048,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-10-30T11:58:16.127254+00:00",
+      "last_checked": "2026-11-06T13:35:21.728947+00:00",
       "season_count": 1,
       "episode_count": 10
     },

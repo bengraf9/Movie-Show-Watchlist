@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T12:15:34.830082+00:00",
+  "last_updated": "2026-11-08T12:35:58.403275+00:00",
   "country": "us",
   "items": [
     {
@@ -872,7 +872,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-01T12:29:32.352245+00:00",
+      "last_checked": "2026-11-08T12:35:36.435709+00:00",
       "season_count": 3,
       "episode_count": 39,
       "watched_seasons": 2
@@ -1005,7 +1005,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-01T12:29:35.043628+00:00",
+      "last_checked": "2026-11-08T12:35:38.697868+00:00",
       "season_count": 3,
       "episode_count": 33,
       "watched_seasons": 3
@@ -1539,9 +1539,16 @@
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0IV5WZ6TUSCYEZLQCQFKSN3Z8B",
           "quality": "hd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/modern-family/umc.cmc.cmw0vccgg7hpwfa3wgvvu5q0",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-11-01T12:29:37.429137+00:00",
+      "last_checked": "2026-11-08T12:35:40.580635+00:00",
       "season_count": 11,
       "episode_count": 250
     },
@@ -1564,7 +1571,7 @@
       ],
       "overview": "There is nothing special about Harry Potter - at least that's what his Aunt Petunia always says. On his 11th birthday, a letter of admittance to Hogwarts School of Witchcraft and Wizardry opens up ...",
       "streaming": {},
-      "last_checked": "2026-11-01T12:29:39.536803+00:00",
+      "last_checked": "2026-11-08T12:35:42.434839+00:00",
       "season_count": 1,
       "episode_count": 1
     },
@@ -1593,7 +1600,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-01T12:29:41.567524+00:00",
+      "last_checked": "2026-11-08T12:35:44.133231+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -1625,7 +1632,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-11-01T12:29:42.555027+00:00",
+      "last_checked": "2026-11-08T12:35:45.080764+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1673,7 +1680,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-01T12:29:43.416529+00:00",
+      "last_checked": "2026-11-08T12:35:45.780980+00:00",
       "runtime": 96,
       "release_date": "2009-05-29"
     },
@@ -1721,7 +1728,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-01T12:29:44.303842+00:00",
+      "last_checked": "2026-11-08T12:35:46.526871+00:00",
       "runtime": 102,
       "release_date": "2025-06-20"
     },
@@ -1753,7 +1760,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-11-01T12:29:45.024037+00:00",
+      "last_checked": "2026-11-08T12:35:47.209450+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1786,7 +1793,7 @@
           "price": "14.99 USD"
         }
       },
-      "last_checked": "2026-11-01T12:29:45.854242+00:00",
+      "last_checked": "2026-11-08T12:35:47.831150+00:00",
       "runtime": 93,
       "release_date": "2007-11-16"
     },
@@ -1834,7 +1841,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-01T12:29:46.710654+00:00",
+      "last_checked": "2026-11-08T12:35:48.520351+00:00",
       "runtime": 98,
       "release_date": "1981-06-26"
     },
@@ -1882,7 +1889,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-01T12:29:47.508560+00:00",
+      "last_checked": "2026-11-08T12:35:49.244520+00:00",
       "runtime": 134,
       "release_date": "2018-05-25"
     },
@@ -1923,7 +1930,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-01T12:29:48.303991+00:00",
+      "last_checked": "2026-11-08T12:35:49.867807+00:00",
       "runtime": 97,
       "release_date": "2019-09-27"
     },
@@ -1959,8 +1966,7 @@
           "service": "tubi",
           "serviceName": "Tubi",
           "type": "free",
-          "link": "https://tubitv.com/movies/100041895/holes",
-          "quality": "hd"
+          "link": "https://tubitv.com/movies/100041895/holes"
         },
         "disney": {
           "service": "disney",
@@ -1984,7 +1990,7 @@
           "link": "https://therokuchannel.roku.com/details/e174f1efbb935aa191af7de462328790"
         }
       },
-      "last_checked": "2026-11-01T12:29:49.183730+00:00",
+      "last_checked": "2026-11-08T12:35:50.732026+00:00",
       "runtime": 118,
       "release_date": "2003-04-18"
     },
@@ -2025,7 +2031,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-01T12:29:49.985691+00:00",
+      "last_checked": "2026-11-08T12:35:51.431048+00:00",
       "runtime": 85,
       "release_date": "2024-12-06"
     },
@@ -2080,7 +2086,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-11-01T12:29:50.935804+00:00",
+      "last_checked": "2026-11-08T12:35:52.138632+00:00",
       "runtime": 136,
       "release_date": "2015-12-18"
     },
@@ -2128,7 +2134,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-01T12:29:51.736966+00:00",
+      "last_checked": "2026-11-08T12:35:52.863939+00:00",
       "runtime": 152,
       "release_date": "2017-12-15"
     },
@@ -2176,7 +2182,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-01T12:29:52.539137+00:00",
+      "last_checked": "2026-11-08T12:35:53.563131+00:00",
       "runtime": 142,
       "release_date": "2019-12-20"
     },
@@ -2224,7 +2230,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-01T12:29:53.407478+00:00",
+      "last_checked": "2026-11-08T12:35:54.291995+00:00",
       "runtime": 95,
       "release_date": "2015-06-19"
     },
@@ -2263,7 +2269,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-01T12:29:54.132626+00:00",
+      "last_checked": "2026-11-08T12:35:54.924335+00:00",
       "runtime": 84,
       "release_date": "1993-02-12"
     },
@@ -2311,7 +2317,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-01T12:29:54.937282+00:00",
+      "last_checked": "2026-11-08T12:35:55.624697+00:00",
       "runtime": 107,
       "release_date": "2022-11-23"
     },
@@ -2343,7 +2349,7 @@
           "price": "2.99 USD"
         }
       },
-      "last_checked": "2026-11-01T12:29:55.662545+00:00",
+      "last_checked": "2026-11-08T12:35:56.257181+00:00",
       "runtime": 90,
       "release_date": "1984-07-13"
     },
@@ -2376,7 +2382,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-01T12:29:56.466472+00:00",
+      "last_checked": "2026-11-08T12:35:56.939727+00:00",
       "runtime": 84,
       "release_date": "1999-07-14"
     },
@@ -2423,7 +2429,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-01T12:29:57.267037+00:00",
+      "last_checked": "2026-11-08T12:35:57.702262+00:00",
       "runtime": 97,
       "release_date": "2021-11-24"
     },
@@ -2471,7 +2477,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-01T12:29:58.110444+00:00",
+      "last_checked": "2026-11-08T12:35:58.402974+00:00",
       "runtime": 140,
       "release_date": "2023-05-26"
     },

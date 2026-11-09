@@ -342,6 +342,7 @@
     },
     "tmdb_id": "tv/102349",
     "year": 2020,
+    "watched_seasons": 1,
     "rating": "TV-MA"
   },
   {
@@ -1194,7 +1195,7 @@
       "dad-series": 3
     },
     "tmdb_id": "tv/97546",
-    "watched_seasons": 3,
+    "watched_seasons": 4,
     "year": 2020,
     "rating": "TV-MA"
   },
@@ -1382,17 +1383,6 @@
     "tmdb_id": "tv/98177",
     "year": 2020,
     "rating": "TV-14"
-  },
-  {
-    "title": "Derry Girls",
-    "type": "series",
-    "lists": [
-      "dad",
-      "mom"
-    ],
-    "tmdb_id": "tv/76148",
-    "year": 2018,
-    "rating": "TV-MA"
   },
   {
     "title": "Brothers",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T12:35:58.403275+00:00",
+  "last_updated": "2026-11-09T14:53:31.263043+00:00",
   "country": "us",
   "items": [
     {
@@ -904,7 +904,8 @@
       },
       "last_checked": "2026-11-03T13:26:13.416132+00:00",
       "season_count": 1,
-      "episode_count": 3
+      "episode_count": 3,
+      "watched_seasons": 1
     },
     {
       "title": "Happiness",
@@ -3296,7 +3297,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-02T14:29:02.588937+00:00",
+      "last_checked": "2026-11-09T14:53:26.649243+00:00",
       "runtime": 107,
       "release_date": "2021-03-05"
     },
@@ -3334,7 +3335,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-11-02T14:29:03.412029+00:00",
+      "last_checked": "2026-11-09T14:53:27.126619+00:00",
       "runtime": 104,
       "release_date": "2019-05-10"
     },
@@ -3372,7 +3373,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-11-02T14:29:04.198822+00:00",
+      "last_checked": "2026-11-09T14:53:27.695918+00:00",
       "runtime": 84,
       "release_date": "2001-03-18"
     },
@@ -3397,10 +3398,9 @@
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0PSQZFAAEEHJWNCMP787GHHEZT?ref_=atv_dp",
-          "quality": "uhd",
-          "price": "3.99 USD"
+          "type": "subscription",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b3c4f292-015a-4bf8-a94f-5c21bb40c729",
+          "quality": "uhd"
         },
         "apple": {
           "service": "apple",
@@ -3411,7 +3411,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-02T14:29:05.003564+00:00",
+      "last_checked": "2026-11-09T14:53:28.295005+00:00",
       "runtime": 87,
       "release_date": "2019-05-03"
     },
@@ -3455,7 +3455,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-02T14:29:05.883789+00:00",
+      "last_checked": "2026-11-09T14:53:28.835676+00:00",
       "runtime": 137,
       "release_date": "2025-04-18"
     },
@@ -3553,7 +3553,7 @@
       "last_checked": "2026-11-06T13:35:05.430639+00:00",
       "season_count": 4,
       "episode_count": 44,
-      "watched_seasons": 3
+      "watched_seasons": 4
     },
     {
       "title": "Before Sunrise",
@@ -4118,34 +4118,6 @@
       "episode_count": 40
     },
     {
-      "title": "Derry Girls",
-      "year": 2018,
-      "type": "series",
-      "tmdb_id": "tv/76148",
-      "lists": [
-        "dad",
-        "mom"
-      ],
-      "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/ix9lphODnzRCAVG5F6w3jEyaGj1.jpg",
-      "rating": "TV-MA",
-      "genres": [
-        "Comedy"
-      ],
-      "overview": "Amidst the political conflict of Northern Ireland in the 1990s, five spirited students contend with the universal challenges of being a teenager.",
-      "streaming": {
-        "netflix": {
-          "service": "netflix",
-          "serviceName": "Netflix",
-          "type": "subscription",
-          "link": "https://www.netflix.com/title/80238565"
-        }
-      },
-      "last_checked": "2026-11-02T14:29:07.614719+00:00",
-      "season_count": 3,
-      "episode_count": 19
-    },
-    {
       "title": "Brothers",
       "year": 2026,
       "type": "series",
@@ -4169,7 +4141,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-02T14:29:11.014644+00:00",
+      "last_checked": "2026-11-09T14:53:30.270949+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -4217,7 +4189,7 @@
           "link": "https://www.netflix.com/title/81611105"
         }
       },
-      "last_checked": "2026-11-02T14:29:12.130651+00:00",
+      "last_checked": "2026-11-09T14:53:31.043621+00:00",
       "runtime": 126,
       "release_date": "2026-10-16"
     },

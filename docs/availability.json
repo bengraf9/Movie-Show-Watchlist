@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T14:53:31.263043+00:00",
+  "last_updated": "2026-11-10T14:06:23.963221+00:00",
   "country": "us",
   "items": [
     {
@@ -62,13 +62,6 @@
           "quality": "uhd",
           "price": "3.99 USD"
         },
-        "tubi": {
-          "service": "tubi",
-          "serviceName": "Tubi",
-          "type": "free",
-          "link": "https://tubitv.com/movies/100046625/swiss-army-man",
-          "quality": "hd"
-        },
         "netflix": {
           "service": "netflix",
           "serviceName": "Netflix",
@@ -76,7 +69,7 @@
           "link": "https://www.netflix.com/title/80097389"
         }
       },
-      "last_checked": "2026-11-03T13:25:58.666137+00:00",
+      "last_checked": "2026-11-10T14:05:55.579674+00:00",
       "runtime": 97,
       "release_date": "2016-07-01"
     },
@@ -116,7 +109,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-11-03T13:25:59.472908+00:00",
+      "last_checked": "2026-11-10T14:05:56.314365+00:00",
       "runtime": 94,
       "release_date": "1987-04-17"
     },
@@ -164,6 +157,14 @@
       ],
       "overview": "Based on Stephen King's novella and brought to the screen by acclaimed director Mike Flanagan (Doctor Sleep), THE LIFE OF CHUCK is the tale of a seemingly unremarkable man called Charles Kranz (Tom...",
       "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/the-life-of-chuck/umc.cmc.68ijj0xcn2bzwkt7tua8pqz5z?playableId=tvs.sbd.9001%3A1811679810",
+          "quality": "hd",
+          "price": "4.99 USD"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -180,7 +181,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-03T13:26:00.216102+00:00",
+      "last_checked": "2026-11-10T14:05:57.092219+00:00",
       "runtime": 110,
       "release_date": "2025-06-13"
     },
@@ -226,7 +227,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-03T13:26:01.026065+00:00",
+      "last_checked": "2026-11-10T14:05:57.810880+00:00",
       "runtime": 150,
       "release_date": "2022-11-23"
     },
@@ -299,7 +300,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-03T13:26:01.838803+00:00",
+      "last_checked": "2026-11-10T14:05:58.454712+00:00",
       "runtime": 91,
       "release_date": "1991-02-08"
     },
@@ -331,7 +332,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-03T13:26:02.640760+00:00",
+      "last_checked": "2026-11-10T14:05:59.205556+00:00",
       "runtime": 124,
       "release_date": "1979-12-19"
     },
@@ -370,7 +371,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-03T13:26:03.477553+00:00",
+      "last_checked": "2026-11-10T14:05:59.917950+00:00",
       "runtime": 157,
       "release_date": "2023-11-22"
     },
@@ -409,7 +410,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-11-03T13:26:04.232734+00:00",
+      "last_checked": "2026-11-10T14:06:00.613294+00:00",
       "runtime": 106,
       "release_date": "2024-03-08"
     },
@@ -455,7 +456,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-11-03T13:26:05.048478+00:00",
+      "last_checked": "2026-11-10T14:06:01.338284+00:00",
       "runtime": 83,
       "release_date": "2025-09-12"
     },
@@ -495,7 +496,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-03T13:26:05.869888+00:00",
+      "last_checked": "2026-11-10T14:06:01.987577+00:00",
       "runtime": 129,
       "release_date": "1963-03-16"
     },
@@ -541,7 +542,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-03T13:26:06.676813+00:00",
+      "last_checked": "2026-11-10T14:06:02.632679+00:00",
       "runtime": 107,
       "release_date": "1982-01-01"
     },
@@ -569,15 +570,8 @@
           "serviceName": "Prime Video",
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0SW6K30U5JU4SVI9MOO2RQ60CO?ref_=atv_dp",
-          "quality": "sd",
-          "price": "2.99 USD"
-        },
-        "hulu": {
-          "service": "hulu",
-          "serviceName": "Hulu",
-          "type": "subscription",
-          "link": "https://www.hulu.com/movie/thelma-661af2e5-a722-4a5d-a06f-9797f3aa398a",
-          "quality": "hd"
+          "quality": "hd",
+          "price": "3.99 USD"
         },
         "apple": {
           "service": "apple",
@@ -586,9 +580,16 @@
           "link": "https://tv.apple.com/us/movie/thelma/umc.cmc.4kx8gxeb390shmw3xq3zb2mbi?playableId=tvs.sbd.9001%3A1748917668",
           "quality": "hd",
           "price": "4.99 USD"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/movie/thelma-661af2e5-a722-4a5d-a06f-9797f3aa398a",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-11-03T13:26:07.559059+00:00",
+      "last_checked": "2026-11-10T14:06:03.370005+00:00",
       "runtime": 98,
       "release_date": "2024-06-21"
     },
@@ -644,14 +645,6 @@
       ],
       "overview": "An inspiring story about an ordinary man who leaps into the extraordinary adventure that is life.",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/the-secret-life-of-walter-mitty/umc.cmc.pw6qkwfo6ppbm0q2zkp07a3f?playableId=tvs.sbd.9001%3A772093232",
-          "quality": "hd",
-          "price": "3.99 USD"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -659,9 +652,17 @@
           "link": "https://www.amazon.com/gp/video/detail/0HOJDZS6BE7QKBMLF6VHTJUBEO?ref_=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/the-secret-life-of-walter-mitty/umc.cmc.pw6qkwfo6ppbm0q2zkp07a3f?playableId=tvs.sbd.9001%3A772093232",
+          "quality": "hd",
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-03T13:26:08.299895+00:00",
+      "last_checked": "2026-11-10T14:06:04.028543+00:00",
       "runtime": 114,
       "release_date": "2013-12-25"
     },
@@ -700,7 +701,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-03T13:26:09.111852+00:00",
+      "last_checked": "2026-11-10T14:06:04.682375+00:00",
       "runtime": 93,
       "release_date": "2025-03-14"
     },
@@ -839,7 +840,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-03T13:26:11.259766+00:00",
+      "last_checked": "2026-11-10T14:06:06.565439+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1
@@ -902,7 +903,7 @@
           "link": "https://www.netflix.com/title/81122572"
         }
       },
-      "last_checked": "2026-11-03T13:26:13.416132+00:00",
+      "last_checked": "2026-11-10T14:06:08.282236+00:00",
       "season_count": 1,
       "episode_count": 3,
       "watched_seasons": 1
@@ -973,7 +974,7 @@
           "link": "https://www.netflix.com/title/81677257"
         }
       },
-      "last_checked": "2026-11-03T13:26:16.030328+00:00",
+      "last_checked": "2026-11-10T14:06:10.679329+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -1031,6 +1032,13 @@
       ],
       "overview": "STAR TREK: STRANGE NEW WORLDS is based on the years Captain Christopher Pike manned the helm of the U.S.S. Enterprise. The series will follow Captain Pike, Officer Spock and Number One in the years...",
       "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0LU58CSZ179GDNU0Y30KQY3AI5",
+          "quality": "sd"
+        },
         "paramount": {
           "service": "paramount",
           "serviceName": "Paramount+",
@@ -1038,22 +1046,15 @@
           "link": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/",
           "quality": "hd"
         },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0LU58CSZ179GDNU0Y30KQY3AI5",
-          "quality": "uhd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
           "type": "buy",
           "link": "https://tv.apple.com/us/show/star-trek-strange-new-worlds/umc.cmc.1o10sclnk0t945h2mtuolocip",
-          "quality": "hd"
+          "quality": "sd"
         }
       },
-      "last_checked": "2026-11-03T13:26:18.155611+00:00",
+      "last_checked": "2026-11-10T14:06:12.507433+00:00",
       "season_count": 4,
       "episode_count": 40
     },
@@ -1077,13 +1078,6 @@
       ],
       "overview": "Star Trek: Picard features Sir Patrick Stewart reprising his iconic role as Jean-Luc Picard, which he played for seven seasons on Star Trek: The Next Generation. The new series will follow this ico...",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/show/star-trek-picard/umc.cmc.2tqufhly635jf1fnuonxojax",
-          "quality": "sd"
-        },
         "paramount": {
           "service": "paramount",
           "serviceName": "Paramount+",
@@ -1097,9 +1091,16 @@
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0S4PHJ50UWJJMEE08SOKDCOI6E",
           "quality": "hd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/star-trek-picard/umc.cmc.2tqufhly635jf1fnuonxojax",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-11-03T13:26:20.253034+00:00",
+      "last_checked": "2026-11-10T14:06:14.448057+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1224,7 +1225,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-11-03T13:26:25.381200+00:00",
+      "last_checked": "2026-11-10T14:06:19.068156+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1246,12 +1247,12 @@
       ],
       "overview": "The documentary crew from Dunder Mifflin’s Scranton branch discovers a struggling Midwestern newspaper and the publisher trying to revive it.",
       "streaming": {
-        "peacock": {
-          "service": "peacock",
-          "serviceName": "Peacock",
-          "type": "subscription",
-          "link": "https://www.peacocktv.com/watch/asset/tv/the-paper/4873123615239886112",
-          "quality": "uhd"
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/the-paper/umc.cmc.1maccnluzq1eucu5xvwr345hp",
+          "quality": "sd"
         },
         "prime": {
           "service": "prime",
@@ -1260,15 +1261,15 @@
           "link": "https://www.amazon.com/gp/video/detail/0U41UH674GU5A94PSQ75PF9M9M",
           "quality": "hd"
         },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/show/the-paper/umc.cmc.1maccnluzq1eucu5xvwr345hp",
-          "quality": "sd"
+        "peacock": {
+          "service": "peacock",
+          "serviceName": "Peacock",
+          "type": "subscription",
+          "link": "https://www.peacocktv.com/watch/asset/tv/the-paper/4873123615239886112",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-03T13:26:28.013334+00:00",
+      "last_checked": "2026-11-10T14:06:21.597991+00:00",
       "season_count": 2,
       "episode_count": 20
     },
@@ -1290,12 +1291,12 @@
       ],
       "overview": "Disbarred lawyer Jeff Winger enrolls in a local community college. While there, he forms a study group who eventually learn more about themselves than their course work.",
       "streaming": {
-        "hulu": {
-          "service": "hulu",
-          "serviceName": "Hulu",
-          "type": "subscription",
-          "link": "https://www.hulu.com/series/community-200c56d4-124c-41a1-b7d2-688f86f432bf",
-          "quality": "hd"
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/community/umc.cmc.4nernxq22u93vwrjpt6kfk3m5",
+          "quality": "sd"
         },
         "peacock": {
           "service": "peacock",
@@ -1304,22 +1305,22 @@
           "link": "https://www.peacocktv.com/watch/asset/tv/community/8700597605358573112",
           "quality": "uhd"
         },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/show/community/umc.cmc.4nernxq22u93vwrjpt6kfk3m5",
-          "quality": "sd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0RZDRR4YJ51TRS4ISXB1JC1KTR",
+          "quality": "sd"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.hulu.com/series/community-200c56d4-124c-41a1-b7d2-688f86f432bf",
           "quality": "hd"
         }
       },
-      "last_checked": "2026-11-03T13:26:30.222076+00:00",
+      "last_checked": "2026-11-10T14:06:23.704152+00:00",
       "season_count": 6,
       "episode_count": 110
     },

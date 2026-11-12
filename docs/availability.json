@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T13:22:47.608509+00:00",
+  "last_updated": "2026-11-12T14:28:02.066009+00:00",
   "country": "us",
   "items": [
     {
@@ -13,7 +13,7 @@
       "priority": {
         "dad-movie": 1
       },
-      "poster": "https://image.tmdb.org/t/p/w300/9jlZ59UALLLOE279HMT19rP9XQs.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/tTMmREfhVd51CCg7GN73wL8cIoT.jpg",
       "rating": "",
       "genres": [
         "Action",
@@ -22,7 +22,7 @@
       ],
       "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
       "streaming": {},
-      "last_checked": "2026-11-05T13:50:02.218598+00:00",
+      "last_checked": "2026-11-12T14:27:30.880502+00:00",
       "release_date": "2026-12-18",
       "runtime": 165
     },
@@ -133,7 +133,7 @@
       ],
       "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge,...",
       "streaming": {},
-      "last_checked": "2026-11-05T13:50:02.819307+00:00",
+      "last_checked": "2026-11-12T14:27:31.934757+00:00",
       "release_date": "20-12-18",
       "runtime": 150
     },
@@ -268,7 +268,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-05T13:50:03.433153+00:00",
+      "last_checked": "2026-11-12T14:27:32.942766+00:00",
       "runtime": 111,
       "release_date": "1992-09-25"
     },
@@ -621,7 +621,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-05T13:50:03.914897+00:00",
+      "last_checked": "2026-11-12T14:27:33.667380+00:00",
       "runtime": 143,
       "release_date": "20-06-05"
     },
@@ -740,7 +740,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-05T13:50:04.276099+00:00",
+      "last_checked": "2026-11-12T14:27:34.420584+00:00",
       "runtime": 105,
       "release_date": "1985-08-07"
     },
@@ -773,7 +773,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-05T13:50:05.125169+00:00",
+      "last_checked": "2026-11-12T14:27:36.288604+00:00",
       "season_count": 2,
       "episode_count": 19,
       "watched_seasons": 2
@@ -806,7 +806,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-05T13:50:06.237204+00:00",
+      "last_checked": "2026-11-12T14:27:38.409139+00:00",
       "season_count": 5,
       "episode_count": 50,
       "watched_seasons": 5
@@ -942,7 +942,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-11-05T13:50:07.405652+00:00",
+      "last_checked": "2026-11-12T14:27:40.831133+00:00",
       "season_count": 2,
       "episode_count": 12,
       "watched_seasons": 1
@@ -1133,7 +1133,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-05T13:50:08.852484+00:00",
+      "last_checked": "2026-11-12T14:27:43.646961+00:00",
       "season_count": 1,
       "episode_count": 10,
       "watched_seasons": 1
@@ -1169,11 +1169,11 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "subscription",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cc565594-ad8b-4642-b9f4-4c74f9f1570f",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.329c3ebd-3571-4416-8060-f662cc1106d5",
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-05T13:50:09.878208+00:00",
+      "last_checked": "2026-11-12T14:27:45.847942+00:00",
       "season_count": 6,
       "episode_count": 62
     },
@@ -1349,7 +1349,7 @@
           "link": "https://play.hbomax.com/mini-series/c967b1a4-d0e2-491e-967e-ae09f88fef62"
         }
       },
-      "last_checked": "2026-11-04T13:37:02.549014+00:00",
+      "last_checked": "2026-11-12T14:27:47.966251+00:00",
       "season_count": 1,
       "episode_count": 2
     },
@@ -1387,7 +1387,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-04T13:37:03.989359+00:00",
+      "last_checked": "2026-11-12T14:27:49.827755+00:00",
       "season_count": 6,
       "episode_count": 36
     },
@@ -1419,9 +1419,9 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-05T13:50:11.000444+00:00",
-      "season_count": 2,
-      "episode_count": 16,
+      "last_checked": "2026-11-12T14:27:51.777753+00:00",
+      "season_count": 3,
+      "episode_count": 24,
       "watched_seasons": 1
     },
     {
@@ -1444,22 +1444,22 @@
       ],
       "overview": "A conspiracy thriller about one of the best known but least understood crimes in history. This is the astonishing story of the hunt for John Wilkes Booth in the aftermath of Abraham Lincoln’s assas...",
       "streaming": {
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-2a63c87a-471f-4edd-9af2-4c5f988ce3ef",
-          "quality": "hd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
           "type": "subscription",
           "link": "https://tv.apple.com/us/show/manhunt/umc.cmc.3uqhvdplroersd5p2l72udkal",
           "quality": "uhd"
+        },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-2a63c87a-471f-4edd-9af2-4c5f988ce3ef",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-11-05T13:50:12.108250+00:00",
+      "last_checked": "2026-11-12T14:27:54.224840+00:00",
       "season_count": 1,
       "episode_count": 7
     },
@@ -1491,7 +1491,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-05T13:50:13.111691+00:00",
+      "last_checked": "2026-11-12T14:27:55.977259+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -2508,7 +2508,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-04T13:37:04.702593+00:00",
+      "last_checked": "2026-11-12T14:27:56.937542+00:00",
       "runtime": 89,
       "release_date": "2020-03-14"
     },
@@ -2536,7 +2536,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-04T13:37:05.182194+00:00",
+      "last_checked": "2026-11-12T14:27:57.727222+00:00",
       "runtime": 38,
       "release_date": "2022-04-14"
     },
@@ -2564,7 +2564,7 @@
           "link": "https://www.netflix.com/title/81128389"
         }
       },
-      "last_checked": "2026-11-04T13:37:06.430253+00:00",
+      "last_checked": "2026-11-12T14:27:59.374097+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2585,7 +2585,7 @@
       ],
       "overview": "It's the land we love and the land we think we know. We see America's breathtaking landscapes and wildlife as timeless, but the truth is very different. Its unique geography drives the forces of na...",
       "streaming": {},
-      "last_checked": "2026-11-04T13:37:08.038357+00:00",
+      "last_checked": "2026-11-12T14:28:01.811634+00:00",
       "season_count": 1,
       "episode_count": 6
     },

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T13:45:52.017703+00:00",
+  "last_updated": "2026-11-14T12:50:06.861012+00:00",
   "country": "us",
   "items": [
     {
@@ -3707,22 +3707,22 @@
           "link": "https://www.amazon.com/gp/video/detail/0HHK0IZHHNXN9OKTM071KVICX0",
           "quality": "hd"
         },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/show/rooster/umc.cmc.6r73tybdwwc0dpd1jvffj70q6",
-          "quality": "hd"
-        },
         "hbo": {
           "service": "hbo",
           "serviceName": "HBO Max",
           "type": "subscription",
           "link": "https://play.hbomax.com/show/c775cd23-a526-4c5f-a34c-30e831edf6e4",
           "quality": "uhd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/rooster/umc.cmc.6r73tybdwwc0dpd1jvffj70q6",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-11-06T13:35:09.934323+00:00",
+      "last_checked": "2026-11-14T12:49:53.702929+00:00",
       "season_count": 1,
       "episode_count": 10,
       "watched_seasons": 1
@@ -3752,7 +3752,7 @@
           "link": "https://www.netflix.com/title/81758849"
         }
       },
-      "last_checked": "2026-11-06T13:35:11.840777+00:00",
+      "last_checked": "2026-11-14T12:49:55.198315+00:00",
       "season_count": 1,
       "episode_count": 8,
       "watched_seasons": 1
@@ -3783,7 +3783,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-06T13:35:13.648151+00:00",
+      "last_checked": "2026-11-14T12:49:56.280803+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -3804,18 +3804,18 @@
       ],
       "overview": "Executive produced by Tom Hanks and Gary Goetzman, this epic miniseries event profiles one of America’s Founding Fathers as he guides his country through the uncertainty of its first tumultuous years.",
       "streaming": {
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://play.hbomax.com/show/6437fc79-b0cf-4a1f-8fc0-f214c8c060d7"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0MF1HVP4J9JM25RQGP3AWDH6ZN",
           "quality": "hd"
+        },
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/show/6437fc79-b0cf-4a1f-8fc0-f214c8c060d7"
         },
         "apple": {
           "service": "apple",
@@ -3825,7 +3825,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-11-06T13:35:15.372960+00:00",
+      "last_checked": "2026-11-14T12:49:57.354841+00:00",
       "season_count": 1,
       "episode_count": 7
     },
@@ -3861,7 +3861,7 @@
           "link": "https://www.netflix.com/title/81598066"
         }
       },
-      "last_checked": "2026-11-04T13:37:14.792566+00:00",
+      "last_checked": "2026-11-14T12:49:58.603177+00:00",
       "season_count": 2,
       "episode_count": 16
     },
@@ -3907,7 +3907,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-06T13:35:16.358740+00:00",
+      "last_checked": "2026-11-14T12:49:59.155746+00:00",
       "runtime": 102,
       "release_date": "2026-06-19"
     },
@@ -3937,7 +3937,7 @@
           "price": "24.99 USD"
         }
       },
-      "last_checked": "2026-11-06T13:35:17.095989+00:00",
+      "last_checked": "2026-11-14T12:49:59.520696+00:00",
       "release_date": "2026-10-23",
       "runtime": 116
     },
@@ -3950,7 +3950,7 @@
         "family"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/3zxrelHqoPJwOP4oj4Wq1cNOUdG.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
       "rating": "PG",
       "genres": [
         "Adventure",
@@ -3959,7 +3959,7 @@
       ],
       "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch ...",
       "streaming": {},
-      "last_checked": "2026-11-06T13:35:18.001546+00:00",
+      "last_checked": "2026-11-14T12:50:00.069609+00:00",
       "release_date": "2026-11-25",
       "runtime": 103
     },
@@ -3972,7 +3972,7 @@
         "family"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/bgt6dSrwkJCMqdKWRpN4ZTAd1kL.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/jNDWZ8hV7LHATIhaA3pDV5iWWcZ.jpg",
       "rating": "",
       "genres": [
         "Adventure",
@@ -3981,7 +3981,7 @@
       ],
       "overview": "After years of maneuvering the canal-ridden, superstitious city of Venice, Italy, a scrappy black cat named Nero begins to question whether he’s lived the right lives. Indebted to Rocco, a ruthless...",
       "streaming": {},
-      "last_checked": "2026-11-06T13:35:18.929765+00:00",
+      "last_checked": "2026-11-14T12:50:00.626775+00:00",
       "release_date": "2027-03-05"
     },
     {
@@ -4002,6 +4002,13 @@
       ],
       "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together t...",
       "streaming": {
+        "peacock": {
+          "service": "peacock",
+          "serviceName": "Peacock",
+          "type": "subscription",
+          "link": "https://www.peacocktv.com/watch/asset/movies/minions-and-monsters/91887a50-e9d8-3d0e-9c3a-e213d25bd260",
+          "quality": "uhd"
+        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -4017,16 +4024,9 @@
           "link": "https://www.amazon.com/gp/video/detail/0Q3VAOUAIPMBYOV70KCJTSNZ6O?ref_=atv_dp",
           "quality": "uhd",
           "price": "5.99 USD"
-        },
-        "peacock": {
-          "service": "peacock",
-          "serviceName": "Peacock",
-          "type": "subscription",
-          "link": "https://www.peacocktv.com/watch/asset/movies/minions-and-monsters/91887a50-e9d8-3d0e-9c3a-e213d25bd260",
-          "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-06T13:35:19.906682+00:00",
+      "last_checked": "2026-11-14T12:50:01.160815+00:00",
       "release_date": "2026-07-01",
       "runtime": 90
     },
@@ -4055,7 +4055,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-06T13:35:21.728947+00:00",
+      "last_checked": "2026-11-14T12:50:02.224871+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -4084,7 +4084,7 @@
           "link": "https://www.netflix.com/title/81750702"
         }
       },
-      "last_checked": "2026-11-04T13:37:16.687627+00:00",
+      "last_checked": "2026-11-14T12:50:03.786844+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -4114,7 +4114,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-07T12:15:33.415940+00:00",
+      "last_checked": "2026-11-14T12:50:05.039646+00:00",
       "season_count": 5,
       "episode_count": 40
     },
@@ -4155,7 +4155,7 @@
         "dad"
       ],
       "priority": {},
-      "poster": "https://image.tmdb.org/t/p/w300/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/qk8qWJxM9hZSbSjSoEz0LAzcoPb.jpg",
       "rating": "R",
       "genres": [
         "Comedy",
@@ -4163,7 +4163,7 @@
       ],
       "overview": "When Mona Friedman is cast in a bit part at a small community theater, she transforms from a shy, unassuming housewife into a zealous method actor willing to do anything to protect the artistic int...",
       "streaming": {},
-      "last_checked": "2026-11-07T12:15:34.105387+00:00",
+      "last_checked": "2026-11-14T12:50:05.606743+00:00",
       "release_date": "2026-10-07",
       "runtime": 105
     },
@@ -4213,7 +4213,7 @@
       ],
       "overview": "Two children discover a wood full of pools leading to other worlds. One takes them to a dead city beneath a dying sun, where they wake a queen who exterminated its population and accidentally bring...",
       "streaming": {},
-      "last_checked": "2026-11-05T13:50:16.875989+00:00",
+      "last_checked": "2026-11-14T12:50:06.153250+00:00",
       "release_date": "2027-02-12"
     },
     {
@@ -4232,8 +4232,16 @@
         "History"
       ],
       "overview": "Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability rights protestors send a very loud message: The s...",
-      "streaming": {},
-      "last_checked": "2026-11-07T12:15:34.653809+00:00",
+      "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "subscription",
+          "link": "https://tv.apple.com/us/movie/being-heumann/umc.cmc.5gf63v7zj97yiozkpj26lpy55?playableId=tvs.sbd.4000%3AA0067301001",
+          "quality": "uhd"
+        }
+      },
+      "last_checked": "2026-11-14T12:50:06.687150+00:00",
       "release_date": "2026-10-24",
       "runtime": 127
     }

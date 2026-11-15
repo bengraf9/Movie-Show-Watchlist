@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T12:50:06.861012+00:00",
+  "last_updated": "2026-11-15T13:16:35.352133+00:00",
   "country": "us",
   "items": [
     {
@@ -873,7 +873,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-08T12:35:36.435709+00:00",
+      "last_checked": "2026-11-15T13:16:21.971676+00:00",
       "season_count": 3,
       "episode_count": 39,
       "watched_seasons": 2
@@ -1007,7 +1007,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-08T12:35:38.697868+00:00",
+      "last_checked": "2026-11-15T13:16:23.222323+00:00",
       "season_count": 3,
       "episode_count": 33,
       "watched_seasons": 3
@@ -1514,11 +1514,25 @@
       ],
       "overview": "An honest, often hilarious window into a 21st-century American family spanning three generations.",
       "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/modern-family/umc.cmc.cmw0vccgg7hpwfa3wgvvu5q0",
+          "quality": "hd"
+        },
         "hulu": {
           "service": "hulu",
           "serviceName": "Hulu",
           "type": "subscription",
           "link": "https://www.hulu.com/series/modern-family-883c414c-34a3-4fcc-b50a-0ad5a184c977",
+          "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0IV5WZ6TUSCYEZLQCQFKSN3Z8B",
           "quality": "hd"
         },
         "peacock": {
@@ -1534,23 +1548,9 @@
           "type": "subscription",
           "link": "https://www.disneyplus.com/browse/entity-943f5577-caad-4e34-a8d3-4a9a816d078a",
           "quality": "hd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0IV5WZ6TUSCYEZLQCQFKSN3Z8B",
-          "quality": "hd"
-        },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/show/modern-family/umc.cmc.cmw0vccgg7hpwfa3wgvvu5q0",
-          "quality": "hd"
         }
       },
-      "last_checked": "2026-11-08T12:35:40.580635+00:00",
+      "last_checked": "2026-11-15T13:16:24.724037+00:00",
       "season_count": 11,
       "episode_count": 250
     },
@@ -1565,7 +1565,7 @@
       "priority": {
         "dad-series": 8
       },
-      "poster": "https://image.tmdb.org/t/p/w300/AcVckVxfN169mGOgQGYe983KT1C.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/6spxkjxCcog8HR3cLsDVROsjz3h.jpg",
       "rating": "TV-14",
       "genres": [
         "Adventure",
@@ -1573,7 +1573,7 @@
       ],
       "overview": "There is nothing special about Harry Potter - at least that's what his Aunt Petunia always says. On his 11th birthday, a letter of admittance to Hogwarts School of Witchcraft and Wizardry opens up ...",
       "streaming": {},
-      "last_checked": "2026-11-08T12:35:42.434839+00:00",
+      "last_checked": "2026-11-15T13:16:25.836764+00:00",
       "season_count": 1,
       "episode_count": 1
     },
@@ -1602,7 +1602,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-08T12:35:44.133231+00:00",
+      "last_checked": "2026-11-15T13:16:26.834453+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -1634,7 +1634,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-11-08T12:35:45.080764+00:00",
+      "last_checked": "2026-11-15T13:16:27.401214+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1682,7 +1682,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-08T12:35:45.780980+00:00",
+      "last_checked": "2026-11-15T13:16:27.757699+00:00",
       "runtime": 96,
       "release_date": "2009-05-29"
     },
@@ -1730,7 +1730,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-08T12:35:46.526871+00:00",
+      "last_checked": "2026-11-15T13:16:28.138978+00:00",
       "runtime": 102,
       "release_date": "2025-06-20"
     },
@@ -1762,7 +1762,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-11-08T12:35:47.209450+00:00",
+      "last_checked": "2026-11-15T13:16:28.507638+00:00",
       "runtime": 96,
       "release_date": "1990-04-07"
     },
@@ -1795,7 +1795,7 @@
           "price": "14.99 USD"
         }
       },
-      "last_checked": "2026-11-08T12:35:47.831150+00:00",
+      "last_checked": "2026-11-15T13:16:28.906175+00:00",
       "runtime": 93,
       "release_date": "2007-11-16"
     },
@@ -1843,7 +1843,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-08T12:35:48.520351+00:00",
+      "last_checked": "2026-11-15T13:16:29.289312+00:00",
       "runtime": 98,
       "release_date": "1981-06-26"
     },
@@ -1891,7 +1891,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-08T12:35:49.244520+00:00",
+      "last_checked": "2026-11-15T13:16:29.654461+00:00",
       "runtime": 134,
       "release_date": "2018-05-25"
     },
@@ -1932,7 +1932,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-08T12:35:49.867807+00:00",
+      "last_checked": "2026-11-15T13:16:30.026697+00:00",
       "runtime": 97,
       "release_date": "2019-09-27"
     },
@@ -1992,7 +1992,7 @@
           "link": "https://therokuchannel.roku.com/details/e174f1efbb935aa191af7de462328790"
         }
       },
-      "last_checked": "2026-11-08T12:35:50.732026+00:00",
+      "last_checked": "2026-11-15T13:16:30.412404+00:00",
       "runtime": 118,
       "release_date": "2003-04-18"
     },
@@ -2021,8 +2021,8 @@
           "serviceName": "Prime Video",
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0O4ID4HQRWTX3ANR58042XXJY7?ref_=atv_dp",
-          "quality": "uhd",
-          "price": "3.99 USD"
+          "quality": "sd",
+          "price": "2.99 USD"
         },
         "apple": {
           "service": "apple",
@@ -2033,7 +2033,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-08T12:35:51.431048+00:00",
+      "last_checked": "2026-11-15T13:16:30.779104+00:00",
       "runtime": 85,
       "release_date": "2024-12-06"
     },
@@ -2057,14 +2057,6 @@
       ],
       "overview": "As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace. Experience the motion pic...",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0HK9XPVWNZ64U1ES6OJKN2P9Z8?ref_=atv_dp",
-          "quality": "uhd",
-          "price": "3.99 USD"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -2080,6 +2072,14 @@
           "link": "https://www.disneyplus.com/browse/entity-438ec2e9-a05c-4b01-84f4-18960b363868",
           "quality": "uhd"
         },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0HK9XPVWNZ64U1ES6OJKN2P9Z8?ref_=atv_dp",
+          "quality": "uhd",
+          "price": "3.99 USD"
+        },
         "starz": {
           "service": "starz",
           "serviceName": "Starz",
@@ -2088,7 +2088,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-11-08T12:35:52.138632+00:00",
+      "last_checked": "2026-11-15T13:16:31.152649+00:00",
       "runtime": 136,
       "release_date": "2015-12-18"
     },
@@ -2136,7 +2136,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-08T12:35:52.863939+00:00",
+      "last_checked": "2026-11-15T13:16:31.586662+00:00",
       "runtime": 152,
       "release_date": "2017-12-15"
     },
@@ -2184,7 +2184,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-08T12:35:53.563131+00:00",
+      "last_checked": "2026-11-15T13:16:31.960927+00:00",
       "runtime": 142,
       "release_date": "2019-12-20"
     },
@@ -2216,6 +2216,13 @@
           "quality": "uhd",
           "price": "3.99 USD"
         },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-d4b87168-7d0b-49bc-b138-457ab7723feb",
+          "quality": "uhd"
+        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -2223,16 +2230,9 @@
           "link": "https://tv.apple.com/us/movie/inside-out/umc.cmc.e8rnwzv7klnnt9d5gq9m45nv?playableId=tvs.sbd.9001%3A999607190",
           "quality": "hd",
           "price": "3.99 USD"
-        },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-d4b87168-7d0b-49bc-b138-457ab7723feb",
-          "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-08T12:35:54.291995+00:00",
+      "last_checked": "2026-11-15T13:16:33.128713+00:00",
       "runtime": 95,
       "release_date": "2015-06-19"
     },
@@ -2271,7 +2271,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-08T12:35:54.924335+00:00",
+      "last_checked": "2026-11-15T13:16:33.499441+00:00",
       "runtime": 84,
       "release_date": "1993-02-12"
     },
@@ -2319,7 +2319,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-08T12:35:55.624697+00:00",
+      "last_checked": "2026-11-15T13:16:33.855027+00:00",
       "runtime": 107,
       "release_date": "2022-11-23"
     },
@@ -2351,7 +2351,7 @@
           "price": "2.99 USD"
         }
       },
-      "last_checked": "2026-11-08T12:35:56.257181+00:00",
+      "last_checked": "2026-11-15T13:16:34.225067+00:00",
       "runtime": 90,
       "release_date": "1984-07-13"
     },
@@ -2384,7 +2384,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-08T12:35:56.939727+00:00",
+      "last_checked": "2026-11-15T13:16:34.596155+00:00",
       "runtime": 84,
       "release_date": "1999-07-14"
     },
@@ -2415,6 +2415,13 @@
           "quality": "hd",
           "price": "4.99 USD"
         },
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/movie/01d3fe24-a0ec-432f-bdd5-4c513472b528",
+          "quality": "uhd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -2422,16 +2429,9 @@
           "link": "https://www.amazon.com/gp/video/detail/0FCO4Z9G8KI4R1CXC5E3Y3F46Z?ref_=atv_dp",
           "quality": "uhd",
           "price": "4.99 USD"
-        },
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://play.hbomax.com/movie/01d3fe24-a0ec-432f-bdd5-4c513472b528",
-          "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-08T12:35:57.702262+00:00",
+      "last_checked": "2026-11-15T13:16:34.966375+00:00",
       "runtime": 97,
       "release_date": "2021-11-24"
     },
@@ -2479,7 +2479,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-08T12:35:58.402974+00:00",
+      "last_checked": "2026-11-15T13:16:35.351860+00:00",
       "runtime": 140,
       "release_date": "2023-05-26"
     },

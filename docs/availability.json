@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T14:29:37.375577+00:00",
+  "last_updated": "2026-11-17T15:20:29.016936+00:00",
   "country": "us",
   "items": [
     {
@@ -69,7 +69,7 @@
           "link": "https://www.netflix.com/title/80097389"
         }
       },
-      "last_checked": "2026-11-10T14:05:55.579674+00:00",
+      "last_checked": "2026-11-17T15:20:10.762400+00:00",
       "runtime": 97,
       "release_date": "2016-07-01"
     },
@@ -109,7 +109,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-11-10T14:05:56.314365+00:00",
+      "last_checked": "2026-11-17T15:20:11.172420+00:00",
       "runtime": 94,
       "release_date": "1987-04-17"
     },
@@ -181,7 +181,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-10T14:05:57.092219+00:00",
+      "last_checked": "2026-11-17T15:20:11.576857+00:00",
       "runtime": 110,
       "release_date": "2025-06-13"
     },
@@ -203,14 +203,6 @@
       ],
       "overview": "Young Sammy Fabelman falls in love with filmmaking after watching \"The Greatest Show on Earth.\"",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/the-fabelmans/umc.cmc.4lgvd75jcuqp79fuar3e9p9zh?playableId=tvs.sbd.9001%3A1655490626",
-          "quality": "hd",
-          "price": "3.99 USD"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -225,9 +217,17 @@
           "type": "subscription",
           "link": "https://www.peacocktv.com/watch/asset/movies/the-fabelmans/2a5217ac-bb12-3e04-8867-f88ae97c4660",
           "quality": "uhd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/the-fabelmans/umc.cmc.4lgvd75jcuqp79fuar3e9p9zh?playableId=tvs.sbd.9001%3A1655490626",
+          "quality": "hd",
+          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-10T14:05:57.810880+00:00",
+      "last_checked": "2026-11-17T15:20:11.966762+00:00",
       "runtime": 150,
       "release_date": "2022-11-23"
     },
@@ -300,7 +300,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-10T14:05:58.454712+00:00",
+      "last_checked": "2026-11-17T15:20:12.364963+00:00",
       "runtime": 91,
       "release_date": "1991-02-08"
     },
@@ -332,7 +332,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-10T14:05:59.205556+00:00",
+      "last_checked": "2026-11-17T15:20:12.748397+00:00",
       "runtime": 124,
       "release_date": "1979-12-19"
     },
@@ -355,6 +355,13 @@
       ],
       "overview": "A look at the military commander's origins and his swift, ruthless climb to emperor, viewed through the prism of his addictive and often volatile relationship with his wife and one true love, Josep...",
       "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "subscription",
+          "link": "https://tv.apple.com/us/movie/napoleon-the-directors-cut/umc.cmc.gtk0q9t2mapcjs75d31vvrs2?playableId=tvs.sbd.4000%3AA0064201002",
+          "quality": "uhd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -362,16 +369,9 @@
           "link": "https://www.amazon.com/gp/video/detail/0GKJ06SJM9QAGM8UCSBTK6N4BH?ref_=atv_dp",
           "quality": "uhd",
           "price": "12.99 USD"
-        },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "subscription",
-          "link": "https://tv.apple.com/us/movie/napoleon-the-directors-cut/umc.cmc.gtk0q9t2mapcjs75d31vvrs2?playableId=tvs.sbd.4000%3AA0064201002",
-          "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-10T14:05:59.917950+00:00",
+      "last_checked": "2026-11-17T15:20:13.125198+00:00",
       "runtime": 157,
       "release_date": "2023-11-22"
     },
@@ -410,7 +410,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-11-10T14:06:00.613294+00:00",
+      "last_checked": "2026-11-17T15:20:13.565676+00:00",
       "runtime": 106,
       "release_date": "2024-03-08"
     },
@@ -456,7 +456,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-11-10T14:06:01.338284+00:00",
+      "last_checked": "2026-11-17T15:20:13.940541+00:00",
       "runtime": 83,
       "release_date": "2025-09-12"
     },
@@ -496,7 +496,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-10T14:06:01.987577+00:00",
+      "last_checked": "2026-11-17T15:20:14.333554+00:00",
       "runtime": 129,
       "release_date": "1963-03-16"
     },
@@ -542,7 +542,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-10T14:06:02.632679+00:00",
+      "last_checked": "2026-11-17T15:20:14.712396+00:00",
       "runtime": 107,
       "release_date": "1982-01-01"
     },
@@ -589,7 +589,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-11-10T14:06:03.370005+00:00",
+      "last_checked": "2026-11-17T15:20:15.099308+00:00",
       "runtime": 98,
       "release_date": "2024-06-21"
     },
@@ -662,7 +662,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-10T14:06:04.028543+00:00",
+      "last_checked": "2026-11-17T15:20:15.550304+00:00",
       "runtime": 114,
       "release_date": "2013-12-25"
     },
@@ -677,7 +677,7 @@
       "priority": {
         "dad-movie": 17
       },
-      "poster": "https://cdn.movieofthenight.com/show/14625489/poster/vertical/en/240.jpg?Expires=1810896396&Signature=StNHxE-G9lVdJhcoctIu9UB5LwBHr~ah~VqTVUx9dpUIuNJXK~JnoIEpk5Vy8yn-sCbgZhSzMcfmZg3zA2NUo2z72jk544eoRixQH8I9iyRcn3gq8W910jrZblFu~~wg9slbxq-HGcvSMhROYSEArkiviKR~tYSzcKlnVFQ~5pe1NfeBjJzSPb43g~RKEwiCY2pKzO7K2ewNjFzqhbJdg9AioFLwG~OQO8MercVVIlNSDZHov0rPtvI8E8hT~NOvRfKCYnCqe3S7~cHa4DHZXpmQFkbjzqrBFzmv1No8t6oAlDrvSkQGEQ5jQd4far4Y4A8vr8R3YJQm8aBNAxsyZg__&Key-Pair-Id=KK4HN3OO4AT5R",
+      "poster": "https://cdn.movieofthenight.com/show/14625489/poster/vertical/en/240.jpg?Expires=1826449632&Signature=lSa5NRmCJs1yqLKfd~JT1YuCeOyt5jnD922beZ83UbhFM0zAi9MH-rDJ-e8c-xzWIVoPAY0zAJ2qkIo9Ff~smO4wIR7RlSKfCspuCp3q~UJhAs0PcGUa5xHpbiDPmjcNu7TCjVUqEmIX35lyHENl36NquCdXkqApXK-MAJnanmIbKevVaBfgt8ZOgQzEH4sg8~n3fEmmmeqNwjzfc2Gu46VN6T6jgSikHIu3aaU9w1UarrgE659mJiuQH-sINDmwrYaMc3053jYl0qoV4PlRQc9UaiXTPgwRoojNtZwiWr2JxnOv5hEPvkln66DknSHYxVHWjh1nTmktNo9tyw7dYQ__&Key-Pair-Id=KK4HN3OO4AT5R",
       "rating": "R",
       "genres": [
         "Mystery"
@@ -701,7 +701,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-10T14:06:04.682375+00:00",
+      "last_checked": "2026-11-17T15:20:15.924886+00:00",
       "runtime": 93,
       "release_date": "2025-03-14"
     },
@@ -840,7 +840,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-10T14:06:06.565439+00:00",
+      "last_checked": "2026-11-17T15:20:16.983571+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1
@@ -903,7 +903,7 @@
           "link": "https://www.netflix.com/title/81122572"
         }
       },
-      "last_checked": "2026-11-10T14:06:08.282236+00:00",
+      "last_checked": "2026-11-17T15:20:18.195393+00:00",
       "season_count": 1,
       "episode_count": 3,
       "watched_seasons": 1
@@ -974,7 +974,7 @@
           "link": "https://www.netflix.com/title/81677257"
         }
       },
-      "last_checked": "2026-11-10T14:06:10.679329+00:00",
+      "last_checked": "2026-11-17T15:20:19.468630+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -1054,7 +1054,7 @@
           "quality": "sd"
         }
       },
-      "last_checked": "2026-11-10T14:06:12.507433+00:00",
+      "last_checked": "2026-11-17T15:20:20.672431+00:00",
       "season_count": 4,
       "episode_count": 40
     },
@@ -1090,7 +1090,7 @@
           "serviceName": "Prime Video",
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0S4PHJ50UWJJMEE08SOKDCOI6E",
-          "quality": "hd"
+          "quality": "uhd"
         },
         "apple": {
           "service": "apple",
@@ -1100,7 +1100,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-11-10T14:06:14.448057+00:00",
+      "last_checked": "2026-11-17T15:20:21.834121+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1211,21 +1211,21 @@
           "link": "https://therokuchannel.roku.com/details/61c636a6f9c959adbdcc0053c6e18597",
           "quality": "hd"
         },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "subscription",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.becfe3bb-aa35-4994-86b4-dbe233da0e7a"
-        },
         "tubi": {
           "service": "tubi",
           "serviceName": "Tubi",
           "type": "free",
           "link": "https://tubitv.com/series/0300017904/american-gods",
           "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "subscription",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.becfe3bb-aa35-4994-86b4-dbe233da0e7a"
         }
       },
-      "last_checked": "2026-11-10T14:06:19.068156+00:00",
+      "last_checked": "2026-11-17T15:20:25.311751+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1269,7 +1269,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-10T14:06:21.597991+00:00",
+      "last_checked": "2026-11-17T15:20:27.585529+00:00",
       "season_count": 2,
       "episode_count": 20
     },
@@ -1305,22 +1305,22 @@
           "link": "https://www.peacocktv.com/watch/asset/tv/community/8700597605358573112",
           "quality": "uhd"
         },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0RZDRR4YJ51TRS4ISXB1JC1KTR",
-          "quality": "sd"
-        },
         "hulu": {
           "service": "hulu",
           "serviceName": "Hulu",
           "type": "subscription",
           "link": "https://www.hulu.com/series/community-200c56d4-124c-41a1-b7d2-688f86f432bf",
           "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0RZDRR4YJ51TRS4ISXB1JC1KTR",
+          "quality": "sd"
         }
       },
-      "last_checked": "2026-11-10T14:06:23.704152+00:00",
+      "last_checked": "2026-11-17T15:20:28.830828+00:00",
       "season_count": 6,
       "episode_count": 110
     },

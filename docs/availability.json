@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T15:20:29.016936+00:00",
+  "last_updated": "2026-11-18T14:55:54.280864+00:00",
   "country": "us",
   "items": [
     {
@@ -3298,7 +3298,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-09T14:53:26.649243+00:00",
+      "last_checked": "2026-11-18T14:55:47.441390+00:00",
       "runtime": 107,
       "release_date": "2021-03-05"
     },
@@ -3319,14 +3319,6 @@
       ],
       "overview": "The first-ever live-action Pokémon adventure, POKÉMON Detective Pikachu, stars Ryan Reynolds as Pikachu, the iconic face of the global Pokémon phenomenon.",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/pokemon-detective-pikachu/umc.cmc.2f3ohdbkpol7ui73lvygtcge2?playableId=tvs.sbd.9001%3A1460331265",
-          "quality": "hd",
-          "price": "4.99 USD"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -3334,9 +3326,17 @@
           "link": "https://www.amazon.com/gp/video/detail/0K1VZNF96GVK06I8KZJ1K738V0?ref_=atv_dp",
           "quality": "uhd",
           "price": "4.99 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/pokemon-detective-pikachu/umc.cmc.2f3ohdbkpol7ui73lvygtcge2?playableId=tvs.sbd.9001%3A1460331265",
+          "quality": "hd",
+          "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-11-09T14:53:27.126619+00:00",
+      "last_checked": "2026-11-18T14:55:48.165210+00:00",
       "runtime": 104,
       "release_date": "2019-05-10"
     },
@@ -3366,6 +3366,14 @@
           "quality": "hd",
           "price": "3.99 USD"
         },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/spy-kids/umc.cmc.446wylnibtaa32i84yoip4rl1?playableId=tvs.sbd.9001%3A1520498443",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
         "peacock": {
           "service": "peacock",
           "serviceName": "Peacock",
@@ -3374,7 +3382,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-11-09T14:53:27.695918+00:00",
+      "last_checked": "2026-11-18T14:55:48.881854+00:00",
       "runtime": 84,
       "release_date": "2001-03-18"
     },
@@ -3410,9 +3418,16 @@
           "link": "https://tv.apple.com/us/movie/uglydolls/umc.cmc.4lu8wo536mycez1alx3ugxoi5?playableId=tvs.sbd.9001%3A1701666869",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "peacock": {
+          "service": "peacock",
+          "serviceName": "Peacock",
+          "type": "subscription",
+          "link": "https://www.peacocktv.com/watch/asset/movies/uglydolls/685aaf42-7403-3e8d-b396-d5177403a869",
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-11-09T14:53:28.295005+00:00",
+      "last_checked": "2026-11-18T14:55:50.066006+00:00",
       "runtime": 87,
       "release_date": "2019-05-03"
     },
@@ -3456,7 +3471,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-09T14:53:28.835676+00:00",
+      "last_checked": "2026-11-18T14:55:50.857474+00:00",
       "runtime": 137,
       "release_date": "2025-04-18"
     },
@@ -4142,7 +4157,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-09T14:53:30.270949+00:00",
+      "last_checked": "2026-11-18T14:55:53.120894+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -4190,7 +4205,7 @@
           "link": "https://www.netflix.com/title/81611105"
         }
       },
-      "last_checked": "2026-11-09T14:53:31.043621+00:00",
+      "last_checked": "2026-11-18T14:55:54.029420+00:00",
       "runtime": 126,
       "release_date": "2026-10-16"
     },

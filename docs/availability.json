@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T14:55:54.280864+00:00",
+  "last_updated": "2026-11-19T15:02:47.220746+00:00",
   "country": "us",
   "items": [
     {
@@ -13,16 +13,14 @@
       "priority": {
         "dad-movie": 1
       },
-      "poster": "https://image.tmdb.org/t/p/w300/tTMmREfhVd51CCg7GN73wL8cIoT.jpg",
-      "rating": "",
+      "poster": "https://image.tmdb.org/t/p/w300/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
+      "rating": "PG-13",
       "genres": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
+        "Action"
       ],
       "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
       "streaming": {},
-      "last_checked": "2026-11-12T14:27:30.880502+00:00",
+      "last_checked": "2026-11-19T15:01:19.151617+00:00",
       "release_date": "2026-12-18",
       "runtime": 165
     },
@@ -125,15 +123,24 @@
       "priority": {
         "dad-movie": 9
       },
-      "poster": "https://image.tmdb.org/t/p/w300/glt0v4I89rMWstDNCaFXc5SNyO1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
       "rating": "PG-13",
       "genres": [
         "Action",
         "Adventure"
       ],
       "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge,...",
-      "streaming": {},
-      "last_checked": "2026-11-12T14:27:31.934757+00:00",
+      "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0P3ONZ4IHQ75ZC4ZMIZ9D4NE7Q?ref_=atv_dp",
+          "quality": "uhd",
+          "price": "5.99 USD"
+        }
+      },
+      "last_checked": "2026-11-19T15:01:20.391609+00:00",
       "release_date": "20-12-18",
       "runtime": 150
     },
@@ -268,7 +275,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-12T14:27:32.942766+00:00",
+      "last_checked": "2026-11-19T15:01:21.503360+00:00",
       "runtime": 111,
       "release_date": "1992-09-25"
     },
@@ -621,7 +628,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-12T14:27:33.667380+00:00",
+      "last_checked": "2026-11-19T15:01:22.230273+00:00",
       "runtime": 143,
       "release_date": "20-06-05"
     },
@@ -725,22 +732,22 @@
       ],
       "overview": "Tech-school prodigies learn their laser project is actually a death beam funded by the military.",
       "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0SYQ17EFL51VTDUNWI5XPTGXWJ?ref_=atv_dp",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
         "tubi": {
           "service": "tubi",
           "serviceName": "Tubi",
           "type": "free",
           "link": "https://tubitv.com/movies/658062/real-genius"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0PDLTA7PPVYN5D7LTHQPDZYTQ8?ref_=atv_dp",
-          "quality": "uhd",
-          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-12T14:27:34.420584+00:00",
+      "last_checked": "2026-11-19T15:01:23.132766+00:00",
       "runtime": 105,
       "release_date": "1985-08-07"
     },
@@ -773,7 +780,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-12T14:27:36.288604+00:00",
+      "last_checked": "2026-11-19T15:01:29.039756+00:00",
       "season_count": 2,
       "episode_count": 19,
       "watched_seasons": 2
@@ -806,7 +813,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-12T14:27:38.409139+00:00",
+      "last_checked": "2026-11-19T15:01:37.121652+00:00",
       "season_count": 5,
       "episode_count": 50,
       "watched_seasons": 5
@@ -942,7 +949,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-11-12T14:27:40.831133+00:00",
+      "last_checked": "2026-11-19T15:01:46.832963+00:00",
       "season_count": 2,
       "episode_count": 12,
       "watched_seasons": 1
@@ -1133,7 +1140,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-12T14:27:43.646961+00:00",
+      "last_checked": "2026-11-19T15:02:03.425954+00:00",
       "season_count": 1,
       "episode_count": 10,
       "watched_seasons": 1
@@ -1158,22 +1165,22 @@
       ],
       "overview": "Based on the international best-selling book series by James S.A. Corey, The Expanse is a Hugo award-winning television series, airing globally on Amazon Prime.",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/show/the-expanse/umc.cmc.1ixz96nx5fk3uz3huu99vqpbs",
-          "quality": "sd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "subscription",
           "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.329c3ebd-3571-4416-8060-f662cc1106d5",
           "quality": "uhd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/the-expanse/umc.cmc.1ixz96nx5fk3uz3huu99vqpbs",
+          "quality": "sd"
         }
       },
-      "last_checked": "2026-11-12T14:27:45.847942+00:00",
+      "last_checked": "2026-11-19T15:02:06.952875+00:00",
       "season_count": 6,
       "episode_count": 62
     },
@@ -1349,7 +1356,7 @@
           "link": "https://play.hbomax.com/mini-series/c967b1a4-d0e2-491e-967e-ae09f88fef62"
         }
       },
-      "last_checked": "2026-11-12T14:27:47.966251+00:00",
+      "last_checked": "2026-11-19T15:02:12.105498+00:00",
       "season_count": 1,
       "episode_count": 2
     },
@@ -1372,22 +1379,22 @@
       ],
       "overview": "A dysfunctional team of MI5 agents and their obnoxious boss, the notorious Jackson Lamb, navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "free",
-          "link": "https://www.amazon.com/gp/video/detail/0MEYJKN34E2DBOY4OY7Z31N4Q4",
-          "quality": "uhd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
           "type": "subscription",
           "link": "https://tv.apple.com/us/show/slow-horses/umc.cmc.2szz3fdt71tl1ulnbp8utgq5o",
           "quality": "uhd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "free",
+          "link": "https://www.amazon.com/gp/video/detail/0MEYJKN34E2DBOY4OY7Z31N4Q4",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-12T14:27:49.827755+00:00",
+      "last_checked": "2026-11-19T15:02:16.121483+00:00",
       "season_count": 6,
       "episode_count": 36
     },
@@ -1419,7 +1426,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-12T14:27:51.777753+00:00",
+      "last_checked": "2026-11-19T15:02:21.656477+00:00",
       "season_count": 3,
       "episode_count": 24,
       "watched_seasons": 1
@@ -1459,7 +1466,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-11-12T14:27:54.224840+00:00",
+      "last_checked": "2026-11-19T15:02:29.234970+00:00",
       "season_count": 1,
       "episode_count": 7
     },
@@ -1491,7 +1498,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-12T14:27:55.977259+00:00",
+      "last_checked": "2026-11-19T15:02:32.938951+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -2508,7 +2515,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-12T14:27:56.937542+00:00",
+      "last_checked": "2026-11-19T15:02:34.028120+00:00",
       "runtime": 89,
       "release_date": "2020-03-14"
     },
@@ -2536,7 +2543,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-12T14:27:57.727222+00:00",
+      "last_checked": "2026-11-19T15:02:34.919261+00:00",
       "runtime": 38,
       "release_date": "2022-04-14"
     },
@@ -2564,7 +2571,7 @@
           "link": "https://www.netflix.com/title/81128389"
         }
       },
-      "last_checked": "2026-11-12T14:27:59.374097+00:00",
+      "last_checked": "2026-11-19T15:02:38.115202+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2585,7 +2592,7 @@
       ],
       "overview": "It's the land we love and the land we think we know. We see America's breathtaking landscapes and wildlife as timeless, but the truth is very different. Its unique geography drives the forces of na...",
       "streaming": {},
-      "last_checked": "2026-11-12T14:28:01.811634+00:00",
+      "last_checked": "2026-11-19T15:02:46.973065+00:00",
       "season_count": 1,
       "episode_count": 6
     },

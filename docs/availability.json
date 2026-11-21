@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T14:44:16.216258+00:00",
+  "last_updated": "2026-11-21T14:00:54.364482+00:00",
   "country": "us",
   "items": [
     {
@@ -3729,22 +3729,22 @@
           "link": "https://www.amazon.com/gp/video/detail/0HHK0IZHHNXN9OKTM071KVICX0",
           "quality": "hd"
         },
-        "hbo": {
-          "service": "hbo",
-          "serviceName": "HBO Max",
-          "type": "subscription",
-          "link": "https://play.hbomax.com/show/c775cd23-a526-4c5f-a34c-30e831edf6e4",
-          "quality": "uhd"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
           "type": "buy",
           "link": "https://tv.apple.com/us/show/rooster/umc.cmc.6r73tybdwwc0dpd1jvffj70q6",
           "quality": "hd"
+        },
+        "hbo": {
+          "service": "hbo",
+          "serviceName": "HBO Max",
+          "type": "subscription",
+          "link": "https://play.hbomax.com/show/c775cd23-a526-4c5f-a34c-30e831edf6e4",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-14T12:49:53.702929+00:00",
+      "last_checked": "2026-11-21T14:00:00.340763+00:00",
       "season_count": 1,
       "episode_count": 10,
       "watched_seasons": 1
@@ -3774,7 +3774,7 @@
           "link": "https://www.netflix.com/title/81758849"
         }
       },
-      "last_checked": "2026-11-14T12:49:55.198315+00:00",
+      "last_checked": "2026-11-21T14:00:08.393589+00:00",
       "season_count": 1,
       "episode_count": 8,
       "watched_seasons": 1
@@ -3805,7 +3805,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-14T12:49:56.280803+00:00",
+      "last_checked": "2026-11-21T14:00:12.391982+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -3847,7 +3847,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-11-14T12:49:57.354841+00:00",
+      "last_checked": "2026-11-21T14:00:16.252467+00:00",
       "season_count": 1,
       "episode_count": 7
     },
@@ -3869,23 +3869,23 @@
       ],
       "overview": "Percy Jackson takes on the Titan’s curse to save Annabeth and Olympus.",
       "streaming": {
+        "netflix": {
+          "service": "netflix",
+          "serviceName": "Netflix",
+          "type": "subscription",
+          "link": "https://www.netflix.com/title/81598066"
+        },
         "disney": {
           "service": "disney",
           "serviceName": "Disney+",
           "type": "subscription",
           "link": "https://www.disneyplus.com/browse/entity-f1c31566-ec05-4d30-b23f-3177442233f4",
           "quality": "uhd"
-        },
-        "netflix": {
-          "service": "netflix",
-          "serviceName": "Netflix",
-          "type": "subscription",
-          "link": "https://www.netflix.com/title/81598066"
         }
       },
-      "last_checked": "2026-11-14T12:49:58.603177+00:00",
-      "season_count": 2,
-      "episode_count": 16
+      "last_checked": "2026-11-21T14:00:19.822353+00:00",
+      "season_count": 3,
+      "episode_count": 24
     },
     {
       "title": "Toy Story 5",
@@ -3913,6 +3913,13 @@
           "quality": "uhd",
           "price": "5.99 USD"
         },
+        "disney": {
+          "service": "disney",
+          "serviceName": "Disney+",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-4a68b063-099b-452f-b428-b9b42be79b35",
+          "quality": "uhd"
+        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -3920,16 +3927,9 @@
           "link": "https://tv.apple.com/us/movie/toy-story-5/umc.cmc.1kglq78ta10an5gbdv55t7myw?playableId=tvs.sbd.9001%3A6791110621",
           "quality": "hd",
           "price": "5.99 USD"
-        },
-        "disney": {
-          "service": "disney",
-          "serviceName": "Disney+",
-          "type": "subscription",
-          "link": "https://www.disneyplus.com/browse/entity-4a68b063-099b-452f-b428-b9b42be79b35",
-          "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-14T12:49:59.155746+00:00",
+      "last_checked": "2026-11-21T14:00:20.416051+00:00",
       "runtime": 102,
       "release_date": "2026-06-19"
     },
@@ -3956,10 +3956,10 @@
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0H5ZUWNLPEIQZIMPM2ZCJGJ2S6?ref_=atv_dp",
           "quality": "uhd",
-          "price": "24.99 USD"
+          "price": "14.99 USD"
         }
       },
-      "last_checked": "2026-11-14T12:49:59.520696+00:00",
+      "last_checked": "2026-11-21T14:00:21.026017+00:00",
       "release_date": "2026-10-23",
       "runtime": 116
     },
@@ -3981,7 +3981,7 @@
       ],
       "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch ...",
       "streaming": {},
-      "last_checked": "2026-11-14T12:50:00.069609+00:00",
+      "last_checked": "2026-11-21T14:00:21.695157+00:00",
       "release_date": "2026-11-25",
       "runtime": 103
     },
@@ -4003,7 +4003,7 @@
       ],
       "overview": "After years of maneuvering the canal-ridden, superstitious city of Venice, Italy, a scrappy black cat named Nero begins to question whether he’s lived the right lives. Indebted to Rocco, a ruthless...",
       "streaming": {},
-      "last_checked": "2026-11-14T12:50:00.626775+00:00",
+      "last_checked": "2026-11-21T14:00:22.405440+00:00",
       "release_date": "2027-03-05"
     },
     {
@@ -4048,7 +4048,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-11-14T12:50:01.160815+00:00",
+      "last_checked": "2026-11-21T14:00:23.233598+00:00",
       "release_date": "2026-07-01",
       "runtime": 90
     },
@@ -4077,7 +4077,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-14T12:50:02.224871+00:00",
+      "last_checked": "2026-11-21T14:00:29.714936+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -4106,7 +4106,7 @@
           "link": "https://www.netflix.com/title/81750702"
         }
       },
-      "last_checked": "2026-11-14T12:50:03.786844+00:00",
+      "last_checked": "2026-11-21T14:00:42.817453+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -4136,7 +4136,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-14T12:50:05.039646+00:00",
+      "last_checked": "2026-11-21T14:00:50.234999+00:00",
       "season_count": 5,
       "episode_count": 40
     },
@@ -4185,7 +4185,7 @@
       ],
       "overview": "When Mona Friedman is cast in a bit part at a small community theater, she transforms from a shy, unassuming housewife into a zealous method actor willing to do anything to protect the artistic int...",
       "streaming": {},
-      "last_checked": "2026-11-14T12:50:05.606743+00:00",
+      "last_checked": "2026-11-21T14:00:50.894039+00:00",
       "release_date": "2026-10-07",
       "runtime": 105
     },
@@ -4235,7 +4235,7 @@
       ],
       "overview": "Two children discover a wood full of pools leading to other worlds. One takes them to a dead city beneath a dying sun, where they wake a queen who exterminated its population and accidentally bring...",
       "streaming": {},
-      "last_checked": "2026-11-14T12:50:06.153250+00:00",
+      "last_checked": "2026-11-21T14:00:51.552403+00:00",
       "release_date": "2027-02-12"
     },
     {
@@ -4263,7 +4263,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-14T12:50:06.687150+00:00",
+      "last_checked": "2026-11-21T14:00:54.196216+00:00",
       "release_date": "2026-10-24",
       "runtime": 127
     }

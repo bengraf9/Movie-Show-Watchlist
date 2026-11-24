@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T17:03:28.314118+00:00",
+  "last_updated": "2026-11-24T16:50:29.253101+00:00",
   "country": "us",
   "items": [
     {
@@ -67,7 +67,7 @@
           "link": "https://www.netflix.com/title/80097389"
         }
       },
-      "last_checked": "2026-11-17T15:20:10.762400+00:00",
+      "last_checked": "2026-11-24T16:50:05.519570+00:00",
       "runtime": 97,
       "release_date": "2016-07-01"
     },
@@ -107,7 +107,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-11-17T15:20:11.172420+00:00",
+      "last_checked": "2026-11-24T16:50:06.090133+00:00",
       "runtime": 94,
       "release_date": "1987-04-17"
     },
@@ -188,7 +188,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-17T15:20:11.576857+00:00",
+      "last_checked": "2026-11-24T16:50:06.736763+00:00",
       "runtime": 110,
       "release_date": "2025-06-13"
     },
@@ -210,6 +210,14 @@
       ],
       "overview": "Young Sammy Fabelman falls in love with filmmaking after watching \"The Greatest Show on Earth.\"",
       "streaming": {
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/the-fabelmans/umc.cmc.4lgvd75jcuqp79fuar3e9p9zh?playableId=tvs.sbd.9001%3A1655490626",
+          "quality": "hd",
+          "price": "3.99 USD"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
@@ -224,17 +232,9 @@
           "type": "subscription",
           "link": "https://www.peacocktv.com/watch/asset/movies/the-fabelmans/2a5217ac-bb12-3e04-8867-f88ae97c4660",
           "quality": "uhd"
-        },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/the-fabelmans/umc.cmc.4lgvd75jcuqp79fuar3e9p9zh?playableId=tvs.sbd.9001%3A1655490626",
-          "quality": "hd",
-          "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-17T15:20:11.966762+00:00",
+      "last_checked": "2026-11-24T16:50:07.381710+00:00",
       "runtime": 150,
       "release_date": "2022-11-23"
     },
@@ -307,7 +307,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-17T15:20:12.364963+00:00",
+      "last_checked": "2026-11-24T16:50:07.943400+00:00",
       "runtime": 91,
       "release_date": "1991-02-08"
     },
@@ -339,7 +339,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-17T15:20:12.748397+00:00",
+      "last_checked": "2026-11-24T16:50:08.592092+00:00",
       "runtime": 124,
       "release_date": "1979-12-19"
     },
@@ -375,10 +375,10 @@
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0GKJ06SJM9QAGM8UCSBTK6N4BH?ref_=atv_dp",
           "quality": "uhd",
-          "price": "12.99 USD"
+          "price": "7.99 USD"
         }
       },
-      "last_checked": "2026-11-17T15:20:13.125198+00:00",
+      "last_checked": "2026-11-24T16:50:09.228580+00:00",
       "runtime": 157,
       "release_date": "2023-11-22"
     },
@@ -417,7 +417,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-11-17T15:20:13.565676+00:00",
+      "last_checked": "2026-11-24T16:50:09.799219+00:00",
       "runtime": 106,
       "release_date": "2024-03-08"
     },
@@ -463,7 +463,7 @@
           "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-11-17T15:20:13.940541+00:00",
+      "last_checked": "2026-11-24T16:50:10.442103+00:00",
       "runtime": 83,
       "release_date": "2025-09-12"
     },
@@ -503,7 +503,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-17T15:20:14.333554+00:00",
+      "last_checked": "2026-11-24T16:50:11.213949+00:00",
       "runtime": 129,
       "release_date": "1963-03-16"
     },
@@ -549,7 +549,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-17T15:20:14.712396+00:00",
+      "last_checked": "2026-11-24T16:50:11.789157+00:00",
       "runtime": 107,
       "release_date": "1982-01-01"
     },
@@ -570,7 +570,7 @@
         "Action",
         "Comedy"
       ],
-      "overview": "Now In Theaters. Thelma isn’t your average 93-year-old grandmother - she’s tenacious, determined, and on a mission. After getting conned by a scammer, she teams up with a friend and his motorized s...",
+      "overview": "Thelma isn’t your average 93-year-old grandmother – she’s tenacious, determined, and on a mission. After getting conned by a scammer, she teams up with a friend and his motorized scooter on a wild ...",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -596,7 +596,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-11-17T15:20:15.099308+00:00",
+      "last_checked": "2026-11-24T16:50:12.429711+00:00",
       "runtime": 98,
       "release_date": "2024-06-21"
     },
@@ -667,9 +667,15 @@
           "link": "https://tv.apple.com/us/movie/the-secret-life-of-walter-mitty/umc.cmc.pw6qkwfo6ppbm0q2zkp07a3f?playableId=tvs.sbd.9001%3A772093232",
           "quality": "hd",
           "price": "3.99 USD"
+        },
+        "hulu": {
+          "service": "hulu",
+          "serviceName": "Hulu",
+          "type": "subscription",
+          "link": "https://www.disneyplus.com/browse/entity-bbb4074c-5d7e-4528-aa21-7fd6fca7f41b"
         }
       },
-      "last_checked": "2026-11-17T15:20:15.550304+00:00",
+      "last_checked": "2026-11-24T16:50:13.072209+00:00",
       "runtime": 114,
       "release_date": "2013-12-25"
     },
@@ -689,7 +695,7 @@
       "genres": [
         "Mystery"
       ],
-      "overview": "An intelligence agent faces the ultimate test when his wife is suspected of betraying the nation.",
+      "overview": "From Director Steven Soderbergh, Black Bag is a gripping spy drama about legendary intelligence agents George Woodhouse (Michael Fassbender) and his beloved wife Kathryn (Cate Blanchett). When she ...",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -708,7 +714,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-17T15:20:15.924886+00:00",
+      "last_checked": "2026-11-24T16:50:14.668530+00:00",
       "runtime": 93,
       "release_date": "2025-03-14"
     },
@@ -834,7 +840,6 @@
       "rating": "TV-14",
       "genres": [
         "Adventure",
-        "Drama",
         "Fantasy"
       ],
       "overview": "Cassian Andor continues the path toward his heroic rebel destiny.",
@@ -847,7 +852,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-17T15:20:16.983571+00:00",
+      "last_checked": "2026-11-24T16:50:16.324542+00:00",
       "season_count": 2,
       "episode_count": 24,
       "watched_seasons": 1
@@ -910,7 +915,7 @@
           "link": "https://www.netflix.com/title/81122572"
         }
       },
-      "last_checked": "2026-11-17T15:20:18.195393+00:00",
+      "last_checked": "2026-11-24T16:50:17.810934+00:00",
       "season_count": 1,
       "episode_count": 3,
       "watched_seasons": 1
@@ -981,7 +986,7 @@
           "link": "https://www.netflix.com/title/81677257"
         }
       },
-      "last_checked": "2026-11-17T15:20:19.468630+00:00",
+      "last_checked": "2026-11-24T16:50:19.747135+00:00",
       "season_count": 2,
       "episode_count": 16,
       "watched_seasons": 2
@@ -1039,19 +1044,19 @@
       ],
       "overview": "STAR TREK: STRANGE NEW WORLDS is based on the years Captain Christopher Pike manned the helm of the U.S.S. Enterprise. The series will follow Captain Pike, Officer Spock and Number One in the years...",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "buy",
-          "link": "https://www.amazon.com/gp/video/detail/0LU58CSZ179GDNU0Y30KQY3AI5",
-          "quality": "sd"
-        },
         "paramount": {
           "service": "paramount",
           "serviceName": "Paramount+",
           "type": "subscription",
           "link": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/",
           "quality": "hd"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "buy",
+          "link": "https://www.amazon.com/gp/video/detail/0LU58CSZ179GDNU0Y30KQY3AI5",
+          "quality": "sd"
         },
         "apple": {
           "service": "apple",
@@ -1061,7 +1066,7 @@
           "quality": "sd"
         }
       },
-      "last_checked": "2026-11-17T15:20:20.672431+00:00",
+      "last_checked": "2026-11-24T16:50:21.574757+00:00",
       "season_count": 4,
       "episode_count": 40
     },
@@ -1092,22 +1097,22 @@
           "link": "https://www.paramountplus.com/shows/star-trek-picard/",
           "quality": "hd"
         },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "buy",
+          "link": "https://tv.apple.com/us/show/star-trek-picard/umc.cmc.2tqufhly635jf1fnuonxojax",
+          "quality": "sd"
+        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0S4PHJ50UWJJMEE08SOKDCOI6E",
           "quality": "uhd"
-        },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/show/star-trek-picard/umc.cmc.2tqufhly635jf1fnuonxojax",
-          "quality": "hd"
         }
       },
-      "last_checked": "2026-11-17T15:20:21.834121+00:00",
+      "last_checked": "2026-11-24T16:50:23.227391+00:00",
       "season_count": 3,
       "episode_count": 30
     },
@@ -1204,12 +1209,18 @@
       ],
       "overview": "Fresh out of prison, Shadow Moon meets the enigmatic Mr. Wednesday—and is swept into a gathering storm that will upend the course of his life.",
       "streaming": {
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "subscription",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.becfe3bb-aa35-4994-86b4-dbe233da0e7a"
+        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
           "type": "buy",
           "link": "https://tv.apple.com/us/show/american-gods/umc.cmc.4o7hf0qe1ezickgfxxeppolqr",
-          "quality": "hd"
+          "quality": "sd"
         },
         "roku": {
           "service": "roku",
@@ -1224,15 +1235,9 @@
           "type": "free",
           "link": "https://tubitv.com/series/0300017904/american-gods",
           "quality": "hd"
-        },
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "subscription",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.becfe3bb-aa35-4994-86b4-dbe233da0e7a"
         }
       },
-      "last_checked": "2026-11-17T15:20:25.311751+00:00",
+      "last_checked": "2026-11-24T16:50:25.230053+00:00",
       "season_count": 3,
       "episode_count": 26
     },
@@ -1276,7 +1281,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-17T15:20:27.585529+00:00",
+      "last_checked": "2026-11-24T16:50:27.267547+00:00",
       "season_count": 2,
       "episode_count": 20
     },
@@ -1303,14 +1308,7 @@
           "serviceName": "Apple TV+",
           "type": "buy",
           "link": "https://tv.apple.com/us/show/community/umc.cmc.4nernxq22u93vwrjpt6kfk3m5",
-          "quality": "sd"
-        },
-        "peacock": {
-          "service": "peacock",
-          "serviceName": "Peacock",
-          "type": "subscription",
-          "link": "https://www.peacocktv.com/watch/asset/tv/community/8700597605358573112",
-          "quality": "uhd"
+          "quality": "hd"
         },
         "hulu": {
           "service": "hulu",
@@ -1318,6 +1316,13 @@
           "type": "subscription",
           "link": "https://www.hulu.com/series/community-200c56d4-124c-41a1-b7d2-688f86f432bf",
           "quality": "hd"
+        },
+        "peacock": {
+          "service": "peacock",
+          "serviceName": "Peacock",
+          "type": "subscription",
+          "link": "https://www.peacocktv.com/watch/asset/tv/community/8700597605358573112",
+          "quality": "uhd"
         },
         "prime": {
           "service": "prime",
@@ -1327,7 +1332,7 @@
           "quality": "sd"
         }
       },
-      "last_checked": "2026-11-17T15:20:28.830828+00:00",
+      "last_checked": "2026-11-24T16:50:28.987546+00:00",
       "season_count": 6,
       "episode_count": 110
     },

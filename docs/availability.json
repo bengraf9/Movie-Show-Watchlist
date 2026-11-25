@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T16:50:29.253101+00:00",
+  "last_updated": "2026-11-25T16:38:04.919407+00:00",
   "country": "us",
   "items": [
     {
@@ -3297,7 +3297,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-18T14:55:47.441390+00:00",
+      "last_checked": "2026-11-25T16:37:58.697861+00:00",
       "runtime": 107,
       "release_date": "2021-03-05"
     },
@@ -3318,14 +3318,6 @@
       ],
       "overview": "The first-ever live-action Pokémon adventure, POKÉMON Detective Pikachu, stars Ryan Reynolds as Pikachu, the iconic face of the global Pokémon phenomenon.",
       "streaming": {
-        "prime": {
-          "service": "prime",
-          "serviceName": "Prime Video",
-          "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0K1VZNF96GVK06I8KZJ1K738V0?ref_=atv_dp",
-          "quality": "uhd",
-          "price": "4.99 USD"
-        },
         "apple": {
           "service": "apple",
           "serviceName": "Apple TV+",
@@ -3333,9 +3325,17 @@
           "link": "https://tv.apple.com/us/movie/pokemon-detective-pikachu/umc.cmc.2f3ohdbkpol7ui73lvygtcge2?playableId=tvs.sbd.9001%3A1460331265",
           "quality": "hd",
           "price": "4.99 USD"
+        },
+        "prime": {
+          "service": "prime",
+          "serviceName": "Prime Video",
+          "type": "rent",
+          "link": "https://www.amazon.com/gp/video/detail/0K1VZNF96GVK06I8KZJ1K738V0?ref_=atv_dp",
+          "quality": "uhd",
+          "price": "4.99 USD"
         }
       },
-      "last_checked": "2026-11-18T14:55:48.165210+00:00",
+      "last_checked": "2026-11-25T16:37:59.470998+00:00",
       "runtime": 104,
       "release_date": "2019-05-10"
     },
@@ -3361,7 +3361,7 @@
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
-          "link": "https://www.amazon.com/gp/video/detail/0ILEQPPDG1JVS299OOBAAL5YZT?ref_=atv_dp",
+          "link": "https://www.amazon.com/gp/video/detail/0RR8T277SAQ66H3S037R3TBYON?ref_=atv_dp",
           "quality": "hd",
           "price": "3.99 USD"
         },
@@ -3381,7 +3381,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-11-18T14:55:48.881854+00:00",
+      "last_checked": "2026-11-25T16:38:00.239429+00:00",
       "runtime": 84,
       "release_date": "2001-03-18"
     },
@@ -3416,7 +3416,7 @@
           "type": "rent",
           "link": "https://tv.apple.com/us/movie/uglydolls/umc.cmc.4lu8wo536mycez1alx3ugxoi5?playableId=tvs.sbd.9001%3A1701666869",
           "quality": "hd",
-          "price": "3.99 USD"
+          "price": "4.99 USD"
         },
         "peacock": {
           "service": "peacock",
@@ -3426,7 +3426,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-11-18T14:55:50.066006+00:00",
+      "last_checked": "2026-11-25T16:38:01.022399+00:00",
       "runtime": 87,
       "release_date": "2019-05-03"
     },
@@ -3444,22 +3444,22 @@
       "genres": [
         "Horror"
       ],
-      "overview": "Trying to leave their troubled lives behind, twin brothers return to their Mississippi hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+      "overview": "Trying to leave their troubled lives behind, twin brothers (Jordan) return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back. “You keep da...",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "rent",
-          "link": "https://tv.apple.com/us/movie/sinners/umc.cmc.tl0hc0j1vx7nrrz89gxzxsx9?playableId=tvs.sbd.9001%3A1803920888",
-          "quality": "hd",
-          "price": "5.99 USD"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "rent",
           "link": "https://www.amazon.com/gp/video/detail/0J21M9AM4CY8XJ74W902BIHZYM?ref_=atv_dp",
           "quality": "uhd",
+          "price": "5.99 USD"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "rent",
+          "link": "https://tv.apple.com/us/movie/sinners/umc.cmc.tl0hc0j1vx7nrrz89gxzxsx9?playableId=tvs.sbd.9001%3A1803920888",
+          "quality": "hd",
           "price": "5.99 USD"
         },
         "hbo": {
@@ -3470,7 +3470,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-18T14:55:50.857474+00:00",
+      "last_checked": "2026-11-25T16:38:01.775725+00:00",
       "runtime": 137,
       "release_date": "2025-04-18"
     },
@@ -4156,7 +4156,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-18T14:55:53.120894+00:00",
+      "last_checked": "2026-11-25T16:38:03.656638+00:00",
       "season_count": 1,
       "episode_count": 8
     },
@@ -4204,7 +4204,7 @@
           "link": "https://www.netflix.com/title/81611105"
         }
       },
-      "last_checked": "2026-11-18T14:55:54.029420+00:00",
+      "last_checked": "2026-11-25T16:38:04.663535+00:00",
       "runtime": 126,
       "release_date": "2026-10-16"
     },

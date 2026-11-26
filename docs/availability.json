@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T16:38:04.919407+00:00",
+  "last_updated": "2026-11-26T16:10:59.191838+00:00",
   "country": "us",
   "items": [
     {
@@ -13,14 +13,14 @@
       "priority": {
         "dad-movie": 1
       },
-      "poster": "https://image.tmdb.org/t/p/w300/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
       "rating": "PG-13",
       "genres": [
         "Action"
       ],
       "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
       "streaming": {},
-      "last_checked": "2026-11-19T15:01:19.151617+00:00",
+      "last_checked": "2026-11-26T16:10:39.861236+00:00",
       "release_date": "2026-12-18",
       "runtime": 165
     },
@@ -140,7 +140,7 @@
           "price": "5.99 USD"
         }
       },
-      "last_checked": "2026-11-19T15:01:20.391609+00:00",
+      "last_checked": "2026-11-26T16:10:40.670642+00:00",
       "release_date": "20-12-18",
       "runtime": 150
     },
@@ -275,7 +275,7 @@
           "price": "3.99 USD"
         }
       },
-      "last_checked": "2026-11-19T15:01:21.503360+00:00",
+      "last_checked": "2026-11-26T16:10:41.414240+00:00",
       "runtime": 111,
       "release_date": "1992-09-25"
     },
@@ -628,7 +628,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-19T15:01:22.230273+00:00",
+      "last_checked": "2026-11-26T16:10:41.902571+00:00",
       "runtime": 143,
       "release_date": "20-06-05"
     },
@@ -753,7 +753,7 @@
           "link": "https://tubitv.com/movies/658062/real-genius"
         }
       },
-      "last_checked": "2026-11-19T15:01:23.132766+00:00",
+      "last_checked": "2026-11-26T16:10:42.410938+00:00",
       "runtime": 105,
       "release_date": "1985-08-07"
     },
@@ -786,7 +786,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-19T15:01:29.039756+00:00",
+      "last_checked": "2026-11-26T16:10:43.533420+00:00",
       "season_count": 2,
       "episode_count": 19,
       "watched_seasons": 2
@@ -803,7 +803,7 @@
       "priority": {
         "dad-series": 2
       },
-      "poster": "https://image.tmdb.org/t/p/w300/1yjFVQZuW8aofZ5Cgol8iImsVFp.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/tvdmO28R440JQVdThrNPrOl5vBm.jpg",
       "rating": "TV-MA",
       "genres": [
         "Comedy",
@@ -819,7 +819,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-19T15:01:37.121652+00:00",
+      "last_checked": "2026-11-26T16:10:44.814192+00:00",
       "season_count": 5,
       "episode_count": 50,
       "watched_seasons": 5
@@ -945,16 +945,9 @@
           "type": "buy",
           "link": "https://www.amazon.com/gp/video/detail/0KBL9PT1K75QJ6K04G82FMRKBY",
           "quality": "sd"
-        },
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "buy",
-          "link": "https://tv.apple.com/us/show/happiness/umc.cmc.427uoo2a4g6bbfnjjjk1xygg8",
-          "quality": "hd"
         }
       },
-      "last_checked": "2026-11-19T15:01:46.832963+00:00",
+      "last_checked": "2026-11-26T16:10:46.180037+00:00",
       "season_count": 2,
       "episode_count": 12,
       "watched_seasons": 1
@@ -1145,7 +1138,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-19T15:02:03.425954+00:00",
+      "last_checked": "2026-11-26T16:10:47.640853+00:00",
       "season_count": 1,
       "episode_count": 10,
       "watched_seasons": 1
@@ -1161,20 +1154,20 @@
       "priority": {
         "dad-series": 20
       },
-      "poster": "https://image.tmdb.org/t/p/w300/5vQlVWkIMPhZ88OWchJsgwGEK9.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/8djpxDeWpINnGhjpFXQjnBe6zbx.jpg",
       "rating": "TV-14",
       "genres": [
         "Drama",
         "Mystery",
         "Science Fiction"
       ],
-      "overview": "Based on the international best-selling book series by James S.A. Corey, The Expanse is a Hugo award-winning television series, airing globally on Amazon Prime.",
+      "overview": "The disappearance of rich-girl-turned-political-activist Julie Mao links the lives of Ceres detective Joe Miller (Thomas Jane), accidental ship captain James Holden (Steven Strait) and U.N. politic...",
       "streaming": {
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "subscription",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.329c3ebd-3571-4416-8060-f662cc1106d5",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cc565594-ad8b-4642-b9f4-4c74f9f1570f",
           "quality": "uhd"
         },
         "apple": {
@@ -1182,10 +1175,10 @@
           "serviceName": "Apple TV+",
           "type": "buy",
           "link": "https://tv.apple.com/us/show/the-expanse/umc.cmc.1ixz96nx5fk3uz3huu99vqpbs",
-          "quality": "sd"
+          "quality": "hd"
         }
       },
-      "last_checked": "2026-11-19T15:02:06.952875+00:00",
+      "last_checked": "2026-11-26T16:10:48.910404+00:00",
       "season_count": 6,
       "episode_count": 62
     },
@@ -1361,7 +1354,7 @@
           "link": "https://play.hbomax.com/mini-series/c967b1a4-d0e2-491e-967e-ae09f88fef62"
         }
       },
-      "last_checked": "2026-11-19T15:02:12.105498+00:00",
+      "last_checked": "2026-11-26T16:10:50.169529+00:00",
       "season_count": 1,
       "episode_count": 2
     },
@@ -1384,22 +1377,22 @@
       ],
       "overview": "A dysfunctional team of MI5 agents and their obnoxious boss, the notorious Jackson Lamb, navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
       "streaming": {
-        "apple": {
-          "service": "apple",
-          "serviceName": "Apple TV+",
-          "type": "subscription",
-          "link": "https://tv.apple.com/us/show/slow-horses/umc.cmc.2szz3fdt71tl1ulnbp8utgq5o",
-          "quality": "uhd"
-        },
         "prime": {
           "service": "prime",
           "serviceName": "Prime Video",
           "type": "free",
           "link": "https://www.amazon.com/gp/video/detail/0MEYJKN34E2DBOY4OY7Z31N4Q4",
           "quality": "uhd"
+        },
+        "apple": {
+          "service": "apple",
+          "serviceName": "Apple TV+",
+          "type": "subscription",
+          "link": "https://tv.apple.com/us/show/slow-horses/umc.cmc.2szz3fdt71tl1ulnbp8utgq5o",
+          "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-19T15:02:16.121483+00:00",
+      "last_checked": "2026-11-26T16:10:51.418249+00:00",
       "season_count": 6,
       "episode_count": 36
     },
@@ -1421,7 +1414,7 @@
         "Action",
         "Adventure"
       ],
-      "overview": "Set thousands of years before the events of J.R.R. Tolkien’s The Lord of the Rings, this epic drama follows an ensemble cast of characters, both familiar and new, as they confront the long-feared r...",
+      "overview": "An ensemble cast of characters, both familiar and new, must confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains to the majestic forests of Lindon; from...",
       "streaming": {
         "prime": {
           "service": "prime",
@@ -1431,7 +1424,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-19T15:02:21.656477+00:00",
+      "last_checked": "2026-11-26T16:10:52.669957+00:00",
       "season_count": 3,
       "episode_count": 24,
       "watched_seasons": 1
@@ -1471,7 +1464,7 @@
           "quality": "hd"
         }
       },
-      "last_checked": "2026-11-19T15:02:29.234970+00:00",
+      "last_checked": "2026-11-26T16:10:53.915848+00:00",
       "season_count": 1,
       "episode_count": 7
     },
@@ -1493,7 +1486,7 @@
         "Adventure",
         "Science Fiction"
       ],
-      "overview": "During the reign of the Empire, Obi-Wan Kenobi embarks on a crucial mission.",
+      "overview": "During the reign of the Empire, Obi-Wan Kenobi embarks on a crucial mission.\n\nThere are certain scenes in this fictional series that some viewers may find upsetting.\n\nSome flashing lights sequences...",
       "streaming": {
         "disney": {
           "service": "disney",
@@ -1503,7 +1496,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-19T15:02:32.938951+00:00",
+      "last_checked": "2026-11-26T16:10:55.306108+00:00",
       "season_count": 1,
       "episode_count": 6
     },
@@ -2507,7 +2500,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-19T15:02:34.028120+00:00",
+      "last_checked": "2026-11-26T16:10:55.994381+00:00",
       "runtime": 89,
       "release_date": "2020-03-14"
     },
@@ -2535,7 +2528,7 @@
           "quality": "uhd"
         }
       },
-      "last_checked": "2026-11-19T15:02:34.919261+00:00",
+      "last_checked": "2026-11-26T16:10:56.457756+00:00",
       "runtime": 38,
       "release_date": "2022-04-14"
     },
@@ -2563,7 +2556,7 @@
           "link": "https://www.netflix.com/title/81128389"
         }
       },
-      "last_checked": "2026-11-19T15:02:38.115202+00:00",
+      "last_checked": "2026-11-26T16:10:57.423544+00:00",
       "season_count": 1,
       "episode_count": 10
     },
@@ -2584,7 +2577,7 @@
       ],
       "overview": "It's the land we love and the land we think we know. We see America's breathtaking landscapes and wildlife as timeless, but the truth is very different. Its unique geography drives the forces of na...",
       "streaming": {},
-      "last_checked": "2026-11-19T15:02:46.973065+00:00",
+      "last_checked": "2026-11-26T16:10:58.961724+00:00",
       "season_count": 1,
       "episode_count": 6
     },
